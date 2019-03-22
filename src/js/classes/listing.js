@@ -1,4 +1,6 @@
-/** Class representing a single elasticsearch hit. */
+/**
+ * Class representing a single search result.
+ */
 class Listing {
   /**
    * @param {Object} hit - single elasticsearch hit
@@ -8,70 +10,81 @@ class Listing {
     this.file = hit._source.file.filename;
     this.id = this.file.replace('.txt', '');
     this.searched = [];
-
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
     this.pageNext = null;
     this.pagePrev = null;
-
     this.docname = this.getDocName(doclist) || this.getDocId();
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.img = this.getImgPath();
     this.txt = this.getTxtPath();
-
     this.entry = hit._source.content;
   }
-
+  /**
+   * @returns {String} group id
+   */
   getGroupId() {
     return this.id.slice(0, 3);
   }
-
+  /**
+   * @returns {String} document id
+   */
   getDocId() {
-    let regex = new RegExp('(_[0-9]{1,4})$');
+    const regex = new RegExp('(_[0-9]{1,4})$');
     let doc = this.id.replace(regex, '');
     doc = doc.slice(4);
     return doc;
   }
-
+  /**
+   * @returns {String} document page
+   */
   getPage() {
-    let groupId = this.getGroupId();
-    let docId = this.getDocId();
-    return this.id.replace(groupId+'-'+docId+'_', '');
+    const groupId = this.getGroupId();
+    const docId = this.getDocId();
+    return this.id.replace(`${groupId}-${docId}_`, '');
   }
-
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} type indicator (used to generate source url)
+   */
   getSourceType(doclist) {
     let type = false;
     let file = {};
-    let collection = filterValue(doclist, 'id', this.groupId);
-    if(collection && collection.files){
-      if(collection.type)
-        type = collection.type;
+    const collection = filterValue(doclist, 'id', this.groupId);
+    if (collection && collection.files) {
+      if (collection.type) {
+        [type] = collection.type;
+      }
       file = filterValue(collection.files, 'id', this.docId);
-      if(file && file.type){
-        type = file.type;
+      if (file && file.type) {
+        [type] = file.type;
       }
     }
     return type;
   }
-
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} source url (if any, else FALSE)
+   */
   getSourceUrl(doclist) {
     let source = false;
     let file = {};
     let collection = filterValue(doclist, 'id', this.groupId);
-    if(collection && collection.files){
-      if(collection.source)
+    if (collection && collection.files) {
+      if (collection.source) {
         source = true;
+      }
       file = filterValue(collection.files, 'id', this.docId);
       this.file = file;
-      if(file && file.source){
-        source = file.source;
+      if (file && file.source) {
+        [source] = file.source;
       }
     }
     this.source = source;
     this.type = this.getSourceType(doclist);
-    switch(this.type) {
+    switch (this.type) {
       case 'archive':
         source = `${source}#page/n${this.page}`;
         break;
@@ -118,44 +131,47 @@ class Listing {
         source = `https://catalog.archives.gov/OpaAPI/media/7564912/content/arcmedia/dc-metro/jfkco/641323/${this.docId}/${this.docId}.pdf#page=${this.page}`;
         break;
       case 'militant':
-        let year = this.docId.match(/.*\-([0-9]{4})\-mil/)[1];
-        source = `https://www.marxists.org/history/etol/newspape/themilitant/${year}/${this.docId}.pdf#page=${this.page}`;
+        source = `https://www.marxists.org/history/etol/newspape/themilitant/${this.docId.match(/.*-([0-9]{4})-mil/)[1]}/${this.docId}.pdf#page=${this.page}`;
         break;
       default:
         source = `${source}#page=${this.page}`;
     }
     return source;
   }
-
-  getTxtPath() {
-
-  }
-
+  /**
+   * @returns {String} associated image path
+   */
   getImgPath() {
-    let page = this.page.padStart(4, 0);
-    let host = 'https://doc-search.nyc3.digitaloceanspaces.com/docs_images/';
-    let src = this.groupId+'/'+this.groupId+'-'+this.docId+'_'+page+'.png';
-    return host+src;
+    const page = this.page.padStart(4, 0);
+    const host = 'https://doc-search.nyc3.digitaloceanspaces.com/docs_images/';
+    const src = `${this.groupId}/${this.groupId}-${this.docId}_${page}.png`;
+    return host + src;
   }
-
-  // get doc name from collection, file, or else use id
-  getDocName(doclist){
-    let docname = [];
-    let collection = filterValue(doclist, 'id', this.groupId);
-    if(collection && collection.collection){
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} document name
+   */
+  getDocName(doclist) {
+    const docname = [];
+    const collection = filterValue(doclist, 'id', this.groupId);
+    if (collection && collection.collection) {
       docname.push(collection.collection);
-      if(collection.files){
-        let file = filterValue(collection.files, 'id', this.docId);
-        if(file && file.doc_name){
+      if (collection.files) {
+        const file = filterValue(collection.files, 'id', this.docId);
+        if (file && file.doc_name) {
           docname.push(file.doc_name);
         }
       }
     }
-    if(!this.docId.match(/^[0-9]{3}$/))
-    docname.push(this.docId);
+    if (!this.docId.match(/^[0-9]{3}$/)) {
+      docname.push(this.docId);
+    }
     return docname;
   }
-
+  /**
+   * @param {String} search entry text
+   * @returns {undefined}
+   */
   extractSearch(search) {
     this.searched = ExtractSentences.extract(this.entry, search);
   }
