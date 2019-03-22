@@ -55,11 +55,11 @@ class Listing {
     const collection = filterValue(doclist, 'id', this.groupId);
     if (collection && collection.files) {
       if (collection.type) {
-        type = collection.type;
+        [type] = collection.type;
       }
       file = filterValue(collection.files, 'id', this.docId);
       if (file && file.type) {
-        type = file.type;
+        [type] = file.type;
       }
     }
     return type;
@@ -79,12 +79,12 @@ class Listing {
       file = filterValue(collection.files, 'id', this.docId);
       this.file = file;
       if (file && file.source) {
-        source = file.source;
+        [source] = file.source;
       }
     }
     this.source = source;
     this.type = this.getSourceType(doclist);
-    switch(this.type) {
+    switch (this.type) {
       case 'archive':
         source = `${source}#page/n${this.page}`;
         break;
