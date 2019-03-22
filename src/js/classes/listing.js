@@ -1,4 +1,6 @@
-/** Class representing a single elasticsearch hit. */
+/**
+ * Class representing a single search result.
+ */
 class Listing {
   /**
    * @param {Object} hit - single elasticsearch hit
@@ -8,39 +10,45 @@ class Listing {
     this.file = hit._source.file.filename;
     this.id = this.file.replace('.txt', '');
     this.searched = [];
-
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
     this.pageNext = null;
     this.pagePrev = null;
-
     this.docname = this.getDocName(doclist) || this.getDocId();
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.img = this.getImgPath();
     this.txt = this.getTxtPath();
-
     this.entry = hit._source.content;
   }
-
+  /**
+   * @returns {String} group id
+   */
   getGroupId() {
     return this.id.slice(0, 3);
   }
-
+  /**
+   * @returns {String} document id
+   */
   getDocId() {
     let regex = new RegExp('(_[0-9]{1,4})$');
     let doc = this.id.replace(regex, '');
     doc = doc.slice(4);
     return doc;
   }
-
+  /**
+   * @returns {String} document page
+   */
   getPage() {
     let groupId = this.getGroupId();
     let docId = this.getDocId();
     return this.id.replace(groupId+'-'+docId+'_', '');
   }
-
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} type indicator (used to generate source url)
+   */
   getSourceType(doclist) {
     let type = false;
     let file = {};
@@ -55,7 +63,10 @@ class Listing {
     }
     return type;
   }
-
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} source url (if any, else FALSE)
+   */
   getSourceUrl(doclist) {
     let source = false;
     let file = {};
@@ -126,19 +137,25 @@ class Listing {
     }
     return source;
   }
-
+  /**
+   * @returns void
+   */
   getTxtPath() {
 
   }
-
+  /**
+   * @returns {String} associated image path
+   */
   getImgPath() {
     let page = this.page.padStart(4, 0);
     let host = 'https://doc-search.nyc3.digitaloceanspaces.com/docs_images/';
     let src = this.groupId+'/'+this.groupId+'-'+this.docId+'_'+page+'.png';
     return host+src;
   }
-
-  // get doc name from collection, file, or else use id
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} document name
+   */
   getDocName(doclist){
     let docname = [];
     let collection = filterValue(doclist, 'id', this.groupId);
@@ -155,7 +172,10 @@ class Listing {
     docname.push(this.docId);
     return docname;
   }
-
+  /**
+   * @param {String} search entry text
+   * @returns {undefined}
+   */
   extractSearch(search) {
     this.searched = ExtractSentences.extract(this.entry, search);
   }
