@@ -8,4 +8,4 @@
 
 `gulp build` command is used to build for stage and production
 
-Connects to elasticsearch instance at api.ourhiddenhistory.org
+Connects to elasticsearch instance at https://api.ourhiddenhistory.org
