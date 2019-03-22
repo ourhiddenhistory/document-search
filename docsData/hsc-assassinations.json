@@ -1,0 +1,148 @@
+{
+  "id": "026",
+  "shortname": "hsc-assassinations",
+  "collection": "House Select Committee on Assassinations",
+  "alt_names": [],
+  "date": "1978",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/HouseSelectCommitteeOnAssassinations",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Final Report",
+      "source": "HouseSelectCommitteeOnAssassinations/House%20Select%20Committee%20on%20Assassinations%20Final%20Report"
+    },
+    {
+      "id": "002",
+      "doc_name": "MLK: Hearings, Volume 1",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume1"
+    },
+    {
+      "id": "003",
+      "doc_name": "MLK: Hearings, Volume 2",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume2"
+    },
+    {
+      "id": "004",
+      "doc_name": "MLK: Hearings, Volume 3",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume3"
+    },
+    {
+      "id": "005",
+      "doc_name": "MLK: Hearings, Volume 4",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume4"
+    },
+    {
+      "id": "006",
+      "doc_name": "MLK: Hearings, Volume 5",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume5"
+    },
+    {
+      "id": "007",
+      "doc_name": "MLK: Hearings, Volume 6",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume6"
+    },
+    {
+      "id": "008",
+      "doc_name": "MLK: Hearings, Volume 7",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume7"
+    },
+    {
+      "id": "009",
+      "doc_name": "MLK: Hearings, Volume 8",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume8"
+    },
+    {
+      "id": "010",
+      "doc_name": "MLK: Appendix to Hearings, Volume 9",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume9"
+    },
+    {
+      "id": "011",
+      "doc_name": "MLK: Appendix to Hearings, Volume 10",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume10"
+    },
+    {
+      "id": "012",
+      "doc_name": "MLK: Appendix to Hearings, Volume 11",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume11"
+    },
+    {
+      "id": "013",
+      "doc_name": "MLK: Appendix to Hearings, Volume 12",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume12"
+    },
+    {
+      "id": "014",
+      "doc_name": "MLK: Appendix to Hearings, Volume 13",
+      "source": "HouseSelectCommitteeOnAssassinations/HscaMlkReportVolume13"
+    },
+    {
+      "id": "015",
+      "doc_name": "JFK: Oswald, the CIA, and Mexico City (The Lopez Report)",
+      "source": "HouseSelectCommitteeOnAssassinations/Lopez%20Report"
+    },
+    {
+      "id": "016",
+      "doc_name": "JFK: Hearings, Volume 1",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%201"
+    },
+    {
+      "id": "017",
+      "doc_name": "JFK: Hearings, Volume 2",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%202"
+    },
+    {
+      "id": "018",
+      "doc_name": "JFK: Hearings, Volume 3",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%203"
+    },
+    {
+      "id": "019",
+      "doc_name": "JFK: Hearings, Volume 4",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%204"
+    },
+    {
+      "id": "020",
+      "doc_name": "JFK: Hearings, Volume 5",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%205"
+    },
+    {
+      "id": "021",
+      "doc_name": "JFK: Appendix to Hearings, Volume 6",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%206"
+    },
+    {
+      "id": "022",
+      "doc_name": "JFK: Appendix to Hearings, Volume 7",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%207"
+    },
+    {
+      "id": "023",
+      "doc_name": "JFK: Appendix to Hearings, Volume 8",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%208"
+    },
+    {
+      "id": "024",
+      "doc_name": "JFK: Appendix to Hearings, Volume 9",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%209"
+    },
+    {
+      "id": "025",
+      "doc_name": "JFK: Appendix to Hearings, Volume 10",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%2010"
+    },
+    {
+      "id": "026",
+      "doc_name": "JFK: Appendix to Hearings, Volume 11",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%2011"
+    },
+    {
+      "id": "027",
+      "doc_name": "JFK: Appendix to Hearings, Volume 12",
+      "source": "HouseSelectCommitteeOnAssassinations/Volume%2012"
+    }
+  ]
+}

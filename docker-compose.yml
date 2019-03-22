@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    volumes:
+      - ./:/var/www/
+      - /var/www/node_modules # don't overwrite
+    ports:
+      - "8080:80"

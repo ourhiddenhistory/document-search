@@ -1,0 +1,47 @@
+{
+  "id": "018",
+  "shortname": "october-surprise",
+  "collection": "'The October Surprise' Congressional Investigation",
+  "alt_names": [],
+  "date": "1991",
+  "source": "https://archive.org/details/OctoberSurpriseArchive",
+  "description": "",
+  "important": "",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Iran - The Financial Aspects of the Hostage Settlement Agreement",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Iran%20-%20the%20financial%20aspects%20of%20the%20hostage%20settlement%20agreement"
+    },
+    {
+      "id": "002",
+      "doc_name": "Iran Hostage Crisis: Chronology of Events January 1-25, 1981",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Iran%20Hostage%20Crisis%20Chronology%20of%20Events%20January%201-25%2C%201981"
+    },
+    {
+      "id": "003",
+      "doc_name": "Iran Hostage Crisis: Chronology of Daily Events",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Iran-Hostage%20Crisis%20Chronology%20of%20Daily%20Events"
+    },
+    {
+      "id": "004",
+      "doc_name": "Joint Report of the October Surprise Task Force",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Joint%20Report%20of%20the%20October%20Surprise%20Task%20Force"
+    },
+    {
+      "id": "005",
+      "doc_name": "Report of the Special Counsel on the October Surprise Allegations and the Circumstances Surrounding the Release of the American Hostages Held in Iran",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Report%20of%20the%20Special%20Counsel%20on%20the%20October%20Surprise%20Allegations%20and%20the%20Circumstances%20Surrounding%20the%20Release%20of%20the%20American%20Hostages%20Held%20in%20Iran"
+    },
+    {
+      "id": "006",
+      "doc_name": "Rules of the October Surprise Task Force",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/Rules%20of%20the%20October%20Surprise%20Task%20Force"
+    },
+    {
+      "id": "007",
+      "doc_name": "The Situation in Iran",
+      "source": "https://archive.org/stream/OctoberSurpriseArchive/The%20Situation%20in%20Iran"
+    }
+  ]
+}

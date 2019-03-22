@@ -1,0 +1,329 @@
+{
+  "id": "092",
+  "shortname": "iran",
+  "collection": "Iran",
+  "alt_names": [],
+  "date": "1979",
+  "description": "Documents from the US Espionage Den, Iran Embassy - CIA Station 1979, plus other documents",
+  "important": "",
+  "source": "https://archive.org/details/DocumentsFromTheUSEspionageDen",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "Documents from the U.S. Espionage Den v01",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v01"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v02",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v02"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v04",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v04"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v05",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v05"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v06",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v06"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v07",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v07"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v08",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v08"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v09",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v09"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v10",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v10"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v11",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v11"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v12_2",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v12_2"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v12_3",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v12_3"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v13_4",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v13_4"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v13_5",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v13_5"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v14",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v14"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v15",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v15"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v16",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v16"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v17",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v17"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v18",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v18"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v19",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v19"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v20",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v20"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v21",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v21"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v22",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v22"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v23",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v23"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v24",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v24"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v25",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v25"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v26",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v26"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v27",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v27"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v28",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v28"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v29",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v29"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v30",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v30"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v31",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v31"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v32",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v32"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v33",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v33"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v34",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v34"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v35",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v35"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v36",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v36"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v37",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v37"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v38",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v38"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v39",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v39"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v40",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v40"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v41",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v41"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v42",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v42"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v43",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v43"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v44",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v44"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v45",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v45"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v46",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v46"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v47",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v47"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v48",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v48"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v49",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v49"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v50",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v50"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v51",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v51"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v52",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v52"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v53",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v53"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v54",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v54"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v55",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v55"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v56",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v56"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v57",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v57"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v58",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v58"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v59",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v59"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v60",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v60"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v61",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v61"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v62",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v62"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v63",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v63"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v64",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v64"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v65",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v65"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v66",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v66"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v67",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v67"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v68",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v68"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v69",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v69"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v70",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v70"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v71",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v71"
+    },
+    {
+      "id": "Documents from the U.S. Espionage Den v72",
+      "source": "DocumentsFromTheUSEspionageDen/Documents from the U.S. Espionage Den v72"
+    },
+    {
+      "id": "IranCIA",
+      "source": "IranCIA/IranCIA"
+    },
+    {
+      "id": "IranDOS1",
+      "source": "IranCIA/IranDOS1"
+    },
+    {
+      "id": "IranDOS2",
+      "source": "IranCIA/IranDOS2"
+    },
+    {
+      "id": "IranDOS3",
+      "source": "IranCIA/IranDOS3"
+    },
+    {
+      "id": "IranDOS4",
+      "source": "IranCIA/IranDOS4"
+    },
+    {
+      "id": "IranMisc",
+      "source": "IranCIA/IranMisc"
+    }
+  ]
+}

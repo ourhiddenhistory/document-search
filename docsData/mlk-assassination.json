@@ -1,0 +1,16 @@
+{
+  "id": "032",
+  "shortname": "mlk-assassination",
+  "collection": "Martin Luther King, Jr. Assassination Trial",
+  "alt_names": [],
+  "date": "1999",
+  "description": "1999 civil trial held in Memphis, Tennessee. For more information visit: <a href='http://www.thekingcenter.org/assassination-conspiracy-trial'>www.thekingcenter.org</a>. Complete Hypertext Transcript of Martin Luther King, Jr. Assassination Conspiracy Trial at: <a href='https://ratical.org/MLKACTtoc'>ratical.org</a>.",
+  "important": "",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Complete Transcript of Martin Luther King, Jr. Assassination Conspiracy Trial",
+      "source": "https://archive.org/stream/MartinLutherKingJrWrongfulDeathTrialTranscript/Martin-Luther-King-Jr-Wrongful-Death-Trial-Transcript"
+    }
+  ]
+}

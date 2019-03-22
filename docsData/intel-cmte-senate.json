@@ -1,0 +1,3146 @@
+{
+  "id": "099",
+  "shortname": "intel-cmte-senate",
+  "collection": "Senate Intelligence Committee",
+  "alt_names": [],
+  "date": "1976",
+  "description": "Publically Available Files from the U.S. Senate Intelligence Committee, 1975 to 2018",
+  "important": "",
+  "source": "https://www.intelligence.senate.gov/",
+  "type": "intel",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "10388",
+      "source": "sites/default/files/10388"
+    },
+    {
+      "id": "762155",
+      "source": "sites/default/files/762155"
+    },
+    {
+      "id": "94465",
+      "source": "sites/default/files/94465"
+    },
+    {
+      "id": "94675",
+      "source": "sites/default/files/94675"
+    },
+    {
+      "id": "94755_I",
+      "source": "sites/default/files/94755_I"
+    },
+    {
+      "id": "94755_II",
+      "source": "sites/default/files/94755_II"
+    },
+    {
+      "id": "94755_III",
+      "source": "sites/default/files/94755_III"
+    },
+    {
+      "id": "94755_IV",
+      "source": "sites/default/files/94755_IV"
+    },
+    {
+      "id": "94755_V",
+      "source": "sites/default/files/94755_V"
+    },
+    {
+      "id": "94755_VI",
+      "source": "sites/default/files/94755_VI"
+    },
+    {
+      "id": "94770",
+      "source": "sites/default/files/94770"
+    },
+    {
+      "id": "94chile",
+      "source": "sites/default/files/94chile"
+    },
+    {
+      "id": "94intelligence_activities_I",
+      "source": "sites/default/files/94intelligence_activities_I"
+    },
+    {
+      "id": "94intelligence_activities_II",
+      "source": "sites/default/files/94intelligence_activities_II"
+    },
+    {
+      "id": "94intelligence_activities_III",
+      "source": "sites/default/files/94intelligence_activities_III"
+    },
+    {
+      "id": "94intelligence_activities_IV",
+      "source": "sites/default/files/94intelligence_activities_IV"
+    },
+    {
+      "id": "94intelligence_activities_V",
+      "source": "sites/default/files/94intelligence_activities_V"
+    },
+    {
+      "id": "94intelligence_activities_VI",
+      "source": "sites/default/files/94intelligence_activities_VI"
+    },
+    {
+      "id": "94intelligence_activities_VII",
+      "source": "sites/default/files/94intelligence_activities_VII"
+    },
+    {
+      "id": "94rules_of_procedure_governmental_operations",
+      "source": "sites/default/files/94rules_of_procedure_governmental_operations"
+    },
+    {
+      "id": "94ssci",
+      "source": "sites/default/files/94ssci"
+    },
+    {
+      "id": "961015",
+      "source": "sites/default/files/961015"
+    },
+    {
+      "id": "SSCI Committee Rules_FINAL022317",
+      "source": "sites/default/files/about/SSCI Committee Rules_FINAL022317"
+    },
+    {
+      "id": "nomination",
+      "source": "sites/default/files/about/nomination"
+    },
+    {
+      "id": "commission_report",
+      "source": "sites/default/files/commission_report"
+    },
+    {
+      "id": "28pages",
+      "source": "sites/default/files/documents/28pages"
+    },
+    {
+      "id": "CRPT-107srpt351-5",
+      "source": "sites/default/files/documents/CRPT-107srpt351-5"
+    },
+    {
+      "id": "CRPT-113srpt288",
+      "source": "sites/default/files/documents/CRPT-113srpt288"
+    },
+    {
+      "id": "Christopher Sharpley Post-Hearing Responses to Questions, October 24, 2017",
+      "source": "sites/default/files/documents/Christopher Sharpley Post-Hearing Responses to Questions, October 24, 2017"
+    },
+    {
+      "id": "Completed Questions for the Record_DiResta",
+      "source": "sites/default/files/documents/Completed Questions for the Record_DiResta"
+    },
+    {
+      "id": "Completed Questions for the Record_Helmus",
+      "source": "sites/default/files/documents/Completed Questions for the Record_Helmus"
+    },
+    {
+      "id": "Completed Questions for the Record_Howard",
+      "source": "sites/default/files/documents/Completed Questions for the Record_Howard"
+    },
+    {
+      "id": "Completed Questions for the Record_Kelly",
+      "source": "sites/default/files/documents/Completed Questions for the Record_Kelly"
+    },
+    {
+      "id": "Completed Questions for the Record_Rosenberger",
+      "source": "sites/default/files/documents/Completed Questions for the Record_Rosenberger"
+    },
+    {
+      "id": "Consolidated-Appropriation-Act-of-2017",
+      "source": "sites/default/files/documents/Consolidated-Appropriation-Act-of-2017"
+    },
+    {
+      "id": "Demers QFR responses",
+      "source": "sites/default/files/documents/Demers QFR responses"
+    },
+    {
+      "id": "Evanina Confirmation QFR @17May2018 Rev21May2018-1145 (FOUO)",
+      "source": "sites/default/files/documents/Evanina Confirmation QFR @17May2018 Rev21May2018-1145 (FOUO)"
+    },
+    {
+      "id": "Exhibit used by Senator Collins",
+      "source": "sites/default/files/documents/Exhibit used by Senator Collins"
+    },
+    {
+      "id": "Exhibit used by Senator King during the 2017-11-01 hearing",
+      "source": "sites/default/files/documents/Exhibit used by Senator King during the 2017-11-01 hearing"
+    },
+    {
+      "id": "Exhibits used by Chairman Burr during the 2017-11-01 hearing",
+      "source": "sites/default/files/documents/Exhibits used by Chairman Burr during the 2017-11-01 hearing"
+    },
+    {
+      "id": "Exhibits used by Vice Chairman Warner during the 2017-11-01 hearing",
+      "source": "sites/default/files/documents/Exhibits used by Vice Chairman Warner during the 2017-11-01 hearing"
+    },
+    {
+      "id": "FBI Response to Committee Questions for the Record",
+      "source": "sites/default/files/documents/FBI Response to Committee Questions for the Record"
+    },
+    {
+      "id": "FINALCDAExecSummaryredacted",
+      "source": "sites/default/files/documents/FINALCDAExecSummaryredacted"
+    },
+    {
+      "id": "FISA QFRs 2017-06-07",
+      "source": "sites/default/files/documents/FISA QFRs 2017-06-07"
+    },
+    {
+      "id": "Facebook Questions for the Record",
+      "source": "sites/default/files/documents/Facebook Questions for the Record"
+    },
+    {
+      "id": "Facebook Response to Committee QFRs",
+      "source": "sites/default/files/documents/Facebook Response to Committee QFRs"
+    },
+    {
+      "id": "Google Response to Committee QFRs",
+      "source": "sites/default/files/documents/Google Response to Committee QFRs"
+    },
+    {
+      "id": "HASPEL_UNCLASS-QFR RESPONSE_15MAY18_UPDATED",
+      "source": "sites/default/files/documents/HASPEL_UNCLASS-QFR RESPONSE_15MAY18_UPDATED"
+    },
+    {
+      "id": "ICA_2017_01",
+      "source": "sites/default/files/documents/ICA_2017_01"
+    },
+    {
+      "id": "QFR Responses from Dunbar ODNI",
+      "source": "sites/default/files/documents/QFR Responses from Dunbar ODNI"
+    },
+    {
+      "id": "QFR Responses from Phalen OPM NBIB",
+      "source": "sites/default/files/documents/QFR Responses from Phalen OPM NBIB"
+    },
+    {
+      "id": "QFR Responses from Reid and Payne, DOD",
+      "source": "sites/default/files/documents/QFR Responses from Reid and Payne, DOD"
+    },
+    {
+      "id": "QFR Responses from Reid and Payne, DOD_0",
+      "source": "sites/default/files/documents/QFR Responses from Reid and Payne, DOD_0"
+    },
+    {
+      "id": "QFR response from Phillips ManTech",
+      "source": "sites/default/files/documents/QFR response from Phillips ManTech"
+    },
+    {
+      "id": "QFR responses from Farrell GAO",
+      "source": "sites/default/files/documents/QFR responses from Farrell GAO"
+    },
+    {
+      "id": "QUESTIONS FOR THE RECORD 2017-06-21 for website",
+      "source": "sites/default/files/documents/QUESTIONS FOR THE RECORD 2017-06-21 for website"
+    },
+    {
+      "id": "Response to SSCI QFRs - Unclassified Subset",
+      "source": "sites/default/files/documents/Response to SSCI QFRs - Unclassified Subset"
+    },
+    {
+      "id": "Twitter Questions for the Record",
+      "source": "sites/default/files/documents/Twitter Questions for the Record"
+    },
+    {
+      "id": "Twitter Response to Committee QFRs",
+      "source": "sites/default/files/documents/Twitter Response to Committee QFRs"
+    },
+    {
+      "id": "aphq-coats-022817",
+      "source": "sites/default/files/documents/aphq-coats-022817"
+    },
+    {
+      "id": "aphq-csharpley-101717",
+      "source": "sites/default/files/documents/aphq-csharpley-101717"
+    },
+    {
+      "id": "aphq-dglawe-062817",
+      "source": "sites/default/files/documents/aphq-dglawe-062817"
+    },
+    {
+      "id": "aphq-elwood-042617",
+      "source": "sites/default/files/documents/aphq-elwood-042617"
+    },
+    {
+      "id": "aphq-emcarthy-072518",
+      "source": "sites/default/files/documents/aphq-emcarthy-072518"
+    },
+    {
+      "id": "aphq-ghaspel-050918",
+      "source": "sites/default/files/documents/aphq-ghaspel-050918"
+    },
+    {
+      "id": "aphq-ipatelunas-071917",
+      "source": "sites/default/files/documents/aphq-ipatelunas-071917"
+    },
+    {
+      "id": "aphq-jdemers-103117",
+      "source": "sites/default/files/documents/aphq-jdemers-103117"
+    },
+    {
+      "id": "aphq-jmaguire-072518",
+      "source": "sites/default/files/documents/aphq-jmaguire-072518"
+    },
+    {
+      "id": "aphq-pnakasone-031518",
+      "source": "sites/default/files/documents/aphq-pnakasone-031518"
+    },
+    {
+      "id": "aphq-rstorch-071917",
+      "source": "sites/default/files/documents/aphq-rstorch-071917"
+    },
+    {
+      "id": "aphq-sgordon-071917",
+      "source": "sites/default/files/documents/aphq-sgordon-071917"
+    },
+    {
+      "id": "aphqs-coats-022817",
+      "source": "sites/default/files/documents/aphqs-coats-022817"
+    },
+    {
+      "id": "aphqs-dglawe-062817",
+      "source": "sites/default/files/documents/aphqs-dglawe-062817"
+    },
+    {
+      "id": "aphqs-elwood-042617",
+      "source": "sites/default/files/documents/aphqs-elwood-042617"
+    },
+    {
+      "id": "aphqs-jklitenic-011718",
+      "source": "sites/default/files/documents/aphqs-jklitenic-011718"
+    },
+    {
+      "id": "bio-acohen-032118",
+      "source": "sites/default/files/documents/bio-acohen-032118"
+    },
+    {
+      "id": "bio-amccabe-060717",
+      "source": "sites/default/files/documents/bio-amccabe-060717"
+    },
+    {
+      "id": "bio-bdunbar-030718",
+      "source": "sites/default/files/documents/bio-bdunbar-030718"
+    },
+    {
+      "id": "bio-bfarrell-030718",
+      "source": "sites/default/files/documents/bio-bfarrell-030718"
+    },
+    {
+      "id": "bio-cphalen-030718",
+      "source": "sites/default/files/documents/bio-cphalen-030718"
+    },
+    {
+      "id": "bio-cstretch-110117",
+      "source": "sites/default/files/documents/bio-cstretch-110117"
+    },
+    {
+      "id": "bio-cwatts-033017",
+      "source": "sites/default/files/documents/bio-cwatts-033017"
+    },
+    {
+      "id": "bio-dberteau-030718",
+      "source": "sites/default/files/documents/bio-dberteau-030718"
+    },
+    {
+      "id": "bio-dcoats-060717",
+      "source": "sites/default/files/documents/bio-dcoats-060717"
+    },
+    {
+      "id": "bio-erosenbach-032118",
+      "source": "sites/default/files/documents/bio-erosenbach-032118"
+    },
+    {
+      "id": "bio-erumer-033017",
+      "source": "sites/default/files/documents/bio-erumer-033017"
+    },
+    {
+      "id": "bio-greid-030718",
+      "source": "sites/default/files/documents/bio-greid-030718"
+    },
+    {
+      "id": "bio-jchappell-030718",
+      "source": "sites/default/files/documents/bio-jchappell-030718"
+    },
+    {
+      "id": "bio-jcondos-032118",
+      "source": "sites/default/files/documents/bio-jcondos-032118"
+    },
+    {
+      "id": "bio-jdorsey-090518",
+      "source": "sites/default/files/documents/bio-jdorsey-090518"
+    },
+    {
+      "id": "bio-jjohnson-032118",
+      "source": "sites/default/files/documents/bio-jjohnson-032118"
+    },
+    {
+      "id": "bio-jmanfra-032118",
+      "source": "sites/default/files/documents/bio-jmanfra-032118"
+    },
+    {
+      "id": "bio-kalexander-033017",
+      "source": "sites/default/files/documents/bio-kalexander-033017"
+    },
+    {
+      "id": "bio-kmandia-033017",
+      "source": "sites/default/files/documents/bio-kmandia-033017"
+    },
+    {
+      "id": "bio-kphillips-030718",
+      "source": "sites/default/files/documents/bio-kphillips-030718"
+    },
+    {
+      "id": "bio-kwalker-110117",
+      "source": "sites/default/files/documents/bio-kwalker-110117"
+    },
+    {
+      "id": "bio-mdaniel-062018",
+      "source": "sites/default/files/documents/bio-mdaniel-062018"
+    },
+    {
+      "id": "bio-mrogers-060717",
+      "source": "sites/default/files/documents/bio-mrogers-060717"
+    },
+    {
+      "id": "bio-sedgett-110117",
+      "source": "sites/default/files/documents/bio-sedgett-110117"
+    },
+    {
+      "id": "bio-ssandberg-090518",
+      "source": "sites/default/files/documents/bio-ssandberg-090518"
+    },
+    {
+      "id": "bio-trid-033017",
+      "source": "sites/default/files/documents/bio-trid-033017"
+    },
+    {
+      "id": "bio-vnuland-062018",
+      "source": "sites/default/files/documents/bio-vnuland-062018"
+    },
+    {
+      "id": "commissionreport",
+      "source": "sites/default/files/documents/commissionreport"
+    },
+    {
+      "id": "exhibits-080118",
+      "source": "sites/default/files/documents/exhibits-080118"
+    },
+    {
+      "id": "jobrennanstatement",
+      "source": "sites/default/files/documents/jobrennanstatement"
+    },
+    {
+      "id": "os-acohen-032118",
+      "source": "sites/default/files/documents/os-acohen-032118"
+    },
+    {
+      "id": "os-ahalderman-062117",
+      "source": "sites/default/files/documents/os-ahalderman-062117"
+    },
+    {
+      "id": "os-bdunbar-030718",
+      "source": "sites/default/files/documents/os-bdunbar-030718"
+    },
+    {
+      "id": "os-bfarrell-030718",
+      "source": "sites/default/files/documents/os-bfarrell-030718"
+    },
+    {
+      "id": "os-bpriestap-062117",
+      "source": "sites/default/files/documents/os-bpriestap-062117"
+    },
+    {
+      "id": "os-clawson-062117",
+      "source": "sites/default/files/documents/os-clawson-062117"
+    },
+    {
+      "id": "os-coats-022817",
+      "source": "sites/default/files/documents/os-coats-022817"
+    },
+    {
+      "id": "os-coats-051117",
+      "source": "sites/default/files/documents/os-coats-051117"
+    },
+    {
+      "id": "os-cphalen-030718",
+      "source": "sites/default/files/documents/os-cphalen-030718"
+    },
+    {
+      "id": "os-csharpley-101717",
+      "source": "sites/default/files/documents/os-csharpley-101717"
+    },
+    {
+      "id": "os-cstretch-110117",
+      "source": "sites/default/files/documents/os-cstretch-110117"
+    },
+    {
+      "id": "os-cwatts-033017",
+      "source": "sites/default/files/documents/os-cwatts-033017"
+    },
+    {
+      "id": "os-dberteau-030718",
+      "source": "sites/default/files/documents/os-dberteau-030718"
+    },
+    {
+      "id": "os-dcoats-060717",
+      "source": "sites/default/files/documents/os-dcoats-060717"
+    },
+    {
+      "id": "os-dglawe-062817",
+      "source": "sites/default/files/documents/os-dglawe-062817"
+    },
+    {
+      "id": "os-dpayne-030718",
+      "source": "sites/default/files/documents/os-dpayne-030718"
+    },
+    {
+      "id": "os-elwood-042617",
+      "source": "sites/default/files/documents/os-elwood-042617"
+    },
+    {
+      "id": "os-emcarthy-072518",
+      "source": "sites/default/files/documents/os-emcarthy-072518"
+    },
+    {
+      "id": "os-erosenbach-032118",
+      "source": "sites/default/files/documents/os-erosenbach-032118"
+    },
+    {
+      "id": "os-eumer-033017",
+      "source": "sites/default/files/documents/os-eumer-033017"
+    },
+    {
+      "id": "os-ghaspel-050918",
+      "source": "sites/default/files/documents/os-ghaspel-050918"
+    },
+    {
+      "id": "os-greid-030718",
+      "source": "sites/default/files/documents/os-greid-030718"
+    },
+    {
+      "id": "os-ipatelunas-071917",
+      "source": "sites/default/files/documents/os-ipatelunas-071917"
+    },
+    {
+      "id": "os-jchappell-030718",
+      "source": "sites/default/files/documents/os-jchappell-030718"
+    },
+    {
+      "id": "os-jcomey-060817",
+      "source": "sites/default/files/documents/os-jcomey-060817"
+    },
+    {
+      "id": "os-jcondos-032118",
+      "source": "sites/default/files/documents/os-jcondos-032118"
+    },
+    {
+      "id": "os-jdemers-103117",
+      "source": "sites/default/files/documents/os-jdemers-103117"
+    },
+    {
+      "id": "os-jdorsey-090518",
+      "source": "sites/default/files/documents/os-jdorsey-090518"
+    },
+    {
+      "id": "os-jjohnson-032118",
+      "source": "sites/default/files/documents/os-jjohnson-032118"
+    },
+    {
+      "id": "os-jkelly-080118",
+      "source": "sites/default/files/documents/os-jkelly-080118"
+    },
+    {
+      "id": "os-jklitenic-011718",
+      "source": "sites/default/files/documents/os-jklitenic-011718"
+    },
+    {
+      "id": "os-jmaguire-072518",
+      "source": "sites/default/files/documents/os-jmaguire-072518"
+    },
+    {
+      "id": "os-kalexander-033017",
+      "source": "sites/default/files/documents/os-kalexander-033017"
+    },
+    {
+      "id": "os-kmandia-033017",
+      "source": "sites/default/files/documents/os-kmandia-033017"
+    },
+    {
+      "id": "os-knielsen-032118",
+      "source": "sites/default/files/documents/os-knielsen-032118"
+    },
+    {
+      "id": "os-kphillips-030718",
+      "source": "sites/default/files/documents/os-kphillips-030718"
+    },
+    {
+      "id": "os-kwalker-110117",
+      "source": "sites/default/files/documents/os-kwalker-110117"
+    },
+    {
+      "id": "os-lrosenberger-080118",
+      "source": "sites/default/files/documents/os-lrosenberger-080118"
+    },
+    {
+      "id": "os-matkinson-011718",
+      "source": "sites/default/files/documents/os-matkinson-011718"
+    },
+    {
+      "id": "os-mdaniel-062018",
+      "source": "sites/default/files/documents/os-mdaniel-062018"
+    },
+    {
+      "id": "os-mhaas-062117",
+      "source": "sites/default/files/documents/os-mhaas-062117"
+    },
+    {
+      "id": "os-phoward-080118",
+      "source": "sites/default/files/documents/os-phoward-080118"
+    },
+    {
+      "id": "os-pnakasone-031518",
+      "source": "sites/default/files/documents/os-pnakasone-031518"
+    },
+    {
+      "id": "os-rdiresta-080118",
+      "source": "sites/default/files/documents/os-rdiresta-080118"
+    },
+    {
+      "id": "os-rgodson-033017",
+      "source": "sites/default/files/documents/os-rgodson-033017"
+    },
+    {
+      "id": "os-rstorch-071917",
+      "source": "sites/default/files/documents/os-rstorch-071917"
+    },
+    {
+      "id": "os-sedgett-110117",
+      "source": "sites/default/files/documents/os-sedgett-110117"
+    },
+    {
+      "id": "os-sessions-061317",
+      "source": "sites/default/files/documents/os-sessions-061317"
+    },
+    {
+      "id": "os-sgordon-071917",
+      "source": "sites/default/files/documents/os-sgordon-071917"
+    },
+    {
+      "id": "os-ssandberg-090518",
+      "source": "sites/default/files/documents/os-ssandberg-090518"
+    },
+    {
+      "id": "os-ssandvoss-062117_0",
+      "source": "sites/default/files/documents/os-ssandvoss-062117_0"
+    },
+    {
+      "id": "os-thelmus-080118",
+      "source": "sites/default/files/documents/os-thelmus-080118"
+    },
+    {
+      "id": "os-thicks-032118",
+      "source": "sites/default/files/documents/os-thicks-032118"
+    },
+    {
+      "id": "os-trid-033017",
+      "source": "sites/default/files/documents/os-trid-033017"
+    },
+    {
+      "id": "os-vnuland-062018",
+      "source": "sites/default/files/documents/os-vnuland-062018"
+    },
+    {
+      "id": "phq-pnakasone-031518",
+      "source": "sites/default/files/documents/phq-pnakasone-031518"
+    },
+    {
+      "id": "pre-hearing-011217",
+      "source": "sites/default/files/documents/pre-hearing-011217"
+    },
+    {
+      "id": "pre-hearing-b-011217",
+      "source": "sites/default/files/documents/pre-hearing-b-011217"
+    },
+    {
+      "id": "q-csharpley-101717",
+      "source": "sites/default/files/documents/q-csharpley-101717"
+    },
+    {
+      "id": "q-dglawe-062817",
+      "source": "sites/default/files/documents/q-dglawe-062817"
+    },
+    {
+      "id": "q-elwood-042617",
+      "source": "sites/default/files/documents/q-elwood-042617"
+    },
+    {
+      "id": "q-emcarthy-072518",
+      "source": "sites/default/files/documents/q-emcarthy-072518"
+    },
+    {
+      "id": "q-ghaspel-050918",
+      "source": "sites/default/files/documents/q-ghaspel-050918"
+    },
+    {
+      "id": "q-ipatelunas-071917",
+      "source": "sites/default/files/documents/q-ipatelunas-071917"
+    },
+    {
+      "id": "q-jdemers-103117",
+      "source": "sites/default/files/documents/q-jdemers-103117"
+    },
+    {
+      "id": "q-jmaguire-072518",
+      "source": "sites/default/files/documents/q-jmaguire-072518"
+    },
+    {
+      "id": "q-matkinson-011718",
+      "source": "sites/default/files/documents/q-matkinson-011718"
+    },
+    {
+      "id": "q-pnakasone-031518",
+      "source": "sites/default/files/documents/q-pnakasone-031518"
+    },
+    {
+      "id": "q-revanina-051518",
+      "source": "sites/default/files/documents/q-revanina-051518"
+    },
+    {
+      "id": "q-rstorch-071917",
+      "source": "sites/default/files/documents/q-rstorch-071917"
+    },
+    {
+      "id": "q-sgordon-071917",
+      "source": "sites/default/files/documents/q-sgordon-071917"
+    },
+    {
+      "id": "qfr-011217",
+      "source": "sites/default/files/documents/qfr-011217"
+    },
+    {
+      "id": "qfr-030817",
+      "source": "sites/default/files/documents/qfr-030817"
+    },
+    {
+      "id": "qfr-emccarthy-072518",
+      "source": "sites/default/files/documents/qfr-emccarthy-072518"
+    },
+    {
+      "id": "qfr-jmaguire-072518",
+      "source": "sites/default/files/documents/qfr-jmaguire-072518"
+    },
+    {
+      "id": "qfrglawe",
+      "source": "sites/default/files/documents/qfrglawe"
+    },
+    {
+      "id": "questionnaire-011217",
+      "source": "sites/default/files/documents/questionnaire-011217"
+    },
+    {
+      "id": "rcardillo_92716",
+      "source": "sites/default/files/documents/rcardillo_92716"
+    },
+    {
+      "id": "rqfr-elwood-042617",
+      "source": "sites/default/files/documents/rqfr-elwood-042617"
+    },
+    {
+      "id": "rqfr-ipatelunas-071917",
+      "source": "sites/default/files/documents/rqfr-ipatelunas-071917"
+    },
+    {
+      "id": "rqfr-sgordon-071917",
+      "source": "sites/default/files/documents/rqfr-sgordon-071917"
+    },
+    {
+      "id": "sfr-cstelzenmuller-062817b",
+      "source": "sites/default/files/documents/sfr-cstelzenmuller-062817b"
+    },
+    {
+      "id": "sfr-jsarts-062817b",
+      "source": "sites/default/files/documents/sfr-jsarts-062817b"
+    },
+    {
+      "id": "sfr-nburns-062817b",
+      "source": "sites/default/files/documents/sfr-nburns-062817b"
+    },
+    {
+      "id": "sfr-vgarcevic-062817b",
+      "source": "sites/default/files/documents/sfr-vgarcevic-062817b"
+    },
+    {
+      "id": "sgibsonprehearing",
+      "source": "sites/default/files/documents/sgibsonprehearing"
+    },
+    {
+      "id": "sgibsonquestionnaire",
+      "source": "sites/default/files/documents/sgibsonquestionnaire"
+    },
+    {
+      "id": "sgibsonstatement",
+      "source": "sites/default/files/documents/sgibsonstatement"
+    },
+    {
+      "id": "statement-pompeo-011217",
+      "source": "sites/default/files/documents/statement-pompeo-011217"
+    },
+    {
+      "id": "statement-ramsmussen-021215",
+      "source": "sites/default/files/documents/statement-ramsmussen-021215"
+    },
+    {
+      "id": "1001051",
+      "source": "sites/default/files/hearings/1001051"
+    },
+    {
+      "id": "100241",
+      "source": "sites/default/files/hearings/100241"
+    },
+    {
+      "id": "100276",
+      "source": "sites/default/files/hearings/100276"
+    },
+    {
+      "id": "100623",
+      "source": "sites/default/files/hearings/100623"
+    },
+    {
+      "id": "100677",
+      "source": "sites/default/files/hearings/100677"
+    },
+    {
+      "id": "100974",
+      "source": "sites/default/files/hearings/100974"
+    },
+    {
+      "id": "1011083",
+      "source": "sites/default/files/hearings/1011083"
+    },
+    {
+      "id": "1011293",
+      "source": "sites/default/files/hearings/1011293"
+    },
+    {
+      "id": "101180",
+      "source": "sites/default/files/hearings/101180"
+    },
+    {
+      "id": "1021052",
+      "source": "sites/default/files/hearings/1021052"
+    },
+    {
+      "id": "1021095",
+      "source": "sites/default/files/hearings/1021095"
+    },
+    {
+      "id": "102799v1_Part1",
+      "source": "sites/default/files/hearings/102799v1_Part1"
+    },
+    {
+      "id": "102799v1_Part2",
+      "source": "sites/default/files/hearings/102799v1_Part2"
+    },
+    {
+      "id": "102799v2-s",
+      "source": "sites/default/files/hearings/102799v2-s"
+    },
+    {
+      "id": "102799v3",
+      "source": "sites/default/files/hearings/102799v3"
+    },
+    {
+      "id": "102850",
+      "source": "sites/default/files/hearings/102850"
+    },
+    {
+      "id": "102894",
+      "source": "sites/default/files/hearings/102894"
+    },
+    {
+      "id": "10291",
+      "source": "sites/default/files/hearings/10291"
+    },
+    {
+      "id": "1031006",
+      "source": "sites/default/files/hearings/1031006"
+    },
+    {
+      "id": "1031073",
+      "source": "sites/default/files/hearings/1031073"
+    },
+    {
+      "id": "103296",
+      "source": "sites/default/files/hearings/103296"
+    },
+    {
+      "id": "103565",
+      "source": "sites/default/files/hearings/103565"
+    },
+    {
+      "id": "103630",
+      "source": "sites/default/files/hearings/103630"
+    },
+    {
+      "id": "103650",
+      "source": "sites/default/files/hearings/103650"
+    },
+    {
+      "id": "103933",
+      "source": "sites/default/files/hearings/103933"
+    },
+    {
+      "id": "103976",
+      "source": "sites/default/files/hearings/103976"
+    },
+    {
+      "id": "103997",
+      "source": "sites/default/files/hearings/103997"
+    },
+    {
+      "id": "104821",
+      "source": "sites/default/files/hearings/104821"
+    },
+    {
+      "id": "1051054",
+      "source": "sites/default/files/hearings/1051054"
+    },
+    {
+      "id": "1051056",
+      "source": "sites/default/files/hearings/1051056"
+    },
+    {
+      "id": "1051057",
+      "source": "sites/default/files/hearings/1051057"
+    },
+    {
+      "id": "105201",
+      "source": "sites/default/files/hearings/105201"
+    },
+    {
+      "id": "105234",
+      "source": "sites/default/files/hearings/105234"
+    },
+    {
+      "id": "105276",
+      "source": "sites/default/files/hearings/105276"
+    },
+    {
+      "id": "105290",
+      "source": "sites/default/files/hearings/105290"
+    },
+    {
+      "id": "105314",
+      "source": "sites/default/files/hearings/105314"
+    },
+    {
+      "id": "105424",
+      "source": "sites/default/files/hearings/105424"
+    },
+    {
+      "id": "106394",
+      "source": "sites/default/files/hearings/106394"
+    },
+    {
+      "id": "106452",
+      "source": "sites/default/files/hearings/106452"
+    },
+    {
+      "id": "106592",
+      "source": "sites/default/files/hearings/106592"
+    },
+    {
+      "id": "106864",
+      "source": "sites/default/files/hearings/106864"
+    },
+    {
+      "id": "106895",
+      "source": "sites/default/files/hearings/106895"
+    },
+    {
+      "id": "106wenholee",
+      "source": "sites/default/files/hearings/106wenholee"
+    },
+    {
+      "id": "107-2",
+      "source": "sites/default/files/hearings/107-2"
+    },
+    {
+      "id": "1071086",
+      "source": "sites/default/files/hearings/1071086"
+    },
+    {
+      "id": "1071086v2",
+      "source": "sites/default/files/hearings/1071086v2"
+    },
+    {
+      "id": "107449",
+      "source": "sites/default/files/hearings/107449"
+    },
+    {
+      "id": "107596",
+      "source": "sites/default/files/hearings/107596"
+    },
+    {
+      "id": "107597",
+      "source": "sites/default/files/hearings/107597"
+    },
+    {
+      "id": "108161",
+      "source": "sites/default/files/hearings/108161"
+    },
+    {
+      "id": "108588",
+      "source": "sites/default/files/hearings/108588"
+    },
+    {
+      "id": "108656",
+      "source": "sites/default/files/hearings/108656"
+    },
+    {
+      "id": "108777",
+      "source": "sites/default/files/hearings/108777"
+    },
+    {
+      "id": "108835",
+      "source": "sites/default/files/hearings/108835"
+    },
+    {
+      "id": "109270",
+      "source": "sites/default/files/hearings/109270"
+    },
+    {
+      "id": "109341",
+      "source": "sites/default/files/hearings/109341"
+    },
+    {
+      "id": "109724",
+      "source": "sites/default/files/hearings/109724"
+    },
+    {
+      "id": "109808",
+      "source": "sites/default/files/hearings/109808"
+    },
+    {
+      "id": "109809",
+      "source": "sites/default/files/hearings/109809"
+    },
+    {
+      "id": "110225",
+      "source": "sites/default/files/hearings/110225"
+    },
+    {
+      "id": "110348",
+      "source": "sites/default/files/hearings/110348"
+    },
+    {
+      "id": "110399",
+      "source": "sites/default/files/hearings/110399"
+    },
+    {
+      "id": "110407",
+      "source": "sites/default/files/hearings/110407"
+    },
+    {
+      "id": "110452",
+      "source": "sites/default/files/hearings/110452"
+    },
+    {
+      "id": "110793",
+      "source": "sites/default/files/hearings/110793"
+    },
+    {
+      "id": "110794",
+      "source": "sites/default/files/hearings/110794"
+    },
+    {
+      "id": "110824",
+      "source": "sites/default/files/hearings/110824"
+    },
+    {
+      "id": "110835",
+      "source": "sites/default/files/hearings/110835"
+    },
+    {
+      "id": "110837",
+      "source": "sites/default/files/hearings/110837"
+    },
+    {
+      "id": "110839",
+      "source": "sites/default/files/hearings/110839"
+    },
+    {
+      "id": "110846",
+      "source": "sites/default/files/hearings/110846"
+    },
+    {
+      "id": "110848",
+      "source": "sites/default/files/hearings/110848"
+    },
+    {
+      "id": "110849",
+      "source": "sites/default/files/hearings/110849"
+    },
+    {
+      "id": "110936",
+      "source": "sites/default/files/hearings/110936"
+    },
+    {
+      "id": "111125",
+      "source": "sites/default/files/hearings/111125"
+    },
+    {
+      "id": "111163",
+      "source": "sites/default/files/hearings/111163"
+    },
+    {
+      "id": "111172",
+      "source": "sites/default/files/hearings/111172"
+    },
+    {
+      "id": "111545",
+      "source": "sites/default/files/hearings/111545"
+    },
+    {
+      "id": "111556",
+      "source": "sites/default/files/hearings/111556"
+    },
+    {
+      "id": "111557",
+      "source": "sites/default/files/hearings/111557"
+    },
+    {
+      "id": "111558",
+      "source": "sites/default/files/hearings/111558"
+    },
+    {
+      "id": "11162",
+      "source": "sites/default/files/hearings/11162"
+    },
+    {
+      "id": "111856",
+      "source": "sites/default/files/hearings/111856"
+    },
+    {
+      "id": "111857",
+      "source": "sites/default/files/hearings/111857"
+    },
+    {
+      "id": "11218",
+      "source": "sites/default/files/hearings/11218"
+    },
+    {
+      "id": "112252",
+      "source": "sites/default/files/hearings/112252"
+    },
+    {
+      "id": "112306",
+      "source": "sites/default/files/hearings/112306"
+    },
+    {
+      "id": "112307",
+      "source": "sites/default/files/hearings/112307"
+    },
+    {
+      "id": "112308",
+      "source": "sites/default/files/hearings/112308"
+    },
+    {
+      "id": "112309",
+      "source": "sites/default/files/hearings/112309"
+    },
+    {
+      "id": "112481",
+      "source": "sites/default/files/hearings/112481"
+    },
+    {
+      "id": "11331",
+      "source": "sites/default/files/hearings/11331"
+    },
+    {
+      "id": "11389",
+      "source": "sites/default/files/hearings/11389"
+    },
+    {
+      "id": "78secrecy",
+      "source": "sites/default/files/hearings/78secrecy"
+    },
+    {
+      "id": "94electronic_surveillance",
+      "source": "sites/default/files/hearings/94electronic_surveillance"
+    },
+    {
+      "id": "94knoche",
+      "source": "sites/default/files/hearings/94knoche"
+    },
+    {
+      "id": "952525",
+      "source": "sites/default/files/hearings/952525"
+    },
+    {
+      "id": "95carlucci",
+      "source": "sites/default/files/hearings/95carlucci"
+    },
+    {
+      "id": "95disclosure_of_funds",
+      "source": "sites/default/files/hearings/95disclosure_of_funds"
+    },
+    {
+      "id": "95mkultra",
+      "source": "sites/default/files/hearings/95mkultra"
+    },
+    {
+      "id": "95sorensen",
+      "source": "sites/default/files/hearings/95sorensen"
+    },
+    {
+      "id": "95turner",
+      "source": "sites/default/files/hearings/95turner"
+    },
+    {
+      "id": "96id_protection",
+      "source": "sites/default/files/hearings/96id_protection"
+    },
+    {
+      "id": "96national_intelligence_act",
+      "source": "sites/default/files/hearings/96national_intelligence_act"
+    },
+    {
+      "id": "97casey",
+      "source": "sites/default/files/hearings/97casey"
+    },
+    {
+      "id": "97inman",
+      "source": "sites/default/files/hearings/97inman"
+    },
+    {
+      "id": "97intelligence_reform_act",
+      "source": "sites/default/files/hearings/97intelligence_reform_act"
+    },
+    {
+      "id": "97mcmahon",
+      "source": "sites/default/files/hearings/97mcmahon"
+    },
+    {
+      "id": "97soviet_succession",
+      "source": "sites/default/files/hearings/97soviet_succession"
+    },
+    {
+      "id": "98464",
+      "source": "sites/default/files/hearings/98464"
+    },
+    {
+      "id": "98519",
+      "source": "sites/default/files/hearings/98519"
+    },
+    {
+      "id": "99620",
+      "source": "sites/default/files/hearings/99620"
+    },
+    {
+      "id": "CHRG-105shrg51671",
+      "source": "sites/default/files/hearings/CHRG-105shrg51671"
+    },
+    {
+      "id": "CHRG-105shrg51954",
+      "source": "sites/default/files/hearings/CHRG-105shrg51954"
+    },
+    {
+      "id": "CHRG-106shrg65329",
+      "source": "sites/default/files/hearings/CHRG-106shrg65329"
+    },
+    {
+      "id": "CHRG-113shrg29497",
+      "source": "sites/default/files/hearings/CHRG-113shrg29497"
+    },
+    {
+      "id": "CHRG-113shrg93211",
+      "source": "sites/default/files/hearings/CHRG-113shrg93211"
+    },
+    {
+      "id": "CHRG-113shrg93212",
+      "source": "sites/default/files/hearings/CHRG-113shrg93212"
+    },
+    {
+      "id": "CHRG-114shrg29493",
+      "source": "sites/default/files/hearings/CHRG-114shrg29493"
+    },
+    {
+      "id": "CHRG-115shrg25887",
+      "source": "sites/default/files/hearings/CHRG-115shrg25887"
+    },
+    {
+      "id": "CHRG-115shrg26126",
+      "source": "sites/default/files/hearings/CHRG-115shrg26126"
+    },
+    {
+      "id": "CHRG-115shrg27396",
+      "source": "sites/default/files/hearings/CHRG-115shrg27396"
+    },
+    {
+      "id": "CHRG-115shrg28947",
+      "source": "sites/default/files/hearings/CHRG-115shrg28947"
+    },
+    {
+      "id": "CHRG-115shrg29479",
+      "source": "sites/default/files/hearings/CHRG-115shrg29479"
+    },
+    {
+      "id": "CHRG-115shrg29480",
+      "source": "sites/default/files/hearings/CHRG-115shrg29480"
+    },
+    {
+      "id": "CHRG-115shrg29830",
+      "source": "sites/default/files/hearings/CHRG-115shrg29830"
+    },
+    {
+      "id": "CHRG-115shrg30119",
+      "source": "sites/default/files/hearings/CHRG-115shrg30119"
+    },
+    {
+      "id": "Russian Interference in the 2016 U.S. Elections S. Hrg. 115-92",
+      "source": "sites/default/files/hearings/Russian Interference in the 2016 U.S. Elections S. Hrg. 115-92"
+    },
+    {
+      "id": "S Hrg 115-40 Pt 1",
+      "source": "sites/default/files/hearings/S Hrg 115-40 Pt 1"
+    },
+    {
+      "id": "S Hrg 115-40 Pt 2",
+      "source": "sites/default/files/hearings/S Hrg 115-40 Pt 2"
+    },
+    {
+      "id": "S. Hr. 115-100",
+      "source": "sites/default/files/hearings/S. Hr. 115-100"
+    },
+    {
+      "id": "S. Hrg. 114-598",
+      "source": "sites/default/files/hearings/S. Hrg. 114-598"
+    },
+    {
+      "id": "S. Hrg. 114-618",
+      "source": "sites/default/files/hearings/S. Hrg. 114-618"
+    },
+    {
+      "id": "S. Hrg. 114-623",
+      "source": "sites/default/files/hearings/S. Hrg. 114-623"
+    },
+    {
+      "id": "S. Hrg. 114-652",
+      "source": "sites/default/files/hearings/S. Hrg. 114-652"
+    },
+    {
+      "id": "S. Hrg. 114-739",
+      "source": "sites/default/files/hearings/S. Hrg. 114-739"
+    },
+    {
+      "id": "S. Hrg. 115-105",
+      "source": "sites/default/files/hearings/S. Hrg. 115-105"
+    },
+    {
+      "id": "S. Hrg. 115-125",
+      "source": "sites/default/files/hearings/S. Hrg. 115-125"
+    },
+    {
+      "id": "S. Hrg. 115-45",
+      "source": "sites/default/files/hearings/S. Hrg. 115-45"
+    },
+    {
+      "id": "S. Hrg. 115-72",
+      "source": "sites/default/files/hearings/S. Hrg. 115-72"
+    },
+    {
+      "id": "S. Hrg. 115-84",
+      "source": "sites/default/files/hearings/S. Hrg. 115-84"
+    },
+    {
+      "id": "S. Hrg. 115-94",
+      "source": "sites/default/files/hearings/S. Hrg. 115-94"
+    },
+    {
+      "id": "S. Hrg. 115-99",
+      "source": "sites/default/files/hearings/S. Hrg. 115-99"
+    },
+    {
+      "id": "allegationsofcia00unit",
+      "source": "sites/default/files/hearings/allegationsofcia00unit"
+    },
+    {
+      "id": "answers",
+      "source": "sites/default/files/hearings/answers"
+    },
+    {
+      "id": "assessingregiona00unit",
+      "source": "sites/default/files/hearings/assessingregiona00unit"
+    },
+    {
+      "id": "attach",
+      "source": "sites/default/files/hearings/attach"
+    },
+    {
+      "id": "attach1",
+      "source": "sites/default/files/hearings/attach1"
+    },
+    {
+      "id": "attach2 (1)",
+      "source": "sites/default/files/hearings/attach2 (1)"
+    },
+    {
+      "id": "attach2",
+      "source": "sites/default/files/hearings/attach2"
+    },
+    {
+      "id": "baker",
+      "source": "sites/default/files/hearings/baker"
+    },
+    {
+      "id": "blair (1)",
+      "source": "sites/default/files/hearings/blair (1)"
+    },
+    {
+      "id": "blair (2)",
+      "source": "sites/default/files/hearings/blair (2)"
+    },
+    {
+      "id": "blair",
+      "source": "sites/default/files/hearings/blair"
+    },
+    {
+      "id": "blairresponses",
+      "source": "sites/default/files/hearings/blairresponses"
+    },
+    {
+      "id": "blairresponses2",
+      "source": "sites/default/files/hearings/blairresponses2"
+    },
+    {
+      "id": "brennan",
+      "source": "sites/default/files/hearings/brennan"
+    },
+    {
+      "id": "carlin",
+      "source": "sites/default/files/hearings/carlin"
+    },
+    {
+      "id": "carlinprehearing",
+      "source": "sites/default/files/hearings/carlinprehearing"
+    },
+    {
+      "id": "carlinquestionnaire",
+      "source": "sites/default/files/hearings/carlinquestionnaire"
+    },
+    {
+      "id": "chambliss",
+      "source": "sites/default/files/hearings/chambliss"
+    },
+    {
+      "id": "ciasuseofjournal00unit",
+      "source": "sites/default/files/hearings/ciasuseofjournal00unit"
+    },
+    {
+      "id": "clapper (1)",
+      "source": "sites/default/files/hearings/clapper (1)"
+    },
+    {
+      "id": "clapper (2)",
+      "source": "sites/default/files/hearings/clapper (2)"
+    },
+    {
+      "id": "clapper (3)",
+      "source": "sites/default/files/hearings/clapper (3)"
+    },
+    {
+      "id": "clapper",
+      "source": "sites/default/files/hearings/clapper"
+    },
+    {
+      "id": "clapper_0",
+      "source": "sites/default/files/hearings/clapper_0"
+    },
+    {
+      "id": "clapperpost",
+      "source": "sites/default/files/hearings/clapperpost"
+    },
+    {
+      "id": "clapperpre",
+      "source": "sites/default/files/hearings/clapperpre"
+    },
+    {
+      "id": "clapperqfrs",
+      "source": "sites/default/files/hearings/clapperqfrs"
+    },
+    {
+      "id": "currentprojected00unit",
+      "source": "sites/default/files/hearings/currentprojected00unit"
+    },
+    {
+      "id": "daytonaccordshea00unit",
+      "source": "sites/default/files/hearings/daytonaccordshea00unit"
+    },
+    {
+      "id": "dciwrapuphearing00unit",
+      "source": "sites/default/files/hearings/dciwrapuphearing00unit"
+    },
+    {
+      "id": "directorofcentra00unit",
+      "source": "sites/default/files/hearings/directorofcentra00unit"
+    },
+    {
+      "id": "dni",
+      "source": "sites/default/files/hearings/dni"
+    },
+    {
+      "id": "economicespionag00unit",
+      "source": "sites/default/files/hearings/economicespionag00unit"
+    },
+    {
+      "id": "feinstein",
+      "source": "sites/default/files/hearings/feinstein"
+    },
+    {
+      "id": "fisa",
+      "source": "sites/default/files/hearings/fisa"
+    },
+    {
+      "id": "gardner",
+      "source": "sites/default/files/hearings/gardner"
+    },
+    {
+      "id": "garfield",
+      "source": "sites/default/files/hearings/garfield"
+    },
+    {
+      "id": "geiger",
+      "source": "sites/default/files/hearings/geiger"
+    },
+    {
+      "id": "gompert1",
+      "source": "sites/default/files/hearings/gompert1"
+    },
+    {
+      "id": "gompert2",
+      "source": "sites/default/files/hearings/gompert2"
+    },
+    {
+      "id": "gompert3",
+      "source": "sites/default/files/hearings/gompert3"
+    },
+    {
+      "id": "hearingonguatema00unit",
+      "source": "sites/default/files/hearings/hearingonguatema00unit"
+    },
+    {
+      "id": "hearingonnominat00unit",
+      "source": "sites/default/files/hearings/hearingonnominat00unit"
+    },
+    {
+      "id": "hearingsonusacti00unit",
+      "source": "sites/default/files/hearings/hearingsonusacti00unit"
+    },
+    {
+      "id": "intelligenceanaly00unit",
+      "source": "sites/default/files/hearings/intelligenceanaly00unit"
+    },
+    {
+      "id": "intelligenceasse00unit",
+      "source": "sites/default/files/hearings/intelligenceasse00unit"
+    },
+    {
+      "id": "internationalter1997unit",
+      "source": "sites/default/files/hearings/internationalter1997unit"
+    },
+    {
+      "id": "iraqhearingbefor00unit",
+      "source": "sites/default/files/hearings/iraqhearingbefor00unit"
+    },
+    {
+      "id": "krass",
+      "source": "sites/default/files/hearings/krass"
+    },
+    {
+      "id": "krasspost",
+      "source": "sites/default/files/hearings/krasspost"
+    },
+    {
+      "id": "krassprehearing",
+      "source": "sites/default/files/hearings/krassprehearing"
+    },
+    {
+      "id": "krassquestionnaire",
+      "source": "sites/default/files/hearings/krassquestionnaire"
+    },
+    {
+      "id": "kris",
+      "source": "sites/default/files/hearings/kris"
+    },
+    {
+      "id": "letter_27may2010",
+      "source": "sites/default/files/hearings/letter_27may2010"
+    },
+    {
+      "id": "libutti",
+      "source": "sites/default/files/hearings/libutti"
+    },
+    {
+      "id": "litt",
+      "source": "sites/default/files/hearings/litt"
+    },
+    {
+      "id": "litt_sfr_fy2010",
+      "source": "sites/default/files/hearings/litt_sfr_fy2010"
+    },
+    {
+      "id": "littpostqfrs",
+      "source": "sites/default/files/hearings/littpostqfrs"
+    },
+    {
+      "id": "littquestions",
+      "source": "sites/default/files/hearings/littquestions"
+    },
+    {
+      "id": "littresponses",
+      "source": "sites/default/files/hearings/littresponses"
+    },
+    {
+      "id": "mccullough",
+      "source": "sites/default/files/hearings/mccullough"
+    },
+    {
+      "id": "muller",
+      "source": "sites/default/files/hearings/muller"
+    },
+    {
+      "id": "negroponte",
+      "source": "sites/default/files/hearings/negroponte"
+    },
+    {
+      "id": "nominationofjohn1995unit",
+      "source": "sites/default/files/hearings/nominationofjohn1995unit"
+    },
+    {
+      "id": "osullivan",
+      "source": "sites/default/files/hearings/osullivan"
+    },
+    {
+      "id": "osullivanqfrs",
+      "source": "sites/default/files/hearings/osullivanqfrs"
+    },
+    {
+      "id": "panama",
+      "source": "sites/default/files/hearings/panama"
+    },
+    {
+      "id": "panetta",
+      "source": "sites/default/files/hearings/panetta"
+    },
+    {
+      "id": "panetta_bond",
+      "source": "sites/default/files/hearings/panetta_bond"
+    },
+    {
+      "id": "panetta_post",
+      "source": "sites/default/files/hearings/panetta_post"
+    },
+    {
+      "id": "petraeus",
+      "source": "sites/default/files/hearings/petraeus"
+    },
+    {
+      "id": "posthearing (1)",
+      "source": "sites/default/files/hearings/posthearing (1)"
+    },
+    {
+      "id": "posthearing",
+      "source": "sites/default/files/hearings/posthearing"
+    },
+    {
+      "id": "postqfrs",
+      "source": "sites/default/files/hearings/postqfrs"
+    },
+    {
+      "id": "powell",
+      "source": "sites/default/files/hearings/powell"
+    },
+    {
+      "id": "prehearing (1)",
+      "source": "sites/default/files/hearings/prehearing (1)"
+    },
+    {
+      "id": "prehearing (2)",
+      "source": "sites/default/files/hearings/prehearing (2)"
+    },
+    {
+      "id": "prehearing (3)",
+      "source": "sites/default/files/hearings/prehearing (3)"
+    },
+    {
+      "id": "prehearing (4)",
+      "source": "sites/default/files/hearings/prehearing (4)"
+    },
+    {
+      "id": "prehearing (5)",
+      "source": "sites/default/files/hearings/prehearing (5)"
+    },
+    {
+      "id": "prehearing (6)",
+      "source": "sites/default/files/hearings/prehearing (6)"
+    },
+    {
+      "id": "prehearing",
+      "source": "sites/default/files/hearings/prehearing"
+    },
+    {
+      "id": "preston",
+      "source": "sites/default/files/hearings/preston"
+    },
+    {
+      "id": "prestonpostqfrs",
+      "source": "sites/default/files/hearings/prestonpostqfrs"
+    },
+    {
+      "id": "prestonquestions",
+      "source": "sites/default/files/hearings/prestonquestions"
+    },
+    {
+      "id": "prestonresponses",
+      "source": "sites/default/files/hearings/prestonresponses"
+    },
+    {
+      "id": "prestonwritings",
+      "source": "sites/default/files/hearings/prestonwritings"
+    },
+    {
+      "id": "questionnaire (1)",
+      "source": "sites/default/files/hearings/questionnaire (1)"
+    },
+    {
+      "id": "questionnaire (2)",
+      "source": "sites/default/files/hearings/questionnaire (2)"
+    },
+    {
+      "id": "questionnaire (3)",
+      "source": "sites/default/files/hearings/questionnaire (3)"
+    },
+    {
+      "id": "questionnaire (4)",
+      "source": "sites/default/files/hearings/questionnaire (4)"
+    },
+    {
+      "id": "questionnaire (5)",
+      "source": "sites/default/files/hearings/questionnaire (5)"
+    },
+    {
+      "id": "questionnaire (6)",
+      "source": "sites/default/files/hearings/questionnaire (6)"
+    },
+    {
+      "id": "questionnaire",
+      "source": "sites/default/files/hearings/questionnaire"
+    },
+    {
+      "id": "rasmussen",
+      "source": "sites/default/files/hearings/rasmussen"
+    },
+    {
+      "id": "redd",
+      "source": "sites/default/files/hearings/redd"
+    },
+    {
+      "id": "renewalreformusi00unit",
+      "source": "sites/default/files/hearings/renewalreformusi00unit"
+    },
+    {
+      "id": "responses (1)",
+      "source": "sites/default/files/hearings/responses (1)"
+    },
+    {
+      "id": "responses",
+      "source": "sites/default/files/hearings/responses"
+    },
+    {
+      "id": "s1566",
+      "source": "sites/default/files/hearings/s1566"
+    },
+    {
+      "id": "saudiarabiabeiru00unit",
+      "source": "sites/default/files/hearings/saudiarabiabeiru00unit"
+    },
+    {
+      "id": "smith",
+      "source": "sites/default/files/hearings/smith"
+    },
+    {
+      "id": "smithprehearing",
+      "source": "sites/default/files/hearings/smithprehearing"
+    },
+    {
+      "id": "smithquestionnaire",
+      "source": "sites/default/files/hearings/smithquestionnaire"
+    },
+    {
+      "id": "statement (1)",
+      "source": "sites/default/files/hearings/statement (1)"
+    },
+    {
+      "id": "statement (2)",
+      "source": "sites/default/files/hearings/statement (2)"
+    },
+    {
+      "id": "statement (3)",
+      "source": "sites/default/files/hearings/statement (3)"
+    },
+    {
+      "id": "statement (4)",
+      "source": "sites/default/files/hearings/statement (4)"
+    },
+    {
+      "id": "statement",
+      "source": "sites/default/files/hearings/statement"
+    },
+    {
+      "id": "taylor",
+      "source": "sites/default/files/hearings/taylor"
+    },
+    {
+      "id": "taylorprehearing",
+      "source": "sites/default/files/hearings/taylorprehearing"
+    },
+    {
+      "id": "taylorquestionnaire",
+      "source": "sites/default/files/hearings/taylorquestionnaire"
+    },
+    {
+      "id": "threats",
+      "source": "sites/default/files/hearings/threats"
+    },
+    {
+      "id": "transcript",
+      "source": "sites/default/files/hearings/transcript"
+    },
+    {
+      "id": "vietnamesecomman00unit",
+      "source": "sites/default/files/hearings/vietnamesecomman00unit"
+    },
+    {
+      "id": "warcrimesinbalka00unit",
+      "source": "sites/default/files/hearings/warcrimesinbalka00unit"
+    },
+    {
+      "id": "woods",
+      "source": "sites/default/files/hearings/woods"
+    },
+    {
+      "id": "worldwideintelli00unit",
+      "source": "sites/default/files/hearings/worldwideintelli00unit"
+    },
+    {
+      "id": "109177",
+      "source": "sites/default/files/laws/109177"
+    },
+    {
+      "id": "109259",
+      "source": "sites/default/files/laws/109259"
+    },
+    {
+      "id": "111259",
+      "source": "sites/default/files/laws/111259"
+    },
+    {
+      "id": "112277",
+      "source": "sites/default/files/laws/112277"
+    },
+    {
+      "id": "11287",
+      "source": "sites/default/files/laws/11287"
+    },
+    {
+      "id": "113126",
+      "source": "sites/default/files/laws/113126"
+    },
+    {
+      "id": "E9-1885",
+      "source": "sites/default/files/laws/E9-1885"
+    },
+    {
+      "id": "E9-1893",
+      "source": "sites/default/files/laws/E9-1893"
+    },
+    {
+      "id": "E9-1895",
+      "source": "sites/default/files/laws/E9-1895"
+    },
+    {
+      "id": "E9-31418",
+      "source": "sites/default/files/laws/E9-31418"
+    },
+    {
+      "id": "PLAW-111publ258",
+      "source": "sites/default/files/laws/PLAW-111publ258"
+    },
+    {
+      "id": "PLAW-113publ293",
+      "source": "sites/default/files/laws/PLAW-113publ293"
+    },
+    {
+      "id": "WCPD-2003-03-31-Pg359",
+      "source": "sites/default/files/laws/WCPD-2003-03-31-Pg359"
+    },
+    {
+      "id": "amended12333",
+      "source": "sites/default/files/laws/amended12333"
+    },
+    {
+      "id": "ciaact1949",
+      "source": "sites/default/files/laws/ciaact1949"
+    },
+    {
+      "id": "ciainformationact",
+      "source": "sites/default/files/laws/ciainformationact"
+    },
+    {
+      "id": "ciavoluntaryseparationpay",
+      "source": "sites/default/files/laws/ciavoluntaryseparationpay"
+    },
+    {
+      "id": "davidlborennationalsecurityact",
+      "source": "sites/default/files/laws/davidlborennationalsecurityact"
+    },
+    {
+      "id": "intelidentities",
+      "source": "sites/default/files/laws/intelidentities"
+    },
+    {
+      "id": "military_act_2009",
+      "source": "sites/default/files/laws/military_act_2009"
+    },
+    {
+      "id": "nima",
+      "source": "sites/default/files/laws/nima"
+    },
+    {
+      "id": "nsact1947",
+      "source": "sites/default/files/laws/nsact1947"
+    },
+    {
+      "id": "patriot",
+      "source": "sites/default/files/laws/patriot"
+    },
+    {
+      "id": "pl100-178",
+      "source": "sites/default/files/laws/pl100-178"
+    },
+    {
+      "id": "pl100-453",
+      "source": "sites/default/files/laws/pl100-453"
+    },
+    {
+      "id": "pl101-193",
+      "source": "sites/default/files/laws/pl101-193"
+    },
+    {
+      "id": "pl102-183",
+      "source": "sites/default/files/laws/pl102-183"
+    },
+    {
+      "id": "pl102-496",
+      "source": "sites/default/files/laws/pl102-496"
+    },
+    {
+      "id": "pl102-88",
+      "source": "sites/default/files/laws/pl102-88"
+    },
+    {
+      "id": "pl103-178",
+      "source": "sites/default/files/laws/pl103-178"
+    },
+    {
+      "id": "pl103-359",
+      "source": "sites/default/files/laws/pl103-359"
+    },
+    {
+      "id": "pl104-293",
+      "source": "sites/default/files/laws/pl104-293"
+    },
+    {
+      "id": "pl104-93",
+      "source": "sites/default/files/laws/pl104-93"
+    },
+    {
+      "id": "pl105-107",
+      "source": "sites/default/files/laws/pl105-107"
+    },
+    {
+      "id": "pl105-272",
+      "source": "sites/default/files/laws/pl105-272"
+    },
+    {
+      "id": "pl106-120",
+      "source": "sites/default/files/laws/pl106-120"
+    },
+    {
+      "id": "pl106-567",
+      "source": "sites/default/files/laws/pl106-567"
+    },
+    {
+      "id": "pl107-108",
+      "source": "sites/default/files/laws/pl107-108"
+    },
+    {
+      "id": "pl107-306",
+      "source": "sites/default/files/laws/pl107-306"
+    },
+    {
+      "id": "pl108-177",
+      "source": "sites/default/files/laws/pl108-177"
+    },
+    {
+      "id": "pl108-458",
+      "source": "sites/default/files/laws/pl108-458"
+    },
+    {
+      "id": "pl108-487",
+      "source": "sites/default/files/laws/pl108-487"
+    },
+    {
+      "id": "pl109-366",
+      "source": "sites/default/files/laws/pl109-366"
+    },
+    {
+      "id": "pl110261",
+      "source": "sites/default/files/laws/pl110261"
+    },
+    {
+      "id": "pl11053",
+      "source": "sites/default/files/laws/pl11053"
+    },
+    {
+      "id": "pl11055",
+      "source": "sites/default/files/laws/pl11055"
+    },
+    {
+      "id": "pl11218",
+      "source": "sites/default/files/laws/pl11218"
+    },
+    {
+      "id": "pl88-643",
+      "source": "sites/default/files/laws/pl88-643"
+    },
+    {
+      "id": "pl95-370",
+      "source": "sites/default/files/laws/pl95-370"
+    },
+    {
+      "id": "pl95-511",
+      "source": "sites/default/files/laws/pl95-511"
+    },
+    {
+      "id": "pl96-100",
+      "source": "sites/default/files/laws/pl96-100"
+    },
+    {
+      "id": "pl96-450",
+      "source": "sites/default/files/laws/pl96-450"
+    },
+    {
+      "id": "pl97-269",
+      "source": "sites/default/files/laws/pl97-269"
+    },
+    {
+      "id": "pl97-89",
+      "source": "sites/default/files/laws/pl97-89"
+    },
+    {
+      "id": "pl98-215",
+      "source": "sites/default/files/laws/pl98-215"
+    },
+    {
+      "id": "pl98-618",
+      "source": "sites/default/files/laws/pl98-618"
+    },
+    {
+      "id": "pl99-169",
+      "source": "sites/default/files/laws/pl99-169"
+    },
+    {
+      "id": "pl99-569",
+      "source": "sites/default/files/laws/pl99-569"
+    },
+    {
+      "id": "leg_history_kaiser_1978",
+      "source": "sites/default/files/leg_history_kaiser_1978"
+    },
+    {
+      "id": "113hr4681",
+      "source": "sites/default/files/legislation/113hr4681"
+    },
+    {
+      "id": "113intelauthfy14s1681",
+      "source": "sites/default/files/legislation/113intelauthfy14s1681"
+    },
+    {
+      "id": "114s1705",
+      "source": "sites/default/files/legislation/114s1705"
+    },
+    {
+      "id": "114s3017_0",
+      "source": "sites/default/files/legislation/114s3017_0"
+    },
+    {
+      "id": "115s133",
+      "source": "sites/default/files/legislation/115s133"
+    },
+    {
+      "id": "115s1761",
+      "source": "sites/default/files/legislation/115s1761"
+    },
+    {
+      "id": "2996",
+      "source": "sites/default/files/legislation/2996"
+    },
+    {
+      "id": "BILLS-107s2506rs",
+      "source": "sites/default/files/legislation/BILLS-107s2506rs"
+    },
+    {
+      "id": "BILLS-108s1025rs",
+      "source": "sites/default/files/legislation/BILLS-108s1025rs"
+    },
+    {
+      "id": "BILLS-110s1547pcs",
+      "source": "sites/default/files/legislation/BILLS-110s1547pcs"
+    },
+    {
+      "id": "BILLS-111hr2701eas",
+      "source": "sites/default/files/legislation/BILLS-111hr2701eas"
+    },
+    {
+      "id": "BILLS-111s3611es",
+      "source": "sites/default/files/legislation/BILLS-111s3611es"
+    },
+    {
+      "id": "BILLS-111s3611pcs",
+      "source": "sites/default/files/legislation/BILLS-111s3611pcs"
+    },
+    {
+      "id": "BILLS-112sres54rs",
+      "source": "sites/default/files/legislation/BILLS-112sres54rs"
+    },
+    {
+      "id": "BILLS-115s3153pcs",
+      "source": "sites/default/files/legislation/BILLS-115s3153pcs"
+    },
+    {
+      "id": "Cybersecurity-Act-Of-2015",
+      "source": "sites/default/files/legislation/Cybersecurity-Act-Of-2015"
+    },
+    {
+      "id": "FISA Amendments Reauthorization Act of 2017 - S. 2010 - GPO Print - 10.25.17",
+      "source": "sites/default/files/legislation/FISA Amendments Reauthorization Act of 2017 - S. 2010 - GPO Print - 10.25.17"
+    },
+    {
+      "id": "Intelligence-Authorization-Act-For-Fiscal-Year-2016",
+      "source": "sites/default/files/legislation/Intelligence-Authorization-Act-For-Fiscal-Year-2016"
+    },
+    {
+      "id": "PLAW-108publ207",
+      "source": "sites/default/files/legislation/PLAW-108publ207"
+    },
+    {
+      "id": "arm05j35_lc",
+      "source": "sites/default/files/legislation/arm05j35_lc"
+    },
+    {
+      "id": "bill",
+      "source": "sites/default/files/legislation/bill"
+    },
+    {
+      "id": "cia34",
+      "source": "sites/default/files/legislation/cia34"
+    },
+    {
+      "id": "cia35",
+      "source": "sites/default/files/legislation/cia35"
+    },
+    {
+      "id": "dni_ag_letter",
+      "source": "sites/default/files/legislation/dni_ag_letter"
+    },
+    {
+      "id": "dniletter",
+      "source": "sites/default/files/legislation/dniletter"
+    },
+    {
+      "id": "fy2012",
+      "source": "sites/default/files/legislation/fy2012"
+    },
+    {
+      "id": "fy2012bill_0",
+      "source": "sites/default/files/legislation/fy2012bill_0"
+    },
+    {
+      "id": "hr244",
+      "source": "sites/default/files/legislation/hr244"
+    },
+    {
+      "id": "hr5949",
+      "source": "sites/default/files/legislation/hr5949"
+    },
+    {
+      "id": "intelauthactfy12",
+      "source": "sites/default/files/legislation/intelauthactfy12"
+    },
+    {
+      "id": "intelauthactfy13",
+      "source": "sites/default/files/legislation/intelauthactfy13"
+    },
+    {
+      "id": "letter_27may2010",
+      "source": "sites/default/files/legislation/letter_27may2010"
+    },
+    {
+      "id": "olaletter",
+      "source": "sites/default/files/legislation/olaletter"
+    },
+    {
+      "id": "olaletter_1",
+      "source": "sites/default/files/legislation/olaletter_1"
+    },
+    {
+      "id": "roberts",
+      "source": "sites/default/files/legislation/roberts"
+    },
+    {
+      "id": "s1131681",
+      "source": "sites/default/files/legislation/s1131681"
+    },
+    {
+      "id": "s1132741",
+      "source": "sites/default/files/legislation/s1132741"
+    },
+    {
+      "id": "s1266",
+      "source": "sites/default/files/legislation/s1266"
+    },
+    {
+      "id": "s1428",
+      "source": "sites/default/files/legislation/s1428"
+    },
+    {
+      "id": "s1458",
+      "source": "sites/default/files/legislation/s1458"
+    },
+    {
+      "id": "s1494",
+      "source": "sites/default/files/legislation/s1494"
+    },
+    {
+      "id": "s1494a",
+      "source": "sites/default/files/legislation/s1494a"
+    },
+    {
+      "id": "s1631",
+      "source": "sites/default/files/legislation/s1631"
+    },
+    {
+      "id": "s2248",
+      "source": "sites/default/files/legislation/s2248"
+    },
+    {
+      "id": "s2386",
+      "source": "sites/default/files/legislation/s2386"
+    },
+    {
+      "id": "s3237",
+      "source": "sites/default/files/legislation/s3237"
+    },
+    {
+      "id": "s372",
+      "source": "sites/default/files/legislation/s372"
+    },
+    {
+      "id": "s719",
+      "source": "sites/default/files/legislation/s719"
+    },
+    {
+      "id": "s_3276",
+      "source": "sites/default/files/legislation/s_3276"
+    },
+    {
+      "id": "s_3454",
+      "source": "sites/default/files/legislation/s_3454"
+    },
+    {
+      "id": "senate3454",
+      "source": "sites/default/files/legislation/senate3454"
+    },
+    {
+      "id": "sres470",
+      "source": "sites/default/files/legislation/sres470"
+    },
+    {
+      "id": "sres50",
+      "source": "sites/default/files/legislation/sres50"
+    },
+    {
+      "id": "sres50_0",
+      "source": "sites/default/files/legislation/sres50_0"
+    },
+    {
+      "id": "sres51",
+      "source": "sites/default/files/legislation/sres51"
+    },
+    {
+      "id": "sres86",
+      "source": "sites/default/files/legislation/sres86"
+    },
+    {
+      "id": "statement",
+      "source": "sites/default/files/legislation/statement"
+    },
+    {
+      "id": "RELEASE 181004 DOJ Indicts Russian Hackers",
+      "source": "sites/default/files/press/RELEASE 181004 DOJ Indicts Russian Hackers"
+    },
+    {
+      "id": "additional-minority-views",
+      "source": "sites/default/files/press/additional-minority-views"
+    },
+    {
+      "id": "additional-minority",
+      "source": "sites/default/files/press/additional-minority"
+    },
+    {
+      "id": "benghazi",
+      "source": "sites/default/files/press/benghazi"
+    },
+    {
+      "id": "collins",
+      "source": "sites/default/files/press/collins"
+    },
+    {
+      "id": "executive-summary_0",
+      "source": "sites/default/files/press/executive-summary_0"
+    },
+    {
+      "id": "findings-and-conclusions",
+      "source": "sites/default/files/press/findings-and-conclusions"
+    },
+    {
+      "id": "findings",
+      "source": "sites/default/files/press/findings"
+    },
+    {
+      "id": "foreword",
+      "source": "sites/default/files/press/foreword"
+    },
+    {
+      "id": "heinrich",
+      "source": "sites/default/files/press/heinrich"
+    },
+    {
+      "id": "king",
+      "source": "sites/default/files/press/king"
+    },
+    {
+      "id": "minority-views",
+      "source": "sites/default/files/press/minority-views"
+    },
+    {
+      "id": "preamble",
+      "source": "sites/default/files/press/preamble"
+    },
+    {
+      "id": "recommendations",
+      "source": "sites/default/files/press/recommendations"
+    },
+    {
+      "id": "rockefeller",
+      "source": "sites/default/files/press/rockefeller"
+    },
+    {
+      "id": "udall",
+      "source": "sites/default/files/press/udall"
+    },
+    {
+      "id": "wyden",
+      "source": "sites/default/files/press/wyden"
+    },
+    {
+      "id": "100154",
+      "source": "sites/default/files/publications/100154"
+    },
+    {
+      "id": "100318",
+      "source": "sites/default/files/publications/100318"
+    },
+    {
+      "id": "100334",
+      "source": "sites/default/files/publications/100334"
+    },
+    {
+      "id": "10042",
+      "source": "sites/default/files/publications/10042"
+    },
+    {
+      "id": "100432",
+      "source": "sites/default/files/publications/100432"
+    },
+    {
+      "id": "10059",
+      "source": "sites/default/files/publications/10059"
+    },
+    {
+      "id": "1007",
+      "source": "sites/default/files/publications/1007"
+    },
+    {
+      "id": "100879",
+      "source": "sites/default/files/publications/100879"
+    },
+    {
+      "id": "100intelligence_oversight",
+      "source": "sites/default/files/publications/100intelligence_oversight"
+    },
+    {
+      "id": "101134",
+      "source": "sites/default/files/publications/101134"
+    },
+    {
+      "id": "101174",
+      "source": "sites/default/files/publications/101174"
+    },
+    {
+      "id": "101219",
+      "source": "sites/default/files/publications/101219"
+    },
+    {
+      "id": "101236",
+      "source": "sites/default/files/publications/101236"
+    },
+    {
+      "id": "101358",
+      "source": "sites/default/files/publications/101358"
+    },
+    {
+      "id": "101367",
+      "source": "sites/default/files/publications/101367"
+    },
+    {
+      "id": "10144",
+      "source": "sites/default/files/publications/10144"
+    },
+    {
+      "id": "10146",
+      "source": "sites/default/files/publications/10146"
+    },
+    {
+      "id": "101462",
+      "source": "sites/default/files/publications/101462"
+    },
+    {
+      "id": "10178",
+      "source": "sites/default/files/publications/10178"
+    },
+    {
+      "id": "101928",
+      "source": "sites/default/files/publications/101928"
+    },
+    {
+      "id": "102117",
+      "source": "sites/default/files/publications/102117"
+    },
+    {
+      "id": "102166",
+      "source": "sites/default/files/publications/102166"
+    },
+    {
+      "id": "10219",
+      "source": "sites/default/files/publications/10219"
+    },
+    {
+      "id": "10224",
+      "source": "sites/default/files/publications/10224"
+    },
+    {
+      "id": "102324",
+      "source": "sites/default/files/publications/102324"
+    },
+    {
+      "id": "102327",
+      "source": "sites/default/files/publications/102327"
+    },
+    {
+      "id": "102431",
+      "source": "sites/default/files/publications/102431"
+    },
+    {
+      "id": "10285",
+      "source": "sites/default/files/publications/10285"
+    },
+    {
+      "id": "102963",
+      "source": "sites/default/files/publications/102963"
+    },
+    {
+      "id": "103115",
+      "source": "sites/default/files/publications/103115"
+    },
+    {
+      "id": "10312",
+      "source": "sites/default/files/publications/10312"
+    },
+    {
+      "id": "10320",
+      "source": "sites/default/files/publications/10320"
+    },
+    {
+      "id": "10323",
+      "source": "sites/default/files/publications/10323"
+    },
+    {
+      "id": "10324",
+      "source": "sites/default/files/publications/10324"
+    },
+    {
+      "id": "103256",
+      "source": "sites/default/files/publications/103256"
+    },
+    {
+      "id": "103377",
+      "source": "sites/default/files/publications/103377"
+    },
+    {
+      "id": "103390",
+      "source": "sites/default/files/publications/103390"
+    },
+    {
+      "id": "10343",
+      "source": "sites/default/files/publications/10343"
+    },
+    {
+      "id": "10344",
+      "source": "sites/default/files/publications/10344"
+    },
+    {
+      "id": "103753",
+      "source": "sites/default/files/publications/103753"
+    },
+    {
+      "id": "10388",
+      "source": "sites/default/files/publications/10388"
+    },
+    {
+      "id": "10390",
+      "source": "sites/default/files/publications/10390"
+    },
+    {
+      "id": "103counterintelligence_and_security",
+      "source": "sites/default/files/publications/103counterintelligence_and_security"
+    },
+    {
+      "id": "10625",
+      "source": "sites/default/files/publications/10625"
+    },
+    {
+      "id": "107149",
+      "source": "sites/default/files/publications/107149"
+    },
+    {
+      "id": "107328",
+      "source": "sites/default/files/publications/107328"
+    },
+    {
+      "id": "10751",
+      "source": "sites/default/files/publications/10751"
+    },
+    {
+      "id": "10763",
+      "source": "sites/default/files/publications/10763"
+    },
+    {
+      "id": "10764",
+      "source": "sites/default/files/publications/10764"
+    },
+    {
+      "id": "107789",
+      "source": "sites/default/files/publications/107789"
+    },
+    {
+      "id": "108301",
+      "source": "sites/default/files/publications/108301"
+    },
+    {
+      "id": "108381",
+      "source": "sites/default/files/publications/108381"
+    },
+    {
+      "id": "10844",
+      "source": "sites/default/files/publications/10844"
+    },
+    {
+      "id": "10852",
+      "source": "sites/default/files/publications/10852"
+    },
+    {
+      "id": "108798",
+      "source": "sites/default/files/publications/108798"
+    },
+    {
+      "id": "109142",
+      "source": "sites/default/files/publications/109142"
+    },
+    {
+      "id": "10922",
+      "source": "sites/default/files/publications/10922"
+    },
+    {
+      "id": "109259",
+      "source": "sites/default/files/publications/109259"
+    },
+    {
+      "id": "109330",
+      "source": "sites/default/files/publications/109330"
+    },
+    {
+      "id": "109331",
+      "source": "sites/default/files/publications/109331"
+    },
+    {
+      "id": "109360",
+      "source": "sites/default/files/publications/109360"
+    },
+    {
+      "id": "10985",
+      "source": "sites/default/files/publications/10985"
+    },
+    {
+      "id": "110125",
+      "source": "sites/default/files/publications/110125"
+    },
+    {
+      "id": "110209",
+      "source": "sites/default/files/publications/110209"
+    },
+    {
+      "id": "1103",
+      "source": "sites/default/files/publications/1103"
+    },
+    {
+      "id": "110333",
+      "source": "sites/default/files/publications/110333"
+    },
+    {
+      "id": "110345",
+      "source": "sites/default/files/publications/110345"
+    },
+    {
+      "id": "110346",
+      "source": "sites/default/files/publications/110346"
+    },
+    {
+      "id": "110478",
+      "source": "sites/default/files/publications/110478"
+    },
+    {
+      "id": "11057",
+      "source": "sites/default/files/publications/11057"
+    },
+    {
+      "id": "11075",
+      "source": "sites/default/files/publications/11075"
+    },
+    {
+      "id": "11076",
+      "source": "sites/default/files/publications/11076"
+    },
+    {
+      "id": "111223",
+      "source": "sites/default/files/publications/111223"
+    },
+    {
+      "id": "11155",
+      "source": "sites/default/files/publications/11155"
+    },
+    {
+      "id": "11212",
+      "source": "sites/default/files/publications/11212"
+    },
+    {
+      "id": "11214",
+      "source": "sites/default/files/publications/11214"
+    },
+    {
+      "id": "112174",
+      "source": "sites/default/files/publications/112174"
+    },
+    {
+      "id": "112192",
+      "source": "sites/default/files/publications/112192"
+    },
+    {
+      "id": "113134",
+      "source": "sites/default/files/publications/113134"
+    },
+    {
+      "id": "1137",
+      "source": "sites/default/files/publications/1137"
+    },
+    {
+      "id": "114srpt277",
+      "source": "sites/default/files/publications/114srpt277"
+    },
+    {
+      "id": "115srpt151",
+      "source": "sites/default/files/publications/115srpt151"
+    },
+    {
+      "id": "28pages",
+      "source": "sites/default/files/publications/28pages"
+    },
+    {
+      "id": "77oil",
+      "source": "sites/default/files/publications/77oil"
+    },
+    {
+      "id": "941161",
+      "source": "sites/default/files/publications/941161"
+    },
+    {
+      "id": "941304",
+      "source": "sites/default/files/publications/941304"
+    },
+    {
+      "id": "94_comm_prt",
+      "source": "sites/default/files/publications/94_comm_prt"
+    },
+    {
+      "id": "951079",
+      "source": "sites/default/files/publications/951079"
+    },
+    {
+      "id": "9513",
+      "source": "sites/default/files/publications/9513"
+    },
+    {
+      "id": "951720",
+      "source": "sites/default/files/publications/951720"
+    },
+    {
+      "id": "95214",
+      "source": "sites/default/files/publications/95214"
+    },
+    {
+      "id": "95217",
+      "source": "sites/default/files/publications/95217"
+    },
+    {
+      "id": "95274",
+      "source": "sites/default/files/publications/95274"
+    },
+    {
+      "id": "955",
+      "source": "sites/default/files/publications/955"
+    },
+    {
+      "id": "95701",
+      "source": "sites/default/files/publications/95701"
+    },
+    {
+      "id": "95744",
+      "source": "sites/default/files/publications/95744"
+    },
+    {
+      "id": "95friendly",
+      "source": "sites/default/files/publications/95friendly"
+    },
+    {
+      "id": "95national_security_secrets",
+      "source": "sites/default/files/publications/95national_security_secrets"
+    },
+    {
+      "id": "95nie_ab",
+      "source": "sites/default/files/publications/95nie_ab"
+    },
+    {
+      "id": "95nsa",
+      "source": "sites/default/files/publications/95nsa"
+    },
+    {
+      "id": "95soviet_oil",
+      "source": "sites/default/files/publications/95soviet_oil"
+    },
+    {
+      "id": "961017",
+      "source": "sites/default/files/publications/961017"
+    },
+    {
+      "id": "961350",
+      "source": "sites/default/files/publications/961350"
+    },
+    {
+      "id": "96141",
+      "source": "sites/default/files/publications/96141"
+    },
+    {
+      "id": "96379",
+      "source": "sites/default/files/publications/96379"
+    },
+    {
+      "id": "96512",
+      "source": "sites/default/files/publications/96512"
+    },
+    {
+      "id": "96659",
+      "source": "sites/default/files/publications/96659"
+    },
+    {
+      "id": "9671",
+      "source": "sites/default/files/publications/9671"
+    },
+    {
+      "id": "96730",
+      "source": "sites/default/files/publications/96730"
+    },
+    {
+      "id": "96896",
+      "source": "sites/default/files/publications/96896"
+    },
+    {
+      "id": "96salt",
+      "source": "sites/default/files/publications/96salt"
+    },
+    {
+      "id": "97193",
+      "source": "sites/default/files/publications/97193"
+    },
+    {
+      "id": "97280",
+      "source": "sites/default/files/publications/97280"
+    },
+    {
+      "id": "97285",
+      "source": "sites/default/files/publications/97285"
+    },
+    {
+      "id": "97332",
+      "source": "sites/default/files/publications/97332"
+    },
+    {
+      "id": "97379",
+      "source": "sites/default/files/publications/97379"
+    },
+    {
+      "id": "97380",
+      "source": "sites/default/files/publications/97380"
+    },
+    {
+      "id": "97484",
+      "source": "sites/default/files/publications/97484"
+    },
+    {
+      "id": "9757",
+      "source": "sites/default/files/publications/9757"
+    },
+    {
+      "id": "97580",
+      "source": "sites/default/files/publications/97580"
+    },
+    {
+      "id": "97691",
+      "source": "sites/default/files/publications/97691"
+    },
+    {
+      "id": "97779",
+      "source": "sites/default/files/publications/97779"
+    },
+    {
+      "id": "97rules",
+      "source": "sites/default/files/publications/97rules"
+    },
+    {
+      "id": "9810",
+      "source": "sites/default/files/publications/9810"
+    },
+    {
+      "id": "98305",
+      "source": "sites/default/files/publications/98305"
+    },
+    {
+      "id": "9839",
+      "source": "sites/default/files/publications/9839"
+    },
+    {
+      "id": "98481",
+      "source": "sites/default/files/publications/98481"
+    },
+    {
+      "id": "98569",
+      "source": "sites/default/files/publications/98569"
+    },
+    {
+      "id": "98659",
+      "source": "sites/default/files/publications/98659"
+    },
+    {
+      "id": "98660",
+      "source": "sites/default/files/publications/98660"
+    },
+    {
+      "id": "98665",
+      "source": "sites/default/files/publications/98665"
+    },
+    {
+      "id": "9877",
+      "source": "sites/default/files/publications/9877"
+    },
+    {
+      "id": "99373",
+      "source": "sites/default/files/publications/99373"
+    },
+    {
+      "id": "9952",
+      "source": "sites/default/files/publications/9952"
+    },
+    {
+      "id": "99522",
+      "source": "sites/default/files/publications/99522"
+    },
+    {
+      "id": "9979",
+      "source": "sites/default/files/publications/9979"
+    },
+    {
+      "id": "99952",
+      "source": "sites/default/files/publications/99952"
+    },
+    {
+      "id": "9996",
+      "source": "sites/default/files/publications/9996"
+    },
+    {
+      "id": "CPRT-111SPRT48101",
+      "source": "sites/default/files/publications/CPRT-111SPRT48101"
+    },
+    {
+      "id": "CRPT-104hrpt427",
+      "source": "sites/default/files/publications/CRPT-104hrpt427"
+    },
+    {
+      "id": "CRPT-104hrpt832",
+      "source": "sites/default/files/publications/CRPT-104hrpt832"
+    },
+    {
+      "id": "CRPT-104srpt258",
+      "source": "sites/default/files/publications/CRPT-104srpt258"
+    },
+    {
+      "id": "CRPT-104srpt4",
+      "source": "sites/default/files/publications/CRPT-104srpt4"
+    },
+    {
+      "id": "CRPT-104srpt97",
+      "source": "sites/default/files/publications/CRPT-104srpt97"
+    },
+    {
+      "id": "CRPT-105hrpt350",
+      "source": "sites/default/files/publications/CRPT-105hrpt350"
+    },
+    {
+      "id": "CRPT-105hrpt780",
+      "source": "sites/default/files/publications/CRPT-105hrpt780"
+    },
+    {
+      "id": "CRPT-105srpt1",
+      "source": "sites/default/files/publications/CRPT-105srpt1"
+    },
+    {
+      "id": "CRPT-105srpt165",
+      "source": "sites/default/files/publications/CRPT-105srpt165"
+    },
+    {
+      "id": "CRPT-105srpt185",
+      "source": "sites/default/files/publications/CRPT-105srpt185"
+    },
+    {
+      "id": "CRPT-105srpt24",
+      "source": "sites/default/files/publications/CRPT-105srpt24"
+    },
+    {
+      "id": "CRPT-106hrpt457",
+      "source": "sites/default/files/publications/CRPT-106hrpt457"
+    },
+    {
+      "id": "CRPT-106hrpt969",
+      "source": "sites/default/files/publications/CRPT-106hrpt969"
+    },
+    {
+      "id": "CRPT-106srpt279",
+      "source": "sites/default/files/publications/CRPT-106srpt279"
+    },
+    {
+      "id": "CRPT-106srpt3",
+      "source": "sites/default/files/publications/CRPT-106srpt3"
+    },
+    {
+      "id": "CRPT-106srpt352",
+      "source": "sites/default/files/publications/CRPT-106srpt352"
+    },
+    {
+      "id": "CRPT-106srpt48",
+      "source": "sites/default/files/publications/CRPT-106srpt48"
+    },
+    {
+      "id": "CRPT-107srpt351-5",
+      "source": "sites/default/files/publications/CRPT-107srpt351-5"
+    },
+    {
+      "id": "CRPT-111srpt199",
+      "source": "sites/default/files/publications/CRPT-111srpt199"
+    },
+    {
+      "id": "CRPT-111srpt6",
+      "source": "sites/default/files/publications/CRPT-111srpt6"
+    },
+    {
+      "id": "CRPT-112srpt3",
+      "source": "sites/default/files/publications/CRPT-112srpt3"
+    },
+    {
+      "id": "CRPT-113srpt288",
+      "source": "sites/default/files/publications/CRPT-113srpt288"
+    },
+    {
+      "id": "CRPT-114srpt8",
+      "source": "sites/default/files/publications/CRPT-114srpt8"
+    },
+    {
+      "id": "CRPT-115srpt298",
+      "source": "sites/default/files/publications/CRPT-115srpt298"
+    },
+    {
+      "id": "Consolidated-Appropriation-Act-of-2016",
+      "source": "sites/default/files/publications/Consolidated-Appropriation-Act-of-2016"
+    },
+    {
+      "id": "Consolidated-Appropriation-Act-of-2017",
+      "source": "sites/default/files/publications/Consolidated-Appropriation-Act-of-2017"
+    },
+    {
+      "id": "FINALCDAExecSummaryredacted",
+      "source": "sites/default/files/publications/FINALCDAExecSummaryredacted"
+    },
+    {
+      "id": "FISA Report - S. 2010 - Final GPO 115-182 - 11.7.17",
+      "source": "sites/default/files/publications/FISA Report - S. 2010 - Final GPO 115-182 - 11.7.17"
+    },
+    {
+      "id": "ICA_2017_01",
+      "source": "sites/default/files/publications/ICA_2017_01"
+    },
+    {
+      "id": "Report 115-13",
+      "source": "sites/default/files/publications/Report 115-13"
+    },
+    {
+      "id": "RussRptInstlmt1",
+      "source": "sites/default/files/publications/RussRptInstlmt1"
+    },
+    {
+      "id": "abledanger",
+      "source": "sites/default/files/publications/abledanger"
+    },
+    {
+      "id": "bond",
+      "source": "sites/default/files/publications/bond"
+    },
+    {
+      "id": "clark",
+      "source": "sites/default/files/publications/clark"
+    },
+    {
+      "id": "commissionreport",
+      "source": "sites/default/files/publications/commissionreport"
+    },
+    {
+      "id": "earmarks",
+      "source": "sites/default/files/publications/earmarks"
+    },
+    {
+      "id": "final",
+      "source": "sites/default/files/publications/final"
+    },
+    {
+      "id": "igreport",
+      "source": "sites/default/files/publications/igreport"
+    },
+    {
+      "id": "olcopinion",
+      "source": "sites/default/files/publications/olcopinion"
+    },
+    {
+      "id": "prequestions",
+      "source": "sites/default/files/publications/prequestions"
+    },
+    {
+      "id": "questionnaire",
+      "source": "sites/default/files/publications/questionnaire"
+    },
+    {
+      "id": "questionnaire_0",
+      "source": "sites/default/files/publications/questionnaire_0"
+    },
+    {
+      "id": "responses",
+      "source": "sites/default/files/publications/responses"
+    },
+    {
+      "id": "s11243",
+      "source": "sites/default/files/publications/s11243"
+    },
+    {
+      "id": "sprt1137",
+      "source": "sites/default/files/publications/sprt1137"
+    },
+    {
+      "id": "srpt108-258",
+      "source": "sites/default/files/publications/srpt108-258"
+    },
+    {
+      "id": "srpt110-2",
+      "source": "sites/default/files/publications/srpt110-2"
+    },
+    {
+      "id": "srpt113119",
+      "source": "sites/default/files/publications/srpt113119"
+    },
+    {
+      "id": "srpt113120",
+      "source": "sites/default/files/publications/srpt113120"
+    },
+    {
+      "id": "srpt113233",
+      "source": "sites/default/files/publications/srpt113233"
+    },
+    {
+      "id": "srpt11483",
+      "source": "sites/default/files/publications/srpt11483"
+    },
+    {
+      "id": "ssci_ica",
+      "source": "sites/default/files/publications/ssci_ica"
+    },
+    {
+      "id": "two",
+      "source": "sites/default/files/publications/two"
+    },
+    {
+      "id": "wwt2016",
+      "source": "sites/default/files/wwt2016"
+    },
+    {
+      "id": "",
+      "source": ""
+    }
+  ]
+}

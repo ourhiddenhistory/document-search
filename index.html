@@ -1,0 +1,73 @@
+---
+layout: page
+permalink: index.html
+app: search-doc-app
+---
+
+  <main class="content">
+    <div class="scrolling-pane">
+      <div class="search-panel">
+        <div class="input-group mb-3">
+          <input
+            id="search"
+            type="text"
+            class="form-control"
+            placeholder="Search term..."
+            aria-label="Search term"
+            aria-describedby="basic-addon2">
+          <div class="input-group-append">
+            <button id="search_btn" class="btn btn-info" type="button">SEARCH</button>
+          </div>
+        </div>
+
+        <ul class="search-panel__pagination pagination-sm"></ul>
+
+        <div class="results-container"></div>
+
+        <ul class="search-panel__pagination pagination-sm"></ul>
+
+      </div>
+    </div>
+    <div class="scrolling-pane">
+      <div class="entry-panel">
+        <div class="toolbar-doc"></div>
+        <div class="entry-panel__meta"></div>
+        <div class="entry-panel__content entry-panel__content--entry">
+
+        </div>
+        <div class="toolbar-entry">
+          <div>
+          </div>
+          <div>
+            <div class="btn-group" role="group" aria-label="Image Controls">
+              <button type="button"
+                      title="Lock display to images"
+                      class="toolbar-entry__disp-img-lock btn btn-sm btn-secondary"
+                      data-toggle="tooltip" data-placement="top" title="Click to lock images" >
+               <i class="fa fa-lock" aria-hidden="true"></i>
+             </button>
+             <button
+               type="button"
+               class="toolbar-entry__disp-img btn btn-sm btn-secondary"
+               data-toggle="tooltip" data-placement="top" title="Show image of original">img</button>
+            </div>
+            <button type="button" class="toolbar-entry__disp-txt btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Show ocr text">txt</button>
+          </div>
+          <div>
+            <button type="button" class="toolbar-entry__page-prev btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Visit previous page">
+              <i class="fa fa-chevron-left" aria-hidden="true"></i>
+            </button>
+            <button type="button" class="toolbar-entry__page-next btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Visit next page" >
+              <i class="fa fa-chevron-right" aria-hidden="true"></i>
+            </button>
+          </div>
+          <div>
+            <a class="toolbar-entry__open-pdf btn btn-sm btn-secondary disabled" data-toggle="tooltip" data-placement="top" title="Open pdf (if available)" target="_blank">
+              pdf <i class="fa fa-chevron-right" aria-hidden="true"></i>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </main>

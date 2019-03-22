@@ -1,0 +1,123 @@
+{
+  "id": "109",
+  "shortname": "org-crime",
+  "collection": "Organized Crime",
+  "alt_names": [],
+  "date": "1958",
+  "description": "Kefauver Commission Hearings",
+  "important": "",
+  "source": "https://archive.org/search.php?query=creator%3A%22United+States.+Congress.+Senate.+Special+Committee+to+Investigate+Organized+Crime+in+Interstate+Commerce%22",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "investigationofo0112unit",
+      "doc_name": "Kefauver Commission Hearings, Index",
+      "source": "investigationofo0112unit/investigationofo0112unit"
+    },
+    {
+      "id": "investigationofo01aunit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 1A",
+      "source": "investigationofo01aunit/investigationofo01aunit"
+    },
+    {
+      "id": "investigationofo01unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 1",
+      "source": "investigationofo01unit/investigationofo01unit"
+    },
+    {
+      "id": "investigationofo02unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 2",
+      "source": "investigationofo02unit/investigationofo02unit"
+    },
+    {
+      "id": "investigationofo03unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 3",
+      "source": "investigationofo03unit/investigationofo03unit"
+    },
+    {
+      "id": "investigationofo04aunit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 4A",
+      "source": "investigationofo04aunit/investigationofo04aunit"
+    },
+    {
+      "id": "investigationofo04unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 4",
+      "source": "investigationofo04unit/investigationofo04unit"
+    },
+    {
+      "id": "investigationofo05unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 5",
+      "source": "investigationofo05unit/investigationofo05unit"
+    },
+    {
+      "id": "investigationofo06unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 6",
+      "source": "investigationofo06unit/investigationofo06unit"
+    },
+    {
+      "id": "investigationofo07unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 7",
+      "source": "investigationofo07unit/investigationofo07unit"
+    },
+    {
+      "id": "investigationofo08unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 8",
+      "source": "investigationofo08unit/investigationofo08unit"
+    },
+    {
+      "id": "investigationofo09unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 9",
+      "source": "investigationofo09unit/investigationofo09unit"
+    },
+    {
+      "id": "investigationofo10unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 10",
+      "source": "investigationofo10unit/investigationofo10unit"
+    },
+    {
+      "id": "investigationofo11unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 11",
+      "source": "investigationofo11unit/investigationofo11unit"
+    },
+    {
+      "id": "investigationofo12unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 12",
+      "source": "investigationofo12unit/investigationofo12unit"
+    },
+    {
+      "id": "investigationofo13unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 13",
+      "source": "investigationofo13unit/investigationofo13unit"
+    },
+    {
+      "id": "investigationofo14unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 14",
+      "source": "investigationofo14unit/investigationofo14unit"
+    },
+    {
+      "id": "investigationofo15unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 15",
+      "source": "investigationofo15unit/investigationofo15unit"
+    },
+    {
+      "id": "investigationofo16unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 16",
+      "source": "investigationofo16unit/investigationofo16unit"
+    },
+    {
+      "id": "investigationofo17unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 17",
+      "source": "investigationofo17unit/investigationofo17unit"
+    },
+    {
+      "id": "investigationofo18unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 18",
+      "source": "investigationofo18unit/investigationofo18unit"
+    },
+    {
+      "id": "investigationofo19unit",
+      "doc_name": "Kefauver Commission Hearings, Vol. 19",
+      "source": "investigationofo19unit/investigationofo19unit"
+    }
+  ]
+}

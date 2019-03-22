@@ -1,0 +1,113 @@
+{
+  "id": "038",
+  "shortname": "jfk-independent",
+  "collection": "JFK Assassination: Independent Research",
+  "alt_names": [],
+  "date": "1967",
+  "description": "",
+  "important": "",
+  "source": "https://www.archives.gov/research/jfk/2017-release",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Accessories After the Fact by Sylvia Meagher",
+      "source": "https://archive.org/stream/AccessoriesAfterTheFact/Accessories_After_The_Fact"
+    },
+    {
+      "id": "002",
+      "doc_name": "Cover Up by Gary Shaw",
+      "source": "https://archive.org/stream/CoverUp_201510/Cover_Up"
+    },
+    {
+      "id": "003",
+      "doc_name": "Forgive My Grief, Part 1 by Penn Jones",
+      "source": "https://archive.org/stream/ForgiveMyGriefPennJonesJr/Forgive_My_Grief_01"
+    },
+    {
+      "id": "004",
+      "doc_name": "Forgive My Grief, Part 2 by Penn Jones",
+      "source": "https://archive.org/stream/ForgiveMyGriefPennJonesJr/Forgive_My_Grief_02"
+    },
+    {
+      "id": "005",
+      "doc_name": "Forgive My Grief, Part 3 by Penn Jones",
+      "source": "https://archive.org/stream/ForgiveMyGriefPennJonesJr/Forgive_My_Grief_03"
+    },
+    {
+      "id": "006",
+      "doc_name": "Forgive My Grief, Part 4 by Penn Jones",
+      "source": "https://archive.org/stream/ForgiveMyGriefPennJonesJr/Forgive_My_Grief_04"
+    },
+    {
+      "id": "007",
+      "doc_name": "Six Seconds in Dallas by Josiah Thompson",
+      "source": "https://archive.org/stream/SixSecondsInDallas/Six_Seconds_In_Dallas"
+    },
+    {
+      "id": "008",
+      "doc_name": "'The Assassination of the Late President John F. Kennedy: An Academician's Thoughts' by Charles G. Wilber, Ph.D.",
+      "source": false
+    },
+    {
+      "id": "009",
+      "doc_name": "'Press Coverage of the Investigation and Controversy Surrounding the JFK Assassination: The Case of Time Magazine' by Gerald Ginocchio",
+      "source": false
+    },
+    {
+      "id": "010",
+      "doc_name": "'How Kennedy Was Killed' by Joachim Joesten",
+      "source": false
+    },
+    {
+      "id": "011",
+      "doc_name": "'Investigation of a Homicide' by Judy Whitson Bonner",
+      "source": false
+    },
+    {
+      "id": "012",
+      "doc_name": "'Marina Oswald' by Joachim Joesten",
+      "source": false
+    },
+    {
+      "id": "013",
+      "doc_name": "'Marina Oswald' by Joachim Joesten (original copy)",
+      "source": false
+    },
+    {
+      "id": "014",
+      "doc_name": "'Missing Links of the JFK Assassination Conspiracy' by Ralph D. Thomas",
+      "source": false
+    },
+    {
+      "id": "015",
+      "doc_name": "'Oswald in New Orleans: Case of Conspiracy with the CIA' by Harold Weisberg",
+      "source": false
+    },
+    {
+      "id": "016",
+      "doc_name": "'Oswald: The Truth' by Joachim Joesten",
+      "source": false
+    },
+    {
+      "id": "017",
+      "doc_name": "'The Bastard Bullet' by Raymond Marcus",
+      "source": false
+    },
+    {
+      "id": "018",
+      "doc_name": "'The Bastard Bullet' by Raymond Marcus (alternate copy)",
+      "source": false
+    },
+    {
+      "id": "plausible-lane",
+      "doc_name": "'Plausible Denial' by Mark Lane",
+      "source": false
+    },
+    {
+      "id": "prouty-jfk",
+      "doc_name": "'JFK' by L. Fletcher Prouty",
+      "source": false
+    }
+  ]
+}

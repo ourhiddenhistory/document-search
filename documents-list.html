@@ -1,0 +1,63 @@
+---
+layout: page
+title: "Documents List"
+---
+<div class="container">
+
+  <div class="page-container">
+
+    <h2>Documents List</h2>
+    <p>Unless indicated with 'In Progress', the following documents are indexed and available to be searched. All pdfs are linked below.</p>
+    <p>Dates below are approximate and used for ordering. Included content may extend from before or after listed dates.</p>
+
+    <div id="#accordion">
+      {% assign sorted_cols = site.data.DOCS_NOWRITE | sort:"date" %}
+      {% for col in sorted_cols %}
+
+        {% if col.hide != true %}
+
+          <div class="card">
+            <div class="card-header" id="heading{{forloop.index}}">
+              <h5 class="mb-0">
+                <a href="{{col.source}}" target="_blank">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                </a>
+                <a class="doclist__reveal" data-toggle="collapse" data-target="#collapse{{forloop.index}}" aria-expanded="true" aria-controls="collapse{{forloop.index}}">
+                   <em>{{col.alt_names}}</em> <strong>{{col.collection}}</strong> <em>{{col.date}}</em>
+                </a>
+              </h5>
+            </div>
+            <div id="collapse{{forloop.index}}" class="collapse" aria-labelledby="heading{{forloop.index}}" data-parent="#accordion">
+              <div class="card-body">
+                <div class="doclist__important">{{col.important}}</div>
+                <div class="doclist__description">{{col.description}}</div>
+                <hr />
+                <div class="doclist__fileslist">
+                  {% if col.hide_files != true and col.files.size > 0 %}
+                    <ul>
+
+                    {% for file in col.files %}
+                      <li>
+                        {% if file.source %}
+                        <a href="{{file.source}}" target="_blank">
+                          <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                        </a>
+                        {% endif %}
+                        {{ file.doc_name }}
+                      </li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+
+        {% endif %}
+
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,252 @@
+{
+  "id": "027",
+  "shortname": "ruppert-michael",
+  "collection": "Michael Ruppert - From the Wilderness Newsletters",
+  "alt_names": [],
+  "date": "2002",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/FromTheWildernessNewsletters",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "2002, March",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020301"
+    },
+    {
+      "id": "002",
+      "doc_name": "2002, April",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020401"
+    },
+    {
+      "id": "003",
+      "doc_name": "2002, May",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020506"
+    },
+    {
+      "id": "004",
+      "doc_name": "2002, June",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020601"
+    },
+    {
+      "id": "005",
+      "doc_name": "2002, July",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020701"
+    },
+    {
+      "id": "006",
+      "doc_name": "2002, August",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20020801"
+    },
+    {
+      "id": "007",
+      "doc_name": "2002, October",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20021001"
+    },
+    {
+      "id": "008",
+      "doc_name": "2002, November",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20021104"
+    },
+    {
+      "id": "009",
+      "doc_name": "2002, December",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20021231"
+    },
+    {
+      "id": "010",
+      "doc_name": "2003, January",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030101"
+    },
+    {
+      "id": "011",
+      "doc_name": "2003, February",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030201"
+    },
+    {
+      "id": "012",
+      "doc_name": "2003, March",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030301"
+    },
+    {
+      "id": "013",
+      "doc_name": "2003, April",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030401"
+    },
+    {
+      "id": "014",
+      "doc_name": "2003, May",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030501"
+    },
+    {
+      "id": "015",
+      "doc_name": "2003, June",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030601"
+    },
+    {
+      "id": "016",
+      "doc_name": "2003, July",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030701"
+    },
+    {
+      "id": "017",
+      "doc_name": "2003, August",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030801"
+    },
+    {
+      "id": "018",
+      "doc_name": "2003, September",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20030901"
+    },
+    {
+      "id": "019",
+      "doc_name": "2003, October",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20031001"
+    },
+    {
+      "id": "020",
+      "doc_name": "2003, December",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20031201"
+    },
+    {
+      "id": "021",
+      "doc_name": "2004, January",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040101"
+    },
+    {
+      "id": "022",
+      "doc_name": "2004, February",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040201"
+    },
+    {
+      "id": "023",
+      "doc_name": "2004, March",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040301"
+    },
+    {
+      "id": "024",
+      "doc_name": "2004, April",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040401"
+    },
+    {
+      "id": "025",
+      "doc_name": "2004, May",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040501"
+    },
+    {
+      "id": "026",
+      "doc_name": "2004, June 1st",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040601"
+    },
+    {
+      "id": "027",
+      "doc_name": "2004, June 10th",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040610"
+    },
+    {
+      "id": "028",
+      "doc_name": "2004, July",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040701"
+    },
+    {
+      "id": "029",
+      "doc_name": "2004, August",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20040801"
+    },
+    {
+      "id": "030",
+      "doc_name": "2004, November",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20041107"
+    },
+    {
+      "id": "031",
+      "doc_name": "2004, December",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20041207"
+    },
+    {
+      "id": "032",
+      "doc_name": "2005, January",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050110"
+    },
+    {
+      "id": "033",
+      "doc_name": "2005, February",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050204"
+    },
+    {
+      "id": "034",
+      "doc_name": "2005, March",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050308"
+    },
+    {
+      "id": "035",
+      "doc_name": "2005, April",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050410"
+    },
+    {
+      "id": "036",
+      "doc_name": "2005, May",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050512"
+    },
+    {
+      "id": "037",
+      "doc_name": "2005, June",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050611"
+    },
+    {
+      "id": "038",
+      "doc_name": "2005, July 12th",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050712"
+    },
+    {
+      "id": "039",
+      "doc_name": "2005, July 31st",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050731"
+    },
+    {
+      "id": "040",
+      "doc_name": "2005, August",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050831"
+    },
+    {
+      "id": "041",
+      "doc_name": "2005, September",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20050930"
+    },
+    {
+      "id": "042",
+      "doc_name": "2005, November",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20051103"
+    },
+    {
+      "id": "043",
+      "doc_name": "2005, December",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20051231"
+    },
+    {
+      "id": "044",
+      "doc_name": "2006, January",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20060130"
+    },
+    {
+      "id": "045",
+      "doc_name": "2006, March",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20060313"
+    },
+    {
+      "id": "046",
+      "doc_name": "2006, April",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20060430"
+    },
+    {
+      "id": "047",
+      "doc_name": "2006, May",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20060531"
+    },
+    {
+      "id": "048",
+      "doc_name": "2006, June",
+      "source": "https://archive.org/stream/FromTheWildernessNewsletters/FTW-20060630"
+    }
+  ]
+}

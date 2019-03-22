@@ -1,0 +1,37 @@
+{
+  "id": "059",
+  "shortname": "iraq",
+  "collection": "Iraq",
+  "alt_names": [],
+  "date": "2004",
+  "important": "",
+  "description": "",
+  "source": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "108301",
+      "doc_name": "U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq, US Senate Select Committee on Intelligence",
+      "date": "2004-07-09",
+      "source": "https://www.intelligence.senate.gov/sites/default/files/publications/108301.pdf"
+    },
+    {
+      "id": "109330",
+      "doc_name": "The Use by the Intelligence Community Of Information Provided by The Iraqi National Congress, US Senate Select Committee on Intelligence",
+      "date": "2006-09-08",
+      "source": "https://www.intelligence.senate.gov/sites/default/files/publications/109330.pdf"
+    },
+    {
+      "id": "109331",
+      "doc_name": "Postwar Findings about Iraq’s Wmd Programs And Links to Terrorism and How They Compare WithPrewar Assessments, US Senate Select Committee on Intelligence",
+      "date": "2006-09-08",
+      "source": "https://www.intelligence.senate.gov/sites/default/files/publications/109331.pdf"
+    },
+    {
+      "id": "110346",
+      "doc_name": "Intelligence Activities Relating to Iraq Conducted by the Policy Counterterrorism Evaluation Group and the Office Of Special Plans Within the Office of The Under Secretary of Defense for Policy, US Senate Select Committee on Intelligence",
+      "date": "2008-06-05",
+      "source": "https://www.intelligence.senate.gov/sites/default/files/publications/110346.pdf"
+    }
+  ]
+}

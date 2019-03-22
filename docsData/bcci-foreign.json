@@ -1,0 +1,47 @@
+{
+  "id": "001",
+  "shortname": "bcci-foreign",
+  "collection": "Bank of Credit and Commerce International (BCCI) Hearings, Terrorism, Narcotics, International Operations Committee",
+  "alt_names": [],
+  "date": "1992",
+  "important": "",
+  "description": "",
+  "source": "https://archive.org/details/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Part 1",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%201"
+    },
+    {
+      "id": "002",
+      "doc_name": "Part 2",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%202"
+    },
+    {
+      "id": "003",
+      "doc_name": "Part 3",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%203"
+    },
+    {
+      "id": "004",
+      "doc_name": "Part 4",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%204"
+    },
+    {
+      "id": "005",
+      "doc_name": "Part 5",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%205"
+    },
+    {
+      "id": "006",
+      "doc_name": "Part 6",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Hearings%20before%20the%20Terrorism%2C%20Narcotics%2C%20and%20International%20Operations%20of%20the%20Committee%20on%20Foreign%20Relations%20Volume%206"
+    },
+    {
+      "id": "007",
+      "doc_name": "Final Report",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheTerrorismNarcoticsAndInternationalOperationsOfTheCommitteeOnForeignRelations/BCCI%20Affair%20Report"
+    }
+  ]
+}

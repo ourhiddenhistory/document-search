@@ -1,0 +1,3772 @@
+{
+  "id": "042",
+  "shortname": "stone-if",
+  "collection": "I.F. Stone's Weekly",
+  "alt_names": [],
+  "date": "1953-1971",
+  "description": "Courtesy IFstone.org.",
+  "source": "http://www.ifstone.org/weekly_searchable.php",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "collectedifstone",
+      "doc_name": "Collected IF Stone",
+      "source": "http://www.ifstone.org/collectedifstone.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953apr04",
+      "doc_name": "1953 apr 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953apr04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953apr11",
+      "doc_name": "1953 apr 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953apr11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953apr18",
+      "doc_name": "1953 apr 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953apr18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953apr25",
+      "doc_name": "1953 apr 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953apr25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953aug01",
+      "doc_name": "1953 aug 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953aug01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953aug08",
+      "doc_name": "1953 aug 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953aug08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953aug15",
+      "doc_name": "1953 aug 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953aug15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953dec07",
+      "doc_name": "1953 dec 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953dec07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953dec14",
+      "doc_name": "1953 dec 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953dec14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953dec21",
+      "doc_name": "1953 dec 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953dec21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953dec27",
+      "doc_name": "1953 dec 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953dec27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953feb07",
+      "doc_name": "1953 feb 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953feb07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953feb14",
+      "doc_name": "1953 feb 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953feb14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953feb21",
+      "doc_name": "1953 feb 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953feb21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953feb28",
+      "doc_name": "1953 feb 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953feb28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jan17",
+      "doc_name": "1953 jan 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jan17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jan24",
+      "doc_name": "1953 jan 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jan24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jan31",
+      "doc_name": "1953 jan 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jan31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jul04",
+      "doc_name": "1953 jul 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jul04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jul11",
+      "doc_name": "1953 jul 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jul11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jul18",
+      "doc_name": "1953 jul 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jul18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jul25",
+      "doc_name": "1953 jul 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jul25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jun06",
+      "doc_name": "1953 jun 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jun06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jun13",
+      "doc_name": "1953 jun 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jun13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jun20",
+      "doc_name": "1953 jun 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jun20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953jun27",
+      "doc_name": "1953 jun 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953jun27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953mar07",
+      "doc_name": "1953 mar 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953mar07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953mar14",
+      "doc_name": "1953 mar 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953mar14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953mar21",
+      "doc_name": "1953 mar 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953mar21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953mar28",
+      "doc_name": "1953 mar 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953mar28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953may02",
+      "doc_name": "1953 may 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953may02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953may09",
+      "doc_name": "1953 may 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953may09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953may16",
+      "doc_name": "1953 may 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953may16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953may30",
+      "doc_name": "1953 may 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953may30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953nov07",
+      "doc_name": "1953 nov 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953nov07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953nov14",
+      "doc_name": "1953 nov 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953nov14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953nov23",
+      "doc_name": "1953 nov 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953nov23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953nov30",
+      "doc_name": "1953 nov 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953nov30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953oct03",
+      "doc_name": "1953 oct 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953oct03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953oct10",
+      "doc_name": "1953 oct 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953oct10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953oct17",
+      "doc_name": "1953 oct 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953oct17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953oct24",
+      "doc_name": "1953 oct 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953oct24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953oct31",
+      "doc_name": "1953 oct 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953oct31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953sep05",
+      "doc_name": "1953 sep 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953sep05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953sep12",
+      "doc_name": "1953 sep 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953sep12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953sep19",
+      "doc_name": "1953 sep 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953sep19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1953sep26",
+      "doc_name": "1953 sep 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1953sep26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954apr05",
+      "doc_name": "1954 apr 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954apr05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954apr12",
+      "doc_name": "1954 apr 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954apr12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954apr19",
+      "doc_name": "1954 apr 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954apr19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954apr26",
+      "doc_name": "1954 apr 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954apr26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954aug02",
+      "doc_name": "1954 aug 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954aug02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954aug09",
+      "doc_name": "1954 aug 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954aug09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954aug16",
+      "doc_name": "1954 aug 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954aug16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954dec06",
+      "doc_name": "1954 dec 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954dec06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954dec13",
+      "doc_name": "1954 dec 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954dec13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954dec20",
+      "doc_name": "1954 dec 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954dec20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954feb01",
+      "doc_name": "1954 feb 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954feb01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954feb08",
+      "doc_name": "1954 feb 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954feb08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954feb15",
+      "doc_name": "1954 feb 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954feb15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jan02",
+      "doc_name": "1954 jan 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jan02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jan11",
+      "doc_name": "1954 jan 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jan11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jan18",
+      "doc_name": "1954 jan 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jan18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jan25",
+      "doc_name": "1954 jan 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jan25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jul05",
+      "doc_name": "1954 jul 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jul05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jul12",
+      "doc_name": "1954 jul 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jul12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jul19",
+      "doc_name": "1954 jul 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jul19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jul26",
+      "doc_name": "1954 jul 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jul26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jun07",
+      "doc_name": "1954 jun 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jun07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jun14",
+      "doc_name": "1954 jun 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jun14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jun21",
+      "doc_name": "1954 jun 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jun21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954jun28",
+      "doc_name": "1954 jun 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954jun28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954mar01",
+      "doc_name": "1954 mar 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954mar01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954mar08",
+      "doc_name": "1954 mar 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954mar08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954mar15",
+      "doc_name": "1954 mar 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954mar15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954mar22",
+      "doc_name": "1954 mar 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954mar22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954mar29",
+      "doc_name": "1954 mar 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954mar29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954may03",
+      "doc_name": "1954 may 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954may03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954may10",
+      "doc_name": "1954 may 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954may10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954may17",
+      "doc_name": "1954 may 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954may17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954may24",
+      "doc_name": "1954 may 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954may24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954may31",
+      "doc_name": "1954 may 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954may31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954nov01",
+      "doc_name": "1954 nov 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954nov01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954nov08",
+      "doc_name": "1954 nov 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954nov08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954nov15",
+      "doc_name": "1954 nov 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954nov15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954nov22",
+      "doc_name": "1954 nov 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954nov22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954nov29",
+      "doc_name": "1954 nov 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954nov29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954oct04",
+      "doc_name": "1954 oct 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954oct04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954oct11",
+      "doc_name": "1954 oct 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954oct11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954oct18",
+      "doc_name": "1954 oct 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954oct18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954oct25",
+      "doc_name": "1954 oct 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954oct25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954sep06",
+      "doc_name": "1954 sep 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954sep06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954sep13",
+      "doc_name": "1954 sep 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954sep13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954sep20",
+      "doc_name": "1954 sep 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954sep20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1954sep27",
+      "doc_name": "1954 sep 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1954sep27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955apr04",
+      "doc_name": "1955 apr 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955apr04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955apr11",
+      "doc_name": "1955 apr 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955apr11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955apr18",
+      "doc_name": "1955 apr 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955apr18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955apr25",
+      "doc_name": "1955 apr 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955apr25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955aug01",
+      "doc_name": "1955 aug 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955aug01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955aug08",
+      "doc_name": "1955 aug 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955aug08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955aug15",
+      "doc_name": "1955 aug 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955aug15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955dec05",
+      "doc_name": "1955 dec 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955dec05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955dec12",
+      "doc_name": "1955 dec 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955dec12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955dec19",
+      "doc_name": "1955 dec 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955dec19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955feb07",
+      "doc_name": "1955 feb 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955feb07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955feb14",
+      "doc_name": "1955 feb 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955feb14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955feb21",
+      "doc_name": "1955 feb 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955feb21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955feb28",
+      "doc_name": "1955 feb 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955feb28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jan10",
+      "doc_name": "1955 jan 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jan10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jan17",
+      "doc_name": "1955 jan 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jan17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jan24",
+      "doc_name": "1955 jan 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jan24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jan31",
+      "doc_name": "1955 jan 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jan31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jul04",
+      "doc_name": "1955 jul 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jul04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jul11",
+      "doc_name": "1955 jul 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jul11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jul18",
+      "doc_name": "1955 jul 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jul18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jul25",
+      "doc_name": "1955 jul 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jul25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jun06",
+      "doc_name": "1955 jun 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jun06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jun13",
+      "doc_name": "1955 jun 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jun13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jun20",
+      "doc_name": "1955 jun 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jun20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955jun27",
+      "doc_name": "1955 jun 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955jun27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955mar07",
+      "doc_name": "1955 mar 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955mar07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955mar14",
+      "doc_name": "1955 mar 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955mar14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955mar21",
+      "doc_name": "1955 mar 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955mar21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955mar28",
+      "doc_name": "1955 mar 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955mar28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955may02",
+      "doc_name": "1955 may 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955may02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955may09",
+      "doc_name": "1955 may 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955may09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955may16",
+      "doc_name": "1955 may 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955may16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955may23",
+      "doc_name": "1955 may 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955may23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955may30",
+      "doc_name": "1955 may 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955may30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955nov07",
+      "doc_name": "1955 nov 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955nov07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955nov14",
+      "doc_name": "1955 nov 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955nov14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955nov21",
+      "doc_name": "1955 nov 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955nov21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955nov28",
+      "doc_name": "1955 nov 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955nov28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955oct03",
+      "doc_name": "1955 oct 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955oct03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955oct10",
+      "doc_name": "1955 oct 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955oct10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955oct17",
+      "doc_name": "1955 oct 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955oct17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955oct24",
+      "doc_name": "1955 oct 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955oct24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955oct31",
+      "doc_name": "1955 oct 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955oct31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955sep05",
+      "doc_name": "1955 sep 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955sep05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955sep12",
+      "doc_name": "1955 sep 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955sep12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955sep19",
+      "doc_name": "1955 sep 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955sep19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1955sep26",
+      "doc_name": "1955 sep 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1955sep26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956apr02",
+      "doc_name": "1956 apr 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956apr02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956apr23",
+      "doc_name": "1956 apr 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956apr23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956apr30",
+      "doc_name": "1956 apr 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956apr30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956aug06",
+      "doc_name": "1956 aug 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956aug06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956aug13",
+      "doc_name": "1956 aug 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956aug13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956aug20",
+      "doc_name": "1956 aug 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956aug20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956aug27",
+      "doc_name": "1956 aug 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956aug27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956dec03",
+      "doc_name": "1956 dec 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956dec03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956dec10",
+      "doc_name": "1956 dec 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956dec10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956dec17",
+      "doc_name": "1956 dec 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956dec17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956feb06",
+      "doc_name": "1956 feb 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956feb06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956feb13",
+      "doc_name": "1956 feb 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956feb13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956feb20",
+      "doc_name": "1956 feb 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956feb20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956feb27",
+      "doc_name": "1956 feb 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956feb27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jan09",
+      "doc_name": "1956 jan 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jan09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jan16",
+      "doc_name": "1956 jan 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jan16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jan23",
+      "doc_name": "1956 jan 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jan23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jan30",
+      "doc_name": "1956 jan 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jan30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jul02",
+      "doc_name": "1956 jul 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jul02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jul09",
+      "doc_name": "1956 jul 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jul09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jul16",
+      "doc_name": "1956 jul 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jul16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jul23",
+      "doc_name": "1956 jul 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jul23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jul30",
+      "doc_name": "1956 jul 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jul30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jun04",
+      "doc_name": "1956 jun 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jun04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jun11",
+      "doc_name": "1956 jun 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jun11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jun18",
+      "doc_name": "1956 jun 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jun18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956jun25",
+      "doc_name": "1956 jun 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956jun25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956mar05",
+      "doc_name": "1956 mar 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956mar05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956mar12",
+      "doc_name": "1956 mar 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956mar12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956mar19",
+      "doc_name": "1956 mar 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956mar19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956mar26",
+      "doc_name": "1956 mar 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956mar26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956may07",
+      "doc_name": "1956 may 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956may07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956may14",
+      "doc_name": "1956 may 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956may14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956may21",
+      "doc_name": "1956 may 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956may21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956may28",
+      "doc_name": "1956 may 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956may28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956nov05",
+      "doc_name": "1956 nov 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956nov05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956nov12",
+      "doc_name": "1956 nov 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956nov12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956nov19",
+      "doc_name": "1956 nov 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956nov19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956nov26",
+      "doc_name": "1956 nov 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956nov26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956oct01",
+      "doc_name": "1956 oct 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956oct01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956oct08",
+      "doc_name": "1956 oct 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956oct08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956oct15",
+      "doc_name": "1956 oct 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956oct15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956oct22",
+      "doc_name": "1956 oct 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956oct22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956oct29",
+      "doc_name": "1956 oct 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956oct29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956sep03",
+      "doc_name": "1956 sep 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956sep03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956sep10",
+      "doc_name": "1956 sep 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956sep10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956sep17",
+      "doc_name": "1956 sep 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956sep17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1956sep24",
+      "doc_name": "1956 sep 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1956sep24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957apr01",
+      "doc_name": "1957 apr 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957apr01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957apr08",
+      "doc_name": "1957 apr 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957apr08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957apr15",
+      "doc_name": "1957 apr 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957apr15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957apr22",
+      "doc_name": "1957 apr 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957apr22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957apr29",
+      "doc_name": "1957 apr 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957apr29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957aug05",
+      "doc_name": "1957 aug 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957aug05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957aug12",
+      "doc_name": "1957 aug 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957aug12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957aug19",
+      "doc_name": "1957 aug 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957aug19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957dec02",
+      "doc_name": "1957 dec 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957dec02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957dec09",
+      "doc_name": "1957 dec 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957dec09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957dec16",
+      "doc_name": "1957 dec 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957dec16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957feb04",
+      "doc_name": "1957 feb 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957feb04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957feb11",
+      "doc_name": "1957 feb 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957feb11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957feb18",
+      "doc_name": "1957 feb 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957feb18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957feb25",
+      "doc_name": "1957 feb 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957feb25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jan07",
+      "doc_name": "1957 jan 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jan07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jan14",
+      "doc_name": "1957 jan 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jan14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jan21",
+      "doc_name": "1957 jan 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jan21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jan28",
+      "doc_name": "1957 jan 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jan28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jul01",
+      "doc_name": "1957 jul 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jul01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jul08",
+      "doc_name": "1957 jul 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jul08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jul15",
+      "doc_name": "1957 jul 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jul15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jul22",
+      "doc_name": "1957 jul 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jul22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jul29",
+      "doc_name": "1957 jul 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jul29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jun03",
+      "doc_name": "1957 jun 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jun03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jun10",
+      "doc_name": "1957 jun 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jun10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jun17",
+      "doc_name": "1957 jun 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jun17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957jun24",
+      "doc_name": "1957 jun 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957jun24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957mar04",
+      "doc_name": "1957 mar 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957mar04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957mar11",
+      "doc_name": "1957 mar 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957mar11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957mar18",
+      "doc_name": "1957 mar 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957mar18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957mar25",
+      "doc_name": "1957 mar 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957mar25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957may06",
+      "doc_name": "1957 may 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957may06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957may13",
+      "doc_name": "1957 may 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957may13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957may20",
+      "doc_name": "1957 may 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957may20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957may27",
+      "doc_name": "1957 may 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957may27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957nov04",
+      "doc_name": "1957 nov 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957nov04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957nov11",
+      "doc_name": "1957 nov 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957nov11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957nov18",
+      "doc_name": "1957 nov 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957nov18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957nov25",
+      "doc_name": "1957 nov 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957nov25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957oct07",
+      "doc_name": "1957 oct 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957oct07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957oct14",
+      "doc_name": "1957 oct 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957oct14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957oct21",
+      "doc_name": "1957 oct 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957oct21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957oct28",
+      "doc_name": "1957 oct 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957oct28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957sep09",
+      "doc_name": "1957 sep 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957sep09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957sep16",
+      "doc_name": "1957 sep 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957sep16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1957sep23",
+      "doc_name": "1957 sep 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1957sep23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958apr07",
+      "doc_name": "1958 apr 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958apr07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958apr14",
+      "doc_name": "1958 apr 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958apr14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958apr21",
+      "doc_name": "1958 apr 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958apr21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958aug04",
+      "doc_name": "1958 aug 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958aug04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958aug11",
+      "doc_name": "1958 aug 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958aug11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958aug18",
+      "doc_name": "1958 aug 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958aug18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958aug25",
+      "doc_name": "1958 aug 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958aug25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958dec01",
+      "doc_name": "1958 dec 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958dec01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958dec08",
+      "doc_name": "1958 dec 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958dec08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958dec15",
+      "doc_name": "1958 dec 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958dec15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958feb03",
+      "doc_name": "1958 feb 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958feb03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958feb10",
+      "doc_name": "1958 feb 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958feb10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958feb17",
+      "doc_name": "1958 feb 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958feb17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958feb24",
+      "doc_name": "1958 feb 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958feb24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jan06",
+      "doc_name": "1958 jan 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jan06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jan13",
+      "doc_name": "1958 jan 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jan13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jan20",
+      "doc_name": "1958 jan 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jan20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jan27",
+      "doc_name": "1958 jan 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jan27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jul07",
+      "doc_name": "1958 jul 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jul07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jul14",
+      "doc_name": "1958 jul 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jul14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jul21",
+      "doc_name": "1958 jul 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jul21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jul28",
+      "doc_name": "1958 jul 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jul28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jun02",
+      "doc_name": "1958 jun 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jun02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jun09",
+      "doc_name": "1958 jun 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jun09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jun16",
+      "doc_name": "1958 jun 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jun16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jun23",
+      "doc_name": "1958 jun 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jun23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958jun30",
+      "doc_name": "1958 jun 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958jun30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958mar03",
+      "doc_name": "1958 mar 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958mar03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958mar10",
+      "doc_name": "1958 mar 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958mar10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958mar17",
+      "doc_name": "1958 mar 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958mar17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958mar24",
+      "doc_name": "1958 mar 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958mar24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958mar31",
+      "doc_name": "1958 mar 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958mar31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958may05",
+      "doc_name": "1958 may 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958may05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958may12",
+      "doc_name": "1958 may 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958may12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958may19",
+      "doc_name": "1958 may 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958may19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958may26",
+      "doc_name": "1958 may 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958may26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958nov03",
+      "doc_name": "1958 nov 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958nov03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958nov10",
+      "doc_name": "1958 nov 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958nov10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958nov17",
+      "doc_name": "1958 nov 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958nov17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958nov24",
+      "doc_name": "1958 nov 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958nov24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958oct06",
+      "doc_name": "1958 oct 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958oct06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958oct13",
+      "doc_name": "1958 oct 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958oct13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958oct20",
+      "doc_name": "1958 oct 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958oct20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958oct27",
+      "doc_name": "1958 oct 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958oct27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958sep01",
+      "doc_name": "1958 sep 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958sep01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958sep08",
+      "doc_name": "1958 sep 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958sep08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958sep15",
+      "doc_name": "1958 sep 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958sep15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958sep22",
+      "doc_name": "1958 sep 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958sep22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1958sep29",
+      "doc_name": "1958 sep 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1958sep29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959apr06",
+      "doc_name": "1959 apr 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959apr06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959apr13",
+      "doc_name": "1959 apr 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959apr13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959apr20",
+      "doc_name": "1959 apr 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959apr20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959apr27",
+      "doc_name": "1959 apr 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959apr27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959aug03",
+      "doc_name": "1959 aug 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959aug03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959aug10",
+      "doc_name": "1959 aug 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959aug10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959aug31",
+      "doc_name": "1959 aug 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959aug31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959dec07",
+      "doc_name": "1959 dec 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959dec07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959dec14",
+      "doc_name": "1959 dec 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959dec14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959dec21",
+      "doc_name": "1959 dec 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959dec21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959feb02",
+      "doc_name": "1959 feb 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959feb02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959feb09",
+      "doc_name": "1959 feb 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959feb09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959feb16",
+      "doc_name": "1959 feb 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959feb16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959feb23",
+      "doc_name": "1959 feb 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959feb23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jan05",
+      "doc_name": "1959 jan 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jan05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jan12",
+      "doc_name": "1959 jan 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jan12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jan19",
+      "doc_name": "1959 jan 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jan19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jan26",
+      "doc_name": "1959 jan 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jan26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jul06",
+      "doc_name": "1959 jul 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jul06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jul13",
+      "doc_name": "1959 jul 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jul13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jul20",
+      "doc_name": "1959 jul 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jul20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jul27",
+      "doc_name": "1959 jul 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jul27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jun01",
+      "doc_name": "1959 jun 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jun01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jun08",
+      "doc_name": "1959 jun 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jun08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jun15",
+      "doc_name": "1959 jun 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jun15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jun22",
+      "doc_name": "1959 jun 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jun22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959jun29",
+      "doc_name": "1959 jun 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959jun29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959mar02",
+      "doc_name": "1959 mar 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959mar02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959mar09",
+      "doc_name": "1959 mar 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959mar09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959mar16",
+      "doc_name": "1959 mar 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959mar16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959mar30",
+      "doc_name": "1959 mar 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959mar30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959may04",
+      "doc_name": "1959 may 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959may04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959may11",
+      "doc_name": "1959 may 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959may11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959may18",
+      "doc_name": "1959 may 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959may18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959may25",
+      "doc_name": "1959 may 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959may25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959nov02",
+      "doc_name": "1959 nov 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959nov02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959nov09",
+      "doc_name": "1959 nov 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959nov09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959nov16",
+      "doc_name": "1959 nov 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959nov16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959nov23",
+      "doc_name": "1959 nov 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959nov23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959nov30",
+      "doc_name": "1959 nov 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959nov30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959oct05",
+      "doc_name": "1959 oct 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959oct05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959oct12",
+      "doc_name": "1959 oct 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959oct12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959oct19",
+      "doc_name": "1959 oct 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959oct19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959oct26",
+      "doc_name": "1959 oct 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959oct26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959sep07",
+      "doc_name": "1959 sep 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959sep07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959sep14",
+      "doc_name": "1959 sep 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959sep14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959sep21",
+      "doc_name": "1959 sep 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959sep21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1959sep28",
+      "doc_name": "1959 sep 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1959sep28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960apr04",
+      "doc_name": "1960 apr 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960apr04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960apr11",
+      "doc_name": "1960 apr 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960apr11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960apr18",
+      "doc_name": "1960 apr 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960apr18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960apr25",
+      "doc_name": "1960 apr 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960apr25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960aug01",
+      "doc_name": "1960 aug 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960aug01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960aug08",
+      "doc_name": "1960 aug 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960aug08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960dec05",
+      "doc_name": "1960 dec 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960dec05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960dec12",
+      "doc_name": "1960 dec 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960dec12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960dec19",
+      "doc_name": "1960 dec 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960dec19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960feb01",
+      "doc_name": "1960 feb 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960feb01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960feb08",
+      "doc_name": "1960 feb 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960feb08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960feb15",
+      "doc_name": "1960 feb 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960feb15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960feb22",
+      "doc_name": "1960 feb 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960feb22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960feb29",
+      "doc_name": "1960 feb 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960feb29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jan11",
+      "doc_name": "1960 jan 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jan11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jan18",
+      "doc_name": "1960 jan 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jan18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jan25",
+      "doc_name": "1960 jan 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jan25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jul04",
+      "doc_name": "1960 jul 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jul04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jul11",
+      "doc_name": "1960 jul 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jul11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jul13",
+      "doc_name": "1960 jul 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jul13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jun06",
+      "doc_name": "1960 jun 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jun06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jun13",
+      "doc_name": "1960 jun 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jun13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jun20",
+      "doc_name": "1960 jun 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jun20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960jun27",
+      "doc_name": "1960 jun 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960jun27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960mar07",
+      "doc_name": "1960 mar 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960mar07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960mar14",
+      "doc_name": "1960 mar 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960mar14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960mar21",
+      "doc_name": "1960 mar 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960mar21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960mar28",
+      "doc_name": "1960 mar 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960mar28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960may02",
+      "doc_name": "1960 may 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960may02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960may09",
+      "doc_name": "1960 may 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960may09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960may16",
+      "doc_name": "1960 may 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960may16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960may23",
+      "doc_name": "1960 may 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960may23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960may30",
+      "doc_name": "1960 may 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960may30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960nov07",
+      "doc_name": "1960 nov 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960nov07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960nov14",
+      "doc_name": "1960 nov 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960nov14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960nov21",
+      "doc_name": "1960 nov 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960nov21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960nov28",
+      "doc_name": "1960 nov 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960nov28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960oct03",
+      "doc_name": "1960 oct 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960oct03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960oct10",
+      "doc_name": "1960 oct 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960oct10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960oct17",
+      "doc_name": "1960 oct 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960oct17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960oct24",
+      "doc_name": "1960 oct 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960oct24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960oct31",
+      "doc_name": "1960 oct 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960oct31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960sep05",
+      "doc_name": "1960 sep 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960sep05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960sep12",
+      "doc_name": "1960 sep 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960sep12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960sep19",
+      "doc_name": "1960 sep 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960sep19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1960sep26",
+      "doc_name": "1960 sep 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1960sep26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961apr03",
+      "doc_name": "1961 apr 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961apr03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961apr10",
+      "doc_name": "1961 apr 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961apr10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961apr17",
+      "doc_name": "1961 apr 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961apr17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961apr24",
+      "doc_name": "1961 apr 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961apr24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961aug07",
+      "doc_name": "1961 aug 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961aug07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961aug14",
+      "doc_name": "1961 aug 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961aug14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961aug21",
+      "doc_name": "1961 aug 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961aug21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961dec04",
+      "doc_name": "1961 dec 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961dec04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961dec11",
+      "doc_name": "1961 dec 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961dec11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961dec18",
+      "doc_name": "1961 dec 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961dec18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961feb06",
+      "doc_name": "1961 feb 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961feb06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961feb13",
+      "doc_name": "1961 feb 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961feb13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961feb27",
+      "doc_name": "1961 feb 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961feb27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jan09",
+      "doc_name": "1961 jan 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jan09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jan16",
+      "doc_name": "1961 jan 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jan16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jan23",
+      "doc_name": "1961 jan 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jan23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jan30",
+      "doc_name": "1961 jan 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jan30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jul03",
+      "doc_name": "1961 jul 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jul03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jul10",
+      "doc_name": "1961 jul 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jul10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jul17",
+      "doc_name": "1961 jul 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jul17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jul24",
+      "doc_name": "1961 jul 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jul24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jul31",
+      "doc_name": "1961 jul 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jul31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jun05",
+      "doc_name": "1961 jun 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jun05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jun12",
+      "doc_name": "1961 jun 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jun12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jun19",
+      "doc_name": "1961 jun 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jun19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961jun26",
+      "doc_name": "1961 jun 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961jun26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961mar06",
+      "doc_name": "1961 mar 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961mar06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961mar13",
+      "doc_name": "1961 mar 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961mar13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961mar20",
+      "doc_name": "1961 mar 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961mar20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961mar27",
+      "doc_name": "1961 mar 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961mar27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961may01",
+      "doc_name": "1961 may 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961may01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961may08",
+      "doc_name": "1961 may 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961may08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961may15",
+      "doc_name": "1961 may 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961may15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961may22",
+      "doc_name": "1961 may 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961may22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961may29",
+      "doc_name": "1961 may 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961may29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961nov06",
+      "doc_name": "1961 nov 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961nov06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961nov13",
+      "doc_name": "1961 nov 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961nov13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961nov20",
+      "doc_name": "1961 nov 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961nov20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961nov27",
+      "doc_name": "1961 nov 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961nov27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961oct02",
+      "doc_name": "1961 oct 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961oct02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961oct09",
+      "doc_name": "1961 oct 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961oct09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961oct16",
+      "doc_name": "1961 oct 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961oct16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961oct23",
+      "doc_name": "1961 oct 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961oct23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961oct30",
+      "doc_name": "1961 oct 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961oct30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961sep11",
+      "doc_name": "1961 sep 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961sep11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1961sep25",
+      "doc_name": "1961 sep 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1961sep25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962apr02",
+      "doc_name": "1962 apr 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962apr02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962apr09",
+      "doc_name": "1962 apr 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962apr09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962apr16",
+      "doc_name": "1962 apr 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962apr16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962apr23",
+      "doc_name": "1962 apr 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962apr23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962apr30",
+      "doc_name": "1962 apr 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962apr30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962dec03",
+      "doc_name": "1962 dec 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962dec03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962dec10",
+      "doc_name": "1962 dec 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962dec10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962dec17",
+      "doc_name": "1962 dec 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962dec17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962feb05",
+      "doc_name": "1962 feb 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962feb05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962feb12",
+      "doc_name": "1962 feb 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962feb12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962feb19",
+      "doc_name": "1962 feb 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962feb19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962feb26",
+      "doc_name": "1962 feb 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962feb26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jan08",
+      "doc_name": "1962 jan 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jan08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jan15",
+      "doc_name": "1962 jan 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jan15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jan22",
+      "doc_name": "1962 jan 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jan22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jan29",
+      "doc_name": "1962 jan 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jan29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jul02",
+      "doc_name": "1962 jul 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jul02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jul09",
+      "doc_name": "1962 jul 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jul09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jul16",
+      "doc_name": "1962 jul 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jul16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jul23",
+      "doc_name": "1962 jul 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jul23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jul30",
+      "doc_name": "1962 jul 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jul30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jun04",
+      "doc_name": "1962 jun 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jun04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jun11",
+      "doc_name": "1962 jun 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jun11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jun18",
+      "doc_name": "1962 jun 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jun18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962jun25",
+      "doc_name": "1962 jun 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962jun25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962mar05",
+      "doc_name": "1962 mar 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962mar05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962mar12",
+      "doc_name": "1962 mar 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962mar12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962mar19",
+      "doc_name": "1962 mar 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962mar19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962mar26",
+      "doc_name": "1962 mar 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962mar26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962may07",
+      "doc_name": "1962 may 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962may07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962may14",
+      "doc_name": "1962 may 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962may14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962may21",
+      "doc_name": "1962 may 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962may21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962may28",
+      "doc_name": "1962 may 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962may28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962nov05",
+      "doc_name": "1962 nov 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962nov05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962nov12",
+      "doc_name": "1962 nov 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962nov12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962nov19",
+      "doc_name": "1962 nov 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962nov19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962nov26",
+      "doc_name": "1962 nov 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962nov26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962oct01",
+      "doc_name": "1962 oct 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962oct01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962oct08",
+      "doc_name": "1962 oct 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962oct08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962oct15",
+      "doc_name": "1962 oct 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962oct15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962oct22",
+      "doc_name": "1962 oct 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962oct22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962oct29",
+      "doc_name": "1962 oct 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962oct29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962sep03",
+      "doc_name": "1962 sep 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962sep03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962sep10",
+      "doc_name": "1962 sep 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962sep10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962sep17",
+      "doc_name": "1962 sep 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962sep17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1962sep24",
+      "doc_name": "1962 sep 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1962sep24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963apr01",
+      "doc_name": "1963 apr 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963apr01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963apr15",
+      "doc_name": "1963 apr 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963apr15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963apr29",
+      "doc_name": "1963 apr 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963apr29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963dec09",
+      "doc_name": "1963 dec 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963dec09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963dec23",
+      "doc_name": "1963 dec 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963dec23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963feb04",
+      "doc_name": "1963 feb 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963feb04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963feb18",
+      "doc_name": "1963 feb 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963feb18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jan07",
+      "doc_name": "1963 jan 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jan07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jan14",
+      "doc_name": "1963 jan 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jan14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jan21",
+      "doc_name": "1963 jan 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jan21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jul08",
+      "doc_name": "1963 jul 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jul08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jul22",
+      "doc_name": "1963 jul 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jul22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jun10",
+      "doc_name": "1963 jun 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jun10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963jun24",
+      "doc_name": "1963 jun 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963jun24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963mar04",
+      "doc_name": "1963 mar 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963mar04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963mar18",
+      "doc_name": "1963 mar 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963mar18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963may13",
+      "doc_name": "1963 may 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963may13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963may27",
+      "doc_name": "1963 may 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963may27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963nov11",
+      "doc_name": "1963 nov 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963nov11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963nov25",
+      "doc_name": "1963 nov 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963nov25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963oct14",
+      "doc_name": "1963 oct 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963oct14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963oct28",
+      "doc_name": "1963 oct 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963oct28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963sep02",
+      "doc_name": "1963 sep 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963sep02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963sep16",
+      "doc_name": "1963 sep 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963sep16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1963sep30",
+      "doc_name": "1963 sep 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1963sep30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964apr06",
+      "doc_name": "1964 apr 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964apr06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964apr13",
+      "doc_name": "1964 apr 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964apr13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964apr20",
+      "doc_name": "1964 apr 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964apr20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964apr27",
+      "doc_name": "1964 apr 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964apr27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964aug10",
+      "doc_name": "1964 aug 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964aug10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964aug24",
+      "doc_name": "1964 aug 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964aug24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964dec07",
+      "doc_name": "1964 dec 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964dec07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964dec14",
+      "doc_name": "1964 dec 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964dec14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964dec21",
+      "doc_name": "1964 dec 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964dec21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964feb03",
+      "doc_name": "1964 feb 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964feb03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964feb10",
+      "doc_name": "1964 feb 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964feb10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964feb17",
+      "doc_name": "1964 feb 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964feb17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964feb24",
+      "doc_name": "1964 feb 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964feb24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jan06",
+      "doc_name": "1964 jan 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jan06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jan13",
+      "doc_name": "1964 jan 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jan13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jan20",
+      "doc_name": "1964 jan 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jan20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jan27",
+      "doc_name": "1964 jan 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jan27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jul06",
+      "doc_name": "1964 jul 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jul06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jul13",
+      "doc_name": "1964 jul 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jul13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jul27",
+      "doc_name": "1964 jul 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jul27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jun01",
+      "doc_name": "1964 jun 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jun01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jun08",
+      "doc_name": "1964 jun 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jun08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jun15",
+      "doc_name": "1964 jun 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jun15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jun22",
+      "doc_name": "1964 jun 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jun22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964jun29",
+      "doc_name": "1964 jun 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964jun29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964mar02",
+      "doc_name": "1964 mar 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964mar02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964mar09",
+      "doc_name": "1964 mar 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964mar09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964mar16",
+      "doc_name": "1964 mar 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964mar16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964mar23",
+      "doc_name": "1964 mar 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964mar23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964mar30",
+      "doc_name": "1964 mar 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964mar30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964may04",
+      "doc_name": "1964 may 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964may04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964nov02",
+      "doc_name": "1964 nov 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964nov02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964nov09",
+      "doc_name": "1964 nov 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964nov09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964nov16",
+      "doc_name": "1964 nov 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964nov16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964nov30",
+      "doc_name": "1964 nov 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964nov30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964oct05",
+      "doc_name": "1964 oct 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964oct05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964oct12",
+      "doc_name": "1964 oct 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964oct12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964oct19",
+      "doc_name": "1964 oct 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964oct19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964oct26",
+      "doc_name": "1964 oct 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964oct26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964sep07",
+      "doc_name": "1964 sep 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964sep07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964sep14",
+      "doc_name": "1964 sep 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964sep14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964sep21",
+      "doc_name": "1964 sep 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964sep21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1964sep28",
+      "doc_name": "1964 sep 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1964sep28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965apr05",
+      "doc_name": "1965 apr 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965apr05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965apr12",
+      "doc_name": "1965 apr 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965apr12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965apr19",
+      "doc_name": "1965 apr 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965apr19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965apr26",
+      "doc_name": "1965 apr 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965apr26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965dec06",
+      "doc_name": "1965 dec 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965dec06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965dec13",
+      "doc_name": "1965 dec 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965dec13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965dec20",
+      "doc_name": "1965 dec 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965dec20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965feb02",
+      "doc_name": "1965 feb 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965feb02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965feb08",
+      "doc_name": "1965 feb 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965feb08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965feb15",
+      "doc_name": "1965 feb 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965feb15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965feb22",
+      "doc_name": "1965 feb 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965feb22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jan11",
+      "doc_name": "1965 jan 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jan11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jan18",
+      "doc_name": "1965 jan 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jan18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jan25",
+      "doc_name": "1965 jan 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jan25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jul12",
+      "doc_name": "1965 jul 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jul12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jul26",
+      "doc_name": "1965 jul 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jul26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jun07",
+      "doc_name": "1965 jun 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jun07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jun14",
+      "doc_name": "1965 jun 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jun14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jun21",
+      "doc_name": "1965 jun 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jun21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965jun28",
+      "doc_name": "1965 jun 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965jun28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965mar01",
+      "doc_name": "1965 mar 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965mar01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965mar08",
+      "doc_name": "1965 mar 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965mar08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965mar15",
+      "doc_name": "1965 mar 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965mar15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965mar22",
+      "doc_name": "1965 mar 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965mar22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965mar29",
+      "doc_name": "1965 mar 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965mar29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965may03",
+      "doc_name": "1965 may 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965may03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965may10",
+      "doc_name": "1965 may 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965may10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965may17",
+      "doc_name": "1965 may 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965may17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965may24",
+      "doc_name": "1965 may 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965may24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965may31",
+      "doc_name": "1965 may 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965may31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965nov01",
+      "doc_name": "1965 nov 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965nov01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965nov08",
+      "doc_name": "1965 nov 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965nov08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965nov15",
+      "doc_name": "1965 nov 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965nov15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965nov22",
+      "doc_name": "1965 nov 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965nov22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965nov29",
+      "doc_name": "1965 nov 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965nov29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965oct04",
+      "doc_name": "1965 oct 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965oct04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965oct11",
+      "doc_name": "1965 oct 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965oct11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965oct18",
+      "doc_name": "1965 oct 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965oct18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965oct25",
+      "doc_name": "1965 oct 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965oct25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965sep06",
+      "doc_name": "1965 sep 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965sep06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965sep13",
+      "doc_name": "1965 sep 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965sep13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965sep20",
+      "doc_name": "1965 sep 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965sep20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1965sep27",
+      "doc_name": "1965 sep 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1965sep27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966apr04",
+      "doc_name": "1966 apr 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966apr04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966apr11",
+      "doc_name": "1966 apr 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966apr11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966apr18",
+      "doc_name": "1966 apr 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966apr18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966dec05",
+      "doc_name": "1966 dec 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966dec05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966dec12",
+      "doc_name": "1966 dec 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966dec12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966dec19",
+      "doc_name": "1966 dec 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966dec19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966feb07",
+      "doc_name": "1966 feb 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966feb07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966feb14",
+      "doc_name": "1966 feb 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966feb14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966feb21",
+      "doc_name": "1966 feb 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966feb21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966feb28",
+      "doc_name": "1966 feb 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966feb28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jan10",
+      "doc_name": "1966 jan 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jan10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jan17",
+      "doc_name": "1966 jan 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jan17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jan24",
+      "doc_name": "1966 jan 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jan24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jan31",
+      "doc_name": "1966 jan 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jan31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jul11",
+      "doc_name": "1966 jul 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jul11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jul25",
+      "doc_name": "1966 jul 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jul25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jun06",
+      "doc_name": "1966 jun 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jun06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jun13",
+      "doc_name": "1966 jun 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jun13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jun20",
+      "doc_name": "1966 jun 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jun20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966jun27",
+      "doc_name": "1966 jun 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966jun27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966mar07",
+      "doc_name": "1966 mar 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966mar07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966mar14",
+      "doc_name": "1966 mar 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966mar14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966mar21",
+      "doc_name": "1966 mar 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966mar21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966mar28",
+      "doc_name": "1966 mar 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966mar28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966may09",
+      "doc_name": "1966 may 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966may09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966may16",
+      "doc_name": "1966 may 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966may16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966may23",
+      "doc_name": "1966 may 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966may23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966may30",
+      "doc_name": "1966 may 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966may30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966nov07",
+      "doc_name": "1966 nov 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966nov07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966nov14",
+      "doc_name": "1966 nov 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966nov14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966nov21",
+      "doc_name": "1966 nov 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966nov21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966nov28",
+      "doc_name": "1966 nov 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966nov28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966oct03",
+      "doc_name": "1966 oct 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966oct03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966oct10",
+      "doc_name": "1966 oct 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966oct10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966oct17",
+      "doc_name": "1966 oct 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966oct17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966oct24",
+      "doc_name": "1966 oct 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966oct24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966oct31",
+      "doc_name": "1966 oct 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966oct31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966sep05",
+      "doc_name": "1966 sep 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966sep05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966sep12",
+      "doc_name": "1966 sep 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966sep12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966sep19",
+      "doc_name": "1966 sep 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966sep19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1966sep26",
+      "doc_name": "1966 sep 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1966sep26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967apr03",
+      "doc_name": "1967 apr 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967apr03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967apr10",
+      "doc_name": "1967 apr 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967apr10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967dec04",
+      "doc_name": "1967 dec 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967dec04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967dec11",
+      "doc_name": "1967 dec 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967dec11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967dec18",
+      "doc_name": "1967 dec 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967dec18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967feb06",
+      "doc_name": "1967 feb 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967feb06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967feb13",
+      "doc_name": "1967 feb 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967feb13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967feb20",
+      "doc_name": "1967 feb 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967feb20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967feb27",
+      "doc_name": "1967 feb 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967feb27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jan09",
+      "doc_name": "1967 jan 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jan09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jan16",
+      "doc_name": "1967 jan 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jan16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jan23",
+      "doc_name": "1967 jan 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jan23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jan30",
+      "doc_name": "1967 jan 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jan30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jul03",
+      "doc_name": "1967 jul 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jul03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jul17",
+      "doc_name": "1967 jul 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jul17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jul31",
+      "doc_name": "1967 jul 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jul31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jun05",
+      "doc_name": "1967 jun 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jun05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jun12",
+      "doc_name": "1967 jun 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jun12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967jun19",
+      "doc_name": "1967 jun 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967jun19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967mar06",
+      "doc_name": "1967 mar 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967mar06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967mar13",
+      "doc_name": "1967 mar 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967mar13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967mar20",
+      "doc_name": "1967 mar 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967mar20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967mar27",
+      "doc_name": "1967 mar 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967mar27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967may01",
+      "doc_name": "1967 may 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967may01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967may08",
+      "doc_name": "1967 may 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967may08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967may15",
+      "doc_name": "1967 may 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967may15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967may22",
+      "doc_name": "1967 may 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967may22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967may29",
+      "doc_name": "1967 may 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967may29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967nov13",
+      "doc_name": "1967 nov 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967nov13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967nov20",
+      "doc_name": "1967 nov 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967nov20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1967nov27",
+      "doc_name": "1967 nov 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1967nov27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968apr01",
+      "doc_name": "1968 apr 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968apr01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968apr15",
+      "doc_name": "1968 apr 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968apr15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968apr29",
+      "doc_name": "1968 apr 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968apr29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968aug05",
+      "doc_name": "1968 aug 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968aug05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968aug19",
+      "doc_name": "1968 aug 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968aug19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968dec02",
+      "doc_name": "1968 dec 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968dec02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968dec16",
+      "doc_name": "1968 dec 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968dec16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968dec30",
+      "doc_name": "1968 dec 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968dec30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968feb05",
+      "doc_name": "1968 feb 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968feb05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968feb19",
+      "doc_name": "1968 feb 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968feb19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jan08",
+      "doc_name": "1968 jan 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jan08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jan22",
+      "doc_name": "1968 jan 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jan22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jul08",
+      "doc_name": "1968 jul 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jul08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jul22",
+      "doc_name": "1968 jul 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jul22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jun10",
+      "doc_name": "1968 jun 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jun10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968jun24",
+      "doc_name": "1968 jun 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968jun24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968mar04",
+      "doc_name": "1968 mar 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968mar04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968mar18",
+      "doc_name": "1968 mar 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968mar18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968may13",
+      "doc_name": "1968 may 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968may13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968may27",
+      "doc_name": "1968 may 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968may27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968nov04",
+      "doc_name": "1968 nov 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968nov04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968nov18",
+      "doc_name": "1968 nov 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968nov18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968oct07",
+      "doc_name": "1968 oct 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968oct07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968oct21",
+      "doc_name": "1968 oct 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968oct21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968sep09",
+      "doc_name": "1968 sep 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968sep09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1968sep23",
+      "doc_name": "1968 sep 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1968sep23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969apr07",
+      "doc_name": "1969 apr 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969apr07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969apr21",
+      "doc_name": "1969 apr 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969apr21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969dec01",
+      "doc_name": "1969 dec 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969dec01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969dec15",
+      "doc_name": "1969 dec 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969dec15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969dec29",
+      "doc_name": "1969 dec 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969dec29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969feb10",
+      "doc_name": "1969 feb 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969feb10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969feb24",
+      "doc_name": "1969 feb 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969feb24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jan13",
+      "doc_name": "1969 jan 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jan13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jan27",
+      "doc_name": "1969 jan 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jan27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jul14",
+      "doc_name": "1969 jul 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jul14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jul28",
+      "doc_name": "1969 jul 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jul28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jun02",
+      "doc_name": "1969 jun 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jun02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jun16",
+      "doc_name": "1969 jun 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jun16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969jun30",
+      "doc_name": "1969 jun 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969jun30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969mar10",
+      "doc_name": "1969 mar 10",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969mar10.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969mar24",
+      "doc_name": "1969 mar 24",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969mar24.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969may05",
+      "doc_name": "1969 may 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969may05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969may19",
+      "doc_name": "1969 may 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969may19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969nov03",
+      "doc_name": "1969 nov 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969nov03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969nov17",
+      "doc_name": "1969 nov 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969nov17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969oct06",
+      "doc_name": "1969 oct 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969oct06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969oct20",
+      "doc_name": "1969 oct 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969oct20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969sep09",
+      "doc_name": "1969 sep 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969sep09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1969sep22",
+      "doc_name": "1969 sep 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1969sep22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970apr06",
+      "doc_name": "1970 apr 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970apr06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970apr20",
+      "doc_name": "1970 apr 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970apr20.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970dec14",
+      "doc_name": "1970 dec 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970dec14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970dec28",
+      "doc_name": "1970 dec 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970dec28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970feb09",
+      "doc_name": "1970 feb 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970feb09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970feb23",
+      "doc_name": "1970 feb 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970feb23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jan12",
+      "doc_name": "1970 jan 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jan12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jan26",
+      "doc_name": "1970 jan 26",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jan26.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jul13",
+      "doc_name": "1970 jul 13",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jul13.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jul27",
+      "doc_name": "1970 jul 27",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jul27.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jun01",
+      "doc_name": "1970 jun 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jun01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jun15",
+      "doc_name": "1970 jun 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jun15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970jun29",
+      "doc_name": "1970 jun 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970jun29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970mar09",
+      "doc_name": "1970 mar 09",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970mar09.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970mar23",
+      "doc_name": "1970 mar 23",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970mar23.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970may04",
+      "doc_name": "1970 may 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970may04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970may18",
+      "doc_name": "1970 may 18",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970may18.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970nov02",
+      "doc_name": "1970 nov 02",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970nov02.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970nov16",
+      "doc_name": "1970 nov 16",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970nov16.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970nov30",
+      "doc_name": "1970 nov 30",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970nov30.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970oct05",
+      "doc_name": "1970 oct 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970oct05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970oct19",
+      "doc_name": "1970 oct 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970oct19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970sep07",
+      "doc_name": "1970 sep 07",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970sep07.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1970sep21",
+      "doc_name": "1970 sep 21",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1970sep21.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971apr05",
+      "doc_name": "1971 apr 05",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971apr05.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971apr19",
+      "doc_name": "1971 apr 19",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971apr19.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971dec01",
+      "doc_name": "1971 dec 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971dec01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971feb08",
+      "doc_name": "1971 feb 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971feb08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971feb22",
+      "doc_name": "1971 feb 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971feb22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971jan11",
+      "doc_name": "1971 jan 11",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971jan11.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971jan25",
+      "doc_name": "1971 jan 25",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971jan25.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971jul12",
+      "doc_name": "1971 jul 12",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971jul12.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971jun14",
+      "doc_name": "1971 jun 14",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971jun14.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971jun28",
+      "doc_name": "1971 jun 28",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971jun28.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971mar08",
+      "doc_name": "1971 mar 08",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971mar08.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971mar22",
+      "doc_name": "1971 mar 22",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971mar22.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971may03",
+      "doc_name": "1971 may 03",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971may03.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971may17",
+      "doc_name": "1971 may 17",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971may17.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971may31",
+      "doc_name": "1971 may 31",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971may31.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971nov01",
+      "doc_name": "1971 nov 01",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971nov01.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971nov15",
+      "doc_name": "1971 nov 15",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971nov15.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971nov29",
+      "doc_name": "1971 nov 29",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971nov29.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971oct04",
+      "doc_name": "1971 oct 04",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971oct04.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971sep06",
+      "doc_name": "1971 sep 06",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971sep06.pdf"
+    },
+    {
+      "id": "IFStonesWeekly-1971sep20",
+      "doc_name": "1971 sep 20",
+      "source": "http://www.ifstone.org/weekly/IFStonesWeekly-1971sep20.pdf"
+    }
+  ]
+}

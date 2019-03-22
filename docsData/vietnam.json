@@ -1,0 +1,531 @@
+{
+  "id": "043",
+  "shortname": "vietnam",
+  "collection": "The Pentagon Papers, Ellsberg, and other Vietnam Related Materials",
+  "alt_names": [],
+  "date": "1968",
+  "description": "",
+  "type": "pdf",
+  "source": "https://www.archives.gov/research/pentagon-papers",
+  "files": [
+    {
+      "id": "Pentagon-Papers-Index",
+      "doc_name": "Index",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Index.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-I",
+      "doc_name": "Part I",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-I.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-II",
+      "doc_name": "Part II",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-II.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-III",
+      "doc_name": "Part III",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-III.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-A-1",
+      "doc_name": "Part IV A 1",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-A-1.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-A-2",
+      "doc_name": "Part IV A 2",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-A-2.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-A-3",
+      "doc_name": "Part IV A 3",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-A-3.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-A-4",
+      "doc_name": "Part IV A 4",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-A-4.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-A-5",
+      "doc_name": "Part IV A 5",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-A-5.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-B-1",
+      "doc_name": "Part IV B 1",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-1.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-B-2",
+      "doc_name": "Part IV B 2",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-2.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-B-3",
+      "doc_name": "Part IV B 3",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-3.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-B-4",
+      "doc_name": "Part IV B 4",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-4.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-B-5",
+      "doc_name": "Part IV B 5",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-B-5.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-1",
+      "doc_name": "Part IV C 1",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-1.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-2a",
+      "doc_name": "Part IV C 2a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-2b",
+      "doc_name": "Part IV C 2b",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-2c",
+      "doc_name": "Part IV C 2c",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-2c.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-3",
+      "doc_name": "Part IV C 3",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-3.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-4",
+      "doc_name": "Part IV C 4",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-4.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-5",
+      "doc_name": "Part IV C 5",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-5.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-6-a",
+      "doc_name": "Part IV C 6a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-6-a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-6-b",
+      "doc_name": "Part IV C 6b",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-6-b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-6-c",
+      "doc_name": "Part IV C 6c",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-6-c.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-7-a",
+      "doc_name": "Part IV C 7a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-7-a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-7-b",
+      "doc_name": "Part IV C 7b",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-7-b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-8",
+      "doc_name": "Part IV C 8",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-8.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-9a",
+      "doc_name": "Part IV C 9a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-9a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-9b",
+      "doc_name": "Part IV C 9b",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-9b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-IV-C-10",
+      "doc_name": "Part IV C 10",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-IV-C-10.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-A-Vol-IA",
+      "doc_name": "Part V A Vol IA",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-A-Vol-IA.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-A-Vol-IB",
+      "doc_name": "Part V A Vol IB",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-A-Vol-IB.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-A-Vol-IC",
+      "doc_name": "Part V A Vol IC",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-A-Vol-IC.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-A-Vol-IID",
+      "doc_name": "Part V A Vol IID",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-A-Vol-IID.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B1",
+      "doc_name": "Part V B1",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B1.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-2a",
+      "doc_name": "Part V B 2a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-2a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-2b",
+      "doc_name": "Part V B 2b.",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-2b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-3a",
+      "doc_name": "Part V B 3a",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-3a.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-3b",
+      "doc_name": "Part V B 3b",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-3b.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-3c",
+      "doc_name": "Part V B 3c",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-3c.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-3d",
+      "doc_name": "Part V B 3d",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-3d.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-4-Book-I",
+      "doc_name": "Part V B 4 Book I",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-4-Book-I.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-V-B-4-Book-II",
+      "doc_name": "Part V B 4 Book II",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-V-B-4-Book-II.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-A",
+      "doc_name": "Part VI A",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-A.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-B",
+      "doc_name": "Part VI B",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-B.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-C-1",
+      "doc_name": "Part VI C 1",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-C-1.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-C-2",
+      "doc_name": "Part VI C 2",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-C-2.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-C-3",
+      "doc_name": "Part VI C 3",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-C-3.pdf"
+    },
+    {
+      "id": "Pentagon-Papers-Part-VI-C-4",
+      "doc_name": "Part VI C 4",
+      "source": "https://nara-media-001.s3.amazonaws.com/arcmedia/research/pentagon-papers/Pentagon-Papers-Part-VI-C-4.pdf"
+    },
+    {
+      "id": "050",
+      "doc_name": "Background on My Lai Hearings and Report",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/MyLai_bckgr.pdf"
+    },
+    {
+      "id": "051",
+      "doc_name": "Hearings: Investigation of the My Lai Incident - House Armed Services Committee",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/MyLaiHearings.pdf"
+    },
+    {
+      "id": "052",
+      "doc_name": "Report: Investigation of the My Lai Incident - House Armed Services Committee",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/MyLaiReport.pdf"
+    },
+    {
+      "id": "CIA-RDP80-01601R000300360099-5",
+      "doc_name": "CIA RDP80 01601R000300360099 5",
+      "source": ""
+    },
+    {
+      "id": "ellsbergtalks00dani",
+      "doc_name": "ellsbergtalks00dani",
+      "source": ""
+    },
+    {
+      "id": "ELS000-067",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067"
+    },
+    {
+      "id": "ELS000-067a",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067a"
+    },
+    {
+      "id": "ELS000-067b",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067b"
+    },
+    {
+      "id": "ELS000-067c",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067c"
+    },
+    {
+      "id": "ELS000-067d",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067d"
+    },
+    {
+      "id": "ELS000-067e",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067e"
+    },
+    {
+      "id": "ELS000-067f",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067f"
+    },
+    {
+      "id": "ELS000-067g",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067g"
+    },
+    {
+      "id": "ELS000-067h",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067h"
+    },
+    {
+      "id": "ELS000-067i",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067i"
+    },
+    {
+      "id": "ELS000-067j",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067j"
+    },
+    {
+      "id": "ELS000-067k",
+      "source": "ArticlesAndMaterialsRelatingToNon-proliferationPentagonPapersAndPersonal/ELS000-067k"
+    },
+    {
+      "id": "ELS003-003",
+      "source": "FBIFileAirtelXeroxInvestigation/ELS003-003"
+    },
+    {
+      "id": "ELS003-006",
+      "source": "FBIFileMediaInvestigations/ELS003-006"
+    },
+    {
+      "id": "ELS003-001",
+      "source": "FBIFileOnDanielEllsbergSummaryOfEllsbergPressConference/ELS003-001"
+    },
+    {
+      "id": "ELS003-004",
+      "source": "FBIFilePentagonPapersLeakInvestigation/ELS003-004"
+    },
+    {
+      "id": "ELS003-004",
+      "source": "FBIFilePentagonPapersLeakInvestigation_201711/ELS003-004"
+    },
+    {
+      "id": "ELS003-004",
+      "source": "FBIFilePentagonPapersLeakInvestigation_20171102/ELS003-004"
+    },
+    {
+      "id": "ELS003-005",
+      "source": "FBIFilePentagonPapersLeakInvestigation_20171108/ELS003-005"
+    },
+    {
+      "id": "ELS003-010",
+      "source": "FBINotebookOnEllsberg/ELS003-010"
+    },
+    {
+      "id": "ELS003-012",
+      "source": "FBINotebookOnEllsberg_201711/ELS003-012"
+    },
+    {
+      "id": "ELS003-013",
+      "source": "FBINotebookOnEllsberg_20171107/ELS003-013"
+    },
+    {
+      "id": "ELS003-014",
+      "source": "FBINotebookOnEllsberg_20171108/ELS003-014"
+    },
+    {
+      "id": "ELS003-015",
+      "source": "FBINotebookOnEllsberg_20171108_0227/ELS003-015"
+    },
+    {
+      "id": "ELS003-007A",
+      "source": "FBINotebookOnEllsberg_20171108_0343/ELS003-007A"
+    },
+    {
+      "id": "ELS003-002",
+      "source": "FBIPressClippingsOfDanielEllsberg/ELS003-002"
+    },
+    {
+      "id": "ELS003-0020001",
+      "source": "FBIPressClippingsOfDanielEllsberg/ELS003-0020001"
+    },
+    {
+      "id": "ELS003-002A",
+      "source": "FBIPressClippingsOfDanielEllsberg/ELS003-002A"
+    },
+    {
+      "id": "ELS003-011",
+      "source": "FBISurveillenceNotesOnEllsbergPressConference/ELS003-011"
+    },
+    {
+      "id": "ELS002-004",
+      "source": "NotesForCPSNAWorkingPaperOn1989CommentaryOnCoerciveDiplomacyInTheLightOfVietnam/ELS002-004"
+    },
+    {
+      "id": "ELS000-024",
+      "source": "PaperOnVietnamDecisionMakingIn1961PentagonPapers/ELS000-024"
+    },
+    {
+      "id": "ELS000-039",
+      "source": "TheVietnamNegotiationsAndTheJointChiefsOfStaffReadinessTest/ELS000-039"
+    },
+    {
+      "id": "ELS000-025",
+      "source": "TranscriptionOfHandwrittenNotesForPaperOnVietnamDecisionMakingIn1961PentagonPapers/ELS000-025"
+    },
+    {
+      "id": "ELS000-025",
+      "source": "TranscriptionOfHandwrittenNotesForPaperOnVietnamDecisionMakingIn1961PentagonPapers_201710/ELS000-025"
+    },
+    {
+      "id": "ELS000-016",
+      "source": "WilliamCorsonOnDanielEllsbergPentagonPapersAndPlumbers/ELS000-016"
+    },
+    {
+      "id": "aretherepentagon00asso",
+      "source": "aretherepentagon00asso/aretherepentagon00asso"
+    },
+    {
+      "id": "candidvietnampho00dani",
+      "source": "candidvietnampho00dani/candidvietnampho00dani"
+    },
+    {
+      "id": "editorscitetimes00jona",
+      "source": "editorscitetimes00jona/editorscitetimes00jona"
+    },
+    {
+      "id": "ellsbergtalkswhy00bobc",
+      "source": "ellsbergtalkswhy00bobc/ellsbergtalkswhy00bobc"
+    },
+    {
+      "id": "fbicopiesofpress00fbi",
+      "source": "fbicopiesofpress00fbi/fbicopiesofpress00fbi"
+    },
+    {
+      "id": "fbiprobehelpsgra00davi",
+      "source": "fbiprobehelpsgra00davi/fbiprobehelpsgra00davi"
+    },
+    {
+      "id": "finalphaseofwari00will",
+      "source": "finalphaseofwari00will/finalphaseofwari00will"
+    },
+    {
+      "id": "howtogetoutofvie00john",
+      "source": "howtogetoutofvie00john/howtogetoutofvie00john"
+    },
+    {
+      "id": "laoscambodiaviet00comm",
+      "source": "laoscambodiaviet00comm/laoscambodiaviet00comm"
+    },
+    {
+      "id": "laoscambodiaviet00comm_0",
+      "source": "laoscambodiaviet00comm_0/laoscambodiaviet00comm_0"
+    },
+    {
+      "id": "laosresearchperi00wash",
+      "source": "laosresearchperi00wash/laosresearchperi00wash"
+    },
+    {
+      "id": "measuringhamlets00john",
+      "source": "measuringhamlets00john/measuringhamlets00john"
+    },
+    {
+      "id": "nfuresearchsecre00rich",
+      "source": "nfuresearchsecre00rich/nfuresearchsecre00rich"
+    },
+    {
+      "id": "pentagonpapersch00newy",
+      "source": "pentagonpapersch00newy/pentagonpapersch00newy"
+    },
+    {
+      "id": "pentagonpapersde00geor",
+      "source": "pentagonpapersde00geor/pentagonpapersde00geor"
+    },
+    {
+      "id": "photographsfromv00dani",
+      "source": "photographsfromv00dani/photographsfromv00dani"
+    },
+    {
+      "id": "photoofellsbergi00unkn",
+      "source": "photoofellsbergi00unkn/photoofellsbergi00unkn"
+    },
+    {
+      "id": "warcrimesvietnam00leon",
+      "source": "warcrimesvietnam00leon/warcrimesvietnam00leon"
+    },
+    {
+      "id": "whatchanceisreas00lesl",
+      "source": "whatchanceisreas00lesl/whatchanceisreas00lesl"
+    },
+    {
+      "id": "secretsmemoirofv01ells",
+      "doc_name": "<em>Secrets</em> by Daniel Ellsberg",
+      "source": ""
+    },
+    {
+      "id": "telexannouncinge00tele",
+      "doc_name": "telexannouncinge00tele",
+      "source": ""
+    },
+    {
+      "id": "2390217001A",
+      "doc_name": "US Assistance Programs in Vietnam, Part 1",
+      "type": "pdf",
+      "source": "https://www.vietnam.ttu.edu/star/images/239/2390217001A.pdf"
+    },
+    {
+      "id": "2390217001B",
+      "doc_name": "US Assistance Programs in Vietnam, Part 2",
+      "type": "pdf",
+      "source": "https://www.vietnam.ttu.edu/star/images/239/2390217001N.pdf"
+    },
+    {
+      "id": "2390217001C",
+      "doc_name": "US Assistance Programs in Vietnam, Part 3",
+      "type": "pdf",
+      "source": "https://www.vietnam.ttu.edu/star/images/239/2390217001C.pdf"
+    },
+    {
+      "id": "053",
+      "doc_name": "telexannouncinge00tele",
+      "source": "https://archive.org/details/telexannouncinge00tele"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "082",
+  "shortname": "intelligence-misc",
+  "collection": "Books on Intelligence, Misc.",
+  "alt_names": [],
+  "date": "2001",
+  "description": "Various sources",
+  "important": "",
+  "source": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "'Encyclopedia of Espionage, Intelligence, and Security, Vol. 1'",
+      "source": false
+    },
+    {
+      "id": "002",
+      "doc_name": "'Encyclopedia of Espionage, Intelligence, and Security, Vol. 2'",
+      "source": false
+    },
+    {
+      "id": "003",
+      "doc_name": "'Encyclopedia of Espionage, Intelligence, and Security, Vol. 3'",
+      "source": false
+    },
+    {
+      "id": "004",
+      "doc_name": "'Encyclopedia of the Central Intelligence Agency', by W. Thomas Smith",
+      "source": false
+    },
+    {
+      "id": "005",
+      "doc_name": "'Espionage Cases, 1975-2004', Defense Personnel Security Research Center",
+      "source": false
+    },
+    {
+      "id": "006",
+      "doc_name": "'Fighting to Lose', by John Bryden",
+      "source": false
+    },
+    {
+      "id": "007",
+      "doc_name": "'Historical Dictionary of Air Intelligence', by Glenmore S. Trenear Harvey",
+      "source": false
+    },
+    {
+      "id": "008",
+      "doc_name": "'Historical Dictionary of The Dirty Wars', by David Kohut and Olga Vilella",
+      "source": false
+    },
+    {
+      "id": "009",
+      "doc_name": "'OSS', by R. Harris Smith",
+      "source": false
+    },
+    {
+      "id": "010",
+      "doc_name": "'James Jesus Angleton', by Michael Holzman",
+      "source": false
+    },
+    {
+      "id": "011",
+      "doc_name": "'KGB-CIA: Intelligence and Counterintelligence Operations'",
+      "source": false
+    },
+    {
+      "id": "012",
+      "doc_name": "'Historical Dictionary of International Intelligence' by Nigel West",
+      "source": false
+    },
+    {
+      "id": "013",
+      "doc_name": "'Secret Warriors: Inside the Covert Military Operations of the Reagan Era' by Steven Emerson",
+      "source": false
+    },
+    {
+      "id": "014",
+      "doc_name": "'CIA and the Cult of Intelligence' by Victor Marchetti and John D. Marks",
+      "source": false
+    },
+    {
+      "id": "phillips-nightwatch",
+      "doc_name": "'Nightwatch' by David Atlee Phillips (memoir)",
+      "source": false
+    },
+    {
+      "id": "CIA Human Res Exploit A1-G11"
+    },
+    {
+      "id": "CIA Human Res Exploit H0-L17"
+    },
+    {
+      "id": "CIA-analytic_culture_report"
+    },
+    {
+      "id": "CIA-analytic_pathologies_report"
+    },
+    {
+      "id": "CIA-Archangel-2ndEdition-2Feb12"
+    },
+    {
+      "id": "CIA-corona"
+    },
+    {
+      "id": "CIA-Cuban Missile Crisis1962"
+    },
+    {
+      "id": "CIA-dci_leaders"
+    },
+    {
+      "id": "CIA-Est on Soviet Strategic"
+    },
+    {
+      "id": "CIA-Getting to Know the President - CIA Briefings of Presidential Candidates 1952-1992"
+    },
+    {
+      "id": "CIA-IntelandPolicyRelationship_Internet"
+    },
+    {
+      "id": "CIA-OHB 50th Anniversary"
+    },
+    {
+      "id": "CIA-Origin_and_Evolution"
+    },
+    {
+      "id": "CIA-PsychofIntelNew"
+    },
+    {
+      "id": "CIA-Thinking-and-Writing-Feb2010-web"
+    },
+    {
+      "id": "CIA-Tradecraft Primer-apr09"
+    },
+    {
+      "id": "CIA-trafficking"
+    },
+    {
+      "id": "CIA-U- Book-Getting to Know the President"
+    },
+    {
+      "id": "CIA-U-Oct  1993- Of Moles - Molehunters - A Review of Counterintelligence Literature- 1977-92 -v2"
+    },
+    {
+      "id": "CIA-US Intelligence Community Reform Studies Since 1947"
+    },
+    {
+      "id": "FBI Secrets. an Agents Expose"
+    },
+    {
+      "id": "FBI_Monograph_StruggleAgainstLawlesness_May-1970"
+    },
+    {
+      "id": "FBI-AnarchistsCookbook_1971-1999"
+    },
+    {
+      "id": "FBI-Atom-BombNY_1951-1964"
+    },
+    {
+      "id": "FBI-Compliance-final"
+    },
+    {
+      "id": "FBI-EdithHelm_1940-1956"
+    },
+    {
+      "id": "FBI-Leland-Yee-Complaint"
+    },
+    {
+      "id": "FBI-Loompanics_1981-1995"
+    },
+    {
+      "id": "FBI-OWS-7-1175251-001-Occupy-Wall-Street-Section-7-1056580"
+    },
+    {
+      "id": "FBI-RampartsMagazine_1964-1975"
+    },
+    {
+      "id": "FBI-Sheriff-Inv_1942-1945"
+    },
+    {
+      "id": "fbi-spy-files-on-the-occupy-movement"
+    },
+    {
+      "id": "FBI-VillageVoice_1969-1997"
+    },
+    {
+      "id": "FBI100-HQ-343044SovietWarPlans_1945-1948"
+    }
+  ]
+}

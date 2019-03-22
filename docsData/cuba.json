@@ -1,0 +1,99 @@
+{
+  "id": "047",
+  "shortname": "cuba",
+  "collection": "Cuba",
+  "alt_names": [],
+  "date": "1959",
+  "important": "",
+  "description": "",
+  "source": "",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "The Secret War: CIA Covert Operations Against Cuba by Fabian Escalante",
+      "source": "https://archive.org/stream/FabianEscalanteSecretWarCubaCIA/Fabian%20Escalante%20Secret%20War%20Cuba%20CIA"
+    },
+    {
+      "id": "002",
+      "doc_name": "Hearings on the Fair Play for Cuba Committee, Vols. 1 &amp; 2",
+      "source": "https://archive.org/stream/fairplayforcubac0102unit"
+    },
+    {
+      "id": "003",
+      "doc_name": "Hearings on the Fair Play for Cuba Committee, Vols. 3 &amp; 4",
+      "source": "https://archive.org/stream/fairplayforcubac0304unit"
+    },
+    {
+      "id": "004",
+      "doc_name": "Communist and Trotskyist Activity Within the Greater Los Angeles Chapter of the Fair Play for Cuba Committee",
+      "source": "https://archive.org/stream/communisttrotsky00unit"
+    },
+    {
+      "id": "ELS002-010",
+      "doc_name": "Cuban Missile Crisis Meeting Minutes: October 27th, 1962",
+      "source": "https://archive.org/stream/TranscriptOfPresidentialMeetingsDuringCubanMissileCrisis/ELS002-010"
+    },
+    {
+      "id": "ELS002-011",
+      "doc_name": "Cuban Missile Crisis Meeting Minutes: October 27th, 1962",
+      "source": "https://archive.org/stream/TranscriptOfPresidentialMeetingsDuringCubanMissileCrisis/ELS002-011"
+    },
+    {
+      "id": "005",
+      "doc_name": "Cuban Revolution Reader"
+    },
+    {
+      "id": "CastroSpeechJFK2",
+      "doc_name": "Castro Speech JFK (Nov. 27th, 1963)"
+    },
+    {
+      "id": "006",
+      "doc_name": "Bay of Pigs Inspector General’s Survey of Cuban Operation"
+    },
+    {
+      "id": "007",
+      "doc_name": "Bay of Pigs Official History Volume I Air Operations, March 1960 to April 1961 Part One",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol1-part1.pdf"
+    },
+    {
+      "id": "008",
+      "doc_name": "Bay of Pigs Official History Volume I Air Operations, March 1960 to April 1961 Part Two",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol1-part2.pdf"
+    },
+    {
+      "id": "009",
+      "doc_name": "Bay of Pigs Official History Volume I Air Operations, March 1960 to April 1961Part Three",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol1-part3.pdf"
+    },
+    {
+      "id": "010",
+      "doc_name": "Bay of Pigs Official History Volume II Participation in the Conduct of Foreign Policy Part One",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol2-part1.pdf"
+    },
+    {
+      "id": "011",
+      "doc_name": "Bay of Pigs Official History Volume II Participation in the Conduct of Foreign Policy Part Two",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol2-part2.pdf"
+    },
+    {
+      "id": "012",
+      "doc_name": "Bay of Pigs Official History Volume III Evolution of CIA's Anti Castro Policies, 1951  January 1961",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol3.pdf"
+    },
+    {
+      "id": "013",
+      "doc_name": "Bay of Pigs Official History Volume IV The Taylor Committee Investigation of the Bay of Pigs",
+      "source": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB355/bop-vol4.pdf"
+    },
+    {
+      "id": "014",
+      "doc_name": "Eisenhower and Kennedy on the Bay of Pigs"
+    },
+    {
+      "id": "orlando-bosch-trial",
+      "doc_name": "United States of America v. Orlando Bosch et al. (No. 68-420-Cr-WM)",
+      "source": "https://archive.org/stream/OrlandoBoschTrial/Orlando%20Bosch%20trial"
+    }
+  ]
+}

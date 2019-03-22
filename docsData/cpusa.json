@@ -1,0 +1,3522 @@
+{
+  "id": "094",
+  "shortname": "cpusa",
+  "collection": "FBI files, CPUSA",
+  "alt_names": [],
+  "date": "1958",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/OperationSOLO",
+  "type": "archive-b",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "SOLO 001",
+      "source": "OperationSOLO/SOLO 001"
+    },
+    {
+      "id": "SOLO 002",
+      "source": "OperationSOLO/SOLO 002"
+    },
+    {
+      "id": "SOLO 003",
+      "source": "OperationSOLO/SOLO 003"
+    },
+    {
+      "id": "SOLO 004",
+      "source": "OperationSOLO/SOLO 004"
+    },
+    {
+      "id": "SOLO 005",
+      "source": "OperationSOLO/SOLO 005"
+    },
+    {
+      "id": "SOLO 006",
+      "source": "OperationSOLO/SOLO 006"
+    },
+    {
+      "id": "SOLO 007",
+      "source": "OperationSOLO/SOLO 007"
+    },
+    {
+      "id": "SOLO 008",
+      "source": "OperationSOLO/SOLO 008"
+    },
+    {
+      "id": "SOLO 009",
+      "source": "OperationSOLO/SOLO 009"
+    },
+    {
+      "id": "SOLO 010",
+      "source": "OperationSOLO/SOLO 010"
+    },
+    {
+      "id": "SOLO 011",
+      "source": "OperationSOLO/SOLO 011"
+    },
+    {
+      "id": "SOLO 012",
+      "source": "OperationSOLO/SOLO 012"
+    },
+    {
+      "id": "SOLO 013",
+      "source": "OperationSOLO/SOLO 013"
+    },
+    {
+      "id": "SOLO 014",
+      "source": "OperationSOLO/SOLO 014"
+    },
+    {
+      "id": "SOLO 015",
+      "source": "OperationSOLO/SOLO 015"
+    },
+    {
+      "id": "SOLO 016",
+      "source": "OperationSOLO/SOLO 016"
+    },
+    {
+      "id": "SOLO 017",
+      "source": "OperationSOLO/SOLO 017"
+    },
+    {
+      "id": "SOLO 018",
+      "source": "OperationSOLO/SOLO 018"
+    },
+    {
+      "id": "SOLO 019",
+      "source": "OperationSOLO/SOLO 019"
+    },
+    {
+      "id": "SOLO 020",
+      "source": "OperationSOLO/SOLO 020"
+    },
+    {
+      "id": "SOLO 021",
+      "source": "OperationSOLO/SOLO 021"
+    },
+    {
+      "id": "SOLO 022",
+      "source": "OperationSOLO/SOLO 022"
+    },
+    {
+      "id": "SOLO 023",
+      "source": "OperationSOLO/SOLO 023"
+    },
+    {
+      "id": "SOLO 024",
+      "source": "OperationSOLO/SOLO 024"
+    },
+    {
+      "id": "SOLO 025",
+      "source": "OperationSOLO/SOLO 025"
+    },
+    {
+      "id": "SOLO 026",
+      "source": "OperationSOLO/SOLO 026"
+    },
+    {
+      "id": "SOLO 027",
+      "source": "OperationSOLO/SOLO 027"
+    },
+    {
+      "id": "SOLO 028",
+      "source": "OperationSOLO/SOLO 028"
+    },
+    {
+      "id": "SOLO 029",
+      "source": "OperationSOLO/SOLO 029"
+    },
+    {
+      "id": "SOLO 030",
+      "source": "OperationSOLO/SOLO 030"
+    },
+    {
+      "id": "SOLO 031",
+      "source": "OperationSOLO/SOLO 031"
+    },
+    {
+      "id": "SOLO 032",
+      "source": "OperationSOLO/SOLO 032"
+    },
+    {
+      "id": "SOLO 033",
+      "source": "OperationSOLO/SOLO 033"
+    },
+    {
+      "id": "SOLO 034",
+      "source": "OperationSOLO/SOLO 034"
+    },
+    {
+      "id": "SOLO 035",
+      "source": "OperationSOLO/SOLO 035"
+    },
+    {
+      "id": "SOLO 036",
+      "source": "OperationSOLO/SOLO 036"
+    },
+    {
+      "id": "SOLO 037",
+      "source": "OperationSOLO/SOLO 037"
+    },
+    {
+      "id": "SOLO 038",
+      "source": "OperationSOLO/SOLO 038"
+    },
+    {
+      "id": "SOLO 039",
+      "source": "OperationSOLO/SOLO 039"
+    },
+    {
+      "id": "SOLO 040",
+      "source": "OperationSOLO/SOLO 040"
+    },
+    {
+      "id": "SOLO 041",
+      "source": "OperationSOLO/SOLO 041"
+    },
+    {
+      "id": "SOLO 042",
+      "source": "OperationSOLO/SOLO 042"
+    },
+    {
+      "id": "SOLO 043",
+      "source": "OperationSOLO/SOLO 043"
+    },
+    {
+      "id": "SOLO 044",
+      "source": "OperationSOLO/SOLO 044"
+    },
+    {
+      "id": "SOLO 045",
+      "source": "OperationSOLO/SOLO 045"
+    },
+    {
+      "id": "SOLO 046",
+      "source": "OperationSOLO/SOLO 046"
+    },
+    {
+      "id": "SOLO 047",
+      "source": "OperationSOLO/SOLO 047"
+    },
+    {
+      "id": "SOLO 048",
+      "source": "OperationSOLO/SOLO 048"
+    },
+    {
+      "id": "SOLO 049",
+      "source": "OperationSOLO/SOLO 049"
+    },
+    {
+      "id": "SOLO 050",
+      "source": "OperationSOLO/SOLO 050"
+    },
+    {
+      "id": "SOLO 051",
+      "source": "OperationSOLO/SOLO 051"
+    },
+    {
+      "id": "SOLO 052",
+      "source": "OperationSOLO/SOLO 052"
+    },
+    {
+      "id": "SOLO 053",
+      "source": "OperationSOLO/SOLO 053"
+    },
+    {
+      "id": "SOLO 054",
+      "source": "OperationSOLO/SOLO 054"
+    },
+    {
+      "id": "SOLO 055",
+      "source": "OperationSOLO/SOLO 055"
+    },
+    {
+      "id": "SOLO 056",
+      "source": "OperationSOLO/SOLO 056"
+    },
+    {
+      "id": "SOLO 057",
+      "source": "OperationSOLO/SOLO 057"
+    },
+    {
+      "id": "SOLO 058",
+      "source": "OperationSOLO/SOLO 058"
+    },
+    {
+      "id": "SOLO 059",
+      "source": "OperationSOLO/SOLO 059"
+    },
+    {
+      "id": "SOLO 060",
+      "source": "OperationSOLO/SOLO 060"
+    },
+    {
+      "id": "SOLO 061",
+      "source": "OperationSOLO/SOLO 061"
+    },
+    {
+      "id": "SOLO 062",
+      "source": "OperationSOLO/SOLO 062"
+    },
+    {
+      "id": "SOLO 063",
+      "source": "OperationSOLO/SOLO 063"
+    },
+    {
+      "id": "SOLO 064",
+      "source": "OperationSOLO/SOLO 064"
+    },
+    {
+      "id": "SOLO 065",
+      "source": "OperationSOLO/SOLO 065"
+    },
+    {
+      "id": "SOLO 066",
+      "source": "OperationSOLO/SOLO 066"
+    },
+    {
+      "id": "SOLO 067",
+      "source": "OperationSOLO/SOLO 067"
+    },
+    {
+      "id": "SOLO 068",
+      "source": "OperationSOLO/SOLO 068"
+    },
+    {
+      "id": "SOLO 069",
+      "source": "OperationSOLO/SOLO 069"
+    },
+    {
+      "id": "SOLO 070",
+      "source": "OperationSOLO/SOLO 070"
+    },
+    {
+      "id": "SOLO 071",
+      "source": "OperationSOLO/SOLO 071"
+    },
+    {
+      "id": "SOLO 072",
+      "source": "OperationSOLO/SOLO 072"
+    },
+    {
+      "id": "SOLO 073",
+      "source": "OperationSOLO/SOLO 073"
+    },
+    {
+      "id": "SOLO 074",
+      "source": "OperationSOLO/SOLO 074"
+    },
+    {
+      "id": "SOLO 075",
+      "source": "OperationSOLO/SOLO 075"
+    },
+    {
+      "id": "SOLO 076",
+      "source": "OperationSOLO/SOLO 076"
+    },
+    {
+      "id": "SOLO 077",
+      "source": "OperationSOLO/SOLO 077"
+    },
+    {
+      "id": "SOLO 078",
+      "source": "OperationSOLO/SOLO 078"
+    },
+    {
+      "id": "SOLO 079",
+      "source": "OperationSOLO/SOLO 079"
+    },
+    {
+      "id": "SOLO 080",
+      "source": "OperationSOLO/SOLO 080"
+    },
+    {
+      "id": "SOLO 081",
+      "source": "OperationSOLO/SOLO 081"
+    },
+    {
+      "id": "SOLO 082",
+      "source": "OperationSOLO/SOLO 082"
+    },
+    {
+      "id": "SOLO 083",
+      "source": "OperationSOLO/SOLO 083"
+    },
+    {
+      "id": "SOLO 084",
+      "source": "OperationSOLO/SOLO 084"
+    },
+    {
+      "id": "SOLO 085",
+      "source": "OperationSOLO/SOLO 085"
+    },
+    {
+      "id": "SOLO 086",
+      "source": "OperationSOLO/SOLO 086"
+    },
+    {
+      "id": "SOLO 087",
+      "source": "OperationSOLO/SOLO 087"
+    },
+    {
+      "id": "SOLO 088",
+      "source": "OperationSOLO/SOLO 088"
+    },
+    {
+      "id": "SOLO 089",
+      "source": "OperationSOLO/SOLO 089"
+    },
+    {
+      "id": "SOLO 090",
+      "source": "OperationSOLO/SOLO 090"
+    },
+    {
+      "id": "SOLO 091",
+      "source": "OperationSOLO/SOLO 091"
+    },
+    {
+      "id": "SOLO 092",
+      "source": "OperationSOLO/SOLO 092"
+    },
+    {
+      "id": "SOLO 093",
+      "source": "OperationSOLO/SOLO 093"
+    },
+    {
+      "id": "SOLO 094",
+      "source": "OperationSOLO/SOLO 094"
+    },
+    {
+      "id": "SOLO 095",
+      "source": "OperationSOLO/SOLO 095"
+    },
+    {
+      "id": "SOLO 096",
+      "source": "OperationSOLO/SOLO 096"
+    },
+    {
+      "id": "SOLO 097",
+      "source": "OperationSOLO/SOLO 097"
+    },
+    {
+      "id": "SOLO 098",
+      "source": "OperationSOLO/SOLO 098"
+    },
+    {
+      "id": "SOLO 099",
+      "source": "OperationSOLO/SOLO 099"
+    },
+    {
+      "id": "SOLO 100",
+      "source": "OperationSOLO/SOLO 100"
+    },
+    {
+      "id": "SOLO 101",
+      "source": "OperationSOLO/SOLO 101"
+    },
+    {
+      "id": "SOLO 102",
+      "source": "OperationSOLO/SOLO 102"
+    },
+    {
+      "id": "SOLO 103",
+      "source": "OperationSOLO/SOLO 103"
+    },
+    {
+      "id": "SOLO 104",
+      "source": "OperationSOLO/SOLO 104"
+    },
+    {
+      "id": "SOLO 105",
+      "source": "OperationSOLO/SOLO 105"
+    },
+    {
+      "id": "SOLO 106",
+      "source": "OperationSOLO/SOLO 106"
+    },
+    {
+      "id": "SOLO 107",
+      "source": "OperationSOLO/SOLO 107"
+    },
+    {
+      "id": "SOLO 108",
+      "source": "OperationSOLO/SOLO 108"
+    },
+    {
+      "id": "SOLO 109",
+      "source": "OperationSOLO/SOLO 109"
+    },
+    {
+      "id": "SOLO 110",
+      "source": "OperationSOLO/SOLO 110"
+    },
+    {
+      "id": "SOLO 111",
+      "source": "OperationSOLO/SOLO 111"
+    },
+    {
+      "id": "SOLO 112",
+      "source": "OperationSOLO/SOLO 112"
+    },
+    {
+      "id": "SOLO 113",
+      "source": "OperationSOLO/SOLO 113"
+    },
+    {
+      "id": "SOLO 114",
+      "source": "OperationSOLO/SOLO 114"
+    },
+    {
+      "id": "SOLO 115",
+      "source": "OperationSOLO/SOLO 115"
+    },
+    {
+      "id": "SOLO 116",
+      "source": "OperationSOLO/SOLO 116"
+    },
+    {
+      "id": "SOLO 117",
+      "source": "OperationSOLO/SOLO 117"
+    },
+    {
+      "id": "SOLO 118",
+      "source": "OperationSOLO/SOLO 118"
+    },
+    {
+      "id": "SOLO 119",
+      "source": "OperationSOLO/SOLO 119"
+    },
+    {
+      "id": "SOLO 120",
+      "source": "OperationSOLO/SOLO 120"
+    },
+    {
+      "id": "SOLO 121",
+      "source": "OperationSOLO/SOLO 121"
+    },
+    {
+      "id": "SOLO 122",
+      "source": "OperationSOLO/SOLO 122"
+    },
+    {
+      "id": "SOLO 123",
+      "source": "OperationSOLO/SOLO 123"
+    },
+    {
+      "id": "SOLO 124",
+      "source": "OperationSOLO/SOLO 124"
+    },
+    {
+      "id": "SOLO 125",
+      "source": "OperationSOLO/SOLO 125"
+    },
+    {
+      "id": "FBI_Monographs-Eisenhower_Library",
+      "source": "FBI_Monographs-Eisenhower_Library/FBI_Monographs-Eisenhower_Library"
+    },
+    {
+      "id": "HUAC-HQ-127",
+      "source": "HUAC-HQ-127/HUAC-HQ-127"
+    },
+    {
+      "id": "HUAC-HQ-127_text",
+      "source": "HUAC-HQ-127/HUAC-HQ-127_text"
+    },
+    {
+      "id": "HUAC-HQ-128",
+      "source": "HUAC-HQ-128/HUAC-HQ-128"
+    },
+    {
+      "id": "HUAC-HQ-EBF-4028",
+      "source": "HUAC-HQ-EBF-4028/HUAC-HQ-EBF-4028"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-240",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-240/Alleged_Communists_in_State_Dept-EBF-240"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-240_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-240/Alleged_Communists_in_State_Dept-EBF-240_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-256",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-256/Alleged_Communists_in_State_Dept-EBF-256"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-256_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-256/Alleged_Communists_in_State_Dept-EBF-256_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-267-1",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-267-1/Alleged_Communists_in_State_Dept-EBF-267-1"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-267-1_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-267-1/Alleged_Communists_in_State_Dept-EBF-267-1_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-62",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-62/Alleged_Communists_in_State_Dept-EBF-62"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-6x",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-6x/Alleged_Communists_in_State_Dept-EBF-6x"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-6x_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-6x/Alleged_Communists_in_State_Dept-EBF-6x_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-7",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-7/Alleged_Communists_in_State_Dept-EBF-7"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-7_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-7/Alleged_Communists_in_State_Dept-EBF-7_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-EBF-97",
+      "source": "foia_Alleged_Communists_in_State_Dept-EBF-97/Alleged_Communists_in_State_Dept-EBF-97"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-1",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-1/Alleged_Communists_in_State_Dept-HQ-1"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-1_text",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-1/Alleged_Communists_in_State_Dept-HQ-1_text"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-2",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-2/Alleged_Communists_in_State_Dept-HQ-2"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-5",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-5/Alleged_Communists_in_State_Dept-HQ-5"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-6",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-6/Alleged_Communists_in_State_Dept-HQ-6"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-7",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-7/Alleged_Communists_in_State_Dept-HQ-7"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-8",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-8/Alleged_Communists_in_State_Dept-HQ-8"
+    },
+    {
+      "id": "Alleged_Communists_in_State_Dept-HQ-EBF-13",
+      "source": "foia_Alleged_Communists_in_State_Dept-HQ-EBF-13/Alleged_Communists_in_State_Dept-HQ-EBF-13"
+    },
+    {
+      "id": "Bart_Phil_NYC-1",
+      "source": "foia_Bart_Phil_NYC-1/Bart_Phil_NYC-1"
+    },
+    {
+      "id": "Bart_Phil_NYC-1_text",
+      "source": "foia_Bart_Phil_NYC-1/Bart_Phil_NYC-1_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-10",
+      "source": "foia_Bart_Phil_NYC-10/Bart_Phil_NYC-10"
+    },
+    {
+      "id": "Bart_Phil_NYC-10_text",
+      "source": "foia_Bart_Phil_NYC-10/Bart_Phil_NYC-10_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-11",
+      "source": "foia_Bart_Phil_NYC-11/Bart_Phil_NYC-11"
+    },
+    {
+      "id": "Bart_Phil_NYC-11_text",
+      "source": "foia_Bart_Phil_NYC-11/Bart_Phil_NYC-11_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-12",
+      "source": "foia_Bart_Phil_NYC-12/Bart_Phil_NYC-12"
+    },
+    {
+      "id": "Bart_Phil_NYC-12_text",
+      "source": "foia_Bart_Phil_NYC-12/Bart_Phil_NYC-12_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-1A",
+      "source": "foia_Bart_Phil_NYC-1A/Bart_Phil_NYC-1A"
+    },
+    {
+      "id": "Bart_Phil_NYC-1A_text",
+      "source": "foia_Bart_Phil_NYC-1A/Bart_Phil_NYC-1A_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-2",
+      "source": "foia_Bart_Phil_NYC-2/Bart_Phil_NYC-2"
+    },
+    {
+      "id": "Bart_Phil_NYC-2_text",
+      "source": "foia_Bart_Phil_NYC-2/Bart_Phil_NYC-2_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-20",
+      "source": "foia_Bart_Phil_NYC-20/Bart_Phil_NYC-20"
+    },
+    {
+      "id": "Bart_Phil_NYC-20_text",
+      "source": "foia_Bart_Phil_NYC-20/Bart_Phil_NYC-20_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-21",
+      "source": "foia_Bart_Phil_NYC-21/Bart_Phil_NYC-21"
+    },
+    {
+      "id": "Bart_Phil_NYC-21_text",
+      "source": "foia_Bart_Phil_NYC-21/Bart_Phil_NYC-21_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-22",
+      "source": "foia_Bart_Phil_NYC-22/Bart_Phil_NYC-22"
+    },
+    {
+      "id": "Bart_Phil_NYC-22_text",
+      "source": "foia_Bart_Phil_NYC-22/Bart_Phil_NYC-22_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-23",
+      "source": "foia_Bart_Phil_NYC-23/Bart_Phil_NYC-23"
+    },
+    {
+      "id": "Bart_Phil_NYC-23_text",
+      "source": "foia_Bart_Phil_NYC-23/Bart_Phil_NYC-23_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-24",
+      "source": "foia_Bart_Phil_NYC-24/Bart_Phil_NYC-24"
+    },
+    {
+      "id": "Bart_Phil_NYC-24_text",
+      "source": "foia_Bart_Phil_NYC-24/Bart_Phil_NYC-24_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-25",
+      "source": "foia_Bart_Phil_NYC-25/Bart_Phil_NYC-25"
+    },
+    {
+      "id": "Bart_Phil_NYC-25_text",
+      "source": "foia_Bart_Phil_NYC-25/Bart_Phil_NYC-25_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-26",
+      "source": "foia_Bart_Phil_NYC-26/Bart_Phil_NYC-26"
+    },
+    {
+      "id": "Bart_Phil_NYC-26_text",
+      "source": "foia_Bart_Phil_NYC-26/Bart_Phil_NYC-26_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-27",
+      "source": "foia_Bart_Phil_NYC-27/Bart_Phil_NYC-27"
+    },
+    {
+      "id": "Bart_Phil_NYC-27_text",
+      "source": "foia_Bart_Phil_NYC-27/Bart_Phil_NYC-27_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-28",
+      "source": "foia_Bart_Phil_NYC-28/Bart_Phil_NYC-28"
+    },
+    {
+      "id": "Bart_Phil_NYC-28_text",
+      "source": "foia_Bart_Phil_NYC-28/Bart_Phil_NYC-28_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-29",
+      "source": "foia_Bart_Phil_NYC-29/Bart_Phil_NYC-29"
+    },
+    {
+      "id": "Bart_Phil_NYC-29_text",
+      "source": "foia_Bart_Phil_NYC-29/Bart_Phil_NYC-29_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-2A",
+      "source": "foia_Bart_Phil_NYC-2A/Bart_Phil_NYC-2A"
+    },
+    {
+      "id": "Bart_Phil_NYC-2A_text",
+      "source": "foia_Bart_Phil_NYC-2A/Bart_Phil_NYC-2A_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-3",
+      "source": "foia_Bart_Phil_NYC-3/Bart_Phil_NYC-3"
+    },
+    {
+      "id": "Bart_Phil_NYC-3_text",
+      "source": "foia_Bart_Phil_NYC-3/Bart_Phil_NYC-3_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-30",
+      "source": "foia_Bart_Phil_NYC-30/Bart_Phil_NYC-30"
+    },
+    {
+      "id": "Bart_Phil_NYC-30_text",
+      "source": "foia_Bart_Phil_NYC-30/Bart_Phil_NYC-30_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-31",
+      "source": "foia_Bart_Phil_NYC-31/Bart_Phil_NYC-31"
+    },
+    {
+      "id": "Bart_Phil_NYC-31_text",
+      "source": "foia_Bart_Phil_NYC-31/Bart_Phil_NYC-31_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-32",
+      "source": "foia_Bart_Phil_NYC-32/Bart_Phil_NYC-32"
+    },
+    {
+      "id": "Bart_Phil_NYC-32_text",
+      "source": "foia_Bart_Phil_NYC-32/Bart_Phil_NYC-32_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-33",
+      "source": "foia_Bart_Phil_NYC-33/Bart_Phil_NYC-33"
+    },
+    {
+      "id": "Bart_Phil_NYC-33_text",
+      "source": "foia_Bart_Phil_NYC-33/Bart_Phil_NYC-33_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-34",
+      "source": "foia_Bart_Phil_NYC-34/Bart_Phil_NYC-34"
+    },
+    {
+      "id": "Bart_Phil_NYC-34_text",
+      "source": "foia_Bart_Phil_NYC-34/Bart_Phil_NYC-34_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-35",
+      "source": "foia_Bart_Phil_NYC-35/Bart_Phil_NYC-35"
+    },
+    {
+      "id": "Bart_Phil_NYC-35_text",
+      "source": "foia_Bart_Phil_NYC-35/Bart_Phil_NYC-35_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-36",
+      "source": "foia_Bart_Phil_NYC-36/Bart_Phil_NYC-36"
+    },
+    {
+      "id": "Bart_Phil_NYC-36_text",
+      "source": "foia_Bart_Phil_NYC-36/Bart_Phil_NYC-36_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-37",
+      "source": "foia_Bart_Phil_NYC-37/Bart_Phil_NYC-37"
+    },
+    {
+      "id": "Bart_Phil_NYC-37_text",
+      "source": "foia_Bart_Phil_NYC-37/Bart_Phil_NYC-37_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-38",
+      "source": "foia_Bart_Phil_NYC-38/Bart_Phil_NYC-38"
+    },
+    {
+      "id": "Bart_Phil_NYC-38_text",
+      "source": "foia_Bart_Phil_NYC-38/Bart_Phil_NYC-38_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-39",
+      "source": "foia_Bart_Phil_NYC-39/Bart_Phil_NYC-39"
+    },
+    {
+      "id": "Bart_Phil_NYC-39_text",
+      "source": "foia_Bart_Phil_NYC-39/Bart_Phil_NYC-39_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-4",
+      "source": "foia_Bart_Phil_NYC-4/Bart_Phil_NYC-4"
+    },
+    {
+      "id": "Bart_Phil_NYC-4_text",
+      "source": "foia_Bart_Phil_NYC-4/Bart_Phil_NYC-4_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-40",
+      "source": "foia_Bart_Phil_NYC-40/Bart_Phil_NYC-40"
+    },
+    {
+      "id": "Bart_Phil_NYC-40_text",
+      "source": "foia_Bart_Phil_NYC-40/Bart_Phil_NYC-40_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-41",
+      "source": "foia_Bart_Phil_NYC-41/Bart_Phil_NYC-41"
+    },
+    {
+      "id": "Bart_Phil_NYC-41_text",
+      "source": "foia_Bart_Phil_NYC-41/Bart_Phil_NYC-41_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-42",
+      "source": "foia_Bart_Phil_NYC-42/Bart_Phil_NYC-42"
+    },
+    {
+      "id": "Bart_Phil_NYC-42_text",
+      "source": "foia_Bart_Phil_NYC-42/Bart_Phil_NYC-42_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-43",
+      "source": "foia_Bart_Phil_NYC-43/Bart_Phil_NYC-43"
+    },
+    {
+      "id": "Bart_Phil_NYC-43_text",
+      "source": "foia_Bart_Phil_NYC-43/Bart_Phil_NYC-43_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-44",
+      "source": "foia_Bart_Phil_NYC-44/Bart_Phil_NYC-44"
+    },
+    {
+      "id": "Bart_Phil_NYC-44_text",
+      "source": "foia_Bart_Phil_NYC-44/Bart_Phil_NYC-44_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-45",
+      "source": "foia_Bart_Phil_NYC-45/Bart_Phil_NYC-45"
+    },
+    {
+      "id": "Bart_Phil_NYC-45_text",
+      "source": "foia_Bart_Phil_NYC-45/Bart_Phil_NYC-45_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-5",
+      "source": "foia_Bart_Phil_NYC-5/Bart_Phil_NYC-5"
+    },
+    {
+      "id": "Bart_Phil_NYC-5_text",
+      "source": "foia_Bart_Phil_NYC-5/Bart_Phil_NYC-5_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-61",
+      "source": "foia_Bart_Phil_NYC-61/Bart_Phil_NYC-61"
+    },
+    {
+      "id": "Bart_Phil_NYC-61_text",
+      "source": "foia_Bart_Phil_NYC-61/Bart_Phil_NYC-61_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-62",
+      "source": "foia_Bart_Phil_NYC-62/Bart_Phil_NYC-62"
+    },
+    {
+      "id": "Bart_Phil_NYC-62_text",
+      "source": "foia_Bart_Phil_NYC-62/Bart_Phil_NYC-62_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-63",
+      "source": "foia_Bart_Phil_NYC-63/Bart_Phil_NYC-63"
+    },
+    {
+      "id": "Bart_Phil_NYC-63_text",
+      "source": "foia_Bart_Phil_NYC-63/Bart_Phil_NYC-63_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-64",
+      "source": "foia_Bart_Phil_NYC-64/Bart_Phil_NYC-64"
+    },
+    {
+      "id": "Bart_Phil_NYC-64_text",
+      "source": "foia_Bart_Phil_NYC-64/Bart_Phil_NYC-64_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-65",
+      "source": "foia_Bart_Phil_NYC-65/Bart_Phil_NYC-65"
+    },
+    {
+      "id": "Bart_Phil_NYC-65_text",
+      "source": "foia_Bart_Phil_NYC-65/Bart_Phil_NYC-65_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-66",
+      "source": "foia_Bart_Phil_NYC-66/Bart_Phil_NYC-66"
+    },
+    {
+      "id": "Bart_Phil_NYC-66_text",
+      "source": "foia_Bart_Phil_NYC-66/Bart_Phil_NYC-66_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-67",
+      "source": "foia_Bart_Phil_NYC-67/Bart_Phil_NYC-67"
+    },
+    {
+      "id": "Bart_Phil_NYC-67_text",
+      "source": "foia_Bart_Phil_NYC-67/Bart_Phil_NYC-67_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-68",
+      "source": "foia_Bart_Phil_NYC-68/Bart_Phil_NYC-68"
+    },
+    {
+      "id": "Bart_Phil_NYC-68_text",
+      "source": "foia_Bart_Phil_NYC-68/Bart_Phil_NYC-68_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-69",
+      "source": "foia_Bart_Phil_NYC-69/Bart_Phil_NYC-69"
+    },
+    {
+      "id": "Bart_Phil_NYC-69_text",
+      "source": "foia_Bart_Phil_NYC-69/Bart_Phil_NYC-69_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-70",
+      "source": "foia_Bart_Phil_NYC-70/Bart_Phil_NYC-70"
+    },
+    {
+      "id": "Bart_Phil_NYC-70_text",
+      "source": "foia_Bart_Phil_NYC-70/Bart_Phil_NYC-70_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-71",
+      "source": "foia_Bart_Phil_NYC-71/Bart_Phil_NYC-71"
+    },
+    {
+      "id": "Bart_Phil_NYC-71_text",
+      "source": "foia_Bart_Phil_NYC-71/Bart_Phil_NYC-71_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-72",
+      "source": "foia_Bart_Phil_NYC-72/Bart_Phil_NYC-72"
+    },
+    {
+      "id": "Bart_Phil_NYC-72_text",
+      "source": "foia_Bart_Phil_NYC-72/Bart_Phil_NYC-72_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-8",
+      "source": "foia_Bart_Phil_NYC-8/Bart_Phil_NYC-8"
+    },
+    {
+      "id": "Bart_Phil_NYC-8_text",
+      "source": "foia_Bart_Phil_NYC-8/Bart_Phil_NYC-8_text"
+    },
+    {
+      "id": "Bart_Phil_NYC-9",
+      "source": "foia_Bart_Phil_NYC-9/Bart_Phil_NYC-9"
+    },
+    {
+      "id": "CPUSA-Domestic_Administration_Issues-HQ-8",
+      "source": "foia_CPUSA-Domestic_Administration_Issues-HQ-8/CPUSA-Domestic_Administration_Issues-HQ-8"
+    },
+    {
+      "id": "CPUSA-Domestic_Administration_Issues-HQ-8_text",
+      "source": "foia_CPUSA-Domestic_Administration_Issues-HQ-8/CPUSA-Domestic_Administration_Issues-HQ-8_text"
+    },
+    {
+      "id": "CPUSA-NYC-133",
+      "source": "foia_CPUSA-NYC-133/CPUSA-NYC-133"
+    },
+    {
+      "id": "CPUSA-NYC-133_text",
+      "source": "foia_CPUSA-NYC-133/CPUSA-NYC-133_text"
+    },
+    {
+      "id": "CPUSA-NYC-134",
+      "source": "foia_CPUSA-NYC-134/CPUSA-NYC-134"
+    },
+    {
+      "id": "CPUSA-NYC-134_text",
+      "source": "foia_CPUSA-NYC-134/CPUSA-NYC-134_text"
+    },
+    {
+      "id": "CPUSA-NYC-135",
+      "source": "foia_CPUSA-NYC-135/CPUSA-NYC-135"
+    },
+    {
+      "id": "CPUSA-NYC-135_text",
+      "source": "foia_CPUSA-NYC-135/CPUSA-NYC-135_text"
+    },
+    {
+      "id": "CPUSA-NYC-136",
+      "source": "foia_CPUSA-NYC-136/CPUSA-NYC-136"
+    },
+    {
+      "id": "CPUSA-NYC-136_text",
+      "source": "foia_CPUSA-NYC-136/CPUSA-NYC-136_text"
+    },
+    {
+      "id": "CPUSA-Negro_Question-Los_Angeles-8",
+      "source": "foia_CPUSA-Negro_Question-Los_Angeles-8/CPUSA-Negro_Question-Los_Angeles-8"
+    },
+    {
+      "id": "CPUSA-Negro_Question-Los_Angeles-8_text",
+      "source": "foia_CPUSA-Negro_Question-Los_Angeles-8/CPUSA-Negro_Question-Los_Angeles-8_text"
+    },
+    {
+      "id": "CPUSA-Negro_Question-Los_Angeles-9",
+      "source": "foia_CPUSA-Negro_Question-Los_Angeles-9/CPUSA-Negro_Question-Los_Angeles-9"
+    },
+    {
+      "id": "CPUSA-Negro_Question-Los_Angeles-9_text",
+      "source": "foia_CPUSA-Negro_Question-Los_Angeles-9/CPUSA-Negro_Question-Los_Angeles-9_text"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-106",
+      "source": "foia_CPUSA-TOPLEV-HQ-106/CPUSA-TOPLEV-HQ-106"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-106_text",
+      "source": "foia_CPUSA-TOPLEV-HQ-106/CPUSA-TOPLEV-HQ-106_text"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-67",
+      "source": "foia_CPUSA-TOPLEV-HQ-67/CPUSA-TOPLEV-HQ-67"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-67_text",
+      "source": "foia_CPUSA-TOPLEV-HQ-67/CPUSA-TOPLEV-HQ-67_text"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-68",
+      "source": "foia_CPUSA-TOPLEV-HQ-68/CPUSA-TOPLEV-HQ-68"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-68_text",
+      "source": "foia_CPUSA-TOPLEV-HQ-68/CPUSA-TOPLEV-HQ-68_text"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-98",
+      "source": "foia_CPUSA-TOPLEV-HQ-98/CPUSA-TOPLEV-HQ-98"
+    },
+    {
+      "id": "CPUSA-TOPLEV-HQ-98_text",
+      "source": "foia_CPUSA-TOPLEV-HQ-98/CPUSA-TOPLEV-HQ-98_text"
+    },
+    {
+      "id": "CPUSA_Dept_of_Justice_files_microfilm_list",
+      "source": "foia_CPUSA_Dept_of_Justice_files_microfilm_list/CPUSA_Dept_of_Justice_files_microfilm_list"
+    },
+    {
+      "id": "CPUSA_Entertainment_Industry_FBI_files_list",
+      "source": "foia_CPUSA_Entertainment_Industry_FBI_files_list/CPUSA_Entertainment_Industry_FBI_files_list"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-10",
+      "source": "foia_CPUSA_LINE_NYC-10/CPUSA_LINE_NYC-10"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-10_text",
+      "source": "foia_CPUSA_LINE_NYC-10/CPUSA_LINE_NYC-10_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-11",
+      "source": "foia_CPUSA_LINE_NYC-11/CPUSA_LINE_NYC-11"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-11_text",
+      "source": "foia_CPUSA_LINE_NYC-11/CPUSA_LINE_NYC-11_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-12",
+      "source": "foia_CPUSA_LINE_NYC-12/CPUSA_LINE_NYC-12"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-12_text",
+      "source": "foia_CPUSA_LINE_NYC-12/CPUSA_LINE_NYC-12_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-13",
+      "source": "foia_CPUSA_LINE_NYC-13/CPUSA_LINE_NYC-13"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-13_text",
+      "source": "foia_CPUSA_LINE_NYC-13/CPUSA_LINE_NYC-13_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-2",
+      "source": "foia_CPUSA_LINE_NYC-2/CPUSA_LINE_NYC-2"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-2_text",
+      "source": "foia_CPUSA_LINE_NYC-2/CPUSA_LINE_NYC-2_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-3",
+      "source": "foia_CPUSA_LINE_NYC-3/CPUSA_LINE_NYC-3"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-3_text",
+      "source": "foia_CPUSA_LINE_NYC-3/CPUSA_LINE_NYC-3_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-4",
+      "source": "foia_CPUSA_LINE_NYC-4/CPUSA_LINE_NYC-4"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-4_text",
+      "source": "foia_CPUSA_LINE_NYC-4/CPUSA_LINE_NYC-4_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-5",
+      "source": "foia_CPUSA_LINE_NYC-5/CPUSA_LINE_NYC-5"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-5_text",
+      "source": "foia_CPUSA_LINE_NYC-5/CPUSA_LINE_NYC-5_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-7",
+      "source": "foia_CPUSA_LINE_NYC-7/CPUSA_LINE_NYC-7"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-7_text",
+      "source": "foia_CPUSA_LINE_NYC-7/CPUSA_LINE_NYC-7_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-8",
+      "source": "foia_CPUSA_LINE_NYC-8/CPUSA_LINE_NYC-8"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-8_text",
+      "source": "foia_CPUSA_LINE_NYC-8/CPUSA_LINE_NYC-8_text"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-9",
+      "source": "foia_CPUSA_LINE_NYC-9/CPUSA_LINE_NYC-9"
+    },
+    {
+      "id": "CPUSA_LINE_NYC-9_text",
+      "source": "foia_CPUSA_LINE_NYC-9/CPUSA_LINE_NYC-9_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-Los_Angeles-9",
+      "source": "foia_CPUSA_MEMBERS-Los_Angeles-9/CPUSA_MEMBERS-Los_Angeles-9"
+    },
+    {
+      "id": "CPUSA_MEMBERS-Los_Angeles-9_text",
+      "source": "foia_CPUSA_MEMBERS-Los_Angeles-9/CPUSA_MEMBERS-Los_Angeles-9_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-1",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-1/CPUSA_MEMBERS-NY_100-80638-1"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-1_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-1/CPUSA_MEMBERS-NY_100-80638-1_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-16",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-16/CPUSA_MEMBERS-NY_100-80638-16"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-16_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-16/CPUSA_MEMBERS-NY_100-80638-16_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-17",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-17/CPUSA_MEMBERS-NY_100-80638-17"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-17_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-17/CPUSA_MEMBERS-NY_100-80638-17_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-18",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-18/CPUSA_MEMBERS-NY_100-80638-18"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-18_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-18/CPUSA_MEMBERS-NY_100-80638-18_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-19",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-19/CPUSA_MEMBERS-NY_100-80638-19"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-19_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-19/CPUSA_MEMBERS-NY_100-80638-19_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-2",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-2/CPUSA_MEMBERS-NY_100-80638-2"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-2_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-2/CPUSA_MEMBERS-NY_100-80638-2_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-20",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-20/CPUSA_MEMBERS-NY_100-80638-20"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-20_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-20/CPUSA_MEMBERS-NY_100-80638-20_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-21",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-21/CPUSA_MEMBERS-NY_100-80638-21"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-21_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-21/CPUSA_MEMBERS-NY_100-80638-21_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-22",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-22/CPUSA_MEMBERS-NY_100-80638-22"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-22_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-22/CPUSA_MEMBERS-NY_100-80638-22_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-23",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-23.PDF/CPUSA_MEMBERS-NY_100-80638-23"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-24",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-24.PDF/CPUSA_MEMBERS-NY_100-80638-24"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-25",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-25.PDF/CPUSA_MEMBERS-NY_100-80638-25"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-26",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-26.PDF/CPUSA_MEMBERS-NY_100-80638-26"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-27",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-27.PDF/CPUSA_MEMBERS-NY_100-80638-27"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-28",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-28.PDF/CPUSA_MEMBERS-NY_100-80638-28"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-29",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-29.PDF/CPUSA_MEMBERS-NY_100-80638-29"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-3",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-3/CPUSA_MEMBERS-NY_100-80638-3"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-3_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-3/CPUSA_MEMBERS-NY_100-80638-3_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-30",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-30.PDF/CPUSA_MEMBERS-NY_100-80638-30"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-31",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-31.PDF/CPUSA_MEMBERS-NY_100-80638-31"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-32",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-32.PDF/CPUSA_MEMBERS-NY_100-80638-32"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-33",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-33.PDF/CPUSA_MEMBERS-NY_100-80638-33"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-34",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-34.PDF/CPUSA_MEMBERS-NY_100-80638-34"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-35",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-35.PDF/CPUSA_MEMBERS-NY_100-80638-35"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-36",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-36.PDF/CPUSA_MEMBERS-NY_100-80638-36"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-37",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-37.PDF/CPUSA_MEMBERS-NY_100-80638-37"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-38",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-38.PDF/CPUSA_MEMBERS-NY_100-80638-38"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-39",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-39.PDF/CPUSA_MEMBERS-NY_100-80638-39"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-4",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-4/CPUSA_MEMBERS-NY_100-80638-4"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-4_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-4/CPUSA_MEMBERS-NY_100-80638-4_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-40",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-40.PDF/CPUSA_MEMBERS-NY_100-80638-40"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-41",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-41.PDF/CPUSA_MEMBERS-NY_100-80638-41"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-5",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-5/CPUSA_MEMBERS-NY_100-80638-5"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-5_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-5/CPUSA_MEMBERS-NY_100-80638-5_text"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-6",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-6/CPUSA_MEMBERS-NY_100-80638-6"
+    },
+    {
+      "id": "CPUSA_MEMBERS-NY_100-80638-6_text",
+      "source": "foia_CPUSA_MEMBERS-NY_100-80638-6/CPUSA_MEMBERS-NY_100-80638-6_text"
+    },
+    {
+      "id": "CPUSA_Military_Intelligence_Records_on_Radicals",
+      "source": "foia_CPUSA_Military_Intelligence_Records_on_Radicals/CPUSA_Military_Intelligence_Records_on_Radicals"
+    },
+    {
+      "id": "CPUSA_NYC-121",
+      "source": "foia_CPUSA_NYC-121/CPUSA_NYC-121"
+    },
+    {
+      "id": "CPUSA_NYC-121_text",
+      "source": "foia_CPUSA_NYC-121/CPUSA_NYC-121_text"
+    },
+    {
+      "id": "CPUSA_NYC-123",
+      "source": "foia_CPUSA_NYC-123/CPUSA_NYC-123"
+    },
+    {
+      "id": "CPUSA_NYC-123_text",
+      "source": "foia_CPUSA_NYC-123/CPUSA_NYC-123_text"
+    },
+    {
+      "id": "CPUSA_NYC-124",
+      "source": "foia_CPUSA_NYC-124/CPUSA_NYC-124"
+    },
+    {
+      "id": "CPUSA_NYC-124_text",
+      "source": "foia_CPUSA_NYC-124/CPUSA_NYC-124_text"
+    },
+    {
+      "id": "CPUSA_NYC-125",
+      "source": "foia_CPUSA_NYC-125/CPUSA_NYC-125"
+    },
+    {
+      "id": "CPUSA_NYC-125_text",
+      "source": "foia_CPUSA_NYC-125/CPUSA_NYC-125_text"
+    },
+    {
+      "id": "CPUSA_NYC-126",
+      "source": "foia_CPUSA_NYC-126/CPUSA_NYC-126"
+    },
+    {
+      "id": "CPUSA_NYC-126_text",
+      "source": "foia_CPUSA_NYC-126/CPUSA_NYC-126_text"
+    },
+    {
+      "id": "CPUSA_NYC-127",
+      "source": "foia_CPUSA_NYC-127/CPUSA_NYC-127"
+    },
+    {
+      "id": "CPUSA_NYC-127_text",
+      "source": "foia_CPUSA_NYC-127/CPUSA_NYC-127_text"
+    },
+    {
+      "id": "CPUSA_NYC-128",
+      "source": "foia_CPUSA_NYC-128/CPUSA_NYC-128"
+    },
+    {
+      "id": "CPUSA_NYC-128_text",
+      "source": "foia_CPUSA_NYC-128/CPUSA_NYC-128_text"
+    },
+    {
+      "id": "CPUSA_NYC-129",
+      "source": "foia_CPUSA_NYC-129/CPUSA_NYC-129"
+    },
+    {
+      "id": "CPUSA_NYC-129_text",
+      "source": "foia_CPUSA_NYC-129/CPUSA_NYC-129_text"
+    },
+    {
+      "id": "CPUSA_NYC-130",
+      "source": "foia_CPUSA_NYC-130/CPUSA_NYC-130"
+    },
+    {
+      "id": "CPUSA_NYC-130_text",
+      "source": "foia_CPUSA_NYC-130/CPUSA_NYC-130_text"
+    },
+    {
+      "id": "CPUSA_NYC-131",
+      "source": "foia_CPUSA_NYC-131/CPUSA_NYC-131"
+    },
+    {
+      "id": "CPUSA_NYC-131_text",
+      "source": "foia_CPUSA_NYC-131/CPUSA_NYC-131_text"
+    },
+    {
+      "id": "CPUSA_NYC-132",
+      "source": "foia_CPUSA_NYC-132/CPUSA_NYC-132"
+    },
+    {
+      "id": "CPUSA_NYC-132_text",
+      "source": "foia_CPUSA_NYC-132/CPUSA_NYC-132_text"
+    },
+    {
+      "id": "CPUSA_NYC-267",
+      "source": "foia_CPUSA_NYC-267/CPUSA_NYC-267"
+    },
+    {
+      "id": "CPUSA_NYC-267_text",
+      "source": "foia_CPUSA_NYC-267/CPUSA_NYC-267_text"
+    },
+    {
+      "id": "CPUSA_NYC-268",
+      "source": "foia_CPUSA_NYC-268/CPUSA_NYC-268"
+    },
+    {
+      "id": "CPUSA_NYC-268_text",
+      "source": "foia_CPUSA_NYC-268/CPUSA_NYC-268_text"
+    },
+    {
+      "id": "CPUSA_NYC-269",
+      "source": "foia_CPUSA_NYC-269/CPUSA_NYC-269"
+    },
+    {
+      "id": "CPUSA_NYC-269_text",
+      "source": "foia_CPUSA_NYC-269/CPUSA_NYC-269_text"
+    },
+    {
+      "id": "CPUSA_ORG-HQ_100-3-69_-225",
+      "source": "foia_CPUSA_ORG-HQ_100-3-69_-225/CPUSA_ORG-HQ_100-3-69_-225"
+    },
+    {
+      "id": "CPUSA_ORG-HQ_100-3-69_-225_text",
+      "source": "foia_CPUSA_ORG-HQ_100-3-69_-225/CPUSA_ORG-HQ_100-3-69_-225_text"
+    },
+    {
+      "id": "CPUSA_ORG-HQ_100-3-69_-249",
+      "source": "foia_CPUSA_ORG-HQ_100-3-69_-249/CPUSA_ORG-HQ_100-3-69_-249"
+    },
+    {
+      "id": "CPUSA_ORG-HQ_100-3-69_-249_text",
+      "source": "foia_CPUSA_ORG-HQ_100-3-69_-249/CPUSA_ORG-HQ_100-3-69_-249_text"
+    },
+    {
+      "id": "CPUSA_Subversive_Activities_Control_Board_Records",
+      "source": "foia_CPUSA_Subversive_Activities_Control_Board_Records/CPUSA_Subversive_Activities_Control_Board_Records"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-1",
+      "source": "foia_Childs_Morris-SOLO-HQ-1/Childs_Morris-SOLO-HQ-1"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-1_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-1/Childs_Morris-SOLO-HQ-1_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-2",
+      "source": "foia_Childs_Morris-SOLO-HQ-2/Childs_Morris-SOLO-HQ-2"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-2_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-2/Childs_Morris-SOLO-HQ-2_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-3",
+      "source": "foia_Childs_Morris-SOLO-HQ-3/Childs_Morris-SOLO-HQ-3"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-3_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-3/Childs_Morris-SOLO-HQ-3_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-4",
+      "source": "foia_Childs_Morris-SOLO-HQ-4/Childs_Morris-SOLO-HQ-4"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-4_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-4/Childs_Morris-SOLO-HQ-4_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-5",
+      "source": "foia_Childs_Morris-SOLO-HQ-5/Childs_Morris-SOLO-HQ-5"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-5_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-5/Childs_Morris-SOLO-HQ-5_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-6",
+      "source": "foia_Childs_Morris-SOLO-HQ-6/Childs_Morris-SOLO-HQ-6"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-6_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-6/Childs_Morris-SOLO-HQ-6_text"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-7",
+      "source": "foia_Childs_Morris-SOLO-HQ-7/Childs_Morris-SOLO-HQ-7"
+    },
+    {
+      "id": "Childs_Morris-SOLO-HQ-7_text",
+      "source": "foia_Childs_Morris-SOLO-HQ-7/Childs_Morris-SOLO-HQ-7_text"
+    },
+    {
+      "id": "Communism-Religion-1",
+      "source": "foia_Communism-Religion-1/Communism-Religion-1"
+    },
+    {
+      "id": "Communism-Religion-1_text",
+      "source": "foia_Communism-Religion-1/Communism-Religion-1_text"
+    },
+    {
+      "id": "Communism-Religion-10",
+      "source": "foia_Communism-Religion-10/Communism-Religion-10"
+    },
+    {
+      "id": "Communism-Religion-10_text",
+      "source": "foia_Communism-Religion-10/Communism-Religion-10_text"
+    },
+    {
+      "id": "Communism-Religion-11",
+      "source": "foia_Communism-Religion-11/Communism-Religion-11"
+    },
+    {
+      "id": "Communism-Religion-11_text",
+      "source": "foia_Communism-Religion-11/Communism-Religion-11_text"
+    },
+    {
+      "id": "Communism-Religion-12",
+      "source": "foia_Communism-Religion-12/Communism-Religion-12"
+    },
+    {
+      "id": "Communism-Religion-12_text",
+      "source": "foia_Communism-Religion-12/Communism-Religion-12_text"
+    },
+    {
+      "id": "Communism-Religion-2",
+      "source": "foia_Communism-Religion-2/Communism-Religion-2"
+    },
+    {
+      "id": "Communism-Religion-2_text",
+      "source": "foia_Communism-Religion-2/Communism-Religion-2_text"
+    },
+    {
+      "id": "Communism-Religion-3",
+      "source": "foia_Communism-Religion-3/Communism-Religion-3"
+    },
+    {
+      "id": "Communism-Religion-3_text",
+      "source": "foia_Communism-Religion-3/Communism-Religion-3_text"
+    },
+    {
+      "id": "Communism-Religion-4",
+      "source": "foia_Communism-Religion-4/Communism-Religion-4"
+    },
+    {
+      "id": "Communism-Religion-4_text",
+      "source": "foia_Communism-Religion-4/Communism-Religion-4_text"
+    },
+    {
+      "id": "Communism-Religion-5",
+      "source": "foia_Communism-Religion-5/Communism-Religion-5"
+    },
+    {
+      "id": "Communism-Religion-5_text",
+      "source": "foia_Communism-Religion-5/Communism-Religion-5_text"
+    },
+    {
+      "id": "Communism-Religion-6",
+      "source": "foia_Communism-Religion-6/Communism-Religion-6"
+    },
+    {
+      "id": "Communism-Religion-6_text",
+      "source": "foia_Communism-Religion-6/Communism-Religion-6_text"
+    },
+    {
+      "id": "Communism-Religion-7",
+      "source": "foia_Communism-Religion-7/Communism-Religion-7"
+    },
+    {
+      "id": "Communism-Religion-7_text",
+      "source": "foia_Communism-Religion-7/Communism-Religion-7_text"
+    },
+    {
+      "id": "Communism-Religion-8",
+      "source": "foia_Communism-Religion-8/Communism-Religion-8"
+    },
+    {
+      "id": "Communism-Religion-8_text",
+      "source": "foia_Communism-Religion-8/Communism-Religion-8_text"
+    },
+    {
+      "id": "Communism-Religion_HQ-9",
+      "source": "foia_Communism-Religion_HQ-9/Communism-Religion_HQ-9"
+    },
+    {
+      "id": "Communism-Religion_HQ-9_text",
+      "source": "foia_Communism-Religion_HQ-9/Communism-Religion_HQ-9_text"
+    },
+    {
+      "id": "Communism-Religion_HQ-EBF-274",
+      "source": "foia_Communism-Religion_HQ-EBF-274/Communism-Religion_HQ-EBF-274"
+    },
+    {
+      "id": "Communism-Religion_HQ-EBF-274_text",
+      "source": "foia_Communism-Religion_HQ-EBF-274/Communism-Religion_HQ-EBF-274_text"
+    },
+    {
+      "id": "Communism-Religion_HQ_serial_112",
+      "source": "foia_Communism-Religion_HQ_serial_112/Communism-Religion_HQ_serial_112"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-10",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-10/Communist_Influence_Racial_Matters-Los_Angeles_-10"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-10_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-10/Communist_Influence_Racial_Matters-Los_Angeles_-10_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-11",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-11/Communist_Influence_Racial_Matters-Los_Angeles_-11"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-11_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-11/Communist_Influence_Racial_Matters-Los_Angeles_-11_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-4",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-4/Communist_Influence_Racial_Matters-Los_Angeles_-4"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-4_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-4/Communist_Influence_Racial_Matters-Los_Angeles_-4_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-5",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-5/Communist_Influence_Racial_Matters-Los_Angeles_-5"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-5_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-5/Communist_Influence_Racial_Matters-Los_Angeles_-5_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-6",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-6/Communist_Influence_Racial_Matters-Los_Angeles_-6"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-6_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-6/Communist_Influence_Racial_Matters-Los_Angeles_-6_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-7",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-7/Communist_Influence_Racial_Matters-Los_Angeles_-7"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-7_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-7/Communist_Influence_Racial_Matters-Los_Angeles_-7_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-8",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-8/Communist_Influence_Racial_Matters-Los_Angeles_-8"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-8_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-8/Communist_Influence_Racial_Matters-Los_Angeles_-8_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-9",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-9/Communist_Influence_Racial_Matters-Los_Angeles_-9"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-Los_Angeles_-9_text",
+      "source": "foia_Communist_Influence_Racial_Matters-Los_Angeles_-9/Communist_Influence_Racial_Matters-Los_Angeles_-9_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-1",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-1/Communist_Influence_Racial_Matters-NYC-1"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-1_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-1/Communist_Influence_Racial_Matters-NYC-1_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-10",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-10/Communist_Influence_Racial_Matters-NYC-10"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-10_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-10/Communist_Influence_Racial_Matters-NYC-10_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-11",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-11/Communist_Influence_Racial_Matters-NYC-11"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-11_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-11/Communist_Influence_Racial_Matters-NYC-11_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-12",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-12/Communist_Influence_Racial_Matters-NYC-12"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-12_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-12/Communist_Influence_Racial_Matters-NYC-12_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-13",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-13/Communist_Influence_Racial_Matters-NYC-13"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-13_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-13/Communist_Influence_Racial_Matters-NYC-13_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-14",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-14/Communist_Influence_Racial_Matters-NYC-14"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-14_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-14/Communist_Influence_Racial_Matters-NYC-14_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-15",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-15/Communist_Influence_Racial_Matters-NYC-15"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-15_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-15/Communist_Influence_Racial_Matters-NYC-15_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-16",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-16/Communist_Influence_Racial_Matters-NYC-16"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-16_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-16/Communist_Influence_Racial_Matters-NYC-16_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-17",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-17/Communist_Influence_Racial_Matters-NYC-17"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-17_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-17/Communist_Influence_Racial_Matters-NYC-17_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-18",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-18/Communist_Influence_Racial_Matters-NYC-18"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-18_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-18/Communist_Influence_Racial_Matters-NYC-18_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-19",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-19/Communist_Influence_Racial_Matters-NYC-19"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-19_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-19/Communist_Influence_Racial_Matters-NYC-19_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-2",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-2/Communist_Influence_Racial_Matters-NYC-2"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-2_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-2/Communist_Influence_Racial_Matters-NYC-2_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-20",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-20/Communist_Influence_Racial_Matters-NYC-20"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-20_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-20/Communist_Influence_Racial_Matters-NYC-20_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-21",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-21/Communist_Influence_Racial_Matters-NYC-21"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-21_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-21/Communist_Influence_Racial_Matters-NYC-21_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-22",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-22/Communist_Influence_Racial_Matters-NYC-22"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-22_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-22/Communist_Influence_Racial_Matters-NYC-22_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-23",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-23/Communist_Influence_Racial_Matters-NYC-23"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-23_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-23/Communist_Influence_Racial_Matters-NYC-23_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-24",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-24/Communist_Influence_Racial_Matters-NYC-24"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-24_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-24/Communist_Influence_Racial_Matters-NYC-24_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-25",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-25/Communist_Influence_Racial_Matters-NYC-25"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-25_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-25/Communist_Influence_Racial_Matters-NYC-25_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-26",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-26/Communist_Influence_Racial_Matters-NYC-26"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-26_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-26/Communist_Influence_Racial_Matters-NYC-26_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-27",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-27/Communist_Influence_Racial_Matters-NYC-27"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-27_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-27/Communist_Influence_Racial_Matters-NYC-27_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-28",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-28/Communist_Influence_Racial_Matters-NYC-28"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-28_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-28/Communist_Influence_Racial_Matters-NYC-28_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-29",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-29/Communist_Influence_Racial_Matters-NYC-29"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-29_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-29/Communist_Influence_Racial_Matters-NYC-29_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-3",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-3/Communist_Influence_Racial_Matters-NYC-3"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-3_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-3/Communist_Influence_Racial_Matters-NYC-3_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-30",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-30/Communist_Influence_Racial_Matters-NYC-30"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-30_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-30/Communist_Influence_Racial_Matters-NYC-30_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-31",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-31/Communist_Influence_Racial_Matters-NYC-31"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-31_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-31/Communist_Influence_Racial_Matters-NYC-31_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-32",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-32/Communist_Influence_Racial_Matters-NYC-32"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-32_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-32/Communist_Influence_Racial_Matters-NYC-32_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-33",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-33/Communist_Influence_Racial_Matters-NYC-33"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-33_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-33/Communist_Influence_Racial_Matters-NYC-33_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-34",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-34/Communist_Influence_Racial_Matters-NYC-34"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-34_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-34/Communist_Influence_Racial_Matters-NYC-34_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-35",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-35/Communist_Influence_Racial_Matters-NYC-35"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-35_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-35/Communist_Influence_Racial_Matters-NYC-35_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-36",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-36/Communist_Influence_Racial_Matters-NYC-36"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-36_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-36/Communist_Influence_Racial_Matters-NYC-36_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-37",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-37/Communist_Influence_Racial_Matters-NYC-37"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-37_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-37/Communist_Influence_Racial_Matters-NYC-37_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-38",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-38/Communist_Influence_Racial_Matters-NYC-38"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-38_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-38/Communist_Influence_Racial_Matters-NYC-38_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-39",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-39/Communist_Influence_Racial_Matters-NYC-39"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-39_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-39/Communist_Influence_Racial_Matters-NYC-39_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-4",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-4/Communist_Influence_Racial_Matters-NYC-4"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-4_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-4/Communist_Influence_Racial_Matters-NYC-4_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-40",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-40/Communist_Influence_Racial_Matters-NYC-40"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-40_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-40/Communist_Influence_Racial_Matters-NYC-40_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-41",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-41/Communist_Influence_Racial_Matters-NYC-41"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-41_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-41/Communist_Influence_Racial_Matters-NYC-41_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-42",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-42/Communist_Influence_Racial_Matters-NYC-42"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-42_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-42/Communist_Influence_Racial_Matters-NYC-42_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-5",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-5/Communist_Influence_Racial_Matters-NYC-5"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-5_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-5/Communist_Influence_Racial_Matters-NYC-5_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-6",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-6/Communist_Influence_Racial_Matters-NYC-6"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-6_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-6/Communist_Influence_Racial_Matters-NYC-6_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-7",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-7/Communist_Influence_Racial_Matters-NYC-7"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-7_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-7/Communist_Influence_Racial_Matters-NYC-7_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-8",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-8/Communist_Influence_Racial_Matters-NYC-8"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-8_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-8/Communist_Influence_Racial_Matters-NYC-8_text"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-9",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-9/Communist_Influence_Racial_Matters-NYC-9"
+    },
+    {
+      "id": "Communist_Influence_Racial_Matters-NYC-9_text",
+      "source": "foia_Communist_Influence_Racial_Matters-NYC-9/Communist_Influence_Racial_Matters-NYC-9_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_1",
+      "source": "foia_Communist_Party_Line_Section_1/Communist_Party_Line_Section_1"
+    },
+    {
+      "id": "Communist_Party_Line_Section_1_text",
+      "source": "foia_Communist_Party_Line_Section_1/Communist_Party_Line_Section_1_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_10",
+      "source": "foia_Communist_Party_Line_Section_10/Communist_Party_Line_Section_10"
+    },
+    {
+      "id": "Communist_Party_Line_Section_10_text",
+      "source": "foia_Communist_Party_Line_Section_10/Communist_Party_Line_Section_10_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_11",
+      "source": "foia_Communist_Party_Line_Section_11/Communist_Party_Line_Section_11"
+    },
+    {
+      "id": "Communist_Party_Line_Section_11_text",
+      "source": "foia_Communist_Party_Line_Section_11/Communist_Party_Line_Section_11_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_12",
+      "source": "foia_Communist_Party_Line_Section_12/Communist_Party_Line_Section_12"
+    },
+    {
+      "id": "Communist_Party_Line_Section_12_text",
+      "source": "foia_Communist_Party_Line_Section_12/Communist_Party_Line_Section_12_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_13",
+      "source": "foia_Communist_Party_Line_Section_13/Communist_Party_Line_Section_13"
+    },
+    {
+      "id": "Communist_Party_Line_Section_13_text",
+      "source": "foia_Communist_Party_Line_Section_13/Communist_Party_Line_Section_13_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_14",
+      "source": "foia_Communist_Party_Line_Section_14/Communist_Party_Line_Section_14"
+    },
+    {
+      "id": "Communist_Party_Line_Section_14_text",
+      "source": "foia_Communist_Party_Line_Section_14/Communist_Party_Line_Section_14_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_15",
+      "source": "foia_Communist_Party_Line_Section_15/Communist_Party_Line_Section_15"
+    },
+    {
+      "id": "Communist_Party_Line_Section_15_text",
+      "source": "foia_Communist_Party_Line_Section_15/Communist_Party_Line_Section_15_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_16",
+      "source": "foia_Communist_Party_Line_Section_16/Communist_Party_Line_Section_16"
+    },
+    {
+      "id": "Communist_Party_Line_Section_16_text",
+      "source": "foia_Communist_Party_Line_Section_16/Communist_Party_Line_Section_16_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_17",
+      "source": "foia_Communist_Party_Line_Section_17/Communist_Party_Line_Section_17"
+    },
+    {
+      "id": "Communist_Party_Line_Section_17_text",
+      "source": "foia_Communist_Party_Line_Section_17/Communist_Party_Line_Section_17_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_18",
+      "source": "foia_Communist_Party_Line_Section_18/Communist_Party_Line_Section_18"
+    },
+    {
+      "id": "Communist_Party_Line_Section_18_text",
+      "source": "foia_Communist_Party_Line_Section_18/Communist_Party_Line_Section_18_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_19",
+      "source": "foia_Communist_Party_Line_Section_19/Communist_Party_Line_Section_19"
+    },
+    {
+      "id": "Communist_Party_Line_Section_19_text",
+      "source": "foia_Communist_Party_Line_Section_19/Communist_Party_Line_Section_19_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_2",
+      "source": "foia_Communist_Party_Line_Section_2.PDF/Communist_Party_Line_Section_2"
+    },
+    {
+      "id": "Communist_Party_Line_Section_20",
+      "source": "foia_Communist_Party_Line_Section_20/Communist_Party_Line_Section_20"
+    },
+    {
+      "id": "Communist_Party_Line_Section_20_text",
+      "source": "foia_Communist_Party_Line_Section_20/Communist_Party_Line_Section_20_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_21",
+      "source": "foia_Communist_Party_Line_Section_21/Communist_Party_Line_Section_21"
+    },
+    {
+      "id": "Communist_Party_Line_Section_21_text",
+      "source": "foia_Communist_Party_Line_Section_21/Communist_Party_Line_Section_21_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_22",
+      "source": "foia_Communist_Party_Line_Section_22/Communist_Party_Line_Section_22"
+    },
+    {
+      "id": "Communist_Party_Line_Section_22_text",
+      "source": "foia_Communist_Party_Line_Section_22/Communist_Party_Line_Section_22_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_23",
+      "source": "foia_Communist_Party_Line_Section_23/Communist_Party_Line_Section_23"
+    },
+    {
+      "id": "Communist_Party_Line_Section_23_text",
+      "source": "foia_Communist_Party_Line_Section_23/Communist_Party_Line_Section_23_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_24",
+      "source": "foia_Communist_Party_Line_Section_24/Communist_Party_Line_Section_24"
+    },
+    {
+      "id": "Communist_Party_Line_Section_24_text",
+      "source": "foia_Communist_Party_Line_Section_24/Communist_Party_Line_Section_24_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_25",
+      "source": "foia_Communist_Party_Line_Section_25/Communist_Party_Line_Section_25"
+    },
+    {
+      "id": "Communist_Party_Line_Section_25_text",
+      "source": "foia_Communist_Party_Line_Section_25/Communist_Party_Line_Section_25_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_3",
+      "source": "foia_Communist_Party_Line_Section_3/Communist_Party_Line_Section_3"
+    },
+    {
+      "id": "Communist_Party_Line_Section_3_text",
+      "source": "foia_Communist_Party_Line_Section_3/Communist_Party_Line_Section_3_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_4",
+      "source": "foia_Communist_Party_Line_Section_4/Communist_Party_Line_Section_4"
+    },
+    {
+      "id": "Communist_Party_Line_Section_4_text",
+      "source": "foia_Communist_Party_Line_Section_4/Communist_Party_Line_Section_4_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_5",
+      "source": "foia_Communist_Party_Line_Section_5/Communist_Party_Line_Section_5"
+    },
+    {
+      "id": "Communist_Party_Line_Section_5_text",
+      "source": "foia_Communist_Party_Line_Section_5/Communist_Party_Line_Section_5_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_6",
+      "source": "foia_Communist_Party_Line_Section_6/Communist_Party_Line_Section_6"
+    },
+    {
+      "id": "Communist_Party_Line_Section_6_text",
+      "source": "foia_Communist_Party_Line_Section_6/Communist_Party_Line_Section_6_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_7",
+      "source": "foia_Communist_Party_Line_Section_7/Communist_Party_Line_Section_7"
+    },
+    {
+      "id": "Communist_Party_Line_Section_7_text",
+      "source": "foia_Communist_Party_Line_Section_7/Communist_Party_Line_Section_7_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_8",
+      "source": "foia_Communist_Party_Line_Section_8/Communist_Party_Line_Section_8"
+    },
+    {
+      "id": "Communist_Party_Line_Section_8_text",
+      "source": "foia_Communist_Party_Line_Section_8/Communist_Party_Line_Section_8_text"
+    },
+    {
+      "id": "Communist_Party_Line_Section_9",
+      "source": "foia_Communist_Party_Line_Section_9/Communist_Party_Line_Section_9"
+    },
+    {
+      "id": "Communist_Party_Line_Section_9_text",
+      "source": "foia_Communist_Party_Line_Section_9/Communist_Party_Line_Section_9_text"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-1",
+      "source": "foia_Communist_Target--Youth-HQ-1/Communist_Target--Youth-HQ-1"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-1_text",
+      "source": "foia_Communist_Target--Youth-HQ-1/Communist_Target--Youth-HQ-1_text"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-2",
+      "source": "foia_Communist_Target--Youth-HQ-2/Communist_Target--Youth-HQ-2"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-2_text",
+      "source": "foia_Communist_Target--Youth-HQ-2/Communist_Target--Youth-HQ-2_text"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-3",
+      "source": "foia_Communist_Target--Youth-HQ-3/Communist_Target--Youth-HQ-3"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-3_text",
+      "source": "foia_Communist_Target--Youth-HQ-3/Communist_Target--Youth-HQ-3_text"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-4",
+      "source": "foia_Communist_Target--Youth-HQ-4/Communist_Target--Youth-HQ-4"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-4_text",
+      "source": "foia_Communist_Target--Youth-HQ-4/Communist_Target--Youth-HQ-4_text"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-5",
+      "source": "foia_Communist_Target--Youth-HQ-5/Communist_Target--Youth-HQ-5"
+    },
+    {
+      "id": "Communist_Target--Youth-HQ-5_text",
+      "source": "foia_Communist_Target--Youth-HQ-5/Communist_Target--Youth-HQ-5_text"
+    },
+    {
+      "id": "Del_Rosario_Juan_HQ-1",
+      "source": "foia_Del_Rosario_Juan_HQ-1/Del_Rosario_Juan_HQ-1"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-1",
+      "source": "foia_Ex-Communist_Witnesses-HQ-1/Ex-Communist_Witnesses-HQ-1"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-1_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-1/Ex-Communist_Witnesses-HQ-1_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-2",
+      "source": "foia_Ex-Communist_Witnesses-HQ-2/Ex-Communist_Witnesses-HQ-2"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-2_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-2/Ex-Communist_Witnesses-HQ-2_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-3",
+      "source": "foia_Ex-Communist_Witnesses-HQ-3/Ex-Communist_Witnesses-HQ-3"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-3_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-3/Ex-Communist_Witnesses-HQ-3_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-4",
+      "source": "foia_Ex-Communist_Witnesses-HQ-4/Ex-Communist_Witnesses-HQ-4"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-4_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-4/Ex-Communist_Witnesses-HQ-4_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-5",
+      "source": "foia_Ex-Communist_Witnesses-HQ-5/Ex-Communist_Witnesses-HQ-5"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-5_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-5/Ex-Communist_Witnesses-HQ-5_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-6",
+      "source": "foia_Ex-Communist_Witnesses-HQ-6/Ex-Communist_Witnesses-HQ-6"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-6_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-6/Ex-Communist_Witnesses-HQ-6_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-7",
+      "source": "foia_Ex-Communist_Witnesses-HQ-7/Ex-Communist_Witnesses-HQ-7"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-7_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-7/Ex-Communist_Witnesses-HQ-7_text"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-8",
+      "source": "foia_Ex-Communist_Witnesses-HQ-8/Ex-Communist_Witnesses-HQ-8"
+    },
+    {
+      "id": "Ex-Communist_Witnesses-HQ-8_text",
+      "source": "foia_Ex-Communist_Witnesses-HQ-8/Ex-Communist_Witnesses-HQ-8_text"
+    },
+    {
+      "id": "Ex-Communists_as_Witnesses-HQ-EBF12",
+      "source": "foia_Ex-Communists_as_Witnesses-HQ-EBF12/Ex-Communists_as_Witnesses-HQ-EBF12"
+    },
+    {
+      "id": "Ex-Communists_as_Witnesses-HQ-EBF12_text",
+      "source": "foia_Ex-Communists_as_Witnesses-HQ-EBF12/Ex-Communists_as_Witnesses-HQ-EBF12_text"
+    },
+    {
+      "id": "Ex-Communists_as_Witnesses-HQ-EBF166",
+      "source": "foia_Ex-Communists_as_Witnesses-HQ-EBF166/Ex-Communists_as_Witnesses-HQ-EBF166"
+    },
+    {
+      "id": "Ex-Communists_as_Witnesses-HQ-EBF166_text",
+      "source": "foia_Ex-Communists_as_Witnesses-HQ-EBF166/Ex-Communists_as_Witnesses-HQ-EBF166_text"
+    },
+    {
+      "id": "FBI_MONOGRAPH-CPUSA_Whos_Who",
+      "source": "foia_FBI_MONOGRAPH-CPUSA_Whos_Who.PDF/FBI_MONOGRAPH-CPUSA_Whos_Who"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Purge_Victims_of_CPUSA",
+      "source": "foia_FBI_MONOGRAPH-Purge_Victims_of_CPUSA/FBI_MONOGRAPH-Purge_Victims_of_CPUSA"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Purge_Victims_of_CPUSA_text",
+      "source": "foia_FBI_MONOGRAPH-Purge_Victims_of_CPUSA/FBI_MONOGRAPH-Purge_Victims_of_CPUSA_text"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism",
+      "source": "foia_FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism/FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism_text",
+      "source": "foia_FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism/FBI_MONOGRAPH-Reasons_Why_People_Accept_Reject_Communism_text"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Significant_Dates-Events",
+      "source": "foia_FBI_MONOGRAPH-Significant_Dates-Events.PDF/FBI_MONOGRAPH-Significant_Dates-Events"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Soviet_Defectors",
+      "source": "foia_FBI_MONOGRAPH-Soviet_Defectors/FBI_MONOGRAPH-Soviet_Defectors"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Soviet_Defectors_text",
+      "source": "foia_FBI_MONOGRAPH-Soviet_Defectors/FBI_MONOGRAPH-Soviet_Defectors_text"
+    },
+    {
+      "id": "FBI_MONOGRAPH-Stool-Pigeon_Loyal_Citizen",
+      "source": "foia_FBI_MONOGRAPH-Stool-Pigeon_Loyal_Citizen/FBI_MONOGRAPH-Stool-Pigeon_Loyal_Citizen"
+    },
+    {
+      "id": "FBI_MONOGRAPHS_Listing_of_Eisenhower_Library_Titles",
+      "source": "foia_FBI_MONOGRAPHS_Listing_of_Eisenhower_Library_Titles/FBI_MONOGRAPHS_Listing_of_Eisenhower_Library_Titles"
+    },
+    {
+      "id": "FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews",
+      "source": "foia_FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews/FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews"
+    },
+    {
+      "id": "FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews_text",
+      "source": "foia_FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews/FBI_Monograph-Analysis_of_Successful_Communist_Informant_Interviews_text"
+    },
+    {
+      "id": "FBI_Monograph-Communist_Front_Movement_in_US",
+      "source": "foia_FBI_Monograph-Communist_Front_Movement_in_US/FBI_Monograph-Communist_Front_Movement_in_US"
+    },
+    {
+      "id": "FBI_Monograph-Communist_Front_Movement_in_US_text",
+      "source": "foia_FBI_Monograph-Communist_Front_Movement_in_US/FBI_Monograph-Communist_Front_Movement_in_US_text"
+    },
+    {
+      "id": "FBI_Monograph-Material_on_Communism--Police_Schools",
+      "source": "foia_FBI_Monograph-Material_on_Communism--Police_Schools/FBI_Monograph-Material_on_Communism--Police_Schools"
+    },
+    {
+      "id": "FBI_Monograph-Material_on_Communism--Police_Schools_text",
+      "source": "foia_FBI_Monograph-Material_on_Communism--Police_Schools/FBI_Monograph-Material_on_Communism--Police_Schools_text"
+    },
+    {
+      "id": "FBI_Monograph-Membership_of_CPUSA_1919-1954",
+      "source": "foia_FBI_Monograph-Membership_of_CPUSA_1919-1954/FBI_Monograph-Membership_of_CPUSA_1919-1954"
+    },
+    {
+      "id": "FBI_Monograph-Membership_of_CPUSA_1919-1954_text",
+      "source": "foia_FBI_Monograph-Membership_of_CPUSA_1919-1954/FBI_Monograph-Membership_of_CPUSA_1919-1954_text"
+    },
+    {
+      "id": "FBI_Monograph-Role_of_the_CPUSA_in_Soviet_Intelligence",
+      "source": "foia_FBI_Monograph-Role_of_the_CPUSA_in_Soviet_Intelligence/FBI_Monograph-Role_of_the_CPUSA_in_Soviet_Intelligence"
+    },
+    {
+      "id": "FBI_Monograph-Soviet_and_Satellite_Defectors",
+      "source": "foia_FBI_Monograph-Soviet_and_Satellite_Defectors/FBI_Monograph-Soviet_and_Satellite_Defectors"
+    },
+    {
+      "id": "FBI_Monograph-Soviet_and_Satellite_Defectors_text",
+      "source": "foia_FBI_Monograph-Soviet_and_Satellite_Defectors/FBI_Monograph-Soviet_and_Satellite_Defectors_text"
+    },
+    {
+      "id": "FBI_monograph-Communism_vs_Jewish_People",
+      "source": "foia_FBI_monograph-Communism_vs_Jewish_People/FBI_monograph-Communism_vs_Jewish_People"
+    },
+    {
+      "id": "FBI_monograph-Communist_Party-Negro-1953",
+      "source": "foia_FBI_monograph-Communist_Party-Negro-1953/FBI_monograph-Communist_Party-Negro-1953"
+    },
+    {
+      "id": "FBI_monograph-Communist_Party-Negro_1953-1956",
+      "source": "foia_FBI_monograph-Communist_Party-Negro_1953-1956/FBI_monograph-Communist_Party-Negro_1953-1956"
+    },
+    {
+      "id": "FBI_monograph-Communist_Party-Negro_1953-1956_text",
+      "source": "foia_FBI_monograph-Communist_Party-Negro_1953-1956/FBI_monograph-Communist_Party-Negro_1953-1956_text"
+    },
+    {
+      "id": "FBI_monograph-Discipline_in_the_CPUSA",
+      "source": "foia_FBI_monograph-Discipline_in_the_CPUSA/FBI_monograph-Discipline_in_the_CPUSA"
+    },
+    {
+      "id": "FBI_monograph-Discipline_in_the_CPUSA_text",
+      "source": "foia_FBI_monograph-Discipline_in_the_CPUSA/FBI_monograph-Discipline_in_the_CPUSA_text"
+    },
+    {
+      "id": "HUAC-HQ-123",
+      "source": "foia_HUAC-HQ-123/HUAC-HQ-123"
+    },
+    {
+      "id": "HUAC-HQ-123_text",
+      "source": "foia_HUAC-HQ-123/HUAC-HQ-123_text"
+    },
+    {
+      "id": "HUAC-HQ-124",
+      "source": "foia_HUAC-HQ-124/HUAC-HQ-124"
+    },
+    {
+      "id": "HUAC-HQ-124_text",
+      "source": "foia_HUAC-HQ-124/HUAC-HQ-124_text"
+    },
+    {
+      "id": "HUAC-HQ-125",
+      "source": "foia_HUAC-HQ-125/HUAC-HQ-125"
+    },
+    {
+      "id": "HUAC-HQ-125_text",
+      "source": "foia_HUAC-HQ-125/HUAC-HQ-125_text"
+    },
+    {
+      "id": "HUAC-HQ-126",
+      "source": "foia_HUAC-HQ-126/HUAC-HQ-126"
+    },
+    {
+      "id": "HUAC-HQ-126_text",
+      "source": "foia_HUAC-HQ-126/HUAC-HQ-126_text"
+    },
+    {
+      "id": "HUAC_HQ-112",
+      "source": "foia_HUAC_HQ-112/HUAC_HQ-112"
+    },
+    {
+      "id": "HUAC_HQ-112_text",
+      "source": "foia_HUAC_HQ-112/HUAC_HQ-112_text"
+    },
+    {
+      "id": "HUAC_HQ-113",
+      "source": "foia_HUAC_HQ-113/HUAC_HQ-113"
+    },
+    {
+      "id": "HUAC_HQ-113_text",
+      "source": "foia_HUAC_HQ-113/HUAC_HQ-113_text"
+    },
+    {
+      "id": "HUAC_HQ-114",
+      "source": "foia_HUAC_HQ-114/HUAC_HQ-114"
+    },
+    {
+      "id": "HUAC_HQ-114_text",
+      "source": "foia_HUAC_HQ-114/HUAC_HQ-114_text"
+    },
+    {
+      "id": "HUAC_HQ-115",
+      "source": "foia_HUAC_HQ-115/HUAC_HQ-115"
+    },
+    {
+      "id": "HUAC_HQ-115_text",
+      "source": "foia_HUAC_HQ-115/HUAC_HQ-115_text"
+    },
+    {
+      "id": "HUAC_HQ-116",
+      "source": "foia_HUAC_HQ-116/HUAC_HQ-116"
+    },
+    {
+      "id": "HUAC_HQ-116_text",
+      "source": "foia_HUAC_HQ-116/HUAC_HQ-116_text"
+    },
+    {
+      "id": "HUAC_HQ-117",
+      "source": "foia_HUAC_HQ-117/HUAC_HQ-117"
+    },
+    {
+      "id": "HUAC_HQ-117_text",
+      "source": "foia_HUAC_HQ-117/HUAC_HQ-117_text"
+    },
+    {
+      "id": "HUAC_HQ-118",
+      "source": "foia_HUAC_HQ-118/HUAC_HQ-118"
+    },
+    {
+      "id": "HUAC_HQ-118_text",
+      "source": "foia_HUAC_HQ-118/HUAC_HQ-118_text"
+    },
+    {
+      "id": "HUAC_HQ-119",
+      "source": "foia_HUAC_HQ-119/HUAC_HQ-119"
+    },
+    {
+      "id": "HUAC_HQ-119_text",
+      "source": "foia_HUAC_HQ-119/HUAC_HQ-119_text"
+    },
+    {
+      "id": "HUAC_HQ-120",
+      "source": "foia_HUAC_HQ-120/HUAC_HQ-120"
+    },
+    {
+      "id": "HUAC_HQ-120_text",
+      "source": "foia_HUAC_HQ-120/HUAC_HQ-120_text"
+    },
+    {
+      "id": "HUAC_HQ-121",
+      "source": "foia_HUAC_HQ-121/HUAC_HQ-121"
+    },
+    {
+      "id": "HUAC_HQ-121_text",
+      "source": "foia_HUAC_HQ-121/HUAC_HQ-121_text"
+    },
+    {
+      "id": "HUAC_HQ-122",
+      "source": "foia_HUAC_HQ-122/HUAC_HQ-122"
+    },
+    {
+      "id": "HUAC_HQ-122_text",
+      "source": "foia_HUAC_HQ-122/HUAC_HQ-122_text"
+    },
+    {
+      "id": "HUAC_HQ-56",
+      "source": "foia_HUAC_HQ-56/HUAC_HQ-56"
+    },
+    {
+      "id": "HUAC_HQ-56_text",
+      "source": "foia_HUAC_HQ-56/HUAC_HQ-56_text"
+    },
+    {
+      "id": "HUAC_HQ-57",
+      "source": "foia_HUAC_HQ-57/HUAC_HQ-57"
+    },
+    {
+      "id": "HUAC_HQ-57_text",
+      "source": "foia_HUAC_HQ-57/HUAC_HQ-57_text"
+    },
+    {
+      "id": "HUAC_HQ-58",
+      "source": "foia_HUAC_HQ-58/HUAC_HQ-58"
+    },
+    {
+      "id": "HUAC_HQ-58_text",
+      "source": "foia_HUAC_HQ-58/HUAC_HQ-58_text"
+    },
+    {
+      "id": "HUAC_HQ-59",
+      "source": "foia_HUAC_HQ-59/HUAC_HQ-59"
+    },
+    {
+      "id": "HUAC_HQ-59_text",
+      "source": "foia_HUAC_HQ-59/HUAC_HQ-59_text"
+    },
+    {
+      "id": "HUAC_HQ-60",
+      "source": "foia_HUAC_HQ-60/HUAC_HQ-60"
+    },
+    {
+      "id": "HUAC_HQ-60_text",
+      "source": "foia_HUAC_HQ-60/HUAC_HQ-60_text"
+    },
+    {
+      "id": "HUAC_HQ-61",
+      "source": "foia_HUAC_HQ-61/HUAC_HQ-61"
+    },
+    {
+      "id": "HUAC_HQ-61_text",
+      "source": "foia_HUAC_HQ-61/HUAC_HQ-61_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1657",
+      "source": "foia_HUAC_HQ-EBF-1657/HUAC_HQ-EBF-1657"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1657_text",
+      "source": "foia_HUAC_HQ-EBF-1657/HUAC_HQ-EBF-1657_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1690",
+      "source": "foia_HUAC_HQ-EBF-1690/HUAC_HQ-EBF-1690"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1690_text",
+      "source": "foia_HUAC_HQ-EBF-1690/HUAC_HQ-EBF-1690_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1691",
+      "source": "foia_HUAC_HQ-EBF-1691/HUAC_HQ-EBF-1691"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1691_text",
+      "source": "foia_HUAC_HQ-EBF-1691/HUAC_HQ-EBF-1691_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1711",
+      "source": "foia_HUAC_HQ-EBF-1711/HUAC_HQ-EBF-1711"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1711_text",
+      "source": "foia_HUAC_HQ-EBF-1711/HUAC_HQ-EBF-1711_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1712",
+      "source": "foia_HUAC_HQ-EBF-1712/HUAC_HQ-EBF-1712"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1712_text",
+      "source": "foia_HUAC_HQ-EBF-1712/HUAC_HQ-EBF-1712_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1737",
+      "source": "foia_HUAC_HQ-EBF-1737/HUAC_HQ-EBF-1737"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1737_text",
+      "source": "foia_HUAC_HQ-EBF-1737/HUAC_HQ-EBF-1737_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1738",
+      "source": "foia_HUAC_HQ-EBF-1738/HUAC_HQ-EBF-1738"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1738_text",
+      "source": "foia_HUAC_HQ-EBF-1738/HUAC_HQ-EBF-1738_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1753",
+      "source": "foia_HUAC_HQ-EBF-1753/HUAC_HQ-EBF-1753"
+    },
+    {
+      "id": "HUAC_HQ-EBF-1753_text",
+      "source": "foia_HUAC_HQ-EBF-1753/HUAC_HQ-EBF-1753_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3630",
+      "source": "foia_HUAC_HQ-EBF-3630/HUAC_HQ-EBF-3630"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3630_text",
+      "source": "foia_HUAC_HQ-EBF-3630/HUAC_HQ-EBF-3630_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3641",
+      "source": "foia_HUAC_HQ-EBF-3641/HUAC_HQ-EBF-3641"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3641_text",
+      "source": "foia_HUAC_HQ-EBF-3641/HUAC_HQ-EBF-3641_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3646",
+      "source": "foia_HUAC_HQ-EBF-3646/HUAC_HQ-EBF-3646"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3646_text",
+      "source": "foia_HUAC_HQ-EBF-3646/HUAC_HQ-EBF-3646_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3648",
+      "source": "foia_HUAC_HQ-EBF-3648/HUAC_HQ-EBF-3648"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3648_text",
+      "source": "foia_HUAC_HQ-EBF-3648/HUAC_HQ-EBF-3648_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3688",
+      "source": "foia_HUAC_HQ-EBF-3688/HUAC_HQ-EBF-3688"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3688_text",
+      "source": "foia_HUAC_HQ-EBF-3688/HUAC_HQ-EBF-3688_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3703",
+      "source": "foia_HUAC_HQ-EBF-3703/HUAC_HQ-EBF-3703"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3703_text",
+      "source": "foia_HUAC_HQ-EBF-3703/HUAC_HQ-EBF-3703_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3714",
+      "source": "foia_HUAC_HQ-EBF-3714/HUAC_HQ-EBF-3714"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3714_text",
+      "source": "foia_HUAC_HQ-EBF-3714/HUAC_HQ-EBF-3714_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3721",
+      "source": "foia_HUAC_HQ-EBF-3721/HUAC_HQ-EBF-3721"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3721_text",
+      "source": "foia_HUAC_HQ-EBF-3721/HUAC_HQ-EBF-3721_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3724",
+      "source": "foia_HUAC_HQ-EBF-3724/HUAC_HQ-EBF-3724"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3724_text",
+      "source": "foia_HUAC_HQ-EBF-3724/HUAC_HQ-EBF-3724_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3730",
+      "source": "foia_HUAC_HQ-EBF-3730/HUAC_HQ-EBF-3730"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3730_text",
+      "source": "foia_HUAC_HQ-EBF-3730/HUAC_HQ-EBF-3730_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3752",
+      "source": "foia_HUAC_HQ-EBF-3752/HUAC_HQ-EBF-3752"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3752_text",
+      "source": "foia_HUAC_HQ-EBF-3752/HUAC_HQ-EBF-3752_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3760",
+      "source": "foia_HUAC_HQ-EBF-3760/HUAC_HQ-EBF-3760"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3760_text",
+      "source": "foia_HUAC_HQ-EBF-3760/HUAC_HQ-EBF-3760_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3811",
+      "source": "foia_HUAC_HQ-EBF-3811/HUAC_HQ-EBF-3811"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3811_text",
+      "source": "foia_HUAC_HQ-EBF-3811/HUAC_HQ-EBF-3811_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3813",
+      "source": "foia_HUAC_HQ-EBF-3813/HUAC_HQ-EBF-3813"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3813_text",
+      "source": "foia_HUAC_HQ-EBF-3813/HUAC_HQ-EBF-3813_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3831",
+      "source": "foia_HUAC_HQ-EBF-3831/HUAC_HQ-EBF-3831"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3831_text",
+      "source": "foia_HUAC_HQ-EBF-3831/HUAC_HQ-EBF-3831_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3833",
+      "source": "foia_HUAC_HQ-EBF-3833/HUAC_HQ-EBF-3833"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3833_text",
+      "source": "foia_HUAC_HQ-EBF-3833/HUAC_HQ-EBF-3833_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3839",
+      "source": "foia_HUAC_HQ-EBF-3839/HUAC_HQ-EBF-3839"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3839_text",
+      "source": "foia_HUAC_HQ-EBF-3839/HUAC_HQ-EBF-3839_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3841",
+      "source": "foia_HUAC_HQ-EBF-3841/HUAC_HQ-EBF-3841"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3841_text",
+      "source": "foia_HUAC_HQ-EBF-3841/HUAC_HQ-EBF-3841_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3853",
+      "source": "foia_HUAC_HQ-EBF-3853/HUAC_HQ-EBF-3853"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3853_text",
+      "source": "foia_HUAC_HQ-EBF-3853/HUAC_HQ-EBF-3853_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3854",
+      "source": "foia_HUAC_HQ-EBF-3854/HUAC_HQ-EBF-3854"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3854_text",
+      "source": "foia_HUAC_HQ-EBF-3854/HUAC_HQ-EBF-3854_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3856",
+      "source": "foia_HUAC_HQ-EBF-3856/HUAC_HQ-EBF-3856"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3856_text",
+      "source": "foia_HUAC_HQ-EBF-3856/HUAC_HQ-EBF-3856_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3857",
+      "source": "foia_HUAC_HQ-EBF-3857/HUAC_HQ-EBF-3857"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3857_text",
+      "source": "foia_HUAC_HQ-EBF-3857/HUAC_HQ-EBF-3857_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3858",
+      "source": "foia_HUAC_HQ-EBF-3858/HUAC_HQ-EBF-3858"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3858_text",
+      "source": "foia_HUAC_HQ-EBF-3858/HUAC_HQ-EBF-3858_text"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3873",
+      "source": "foia_HUAC_HQ-EBF-3873/HUAC_HQ-EBF-3873"
+    },
+    {
+      "id": "HUAC_HQ-EBF-3873_text",
+      "source": "foia_HUAC_HQ-EBF-3873/HUAC_HQ-EBF-3873_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-1",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-1/Hiss_Alger-Whittaker_Chambers-Misc_Field-1"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-1_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-1/Hiss_Alger-Whittaker_Chambers-Misc_Field-1_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-2",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-2/Hiss_Alger-Whittaker_Chambers-Misc_Field-2"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-2_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-2/Hiss_Alger-Whittaker_Chambers-Misc_Field-2_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-3",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-3/Hiss_Alger-Whittaker_Chambers-Misc_Field-3"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-Misc_Field-3_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-Misc_Field-3/Hiss_Alger-Whittaker_Chambers-Misc_Field-3_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-1",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-1/Hiss_Alger-Whittaker_Chambers-NYC-1"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-1_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-1/Hiss_Alger-Whittaker_Chambers-NYC-1_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-10",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-10/Hiss_Alger-Whittaker_Chambers-NYC-10"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-10_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-10/Hiss_Alger-Whittaker_Chambers-NYC-10_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-11",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-11/Hiss_Alger-Whittaker_Chambers-NYC-11"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-11_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-11/Hiss_Alger-Whittaker_Chambers-NYC-11_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-12",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-12/Hiss_Alger-Whittaker_Chambers-NYC-12"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-12_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-12/Hiss_Alger-Whittaker_Chambers-NYC-12_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-13",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-13/Hiss_Alger-Whittaker_Chambers-NYC-13"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-13_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-13/Hiss_Alger-Whittaker_Chambers-NYC-13_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-14",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-14/Hiss_Alger-Whittaker_Chambers-NYC-14"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-14_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-14/Hiss_Alger-Whittaker_Chambers-NYC-14_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-15",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-15/Hiss_Alger-Whittaker_Chambers-NYC-15"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-15_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-15/Hiss_Alger-Whittaker_Chambers-NYC-15_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-16",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-16/Hiss_Alger-Whittaker_Chambers-NYC-16"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-16_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-16/Hiss_Alger-Whittaker_Chambers-NYC-16_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-17",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-17/Hiss_Alger-Whittaker_Chambers-NYC-17"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-17_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-17/Hiss_Alger-Whittaker_Chambers-NYC-17_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-18",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-18/Hiss_Alger-Whittaker_Chambers-NYC-18"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-18_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-18/Hiss_Alger-Whittaker_Chambers-NYC-18_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-19",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-19/Hiss_Alger-Whittaker_Chambers-NYC-19"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-19_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-19/Hiss_Alger-Whittaker_Chambers-NYC-19_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-1B",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-1B/Hiss_Alger-Whittaker_Chambers-NYC-1B"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-1B_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-1B/Hiss_Alger-Whittaker_Chambers-NYC-1B_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-2",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-2/Hiss_Alger-Whittaker_Chambers-NYC-2"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-2_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-2/Hiss_Alger-Whittaker_Chambers-NYC-2_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-20",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-20/Hiss_Alger-Whittaker_Chambers-NYC-20"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-20_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-20/Hiss_Alger-Whittaker_Chambers-NYC-20_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-21",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-21/Hiss_Alger-Whittaker_Chambers-NYC-21"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-21_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-21/Hiss_Alger-Whittaker_Chambers-NYC-21_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-22",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-22/Hiss_Alger-Whittaker_Chambers-NYC-22"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-22_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-22/Hiss_Alger-Whittaker_Chambers-NYC-22_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-23",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-23/Hiss_Alger-Whittaker_Chambers-NYC-23"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-23_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-23/Hiss_Alger-Whittaker_Chambers-NYC-23_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-24",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-24/Hiss_Alger-Whittaker_Chambers-NYC-24"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-24_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-24/Hiss_Alger-Whittaker_Chambers-NYC-24_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-25",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-25/Hiss_Alger-Whittaker_Chambers-NYC-25"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-25_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-25/Hiss_Alger-Whittaker_Chambers-NYC-25_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-26",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-26/Hiss_Alger-Whittaker_Chambers-NYC-26"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-26_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-26/Hiss_Alger-Whittaker_Chambers-NYC-26_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-27",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-27/Hiss_Alger-Whittaker_Chambers-NYC-27"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-27_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-27/Hiss_Alger-Whittaker_Chambers-NYC-27_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-28",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-28/Hiss_Alger-Whittaker_Chambers-NYC-28"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-28_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-28/Hiss_Alger-Whittaker_Chambers-NYC-28_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-29",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-29/Hiss_Alger-Whittaker_Chambers-NYC-29"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-29_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-29/Hiss_Alger-Whittaker_Chambers-NYC-29_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-3",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-3/Hiss_Alger-Whittaker_Chambers-NYC-3"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-3_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-3/Hiss_Alger-Whittaker_Chambers-NYC-3_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-30",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-30/Hiss_Alger-Whittaker_Chambers-NYC-30"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-30_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-30/Hiss_Alger-Whittaker_Chambers-NYC-30_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-31",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-31/Hiss_Alger-Whittaker_Chambers-NYC-31"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-31_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-31/Hiss_Alger-Whittaker_Chambers-NYC-31_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-32",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-32/Hiss_Alger-Whittaker_Chambers-NYC-32"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-32_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-32/Hiss_Alger-Whittaker_Chambers-NYC-32_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-33",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-33/Hiss_Alger-Whittaker_Chambers-NYC-33"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-33_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-33/Hiss_Alger-Whittaker_Chambers-NYC-33_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-34",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-34/Hiss_Alger-Whittaker_Chambers-NYC-34"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-34_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-34/Hiss_Alger-Whittaker_Chambers-NYC-34_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-35",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-35/Hiss_Alger-Whittaker_Chambers-NYC-35"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-35_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-35/Hiss_Alger-Whittaker_Chambers-NYC-35_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-36",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-36/Hiss_Alger-Whittaker_Chambers-NYC-36"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-36_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-36/Hiss_Alger-Whittaker_Chambers-NYC-36_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-37",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-37/Hiss_Alger-Whittaker_Chambers-NYC-37"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-37_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-37/Hiss_Alger-Whittaker_Chambers-NYC-37_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-38",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-38/Hiss_Alger-Whittaker_Chambers-NYC-38"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-38_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-38/Hiss_Alger-Whittaker_Chambers-NYC-38_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-39",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-39/Hiss_Alger-Whittaker_Chambers-NYC-39"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-39_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-39/Hiss_Alger-Whittaker_Chambers-NYC-39_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-4",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-4/Hiss_Alger-Whittaker_Chambers-NYC-4"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-4_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-4/Hiss_Alger-Whittaker_Chambers-NYC-4_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-40",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-40/Hiss_Alger-Whittaker_Chambers-NYC-40"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-40_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-40/Hiss_Alger-Whittaker_Chambers-NYC-40_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-41",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-41/Hiss_Alger-Whittaker_Chambers-NYC-41"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-41_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-41/Hiss_Alger-Whittaker_Chambers-NYC-41_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-42",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-42/Hiss_Alger-Whittaker_Chambers-NYC-42"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-42_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-42/Hiss_Alger-Whittaker_Chambers-NYC-42_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-43",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-43/Hiss_Alger-Whittaker_Chambers-NYC-43"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-43_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-43/Hiss_Alger-Whittaker_Chambers-NYC-43_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-44",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-44/Hiss_Alger-Whittaker_Chambers-NYC-44"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-44_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-44/Hiss_Alger-Whittaker_Chambers-NYC-44_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-45",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-45/Hiss_Alger-Whittaker_Chambers-NYC-45"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-45_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-45/Hiss_Alger-Whittaker_Chambers-NYC-45_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-46",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-46/Hiss_Alger-Whittaker_Chambers-NYC-46"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-46_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-46/Hiss_Alger-Whittaker_Chambers-NYC-46_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-47",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-47/Hiss_Alger-Whittaker_Chambers-NYC-47"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-47_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-47/Hiss_Alger-Whittaker_Chambers-NYC-47_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-48",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-48/Hiss_Alger-Whittaker_Chambers-NYC-48"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-48_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-48/Hiss_Alger-Whittaker_Chambers-NYC-48_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-49",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-49/Hiss_Alger-Whittaker_Chambers-NYC-49"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-49_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-49/Hiss_Alger-Whittaker_Chambers-NYC-49_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-5",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-5/Hiss_Alger-Whittaker_Chambers-NYC-5"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-5_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-5/Hiss_Alger-Whittaker_Chambers-NYC-5_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-50",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-50/Hiss_Alger-Whittaker_Chambers-NYC-50"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-50_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-50/Hiss_Alger-Whittaker_Chambers-NYC-50_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-51",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-51/Hiss_Alger-Whittaker_Chambers-NYC-51"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-51_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-51/Hiss_Alger-Whittaker_Chambers-NYC-51_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-52",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-52/Hiss_Alger-Whittaker_Chambers-NYC-52"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-52_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-52/Hiss_Alger-Whittaker_Chambers-NYC-52_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-53",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-53/Hiss_Alger-Whittaker_Chambers-NYC-53"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-53_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-53/Hiss_Alger-Whittaker_Chambers-NYC-53_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-6",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-6/Hiss_Alger-Whittaker_Chambers-NYC-6"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-6_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-6/Hiss_Alger-Whittaker_Chambers-NYC-6_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-7",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-7/Hiss_Alger-Whittaker_Chambers-NYC-7"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-7_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-7/Hiss_Alger-Whittaker_Chambers-NYC-7_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-8",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-8/Hiss_Alger-Whittaker_Chambers-NYC-8"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-8_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-8/Hiss_Alger-Whittaker_Chambers-NYC-8_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-9",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-9/Hiss_Alger-Whittaker_Chambers-NYC-9"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-9_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-9/Hiss_Alger-Whittaker_Chambers-NYC-9_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1/Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1/Hiss_Alger-Whittaker_Chambers-NYC-Venue_Change-1_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-1",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-1/Hiss_Alger-Whittaker_Chambers-xrefs-1"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-1_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-1/Hiss_Alger-Whittaker_Chambers-xrefs-1_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-2",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-2/Hiss_Alger-Whittaker_Chambers-xrefs-2"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-2_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-2/Hiss_Alger-Whittaker_Chambers-xrefs-2_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-3",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-3/Hiss_Alger-Whittaker_Chambers-xrefs-3"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-3_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-3/Hiss_Alger-Whittaker_Chambers-xrefs-3_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-4",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-4/Hiss_Alger-Whittaker_Chambers-xrefs-4"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-4_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-4/Hiss_Alger-Whittaker_Chambers-xrefs-4_text"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-5",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-5/Hiss_Alger-Whittaker_Chambers-xrefs-5"
+    },
+    {
+      "id": "Hiss_Alger-Whittaker_Chambers-xrefs-5_text",
+      "source": "foia_Hiss_Alger-Whittaker_Chambers-xrefs-5/Hiss_Alger-Whittaker_Chambers-xrefs-5_text"
+    },
+    {
+      "id": "Hoover_Interview-March_1951-US_News_World_Report",
+      "source": "foia_Hoover_Interview-March_1951-US_News_World_Report/Hoover_Interview-March_1951-US_News_World_Report"
+    },
+    {
+      "id": "Hoover_Interview-March_1951-US_News_World_Report_text",
+      "source": "foia_Hoover_Interview-March_1951-US_News_World_Report/Hoover_Interview-March_1951-US_News_World_Report_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-10",
+      "source": "foia_Security_Legislation-HQ-10/Security_Legislation-HQ-10"
+    },
+    {
+      "id": "Security_Legislation-HQ-10_text",
+      "source": "foia_Security_Legislation-HQ-10/Security_Legislation-HQ-10_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-16",
+      "source": "foia_Security_Legislation-HQ-16/Security_Legislation-HQ-16"
+    },
+    {
+      "id": "Security_Legislation-HQ-16_text",
+      "source": "foia_Security_Legislation-HQ-16/Security_Legislation-HQ-16_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-17",
+      "source": "foia_Security_Legislation-HQ-17/Security_Legislation-HQ-17"
+    },
+    {
+      "id": "Security_Legislation-HQ-17_text",
+      "source": "foia_Security_Legislation-HQ-17/Security_Legislation-HQ-17_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-18",
+      "source": "foia_Security_Legislation-HQ-18/Security_Legislation-HQ-18"
+    },
+    {
+      "id": "Security_Legislation-HQ-18_text",
+      "source": "foia_Security_Legislation-HQ-18/Security_Legislation-HQ-18_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-8",
+      "source": "foia_Security_Legislation-HQ-8/Security_Legislation-HQ-8"
+    },
+    {
+      "id": "Security_Legislation-HQ-8_text",
+      "source": "foia_Security_Legislation-HQ-8/Security_Legislation-HQ-8_text"
+    },
+    {
+      "id": "Security_Legislation-HQ-9",
+      "source": "foia_Security_Legislation-HQ-9/Security_Legislation-HQ-9"
+    },
+    {
+      "id": "Security_Legislation-HQ-9_text",
+      "source": "foia_Security_Legislation-HQ-9/Security_Legislation-HQ-9_text"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-10",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-10/Thumbnail_Sketches_Subversive_Orgs-NYC-10"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-10_text",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-10/Thumbnail_Sketches_Subversive_Orgs-NYC-10_text"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-11",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-11/Thumbnail_Sketches_Subversive_Orgs-NYC-11"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-11_text",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-11/Thumbnail_Sketches_Subversive_Orgs-NYC-11_text"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-9",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-9/Thumbnail_Sketches_Subversive_Orgs-NYC-9"
+    },
+    {
+      "id": "Thumbnail_Sketches_Subversive_Orgs-NYC-9_text",
+      "source": "foia_Thumbnail_Sketches_Subversive_Orgs-NYC-9/Thumbnail_Sketches_Subversive_Orgs-NYC-9_text"
+    },
+    {
+      "id": "Venona-HQ-1",
+      "source": "foia_Venona-HQ-1/Venona-HQ-1"
+    }
+  ]
+}

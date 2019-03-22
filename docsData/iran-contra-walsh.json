@@ -1,0 +1,35 @@
+{
+  "id": "008",
+  "shortname": "iran-contra-walsh",
+  "collection": "Iran-Contra Special Counsel Investigation",
+  "alt_names": [
+    "Walsh Investigation"
+  ],
+  "date": "1993",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/WalshReport",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Vol. 1: Investigations and Prosecutions",
+      "source": "WalshReport/Walsh%20Report%20volume%201%20Investigations%20and%20Prosecutions"
+    },
+    {
+      "id": "002",
+      "doc_name": "Vol. 2: Indictments, Plea Agreements, Interim Reports to the Congress, and Administrative Matters",
+      "source": "WalshReport/Walsh%20Report%20volume%202%20Indictments%2C%20Plea%20Agreements%2C%20Interim%20Reports%20to%20the%20Congress%2C%20and%20Administrative%20Matters"
+    },
+    {
+      "id": "003",
+      "doc_name": "Vol. 3: Comments and Materials Submitted by Individuals and Their Attorneys Responding to Volume 1 of the Final Report",
+      "source": "WalshReport/Walsh%20Report%20volume%203%20Comments%20and%20Materials%20Submitted%20by%20Individuals%20and%20Their%20Attorneys%20Responding%20to%20Volume%20I%20of%20the%20Final%20Report"
+    },
+    {
+      "id": "004",
+      "doc_name": "Interview of Luis Posada Carriles",
+      "source": "LuisPosadaCarrilesInterviewIranContra/Luis-Posada-Carriles-Interview-Iran-Contra"
+    }
+  ]
+}

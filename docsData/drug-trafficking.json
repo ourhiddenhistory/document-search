@@ -1,0 +1,662 @@
+{
+  "id": "090",
+  "shortname": "drug-trafficking",
+  "collection": "Drug Trafficking",
+  "alt_names": [],
+  "date": "1980",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/BarrySeal",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "1349331-0_-_File_1_-_Section_1_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_1_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_1_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_2_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_2_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_2_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_3_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_3_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_3_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_4_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_4_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_4_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_5_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_5_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_5_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_6_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_6_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_6_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_1_-_Section_7_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_1_-_Section_7_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_1_-_Section_7_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_2_-_Section_1_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_2_-_Section_1_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_2_-_Section_1_Serial__1.pdf"
+    },
+    {
+      "id": "1349331-0_-_File_2_-_Section_2_Serial__1",
+      "doc_name": "Barry Seal FBI Files, 1349331-0_-_File_2_-_Section_2_Serial__1",
+      "source": "BarrySeal/1349331-0_-_File_2_-_Section_2_Serial__1.pdf"
+    },
+    {
+      "id": "7 John Does Brief",
+      "source": "7 John Does Brief"
+    },
+    {
+      "id": "7 John Does Decision",
+      "source": "7 John Does Decision"
+    },
+    {
+      "id": "Wessel @ A-C",
+      "source": "Apalachin Wessel/Wessel @ A-C"
+    },
+    {
+      "id": "Wessel @ D-K",
+      "source": "Apalachin Wessel/Wessel @ D-K"
+    },
+    {
+      "id": "Wessel memo",
+      "source": "Apalachin Wessel/Wessel memo"
+    },
+    {
+      "id": "Benjamin",
+      "source": "Benjamin"
+    },
+    {
+      "id": "Bolten WH Exit Interview",
+      "source": "Bolten WH Exit Interview"
+    },
+    {
+      "id": "CCS Files Conein et al",
+      "source": "CCS Files Conein et al"
+    },
+    {
+      "id": "CIA in DEA Corson",
+      "source": "CIA in DEA Corson"
+    },
+    {
+      "id": "CIA in DEA internal",
+      "source": "CIA in DEA internal"
+    },
+    {
+      "id": "Boyd DEA Corruption 77-78",
+      "source": "Compton Boyd/Boyd DEA Corruption 77-78"
+    },
+    {
+      "id": "Compton Affidavit",
+      "source": "Compton Boyd/Compton Affidavit"
+    },
+    {
+      "id": "Copeland",
+      "source": "Copeland"
+    },
+    {
+      "id": "Cusack China memo",
+      "source": "Cusack China memo"
+    },
+    {
+      "id": "1955 roster 1",
+      "source": "FBN rosters.doc/1955 roster 1"
+    },
+    {
+      "id": "1955 roster 2",
+      "source": "FBN rosters.doc/1955 roster 2"
+    },
+    {
+      "id": "BDAC Baltimore 67",
+      "source": "FBN rosters.doc/BDAC Baltimore 67"
+    },
+    {
+      "id": "BNDD Baltimore 69",
+      "source": "FBN rosters.doc/BNDD Baltimore 69"
+    },
+    {
+      "id": "Baltimore 1969",
+      "source": "FBN rosters.doc/Baltimore 1969"
+    },
+    {
+      "id": "Baltimore Jan 68",
+      "source": "FBN rosters.doc/Baltimore Jan 68"
+    },
+    {
+      "id": "Baltimore feb 69",
+      "source": "FBN rosters.doc/Baltimore feb 69"
+    },
+    {
+      "id": "Atlanta April 68 (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/Atlanta April 68 (2)"
+    },
+    {
+      "id": "Atlanta April 68",
+      "source": "FBN rosters.doc/DEA offices.doc/Atlanta April 68"
+    },
+    {
+      "id": "Detroit 1970 (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/Detroit 1970 (2)"
+    },
+    {
+      "id": "Detroit 1970",
+      "source": "FBN rosters.doc/DEA offices.doc/Detroit 1970"
+    },
+    {
+      "id": "District 6 April 68 (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/District 6 April 68 (2)"
+    },
+    {
+      "id": "District 6 April 68",
+      "source": "FBN rosters.doc/DEA offices.doc/District 6 April 68"
+    },
+    {
+      "id": "July 72 Mexico (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/July 72 Mexico (2)"
+    },
+    {
+      "id": "July 72 Mexico",
+      "source": "FBN rosters.doc/DEA offices.doc/July 72 Mexico"
+    },
+    {
+      "id": "Miami April 1968 (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/Miami April 1968 (2)"
+    },
+    {
+      "id": "Miami April 1968",
+      "source": "FBN rosters.doc/DEA offices.doc/Miami April 1968"
+    },
+    {
+      "id": "New York Jan 69 (2)",
+      "source": "FBN rosters.doc/DEA offices.doc/New York Jan 69 (2)"
+    },
+    {
+      "id": "New York Jan 69",
+      "source": "FBN rosters.doc/DEA offices.doc/New York Jan 69"
+    },
+    {
+      "id": "Detroit 1959 Bureau of Narcotics roster (2)",
+      "source": "FBN rosters.doc/Detroit 1959 Bureau of Narcotics roster (2)"
+    },
+    {
+      "id": "Detroit 1959 Bureau of Narcotics roster",
+      "source": "FBN rosters.doc/Detroit 1959 Bureau of Narcotics roster"
+    },
+    {
+      "id": "District  6 Oct 63 (2)",
+      "source": "FBN rosters.doc/District  6 Oct 63 (2)"
+    },
+    {
+      "id": "District  6 Oct 63",
+      "source": "FBN rosters.doc/District  6 Oct 63"
+    },
+    {
+      "id": "District 14 Sep 65",
+      "source": "FBN rosters.doc/District 14 Sep 65"
+    },
+    {
+      "id": "District 6 Jan 55",
+      "source": "FBN rosters.doc/District 6 Jan 55"
+    },
+    {
+      "id": "District 8 1943",
+      "source": "FBN rosters.doc/District 8 1943"
+    },
+    {
+      "id": "District 8 Nov 47",
+      "source": "FBN rosters.doc/District 8 Nov 47"
+    },
+    {
+      "id": "Field Org FBN 66",
+      "source": "FBN rosters.doc/Field Org FBN 66"
+    },
+    {
+      "id": "Jan 65 FBN",
+      "source": "FBN rosters.doc/Jan 65 FBN"
+    },
+    {
+      "id": "New YYork Oct 63",
+      "source": "FBN rosters.doc/New YYork Oct 63"
+    },
+    {
+      "id": "New York March 1966 p 2",
+      "source": "FBN rosters.doc/New York March 1966 p 2"
+    },
+    {
+      "id": "1 New York Jan 55",
+      "source": "FBN rosters.doc/New York rosters/1 New York Jan 55"
+    },
+    {
+      "id": "2 New York Oct 1955",
+      "source": "FBN rosters.doc/New York rosters/2 New York Oct 1955"
+    },
+    {
+      "id": "2a New York sept 1955",
+      "source": "FBN rosters.doc/New York rosters/2a New York sept 1955"
+    },
+    {
+      "id": "3 New York Jan 58",
+      "source": "FBN rosters.doc/New York rosters/3 New York Jan 58"
+    },
+    {
+      "id": "4 New York Oct 58",
+      "source": "FBN rosters.doc/New York rosters/4 New York Oct 58"
+    },
+    {
+      "id": "5 New York Sept 1959 NY",
+      "source": "FBN rosters.doc/New York rosters/5 New York Sept 1959 NY"
+    },
+    {
+      "id": "6 New York Sept 1959 Page 2",
+      "source": "FBN rosters.doc/New York rosters/6 New York Sept 1959 Page 2"
+    },
+    {
+      "id": "7 New York Oct 1960",
+      "source": "FBN rosters.doc/New York rosters/7 New York Oct 1960"
+    },
+    {
+      "id": "8 New York  Oct 1960 p 2",
+      "source": "FBN rosters.doc/New York rosters/8 New York  Oct 1960 p 2"
+    },
+    {
+      "id": "91 New York July 63",
+      "source": "FBN rosters.doc/New York rosters/91 New York July 63"
+    },
+    {
+      "id": "92 New York Jan 66",
+      "source": "FBN rosters.doc/New York rosters/92 New York Jan 66"
+    },
+    {
+      "id": "9a New York Jan 1962",
+      "source": "FBN rosters.doc/New York rosters/9a New York Jan 1962"
+    },
+    {
+      "id": "9b New York Jan 1962 p 2",
+      "source": "FBN rosters.doc/New York rosters/9b New York Jan 1962 p 2"
+    },
+    {
+      "id": "New York March 1966 p 2",
+      "source": "FBN rosters.doc/New York rosters/New York March 1966 p 2"
+    },
+    {
+      "id": "New York March 1966",
+      "source": "FBN rosters.doc/New York rosters/New York March 1966"
+    },
+    {
+      "id": "New York under Gaffney",
+      "source": "FBN rosters.doc/New York under Gaffney"
+    },
+    {
+      "id": "Rome Oct 1960",
+      "source": "FBN rosters.doc/Rome Oct 1960"
+    },
+    {
+      "id": "March 1966 1",
+      "source": "FBN rosters.doc/more rosters/March 1966 1"
+    },
+    {
+      "id": "March 1966 2",
+      "source": "FBN rosters.doc/more rosters/March 1966 2"
+    },
+    {
+      "id": "Habib 14 Dec 1966",
+      "source": "Habib memos in pdf.doc/Habib 14 Dec 1966"
+    },
+    {
+      "id": "Habib 16 Nov 1966",
+      "source": "Habib memos in pdf.doc/Habib 16 Nov 1966"
+    },
+    {
+      "id": "Habib 16 Sept 1966 Lucide CIA",
+      "source": "Habib memos in pdf.doc/Habib 16 Sept 1966 Lucide CIA"
+    },
+    {
+      "id": "Habib 17 Nov 1966",
+      "source": "Habib memos in pdf.doc/Habib 17 Nov 1966"
+    },
+    {
+      "id": "Habib 2 Sept 1966 Tran Ngor An",
+      "source": "Habib memos in pdf.doc/Habib 2 Sept 1966 Tran Ngor An"
+    },
+    {
+      "id": "Habib 20 July 1966 500 pound op",
+      "source": "Habib memos in pdf.doc/Habib 20 July 1966 500 pound op"
+    },
+    {
+      "id": "Habib 26 Sept 1966",
+      "source": "Habib memos in pdf.doc/Habib 26 Sept 1966"
+    },
+    {
+      "id": "Habib 27 Jan 1966 Sullivan",
+      "source": "Habib memos in pdf.doc/Habib 27 Jan 1966 Sullivan"
+    },
+    {
+      "id": "Habib 28 July 1966 Waring OSI",
+      "source": "Habib memos in pdf.doc/Habib 28 July 1966 Waring OSI"
+    },
+    {
+      "id": "Habib 29 Sept 1966",
+      "source": "Habib memos in pdf.doc/Habib 29 Sept 1966"
+    },
+    {
+      "id": "Habib 3 Jan 1966 Lilley",
+      "source": "Habib memos in pdf.doc/Habib 3 Jan 1966 Lilley"
+    },
+    {
+      "id": "Habib 5 Aug 1966 Jantzen",
+      "source": "Habib memos in pdf.doc/Habib 5 Aug 1966 Jantzen"
+    },
+    {
+      "id": "Habib 5 Oct 1966",
+      "source": "Habib memos in pdf.doc/Habib 5 Oct 1966"
+    },
+    {
+      "id": "Habib Rouzic 15 May 1971 memo",
+      "source": "Habib memos in pdf.doc/Habib Rouzic 15 May 1971 memo"
+    },
+    {
+      "id": "Knight re Khoury Blemant 59 (2)",
+      "source": "Knight re Khoury Blemant 59 (2)"
+    },
+    {
+      "id": "24 March 69 meeting with BNDD",
+      "source": "MKULTRA pdfs/24 March 69 meeting with BNDD"
+    },
+    {
+      "id": "CCS Files Conein 28 Dec 77",
+      "source": "MKULTRA pdfs/CCS Files Conein 28 Dec 77"
+    },
+    {
+      "id": "CIA to Bensinger notifying victims",
+      "source": "MKULTRA pdfs/CIA to Bensinger notifying victims"
+    },
+    {
+      "id": "Califano to Turner Jun 79",
+      "source": "MKULTRA pdfs/Califano to Turner Jun 79"
+    },
+    {
+      "id": "DEA MKULTRA FOIA",
+      "source": "MKULTRA pdfs/DEA MKULTRA FOIA"
+    },
+    {
+      "id": "Gottlieb 1967 memo",
+      "source": "MKULTRA pdfs/Gottlieb 1967 memo"
+    },
+    {
+      "id": "HES Perry to Wiltse re Panaeolus June 79",
+      "source": "MKULTRA pdfs/HES Perry to Wiltse re Panaeolus June 79"
+    },
+    {
+      "id": "Hammond to AG 24 Jan 79",
+      "source": "MKULTRA pdfs/Hammond to AG 24 Jan 79"
+    },
+    {
+      "id": "Helms unwitting testing Dec 63",
+      "source": "MKULTRA pdfs/Helms unwitting testing Dec 63"
+    },
+    {
+      "id": "Helms unwitting undated",
+      "source": "MKULTRA pdfs/Helms unwitting undated"
+    },
+    {
+      "id": "Lansdale-memo 16 March 62",
+      "source": "MKULTRA pdfs/Lansdale-memo 16 March 62"
+    },
+    {
+      "id": "Lapham as AG to CIA July  78",
+      "source": "MKULTRA pdfs/Lapham as AG to CIA July  78"
+    },
+    {
+      "id": "Laubinger to Wiltse to DDA 9 March 79",
+      "source": "MKULTRA pdfs/Laubinger to Wiltse to DDA 9 March 79"
+    },
+    {
+      "id": "Hammond Victims",
+      "source": "MKULTRA pdfs/MKULTRA old files/MKULTRA folder.doc/Hammond Victims"
+    },
+    {
+      "id": "Victims Task Force",
+      "source": "MKULTRA pdfs/MKULTRA old files/MKULTRA folder.doc/Victims Task Force"
+    },
+    {
+      "id": "Mertz re Siragusa",
+      "source": "MKULTRA pdfs/Mertz re Siragusa"
+    },
+    {
+      "id": "Michie memo 24 March 77",
+      "source": "MKULTRA pdfs/Michie memo 24 March 77"
+    },
+    {
+      "id": "Salmi memo MKULTRA 27 Feb 79",
+      "source": "MKULTRA pdfs/Salmi memo MKULTRA 27 Feb 79"
+    },
+    {
+      "id": "Salmi to file 27 Feb 79",
+      "source": "MKULTRA pdfs/Salmi to file 27 Feb 79"
+    },
+    {
+      "id": "Salmi to file 7 May 79",
+      "source": "MKULTRA pdfs/Salmi to file 7 May 79"
+    },
+    {
+      "id": "Turner to Bell 6 July 79",
+      "source": "MKULTRA pdfs/Turner to Bell 6 July 79"
+    },
+    {
+      "id": "Turner to Bensinger 6 July 79",
+      "source": "MKULTRA pdfs/Turner to Bensinger 6 July 79"
+    },
+    {
+      "id": "Turner to Califano Jan 79",
+      "source": "MKULTRA pdfs/Turner to Califano Jan 79"
+    },
+    {
+      "id": "Olivera Chile-CIA sept 51 (2)",
+      "source": "Olivera Chile-CIA sept 51 (2)"
+    },
+    {
+      "id": "Garland Williams 1959",
+      "source": "Pahlevi Iran.doc/Garland Williams 1959"
+    },
+    {
+      "id": "Iran 1955",
+      "source": "Pahlevi Iran.doc/Iran 1955"
+    },
+    {
+      "id": "Pahlevi 1-12-53",
+      "source": "Pahlevi Iran.doc/Pahlevi 1-12-53"
+    },
+    {
+      "id": "Pahlevi 6-12-53",
+      "source": "Pahlevi Iran.doc/Pahlevi 6-12-53"
+    },
+    {
+      "id": "Pahlevi 7-23-53",
+      "source": "Pahlevi Iran.doc/Pahlevi 7-23-53"
+    },
+    {
+      "id": "Pahlevi thru Dec 53",
+      "source": "Pahlevi Iran.doc/Pahlevi thru Dec 53"
+    },
+    {
+      "id": "Pahlevi-Iran 54",
+      "source": "Pahlevi Iran.doc/Pahlevi-Iran 54"
+    },
+    {
+      "id": "Siragusa to HJA re Pahlevi Feb 54",
+      "source": "Pahlevi Iran.doc/Siragusa to HJA re Pahlevi Feb 54"
+    },
+    {
+      "id": "August 19 1968 Douheret Interview",
+      "source": "Pohl/August 19 1968 Douheret Interview"
+    },
+    {
+      "id": "August 19 1968 Nebbia Interview",
+      "source": "Pohl/August 19 1968 Nebbia Interview"
+    },
+    {
+      "id": "August 7 1968 Nebbia Interview",
+      "source": "Pohl/August 7 1968 Nebbia Interview"
+    },
+    {
+      "id": "August 8 1968 Douheret Interview",
+      "source": "Pohl/August 8 1968 Douheret Interview"
+    },
+    {
+      "id": "August 8 1968 Luccarotti Interview",
+      "source": "Pohl/August 8 1968 Luccarotti Interview"
+    },
+    {
+      "id": "Strickler CIA",
+      "source": "Strickler Casey CIA doc.doc/Strickler CIA"
+    },
+    {
+      "id": "casey1",
+      "source": "Strickler Casey CIA doc.doc/casey1"
+    },
+    {
+      "id": "Talent to HJA Nov 46 Chinese in Mexico",
+      "source": "Talent to HJA Nov 46 Chinese in Mexico"
+    },
+    {
+      "id": "Tony Triponi memos 74",
+      "source": "Tony Triponi memos 74"
+    },
+    {
+      "id": "colson memos cia bennett and woodward3",
+      "source": "Water gate.doc/colson memos cia bennett and woodward3"
+    },
+    {
+      "id": "dean_and_krogh_relationship1[1]",
+      "source": "Water gate.doc/dean_and_krogh_relationship1[1]"
+    },
+    {
+      "id": "dean_out_of_country1[1]",
+      "source": "Water gate.doc/dean_out_of_country1[1]"
+    },
+    {
+      "id": "john_dean_resume[1]",
+      "source": "Water gate.doc/john_dean_resume[1]"
+    },
+    {
+      "id": "land_reform_and_colson[1]",
+      "source": "Water gate.doc/land_reform_and_colson[1]"
+    },
+    {
+      "id": "missing_krogh_files[1]",
+      "source": "Water gate.doc/missing_krogh_files[1]"
+    },
+    {
+      "id": "Garland Williams 1959",
+      "source": "Williams/Garland Williams 1959"
+    },
+    {
+      "id": "Castellani-Brown",
+      "source": "documents re hoods/Castellani-Brown"
+    },
+    {
+      "id": "August 19 1968 Douheret Interview",
+      "source": "documents re hoods/Douheret Schrier/August 19 1968 Douheret Interview"
+    },
+    {
+      "id": "August 8 1968 Douheret Interview",
+      "source": "documents re hoods/Douheret Schrier/August 8 1968 Douheret Interview"
+    },
+    {
+      "id": "Lansky",
+      "source": "documents re hoods/Lansky"
+    },
+    {
+      "id": "Lombardozzi",
+      "source": "documents re hoods/Lombardozzi"
+    },
+    {
+      "id": "FBI Lucky",
+      "source": "documents re hoods/Luciano scans/FBI Lucky"
+    },
+    {
+      "id": "July 47 Olivera",
+      "source": "documents re hoods/Luciano scans/July 47 Olivera"
+    },
+    {
+      "id": "Kefauver",
+      "source": "documents re hoods/Luciano scans/Kefauver"
+    },
+    {
+      "id": "Manfredi Lucky 1947",
+      "source": "documents re hoods/Luciano scans/Manfredi Lucky 1947"
+    },
+    {
+      "id": "Manfredi",
+      "source": "documents re hoods/Luciano scans/Manfredi"
+    },
+    {
+      "id": "Morrison",
+      "source": "documents re hoods/Luciano scans/Morrison"
+    },
+    {
+      "id": "Olivera Feb 47",
+      "source": "documents re hoods/Luciano scans/Olivera Feb 47"
+    },
+    {
+      "id": "Olivera re Luciano",
+      "source": "documents re hoods/Luciano scans/Olivera re Luciano"
+    },
+    {
+      "id": "Siragusa to HJA May 51 (2)",
+      "source": "documents re hoods/Luciano scans/Siragusa to HJA May 51 (2)"
+    },
+    {
+      "id": "Siragusa to HJA May 51",
+      "source": "documents re hoods/Luciano scans/Siragusa to HJA May 51"
+    },
+    {
+      "id": "White 1951 Lucky",
+      "source": "documents re hoods/Luciano scans/White 1951 Lucky"
+    },
+    {
+      "id": "Williams March 47",
+      "source": "documents re hoods/Luciano scans/Williams March 47"
+    },
+    {
+      "id": "arrest",
+      "source": "documents re hoods/Luciano scans/arrest"
+    },
+    {
+      "id": "nagelberg-ghode",
+      "source": "documents re hoods/Nagelberg/nagelberg-ghode"
+    },
+    {
+      "id": "August 19 1968 Nebbia Interview",
+      "source": "documents re hoods/Nebbia Schrier/August 19 1968 Nebbia Interview"
+    },
+    {
+      "id": "August 7 1968 Nebbia Interview",
+      "source": "documents re hoods/Nebbia Schrier/August 7 1968 Nebbia Interview"
+    },
+    {
+      "id": "Zicarelli",
+      "source": "documents re hoods/Zicarelli"
+    },
+    {
+      "id": "georges Bayon",
+      "source": "georges Bayon"
+    },
+    {
+      "id": "william specter",
+      "source": "william specter"
+    }
+  ]
+}

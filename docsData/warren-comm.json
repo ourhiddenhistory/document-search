@@ -1,0 +1,147 @@
+{
+  "id": "030",
+  "shortname": "warren-comm",
+  "collection": "The Warren Commission Report and Exhibits",
+  "alt_names": [],
+  "date": "1964",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/WARREN_COMMISSION_VOLUMES",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Final Report",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%20REPORT"
+    },
+    {
+      "id": "002",
+      "doc_name": "Volume 1",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%201"
+    },
+    {
+      "id": "003",
+      "doc_name": "Volume 2",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%202"
+    },
+    {
+      "id": "004",
+      "doc_name": "Volume 3",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%203"
+    },
+    {
+      "id": "005",
+      "doc_name": "Volume 4",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%204"
+    },
+    {
+      "id": "006",
+      "doc_name": "Volume 5",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%205"
+    },
+    {
+      "id": "007",
+      "doc_name": "Volume 6",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%206"
+    },
+    {
+      "id": "008",
+      "doc_name": "Volume 7",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%207"
+    },
+    {
+      "id": "009",
+      "doc_name": "Volume 8",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%208"
+    },
+    {
+      "id": "010",
+      "doc_name": "Volume 9",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%209"
+    },
+    {
+      "id": "011",
+      "doc_name": "Volume 10",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2010"
+    },
+    {
+      "id": "012",
+      "doc_name": "Volume 11",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2011"
+    },
+    {
+      "id": "013",
+      "doc_name": "Volume 12",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2012"
+    },
+    {
+      "id": "014",
+      "doc_name": "Volume 13",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2013"
+    },
+    {
+      "id": "015",
+      "doc_name": "Volume 14",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2014"
+    },
+    {
+      "id": "016",
+      "doc_name": "Volume 15",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2015"
+    },
+    {
+      "id": "017",
+      "doc_name": "Volume 16",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2016"
+    },
+    {
+      "id": "018",
+      "doc_name": "Volume 17",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2017"
+    },
+    {
+      "id": "019",
+      "doc_name": "Volume 18",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2018"
+    },
+    {
+      "id": "020",
+      "doc_name": "Volume 19",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2019"
+    },
+    {
+      "id": "021",
+      "doc_name": "Volume 20",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2020"
+    },
+    {
+      "id": "022",
+      "doc_name": "Volume 21",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2021"
+    },
+    {
+      "id": "023",
+      "doc_name": "Volume 22",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2022"
+    },
+    {
+      "id": "024",
+      "doc_name": "Volume 23",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2023"
+    },
+    {
+      "id": "025",
+      "doc_name": "Volume 24",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2024"
+    },
+    {
+      "id": "026",
+      "doc_name": "Volume 25",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2025"
+    },
+    {
+      "id": "027",
+      "doc_name": "Volume 26",
+      "source": "https://archive.org/stream/WARREN_COMMISSION_VOLUMES/WARREN%20COMMISSION%2026"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+$pale-gray: #e3e1dd;
+
+/* Define the "system" font family */
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"),
+    local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"),
+    local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+strong {
+  font-weight: 700;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: "system";
+}
+
+body,
+html,
+.search-doc-app {
+  height: 100%;
+  width: 100%;
+}
+
+img.display-img {
+  width: 100%;
+}
+
+.navbar-dark .navbar-nav a.nav-link.btn {
+  color: #fff;
+}
+
+.doclist__fileslist ul {
+  list-style-type: none;
+}
+
+.page-container {
+  padding: 30px 0;
+}
+
+.docsearch__indexed-cnt {
+  color: #fff;
+}
+
+.content {
+  padding: 0px 15px 0 15px;
+}
+
+.search-doc-app,
+.content {
+  display: flex;
+}
+
+.search-doc-app {
+  flex-direction: column;
+}
+.content,
+.scrolling-pane {
+  flex: 1;
+}
+
+.scrolling-pane {
+  overflow: scroll;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/**
+ * header
+ */
+.header {
+  background-color: $pale-gray;
+  padding: 15px;
+}
+
+/**
+ * search-panel
+ */
+.search-panel {
+  padding: 15px 20px 0px 20px;
+}
+
+/**
+ * entry-panel
+ */
+ .entry-panel__meta {
+   font-size: 16px;
+   padding: 50px 20px;
+   .meta__docname {
+     font-size: 20px;
+   }
+ }
+
+.entry-panel__content {
+  font-family: monospace;
+  white-space: pre-wrap;
+  font-size: 16px;
+  padding: 50px 20px;
+}
+
+.listing {
+  margin-bottom: 6px;
+}
+
+/**
+ * .entry-link
+ */
+.entry-link {
+  color: #008ed1;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 4px;
+}
+
+.entry-link__collection {
+  color: #999;
+}
+
+.entry-link__document {
+  font-size: 14px;
+}
+
+.entry-link__text-found {
+  font-size: 16px;
+}
+
+/**
+ * toolbar-doc
+ */
+.toolbar-doc {
+}
+
+/**
+ * toolbar-entry
+ */
+.toolbar-entry {
+  z-index: 2;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  bottom: 0;
+  background-color: $pale-gray;
+  height: 35px;
+  width: 50vw;
+}
+
+.doclist__body ul {
+  list-style-type: none;
+}
+
+.doclist__reveal {
+  cursor: pointer;
+  white-space: wrap;
+}
+
+.card-body {
+  ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    li {
+      break-inside: avoid-column;
+    }
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  .card-body {
+    ul {
+      columns: 1;
+      -webkit-columns: 1;
+      -moz-columns: 1;
+      li {
+        break-inside: avoid-column;
+      }
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .card-body {
+    ul {
+      columns: 2;
+      -webkit-columns: 2;
+      -moz-columns: 2;
+      li {
+        break-inside: avoid-column;
+      }
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .card-body {
+    ul {
+      columns: 3;
+      -webkit-columns: 3;
+      -moz-columns: 3;
+      li {
+        break-inside: avoid-column;
+      }
+    }
+  }
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .card-body {
+    ul {
+      columns: 4;
+      -webkit-columns: 4;
+      -moz-columns: 4;
+      li {
+        break-inside: avoid-column;
+      }
+    }
+  }
+}
+
+.doclist__important {
+  font-size: 12px;
+  color: darkRed;
+  margin-bottom: 14px;
+}
+
+.doclist__description {
+  font-size: 14px;
+}
+
+h3 {
+  position: relative;
+}
+
+.docsearch__beta {
+  position: absolute;
+  display: inline-block;
+  color: maroon;
+  font-size: 14px;
+  font-weight: bold;
+  top: -2px;
+  transform: tr;
+}
+
+/* Gist Embed - Dark Theme Styling - Thanks to MattD */
+
+/* Body */
+.gist-data tbody { background-color: Black; }
+
+/* Line Numbers */
+.gist-data tbody td:nth-of-type(1) {
+  color: #2B91AF !important;
+}
+
+/* Code */
+.gist-data tbody td:nth-of-type(2){
+  color: #FFFFFF !important;
+}
+
+/* Comments */
+.pl-c
+{
+  color: #57A64A !important;
+}
+
+/* Function */
+.pl-k, tbody tr:first-child .blob-code, tbody tr:last-child .blob-code
+{
+  color: #569CD6 !important;
+}
+
+/* Function Name */
+.pl-en
+{
+  color: #FFFFFF !important;
+}
+
+/* Function Method */
+.pl-c1, .pl-smi
+{
+  color: #FFFFFF !important;
+}
+/* "'s around Strings */
+.pl-pds
+{
+  color: #D69D85 !important;
+}
+
+/* Strings */
+.pl-s
+{
+  color: #D69D85 !important;
+}

@@ -1,0 +1,53 @@
+{
+  "id": "028",
+  "shortname": "pike-cmte",
+  "collection": "Select Committee on Intelligence, US House of Representatives",
+  "alt_names": [
+    "The Pike Committee"
+  ],
+  "date": "1975",
+  "description": "",
+  "important": "",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Final Report, as leaked to Daniel Schoor (with foreword by Philip Agee)",
+      "source": "https://archive.org/stream/PikeCommitteeReportFull/Pike-Committee-Report-Full-ourhiddenhistory_dot_org"
+    },
+    {
+      "id": "002",
+      "doc_name": "Part 1: Hearings on Costs and Procedures",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-1-costs-and-procedures"
+    },
+    {
+      "id": "003",
+      "doc_name": "Part 2: Hearings on Intelligence Performance",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-2-performance"
+    },
+    {
+      "id": "004",
+      "doc_name": "Part 3: Hearings on Domestic Activities",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-3-domestic-activites"
+    },
+    {
+      "id": "005",
+      "doc_name": "Part 4: Committee Proceedings I",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-4-procedings-I"
+    },
+    {
+      "id": "006",
+      "doc_name": "Part 5: Hearings on Foreign Intelligence",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-5-foreign-intel"
+    },
+    {
+      "id": "007",
+      "doc_name": "Part 6: Committee Proceedings II",
+      "source": "https://archive.org/stream/PikeCommitteeIntelligenceHearings/pike-cmte-6-procedings-2"
+    },
+    {
+      "id": "008",
+      "doc_name": "Investigation into Leak of Report",
+      "source": ""
+    }
+  ]
+}

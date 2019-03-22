@@ -1,0 +1,13 @@
+wget https://catalog.archives.gov/OpaAPI/media/7564961/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-182/jfk-garrison-182.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564962/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-183/jfk-garrison-183.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564963/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-184/jfk-garrison-184.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564964/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-185/jfk-garrison-185.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564965/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-186/jfk-garrison-186.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564966/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-187/jfk-garrison-187.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564967/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-188/jfk-garrison-188.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564968/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-189/jfk-garrison-189.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564969/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-190/jfk-garrison-190.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564970/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-191/jfk-garrison-191.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564971/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-192/jfk-garrison-192.pdf ; sleep 5;
+wget https://catalog.archives.gov/OpaAPI/media/7564972/content/arcmedia/dc-metro/jfkco/641323/jfk-garrison-193/jfk-garrison-193.pdf ; sleep 5;
+wget  ; sleep 5;

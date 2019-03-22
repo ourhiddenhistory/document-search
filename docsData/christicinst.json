@@ -1,0 +1,57 @@
+{
+  "id": "007",
+  "shortname": "christicinst",
+  "collection": "Christic Institute Collection",
+  "alt_names": [],
+  "date": "1986",
+  "description": "",
+  "important": "",
+  "source": "https://christicinstitute.org/",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Affidavit of Daniel P. Sheehan",
+      "source": "https://archive.org/stream/AffidavitOfDanielPSheehan/Affidavit_of_Daniel_P_Sheehan"
+    },
+    {
+      "id": "002",
+      "doc_name": "Christic Institute Newsletter, Spring 1987",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1987-Spring"
+    },
+    {
+      "id": "003",
+      "doc_name": "Christic Institute Newsletter, Spring 1988",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1988-Spring"
+    },
+    {
+      "id": "004",
+      "doc_name": "Christic Institute Newsletter, Summer 1989",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1989-Summer"
+    },
+    {
+      "id": "005",
+      "doc_name": "Christic Institute Newsletter, Fall 1990",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1990-Fall"
+    },
+    {
+      "id": "006",
+      "doc_name": "Christic Institute Newsletter, Spring 1990",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1990-Spring"
+    },
+    {
+      "id": "007",
+      "doc_name": "Christic Institute Newsletter, Summer 1991",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1991-Summer"
+    },
+    {
+      "id": "008",
+      "doc_name": "Christic Institute Newsletter, Fall 1991",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1991-Fall"
+    },
+    {
+      "id": "009",
+      "doc_name": "Christic Institute Newsletter, Winter 1991",
+      "source": "https://archive.org/stream/ChristicInstituteNewsletter1988Spring/Christic-Institute-Newsletter_1991-Winter"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "hide": true,
+  "id": "103",
+  "shortname": "tamiment",
+  "collection": "Tamiment",
+  "alt_names": [],
+  "date": "1951",
+  "description": "Freedom Newspaper",
+  "important": "",
+  "source": "http://dlib.nyu.edu/",
+  "type": "tamiment",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "tamwag_fdm000001_hi",
+      "source": "files/books/tamwag_fdm000001/tamwag_fdm000001_hi"
+    },
+    {
+      "id": "tamwag_fdm000002_hi",
+      "source": "files/books/tamwag_fdm000002/tamwag_fdm000002_hi"
+    },
+    {
+      "id": "tamwag_fdm000003_hi",
+      "source": "files/books/tamwag_fdm000003/tamwag_fdm000003_hi"
+    },
+    {
+      "id": "tamwag_fdm000004_hi",
+      "source": "files/books/tamwag_fdm000004/tamwag_fdm000004_hi"
+    },
+    {
+      "id": "tamwag_fdm000005_hi",
+      "source": "files/books/tamwag_fdm000005/tamwag_fdm000005_hi"
+    },
+    {
+      "id": "tamwag_fdm000006_hi",
+      "source": "files/books/tamwag_fdm000006/tamwag_fdm000006_hi"
+    },
+    {
+      "id": "tamwag_fdm000007_hi",
+      "source": "files/books/tamwag_fdm000007/tamwag_fdm000007_hi"
+    },
+    {
+      "id": "tamwag_fdm000008_hi",
+      "source": "files/books/tamwag_fdm000008/tamwag_fdm000008_hi"
+    },
+    {
+      "id": "tamwag_fdm000009_hi",
+      "source": "files/books/tamwag_fdm000009/tamwag_fdm000009_hi"
+    },
+    {
+      "id": "tamwag_fdm000010_hi",
+      "source": "files/books/tamwag_fdm000010/tamwag_fdm000010_hi"
+    },
+    {
+      "id": "tamwag_fdm000011_hi",
+      "source": "files/books/tamwag_fdm000011/tamwag_fdm000011_hi"
+    },
+    {
+      "id": "tamwag_fdm000012_hi",
+      "source": "files/books/tamwag_fdm000012/tamwag_fdm000012_hi"
+    },
+    {
+      "id": "tamwag_fdm000013_hi",
+      "source": "files/books/tamwag_fdm000013/tamwag_fdm000013_hi"
+    },
+    {
+      "id": "tamwag_fdm000014_hi",
+      "source": "files/books/tamwag_fdm000014/tamwag_fdm000014_hi"
+    },
+    {
+      "id": "tamwag_fdm000015_hi",
+      "source": "files/books/tamwag_fdm000015/tamwag_fdm000015_hi"
+    },
+    {
+      "id": "tamwag_fdm000016_hi",
+      "source": "files/books/tamwag_fdm000016/tamwag_fdm000016_hi"
+    },
+    {
+      "id": "tamwag_fdm000017_hi",
+      "source": "files/books/tamwag_fdm000017/tamwag_fdm000017_hi"
+    },
+    {
+      "id": "tamwag_fdm000018_hi",
+      "source": "files/books/tamwag_fdm000018/tamwag_fdm000018_hi"
+    },
+    {
+      "id": "tamwag_fdm000019_hi",
+      "source": "files/books/tamwag_fdm000019/tamwag_fdm000019_hi"
+    },
+    {
+      "id": "tamwag_fdm000020_hi",
+      "source": "files/books/tamwag_fdm000020/tamwag_fdm000020_hi"
+    },
+    {
+      "id": "tamwag_fdm000021_hi",
+      "source": "files/books/tamwag_fdm000021/tamwag_fdm000021_hi"
+    },
+    {
+      "id": "tamwag_fdm000022_hi",
+      "source": "files/books/tamwag_fdm000022/tamwag_fdm000022_hi"
+    },
+    {
+      "id": "tamwag_fdm000023_hi",
+      "source": "files/books/tamwag_fdm000023/tamwag_fdm000023_hi"
+    },
+    {
+      "id": "tamwag_fdm000024_hi",
+      "source": "files/books/tamwag_fdm000024/tamwag_fdm000024_hi"
+    },
+    {
+      "id": "tamwag_fdm000025_hi",
+      "source": "files/books/tamwag_fdm000025/tamwag_fdm000025_hi"
+    },
+    {
+      "id": "tamwag_fdm000026_hi",
+      "source": "files/books/tamwag_fdm000026/tamwag_fdm000026_hi"
+    },
+    {
+      "id": "tamwag_fdm000027_hi",
+      "source": "files/books/tamwag_fdm000027/tamwag_fdm000027_hi"
+    },
+    {
+      "id": "tamwag_fdm000028_hi",
+      "source": "files/books/tamwag_fdm000028/tamwag_fdm000028_hi"
+    },
+    {
+      "id": "tamwag_fdm000029_hi",
+      "source": "files/books/tamwag_fdm000029/tamwag_fdm000029_hi"
+    },
+    {
+      "id": "tamwag_fdm000030_hi",
+      "source": "files/books/tamwag_fdm000030/tamwag_fdm000030_hi"
+    },
+    {
+      "id": "tamwag_fdm000031_hi",
+      "source": "files/books/tamwag_fdm000031/tamwag_fdm000031_hi"
+    },
+    {
+      "id": "tamwag_fdm000032_hi",
+      "source": "files/books/tamwag_fdm000032/tamwag_fdm000032_hi"
+    },
+    {
+      "id": "tamwag_fdm000033_hi",
+      "source": "files/books/tamwag_fdm000033/tamwag_fdm000033_hi"
+    },
+    {
+      "id": "tamwag_fdm000034_hi",
+      "source": "files/books/tamwag_fdm000034/tamwag_fdm000034_hi"
+    },
+    {
+      "id": "tamwag_fdm000035_hi",
+      "source": "files/books/tamwag_fdm000035/tamwag_fdm000035_hi"
+    },
+    {
+      "id": "tamwag_fdm000036_hi",
+      "source": "files/books/tamwag_fdm000036/tamwag_fdm000036_hi"
+    },
+    {
+      "id": "tamwag_fdm000037_hi",
+      "source": "files/books/tamwag_fdm000037/tamwag_fdm000037_hi"
+    },
+    {
+      "id": "tamwag_fdm000038_hi",
+      "source": "files/books/tamwag_fdm000038/tamwag_fdm000038_hi"
+    },
+    {
+      "id": "tamwag_fdm000039_hi",
+      "source": "files/books/tamwag_fdm000039/tamwag_fdm000039_hi"
+    },
+    {
+      "id": "tamwag_fdm000040_hi",
+      "source": "files/books/tamwag_fdm000040/tamwag_fdm000040_hi"
+    },
+    {
+      "id": "tamwag_fdm000041_hi",
+      "source": "files/books/tamwag_fdm000041/tamwag_fdm000041_hi"
+    },
+    {
+      "id": "tamwag_fdm000042_hi",
+      "source": "files/books/tamwag_fdm000042/tamwag_fdm000042_hi"
+    },
+    {
+      "id": "tamwag_fdm000043_hi",
+      "source": "files/books/tamwag_fdm000043/tamwag_fdm000043_hi"
+    },
+    {
+      "id": "tamwag_fdm000044_hi",
+      "source": "files/books/tamwag_fdm000044/tamwag_fdm000044_hi"
+    },
+    {
+      "id": "tamwag_fdm000045_hi",
+      "source": "files/books/tamwag_fdm000045/tamwag_fdm000045_hi"
+    },
+    {
+      "id": "",
+      "source": ""
+    }
+  ]
+}

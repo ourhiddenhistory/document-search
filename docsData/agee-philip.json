@@ -1,0 +1,53 @@
+{
+  "id": "045",
+  "shortname": "agee-philip",
+  "collection": "Philip Agee Collection",
+  "alt_names": [],
+  "date": "1974",
+  "description": "",
+  "source": "https://archive.org/details/nsia-AgeePhilip",
+  "type": "archive",
+  "comments": "001 to 035 removed. Redundant w/ completion of Weisberg archive.",
+  "files": [
+    {
+      "id": "036",
+      "doc_name": "Philip Agee on the CIA, 9/11, and US Terror",
+      "source": "https://archive.org/details/PHILIPAGEEONTHECIA911ANDU.S.TERROR"
+    },
+    {
+      "id": "037",
+      "doc_name": "Cuba Says CIA Tried Oswald Frame-Up",
+      "source": "https://archive.org/details/CubaSayCIATriedOswaldFrame-Up"
+    },
+    {
+      "id": "038",
+      "doc_name": "Dirty Work 2: The CIA in Africa",
+      "source": "https://archive.org/details/CIAInAfrica"
+    },
+    {
+      "id": "039",
+      "doc_name": "Inside The Company: CIA Diary",
+      "source": "https://archive.org/details/InsideTheCompanyCIADiary"
+    },
+    {
+      "id": "040",
+      "doc_name": "Dirty Work: The CIA in Western Europe",
+      "source": "https://archive.org/details/pdfy-9MwmH_nnJ4eOmL66"
+    },
+    {
+      "id": "041",
+      "doc_name": "The CIA Against Latin America: Special Case Ecuador",
+      "source": "https://archive.org/details/TheCIAAgainstLatinAmericaSpecialCaseEcuador"
+    },
+    {
+      "id": "agee-whitewash",
+      "doc_name": "Whitepaper / Whitewash: Interviews with Philip Agee on the CIA and El Salvador",
+      "-source": ""
+    },
+    {
+      "id": "on-the-run",
+      "doc_name": "On the Run",
+      "-source": ""
+    }
+  ]
+}

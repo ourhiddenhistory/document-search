@@ -1,0 +1,51 @@
+{
+  "id": "010",
+  "shortname": "iran-contra-crest",
+  "collection": "Iran-Contra Documents from the CIA CREST Archive",
+  "alt_names": [],
+  "date": "1988",
+  "description": "",
+  "important": "",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "CIARDP9000552R0002016500360"
+    },
+    {
+      "id": "002",
+      "doc_name": "CIARDP9000552R0002016500379"
+    },
+    {
+      "id": "003",
+      "doc_name": "CIARDP9000552R0002016500414"
+    },
+    {
+      "id": "004",
+      "doc_name": "CIARDP9000552R0003025600034"
+    },
+    {
+      "id": "005",
+      "doc_name": "CIARDP9000965R0001001100264"
+    },
+    {
+      "id": "006",
+      "doc_name": "CIARDP9000965R0004027900030"
+    },
+    {
+      "id": "007",
+      "doc_name": "CIARDP9000965R0005048500148"
+    },
+    {
+      "id": "008",
+      "doc_name": "CIARDP9000965R0006050400163"
+    },
+    {
+      "id": "009",
+      "doc_name": "CIARDP9100587R0001002500042"
+    },
+    {
+      "id": "010",
+      "doc_name": "CIARDP9100901R0006002900022"
+    }
+  ]
+}

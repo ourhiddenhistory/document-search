@@ -1,0 +1,1145 @@
+{
+  "id": "104",
+  "shortname": "johnson-library",
+  "collection": "President Lyndon Baines Johnson Library Oral Histories",
+  "alt_names": [],
+  "date": "1964",
+  "important": "",
+  "source": "http://www.lbjlibrary.net/",
+  "description": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "CitingHistoricalMaterials",
+      "source": "CitingHistoricalMaterials"
+    },
+    {
+      "id": "OHLIST",
+      "source": "OHLIST"
+    },
+    {
+      "id": "FOIA",
+      "source": "assets/documents/archives/guides/FOIA"
+    },
+    {
+      "id": "1965-Johns-Hopkins-Speech-on-Vietnam",
+      "source":
+        "assets/documents/archives/guides/domestic/1965-Johns-Hopkins-Speech-on-Vietnam"
+    },
+    {
+      "id": "Alcoholism",
+      "source": "assets/documents/archives/guides/domestic/Alcoholism"
+    },
+    {
+      "id": "Antitrust-Matters",
+      "source": "assets/documents/archives/guides/domestic/Antitrust-Matters"
+    },
+    {
+      "id": "Arts",
+      "source": "assets/documents/archives/guides/domestic/Arts"
+    },
+    {
+      "id": "Civil-Rights-Act-of-1964",
+      "source":
+        "assets/documents/archives/guides/domestic/Civil-Rights-Act-of-1964"
+    },
+    {
+      "id": "Civil-Rights",
+      "source": "assets/documents/archives/guides/domestic/Civil-Rights"
+    },
+    {
+      "id": "Civil-and-Racial-Disturbances",
+      "source":
+        "assets/documents/archives/guides/domestic/Civil-and-Racial-Disturbances"
+    },
+    {
+      "id": "Copper-Industry",
+      "source": "assets/documents/archives/guides/domestic/Copper-Industry"
+    },
+    {
+      "id": "Cotulla",
+      "source": "assets/documents/archives/guides/domestic/Cotulla"
+    },
+    {
+      "id": "Elementary&Secondary-Education-Act-of-1965",
+      "source":
+        "assets/documents/archives/guides/domestic/Elementary%26Secondary-Education-Act-of-1965"
+    },
+    {
+      "id": "Higher-Education-Act-of-1965",
+      "source":
+        "assets/documents/archives/guides/domestic/Higher-Education-Act-of-1965"
+    },
+    {
+      "id": "Immigration",
+      "source": "assets/documents/archives/guides/domestic/Immigration"
+    },
+    {
+      "id": "Inauguration",
+      "source": "assets/documents/archives/guides/domestic/Inauguration"
+    },
+    {
+      "id": "Kennedy_Assassination",
+      "source":
+        "assets/documents/archives/guides/domestic/Kennedy_Assassination"
+    },
+    {
+      "id": "Medicare-Medicaid",
+      "source": "assets/documents/archives/guides/domestic/Medicare-Medicaid"
+    },
+    {
+      "id": "Mexican-Americans",
+      "source": "assets/documents/archives/guides/domestic/Mexican-Americans"
+    },
+    {
+      "id": "Mississippi-Freedom-Democratic-Party",
+      "source":
+        "assets/documents/archives/guides/domestic/Mississippi-Freedom-Democratic-Party"
+    },
+    {
+      "id": "Native-American-(Indian-Policy)",
+      "source":
+        "assets/documents/archives/guides/domestic/Native-American-(Indian-Policy)"
+    },
+    {
+      "id": "Obscenity-and-Pornography-Commission",
+      "source":
+        "assets/documents/archives/guides/domestic/Obscenity-and-Pornography-Commission"
+    },
+    {
+      "id": "Political-Affairs",
+      "source": "assets/documents/archives/guides/domestic/Political-Affairs"
+    },
+    {
+      "id": "Public-Opinion-Polls-and-Mail",
+      "source":
+        "assets/documents/archives/guides/domestic/Public-Opinion-Polls-and-Mail"
+    },
+    {
+      "id": "Religion",
+      "source": "assets/documents/archives/guides/domestic/Religion"
+    },
+    {
+      "id": "Science-and-Technology",
+      "source":
+        "assets/documents/archives/guides/domestic/Science-and-Technology"
+    },
+    {
+      "id": "Space",
+      "source": "assets/documents/archives/guides/domestic/Space"
+    },
+    {
+      "id": "Transportation",
+      "source": "assets/documents/archives/guides/domestic/Transportation"
+    },
+    {
+      "id": "Voting-Rights-Selma1965",
+      "source":
+        "assets/documents/archives/guides/domestic/Voting-Rights-Selma1965"
+    },
+    {
+      "id": "War-on-Poverty",
+      "source": "assets/documents/archives/guides/domestic/War-on-Poverty"
+    },
+    {
+      "id": "Whistle-Stop",
+      "source": "assets/documents/archives/guides/domestic/Whistle-Stop"
+    },
+    {
+      "id": "White-House-Fellows-Program",
+      "source":
+        "assets/documents/archives/guides/domestic/White-House-Fellows-Program"
+    },
+    {
+      "id": "Afghanistan",
+      "source": "assets/documents/archives/guides/foreign/Afghanistan"
+    },
+    {
+      "id": "Africa",
+      "source": "assets/documents/archives/guides/foreign/Africa"
+    },
+    {
+      "id": "Alliance-for-Progress",
+      "source": "assets/documents/archives/guides/foreign/Alliance-for-Progress"
+    },
+    {
+      "id": "Anti-War-Activities",
+      "source": "assets/documents/archives/guides/foreign/Anti-War-Activities"
+    },
+    {
+      "id": "Arms-Control-and-Disarmament",
+      "source":
+        "assets/documents/archives/guides/foreign/Arms-Control-and-Disarmament"
+    },
+    {
+      "id": "Australia",
+      "source": "assets/documents/archives/guides/foreign/Australia"
+    },
+    {
+      "id": "Canada",
+      "source": "assets/documents/archives/guides/foreign/Canada"
+    },
+    {
+      "id": "China-Taiwan-Hong-Kong-S.Korea-N.Korea",
+      "source":
+        "assets/documents/archives/guides/foreign/China-Taiwan-Hong-Kong-S.Korea-N.Korea"
+    },
+    {
+      "id": "Cyprus-Greece-and-Turkey5-16",
+      "source":
+        "assets/documents/archives/guides/foreign/Cyprus-Greece-and-Turkey5-16"
+    },
+    {
+      "id": "European-Economic-Communit-Jean-Monnet",
+      "source":
+        "assets/documents/archives/guides/foreign/European-Economic-Communit-Jean-Monnet"
+    },
+    {
+      "id": "Foreign-Aid-Food-for-Peace-Econ.-Dev",
+      "source":
+        "assets/documents/archives/guides/foreign/Foreign-Aid-Food-for-Peace-Econ.-Dev"
+    },
+    {
+      "id": "Foreign-Intelligence",
+      "source": "assets/documents/archives/guides/foreign/Foreign-Intelligence"
+    },
+    {
+      "id": "HOTLINEInfoSheet",
+      "source": "assets/documents/archives/guides/foreign/HOTLINEInfoSheet"
+    },
+    {
+      "id": "International-Education",
+      "source":
+        "assets/documents/archives/guides/foreign/International-Education"
+    },
+    {
+      "id": "International-Monetary-and-Trade-Policy",
+      "source":
+        "assets/documents/archives/guides/foreign/International-Monetary-and-Trade-Policy"
+    },
+    {
+      "id": "Japan",
+      "source": "assets/documents/archives/guides/foreign/Japan"
+    },
+    {
+      "id": "Latin-America-Guide",
+      "source": "assets/documents/archives/guides/foreign/Latin-America-Guide"
+    },
+    {
+      "id": "Middle-East",
+      "source": "assets/documents/archives/guides/foreign/Middle-East"
+    },
+    {
+      "id": "Nuclear-Power-and-Nuclear-Weapons",
+      "source":
+        "assets/documents/archives/guides/foreign/Nuclear-Power-and-Nuclear-Weapons"
+    },
+    {
+      "id": "Peace-Corps",
+      "source": "assets/documents/archives/guides/foreign/Peace-Corps"
+    },
+    {
+      "id": "Radio-Free-Europe",
+      "source": "assets/documents/archives/guides/foreign/Radio-Free-Europe"
+    },
+    {
+      "id": "Ramparts-NSA-and-CIA",
+      "source": "assets/documents/archives/guides/foreign/Ramparts-NSA-and-CIA"
+    },
+    {
+      "id": "SCANDINAVIA",
+      "source": "assets/documents/archives/guides/foreign/SCANDINAVIA"
+    },
+    {
+      "id": "South-Asia",
+      "source": "assets/documents/archives/guides/foreign/South-Asia"
+    },
+    {
+      "id": "Southeast-Asia",
+      "source": "assets/documents/archives/guides/foreign/Southeast-Asia"
+    },
+    {
+      "id": "Trust-Territory-of-the-Pacific-Islands-and-Guam",
+      "source":
+        "assets/documents/archives/guides/foreign/Trust-Territory-of-the-Pacific-Islands-and-Guam"
+    },
+    {
+      "id": "U.S.S.-Liberty",
+      "source": "assets/documents/archives/guides/foreign/U.S.S.-Liberty"
+    },
+    {
+      "id": "USSR-and-Eastern-Europe",
+      "source":
+        "assets/documents/archives/guides/foreign/USSR-and-Eastern-Europe"
+    },
+    {
+      "id": "United-Nations",
+      "source": "assets/documents/archives/guides/foreign/United-Nations"
+    },
+    {
+      "id": "United-States-Information-Agency-(USIA)",
+      "source":
+        "assets/documents/archives/guides/foreign/United-States-Information-Agency-(USIA)"
+    },
+    {
+      "id": "VIETNAM-guide",
+      "source": "assets/documents/archives/guides/foreign/VIETNAM-guide"
+    },
+    {
+      "id": "Vietnam-Cam-Ranh-Bay-Visit",
+      "source":
+        "assets/documents/archives/guides/foreign/Vietnam-Cam-Ranh-Bay-Visit"
+    },
+    {
+      "id": "Vietnam-Media-&-Public-Support-for-War",
+      "source":
+        "assets/documents/archives/guides/foreign/Vietnam-Media-%26-Public-Support-for-War"
+    },
+    {
+      "id": "Vietnam-Tonkin-Gulf",
+      "source": "assets/documents/archives/guides/foreign/Vietnam-Tonkin-Gulf"
+    },
+    {
+      "id": "Western-Europe-and-NATO5-16",
+      "source":
+        "assets/documents/archives/guides/foreign/Western-Europe-and-NATO5-16"
+    },
+    {
+      "id": "vietnam-bombinghalt10-68",
+      "source":
+        "assets/documents/archives/guides/foreign/vietnam-bombinghalt10-68"
+    },
+    {
+      "id": "Ball-George",
+      "source": "assets/documents/archives/guides/names/Ball-George"
+    },
+    {
+      "id": "CLIFFORD",
+      "source": "assets/documents/archives/guides/names/CLIFFORD"
+    },
+    {
+      "id": "GOLDBERG",
+      "source": "assets/documents/archives/guides/names/GOLDBERG"
+    },
+    {
+      "id": "HELMS",
+      "source": "assets/documents/archives/guides/names/HELMS"
+    },
+    {
+      "id": "KISSINGER",
+      "source": "assets/documents/archives/guides/names/KISSINGER"
+    },
+    {
+      "id": "LANSDALE.JDW",
+      "source": "assets/documents/archives/guides/names/LANSDALE.JDW"
+    },
+    {
+      "id": "MCCLOY",
+      "source": "assets/documents/archives/guides/names/MCCLOY"
+    },
+    {
+      "id": "MCCONE-J",
+      "source": "assets/documents/archives/guides/names/MCCONE-J"
+    },
+    {
+      "id": "MCNAMARA",
+      "source": "assets/documents/archives/guides/names/MCNAMARA"
+    },
+    {
+      "id": "RABORN",
+      "source": "assets/documents/archives/guides/names/RABORN"
+    },
+    {
+      "id": "WESTMORELAND",
+      "source": "assets/documents/archives/guides/names/WESTMORELAND"
+    },
+    {
+      "id": "Albright1",
+      "source": "assets/documents/archives/oral_histories/albright_j/Albright1"
+    },
+    {
+      "id": "Albright2",
+      "source": "assets/documents/archives/oral_histories/albright_j/Albright2"
+    },
+    {
+      "id": "Alsop1",
+      "source": "assets/documents/archives/oral_histories/alsop_s/Alsop1"
+    },
+    {
+      "id": "boggs-h1",
+      "source": "assets/documents/archives/oral_histories/boggs_h/boggs-h1"
+    },
+    {
+      "id": "boggs-h2",
+      "source": "assets/documents/archives/oral_histories/boggs_h/boggs-h2"
+    },
+    {
+      "id": "bunker1",
+      "source": "assets/documents/archives/oral_histories/bunker_e/bunker1"
+    },
+    {
+      "id": "bunker2",
+      "source": "assets/documents/archives/oral_histories/bunker_e/bunker2"
+    },
+    {
+      "id": "bunker3",
+      "source": "assets/documents/archives/oral_histories/bunker_e/bunker3"
+    },
+    {
+      "id": "carpenter_1_web",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_1_web"
+    },
+    {
+      "id": "carpenter_2_web",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_2_web"
+    },
+    {
+      "id": "carpenter_3_web",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_3_web"
+    },
+    {
+      "id": "carpenter_4_web",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_4_web"
+    },
+    {
+      "id": "carpenter_5_web",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_5_web"
+    },
+    {
+      "id": "carpenter_special",
+      "source":
+        "assets/documents/archives/oral_histories/carpenter_e/carpenter_special"
+    },
+    {
+      "id": "chancellor",
+      "source": "assets/documents/archives/oral_histories/chancellor/chancellor"
+    },
+    {
+      "id": "Chiarodo3",
+      "source": "assets/documents/archives/oral_histories/chiarodo/Chiarodo3"
+    },
+    {
+      "id": "clark-r2",
+      "source": "assets/documents/archives/oral_histories/clark_r/clark-r2"
+    },
+    {
+      "id": "clark-r3",
+      "source": "assets/documents/archives/oral_histories/clark_r/clark-r3"
+    },
+    {
+      "id": "clark-r4",
+      "source": "assets/documents/archives/oral_histories/clark_r/clark-r4"
+    },
+    {
+      "id": "clark-r5",
+      "source": "assets/documents/archives/oral_histories/clark_r/clark-r5"
+    },
+    {
+      "id": "Clements-E1",
+      "source":
+        "assets/documents/archives/oral_histories/clements_e/Clements-E1"
+    },
+    {
+      "id": "Clements-E2",
+      "source":
+        "assets/documents/archives/oral_histories/clements_e/Clements-E2"
+    },
+    {
+      "id": "cliffor1",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor1"
+    },
+    {
+      "id": "cliffor2",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor2"
+    },
+    {
+      "id": "cliffor3",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor3"
+    },
+    {
+      "id": "cliffor4",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor4"
+    },
+    {
+      "id": "cliffor5",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor5"
+    },
+    {
+      "id": "cliffor6",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor6"
+    },
+    {
+      "id": "cliffor7",
+      "source": "assets/documents/archives/oral_histories/clifford_c/cliffor7"
+    },
+    {
+      "id": "Colby-01",
+      "source": "assets/documents/archives/oral_histories/colby/Colby-01"
+    },
+    {
+      "id": "Colby-02",
+      "source": "assets/documents/archives/oral_histories/colby/Colby-02"
+    },
+    {
+      "id": "connally SI web",
+      "source":
+        "assets/documents/archives/oral_histories/connally/connally%20SI%20web"
+    },
+    {
+      "id": "connally web 1",
+      "source":
+        "assets/documents/archives/oral_histories/connally/connally%20web%201"
+    },
+    {
+      "id": "dirksen1",
+      "source": "assets/documents/archives/oral_histories/dirksen_e/dirksen1"
+    },
+    {
+      "id": "dirksen2",
+      "source": "assets/documents/archives/oral_histories/dirksen_e/dirksen2"
+    },
+    {
+      "id": "dirksen3",
+      "source": "assets/documents/archives/oral_histories/dirksen_e/dirksen3"
+    },
+    {
+      "id": "Eastland",
+      "source": "assets/documents/archives/oral_histories/eastland/Eastland"
+    },
+    {
+      "id": "evers1",
+      "source": "assets/documents/archives/oral_histories/evers_c/evers1"
+    },
+    {
+      "id": "farmer1",
+      "source": "assets/documents/archives/oral_histories/farmer/farmer1"
+    },
+    {
+      "id": "farmer2",
+      "source": "assets/documents/archives/oral_histories/farmer/farmer2"
+    },
+    {
+      "id": "freeman web 1",
+      "source":
+        "assets/documents/archives/oral_histories/freeman/freeman%20web%201"
+    },
+    {
+      "id": "freeman web 2",
+      "source":
+        "assets/documents/archives/oral_histories/freeman/freeman%20web%202"
+    },
+    {
+      "id": "freeman web 3",
+      "source":
+        "assets/documents/archives/oral_histories/freeman/freeman%20web%203"
+    },
+    {
+      "id": "freeman web 4",
+      "source":
+        "assets/documents/archives/oral_histories/freeman/freeman%20web%204"
+    },
+    {
+      "id": "Gordon",
+      "source": "assets/documents/archives/oral_histories/gordon_l/Gordon"
+    },
+    {
+      "id": "Hebert",
+      "source": "assets/documents/archives/oral_histories/hebert/Hebert"
+    },
+    {
+      "id": "higginbo",
+      "source": "assets/documents/archives/oral_histories/higginbo/higginbo"
+    },
+    {
+      "id": "hughes-s",
+      "source": "assets/documents/archives/oral_histories/hughes_s/hughes-s"
+    },
+    {
+      "id": "CTJ 1",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%201"
+    },
+    {
+      "id": "CTJ 10",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2010"
+    },
+    {
+      "id": "CTJ 11",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2011"
+    },
+    {
+      "id": "CTJ 12",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2012"
+    },
+    {
+      "id": "CTJ 13",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2013"
+    },
+    {
+      "id": "CTJ 14",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2014"
+    },
+    {
+      "id": "CTJ 15",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2015"
+    },
+    {
+      "id": "CTJ 16",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2016"
+    },
+    {
+      "id": "CTJ 17",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2017"
+    },
+    {
+      "id": "CTJ 18",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2018"
+    },
+    {
+      "id": "CTJ 19",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2019"
+    },
+    {
+      "id": "CTJ 2",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%202"
+    },
+    {
+      "id": "CTJ 20",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2020"
+    },
+    {
+      "id": "CTJ 21",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2021"
+    },
+    {
+      "id": "CTJ 22",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2022"
+    },
+    {
+      "id": "CTJ 23",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2023"
+    },
+    {
+      "id": "CTJ 24",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2024"
+    },
+    {
+      "id": "CTJ 25",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2025"
+    },
+    {
+      "id": "CTJ 26",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2026"
+    },
+    {
+      "id": "CTJ 27",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2027"
+    },
+    {
+      "id": "CTJ 28",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2028"
+    },
+    {
+      "id": "CTJ 29",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2029"
+    },
+    {
+      "id": "CTJ 3",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%203"
+    },
+    {
+      "id": "CTJ 30",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2030"
+    },
+    {
+      "id": "CTJ 31",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2031"
+    },
+    {
+      "id": "CTJ 32",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2032"
+    },
+    {
+      "id": "CTJ 33",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2033"
+    },
+    {
+      "id": "CTJ 34",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2034"
+    },
+    {
+      "id": "CTJ 35",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2035"
+    },
+    {
+      "id": "CTJ 36",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2036"
+    },
+    {
+      "id": "CTJ 37",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2037"
+    },
+    {
+      "id": "CTJ 38",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2038"
+    },
+    {
+      "id": "CTJ 39",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2039"
+    },
+    {
+      "id": "CTJ 4",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%204"
+    },
+    {
+      "id": "CTJ 40",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2040"
+    },
+    {
+      "id": "CTJ 41",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2041"
+    },
+    {
+      "id": "CTJ 42",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2042"
+    },
+    {
+      "id": "CTJ 43",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2043"
+    },
+    {
+      "id": "CTJ 44",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%2044"
+    },
+    {
+      "id": "CTJ 5",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%205"
+    },
+    {
+      "id": "CTJ 6",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%206"
+    },
+    {
+      "id": "CTJ 7",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%207"
+    },
+    {
+      "id": "CTJ 8",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%208"
+    },
+    {
+      "id": "CTJ 9",
+      "source": "assets/documents/archives/oral_histories/johnson_c/CTJ%209"
+    },
+    {
+      "id": "jordan web special interview",
+      "source":
+        "assets/documents/archives/oral_histories/jordan_b/jordan%20web%20special%20interview"
+    },
+    {
+      "id": "Krim1",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim1"
+    },
+    {
+      "id": "Krim2",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim2"
+    },
+    {
+      "id": "Krim3",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim3"
+    },
+    {
+      "id": "Krim3Addendum",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim3Addendum"
+    },
+    {
+      "id": "Krim4",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim4"
+    },
+    {
+      "id": "Krim5",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim5"
+    },
+    {
+      "id": "Krim6",
+      "source": "assets/documents/archives/oral_histories/krim_a/Krim6"
+    },
+    {
+      "id": "Kuchel",
+      "source": "assets/documents/archives/oral_histories/kuchel_t/Kuchel"
+    },
+    {
+      "id": "levinson web 1",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%201"
+    },
+    {
+      "id": "levinson web 2",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%202"
+    },
+    {
+      "id": "levinson web 3",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%203"
+    },
+    {
+      "id": "levinson web 4",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%204"
+    },
+    {
+      "id": "levinson web 5",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%205"
+    },
+    {
+      "id": "levinson web 6",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%206"
+    },
+    {
+      "id": "levinson web 7",
+      "source":
+        "assets/documents/archives/oral_histories/lawrence/levinson%20web%207"
+    },
+    {
+      "id": "Leinsdorf1",
+      "source":
+        "assets/documents/archives/oral_histories/leinsdorf_e/Leinsdorf1"
+    },
+    {
+      "id": "scott web 1",
+      "source":
+        "assets/documents/archives/oral_histories/malechek/scott%20web%201"
+    },
+    {
+      "id": "scott web 2",
+      "source":
+        "assets/documents/archives/oral_histories/malechek/scott%20web%202"
+    },
+    {
+      "id": "marsha-b",
+      "source": "assets/documents/archives/oral_histories/marsha_b/marsha-b"
+    },
+    {
+      "id": "marshall",
+      "source": "assets/documents/archives/oral_histories/marshall_t/marshall"
+    },
+    {
+      "id": "Bundy 1 web",
+      "source":
+        "assets/documents/archives/oral_histories/mcgeorge_b/Bundy%201%20web"
+    },
+    {
+      "id": "Bundy 2 web",
+      "source":
+        "assets/documents/archives/oral_histories/mcgeorge_b/Bundy%202%20web"
+    },
+    {
+      "id": "Bundy 3 web",
+      "source":
+        "assets/documents/archives/oral_histories/mcgeorge_b/Bundy%203%20web"
+    },
+    {
+      "id": "Bundy Dallek 1 web",
+      "source":
+        "assets/documents/archives/oral_histories/mcgeorge_b/Bundy%20Dallek%201%20web"
+    },
+    {
+      "id": "Bundy Dallek 2 web",
+      "source":
+        "assets/documents/archives/oral_histories/mcgeorge_b/Bundy%20Dallek%202%20web"
+    },
+    {
+      "id": "mcpher01",
+      "source": "assets/documents/archives/oral_histories/mcpherson/mcpher01"
+    },
+    {
+      "id": "mcpher02",
+      "source": "assets/documents/archives/oral_histories/mcpherson/mcpher02"
+    },
+    {
+      "id": "mcpher03",
+      "source": "assets/documents/archives/oral_histories/mcpherson/mcpher03"
+    },
+    {
+      "id": "mcpher04",
+      "source": "assets/documents/archives/oral_histories/mcpherson/mcpher04"
+    },
+    {
+      "id": "mcpher05",
+      "source": "assets/documents/archives/oral_histories/mcpherson/mcpher05"
+    },
+    {
+      "id": "mills1",
+      "source": "assets/documents/archives/oral_histories/mills_w/mills1"
+    },
+    {
+      "id": "mills2",
+      "source": "assets/documents/archives/oral_histories/mills_w/mills2"
+    },
+    {
+      "id": "mills3",
+      "source": "assets/documents/archives/oral_histories/mills_w/mills3"
+    },
+    {
+      "id": "mitchell",
+      "source": "assets/documents/archives/oral_histories/mitchell/mitchell"
+    },
+    {
+      "id": "Obrien07",
+      "source": "assets/documents/archives/oral_histories/obrien_l/Obrien07"
+    },
+    {
+      "id": "read-b1",
+      "source": "assets/documents/archives/oral_histories/read_b/read-b1"
+    },
+    {
+      "id": "read-b2",
+      "source": "assets/documents/archives/oral_histories/read_b/read-b2"
+    },
+    {
+      "id": "reedy web 10",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2010"
+    },
+    {
+      "id": "reedy web 11",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2011"
+    },
+    {
+      "id": "reedy web 12",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2012"
+    },
+    {
+      "id": "reedy web 13",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2013"
+    },
+    {
+      "id": "reedy web 14",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2014"
+    },
+    {
+      "id": "reedy web 15",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2015"
+    },
+    {
+      "id": "reedy web 16",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2016"
+    },
+    {
+      "id": "reedy web 17",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2017"
+    },
+    {
+      "id": "reedy web 18",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2018"
+    },
+    {
+      "id": "reedy web 19",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2019"
+    },
+    {
+      "id": "reedy web 1a",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%201a"
+    },
+    {
+      "id": "reedy web 1b",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%201b"
+    },
+    {
+      "id": "reedy web 1c",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%201c"
+    },
+    {
+      "id": "reedy web 2",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%202"
+    },
+    {
+      "id": "reedy web 20",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2020"
+    },
+    {
+      "id": "reedy web 21",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2021"
+    },
+    {
+      "id": "reedy web 22",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2022"
+    },
+    {
+      "id": "reedy web 23",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2023"
+    },
+    {
+      "id": "reedy web 24",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2024"
+    },
+    {
+      "id": "reedy web 25",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2025"
+    },
+    {
+      "id": "reedy web 26",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2026"
+    },
+    {
+      "id": "reedy web 27",
+      "source":
+        "assets/documents/archives/oral_histories/reedy/reedy%20web%2027"
+    },
+    {
+      "id": "reedy web 3",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%203"
+    },
+    {
+      "id": "reedy web 4",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%204"
+    },
+    {
+      "id": "reedy web 5",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%205"
+    },
+    {
+      "id": "reedy web 6",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%206"
+    },
+    {
+      "id": "reedy web 7",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%207"
+    },
+    {
+      "id": "reedy web 8",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%208"
+    },
+    {
+      "id": "reedy web 9",
+      "source": "assets/documents/archives/oral_histories/reedy/reedy%20web%209"
+    },
+    {
+      "id": "rosenblatt web",
+      "source":
+        "assets/documents/archives/oral_histories/rosenblatt/rosenblatt%20web"
+    },
+    {
+      "id": "rostow web",
+      "source": "assets/documents/archives/oral_histories/rostow/rostow%20web"
+    },
+    {
+      "id": "rostow1",
+      "source": "assets/documents/archives/oral_histories/rostow/rostow1"
+    },
+    {
+      "id": "rusk01",
+      "source": "assets/documents/archives/oral_histories/rusk/rusk01"
+    },
+    {
+      "id": "rusk02",
+      "source": "assets/documents/archives/oral_histories/rusk/rusk02"
+    },
+    {
+      "id": "rusk03",
+      "source": "assets/documents/archives/oral_histories/rusk/rusk03"
+    },
+    {
+      "id": "rusk04",
+      "source": "assets/documents/archives/oral_histories/rusk/rusk04"
+    },
+    {
+      "id": "schneider",
+      "source": "assets/documents/archives/oral_histories/schneider_w/schneider"
+    },
+    {
+      "id": "territo web",
+      "source": "assets/documents/archives/oral_histories/territo/territo%20web"
+    },
+    {
+      "id": "thomas web",
+      "source": "assets/documents/archives/oral_histories/thomas_h/thomas%20web"
+    },
+    {
+      "id": "vance1",
+      "source": "assets/documents/archives/oral_histories/vance_c/vance1"
+    },
+    {
+      "id": "vance2",
+      "source": "assets/documents/archives/oral_histories/vance_c/vance2"
+    },
+    {
+      "id": "vance3",
+      "source": "assets/documents/archives/oral_histories/vance_c/vance3"
+    },
+    {
+      "id": "warren-e",
+      "source": "assets/documents/archives/oral_histories/warren_e/warren-e"
+    },
+    {
+      "id": "wasserman-l",
+      "source": "assets/documents/archives/oral_histories/wasserman/wasserman-l"
+    },
+    {
+      "id": "webb",
+      "source": "assets/documents/archives/oral_histories/webb-j/webb"
+    },
+    {
+      "id": "white1",
+      "source": "assets/documents/archives/oral_histories/white_w/white1"
+    },
+    {
+      "id": "white2",
+      "source": "assets/documents/archives/oral_histories/white_w/white2"
+    },
+    {
+      "id": "white3",
+      "source": "assets/documents/archives/oral_histories/white_w/white3"
+    },
+    {
+      "id": "wilkins",
+      "source": "assets/documents/archives/oral_histories/wilkins/wilkins"
+    },
+    {
+      "id": "young-A",
+      "source": "assets/documents/archives/oral_histories/young_a/young-A"
+    },
+    {
+      "id": "young-w",
+      "source": "assets/documents/archives/oral_histories/young_w/young-w"
+    },
+    {
+      "id": "19631122",
+      "source": "assets/lbj_tools/daily_diary/pdf/1963/19631122"
+    },
+    {
+      "id": "19631123",
+      "source": "assets/lbj_tools/daily_diary/pdf/1963/19631123"
+    },
+    {
+      "id": "19631124",
+      "source": "assets/lbj_tools/daily_diary/pdf/1963/19631124"
+    }
+  ]
+}

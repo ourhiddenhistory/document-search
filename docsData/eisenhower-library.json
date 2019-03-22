@@ -1,0 +1,6833 @@
+{
+  "id": "079",
+  "shortname": "eisenhower-library",
+  "collection": "President Dwight D. Eisenhower Library Documents",
+  "alt_names": [],
+  "date": "1952",
+  "important": "In progress.",
+  "source": "https://www.eisenhower.archives.gov/",
+  "description": "Due to the naming conventions of the urls, direct links to the original pdfs are not available at this time.",
+  "type": "",
+  "files": [
+    {
+      "id": "1_7_58",
+      "doc_name": "1 7 58",
+      "-source": "1_7_58.pdf"
+    },
+    {
+      "id": "1_19_59_MFR",
+      "doc_name": "1 19 59 Mfr",
+      "-source": "1_19_59_MFR.pdf"
+    },
+    {
+      "id": "1a",
+      "doc_name": "1 A",
+      "-source": "1a.pdf"
+    },
+    {
+      "id": "2_8_60_MFR",
+      "doc_name": "2 8 60 Mfr",
+      "-source": "2_8_60_MFR.pdf"
+    },
+    {
+      "id": "2_13_59_Memo",
+      "doc_name": "2 13 59 Memo",
+      "-source": "2_13_59_Memo.pdf"
+    },
+    {
+      "id": "2",
+      "doc_name": "2",
+      "-source": "2.pdf"
+    },
+    {
+      "id": "3_4_59_MFR",
+      "doc_name": "3 4 59 Mfr",
+      "-source": "3_4_59_MFR.pdf"
+    },
+    {
+      "id": "3_6_58",
+      "doc_name": "3 6 58",
+      "-source": "3_6_58.pdf"
+    },
+    {
+      "id": "3_17_59_Project_CORONA",
+      "doc_name": "3 17 59 Project Corona",
+      "-source": "3_17_59_Project_CORONA.pdf"
+    },
+    {
+      "id": "3a",
+      "doc_name": "3 A",
+      "-source": "3a.pdf"
+    },
+    {
+      "id": "4_3_59_Memo",
+      "doc_name": "4 3 59 Memo",
+      "-source": "4_3_59_Memo.pdf"
+    },
+    {
+      "id": "4_11_59_Memo",
+      "doc_name": "4 11 59 Memo",
+      "-source": "4_11_59_Memo.pdf"
+    },
+    {
+      "id": "4_14_58",
+      "doc_name": "4 14 58",
+      "-source": "4_14_58.pdf"
+    },
+    {
+      "id": "4_25_60_MFR",
+      "doc_name": "4 25 60 Mfr",
+      "-source": "4_25_60_MFR.pdf"
+    },
+    {
+      "id": "4_59_U2_Vulnerability",
+      "doc_name": "4 59 U 2 Vulnerability",
+      "-source": "4_59_U2_Vulnerability.pdf"
+    },
+    {
+      "id": "4",
+      "doc_name": "4",
+      "-source": "4.pdf"
+    },
+    {
+      "id": "5_2_60_Cover_Plan",
+      "doc_name": "5 2 60 Cover Plan",
+      "-source": "5_2_60_Cover_Plan.pdf"
+    },
+    {
+      "id": "5_5_60_NASA_Release",
+      "doc_name": "5 5 60 Nasa Release",
+      "-source": "5_5_60_NASA_Release.pdf"
+    },
+    {
+      "id": "5_6_60_No249",
+      "doc_name": "5 6 60 No 249",
+      "-source": "5_6_60_No249.pdf"
+    },
+    {
+      "id": "5_9_60_No254",
+      "doc_name": "5 9 60 No 254",
+      "-source": "5_9_60_No254.pdf"
+    },
+    {
+      "id": "5_10_60_State_Telegram",
+      "doc_name": "5 10 60 State Telegram",
+      "-source": "5_10_60_State_Telegram.pdf"
+    },
+    {
+      "id": "5_11_60_Memo_for_Ann_Whitman",
+      "doc_name": "5 11 60 Memo For Ann Whitman",
+      "-source": "5_11_60_Memo_for_Ann_Whitman.pdf"
+    },
+    {
+      "id": "5_11_60_State_Telegram",
+      "doc_name": "5 11 60 State Telegram",
+      "-source": "5_11_60_State_Telegram.pdf"
+    },
+    {
+      "id": "5_11_60_Statement_by_President",
+      "doc_name": "5 11 60 Statement By President",
+      "-source": "5_11_60_Statement_by_President.pdf"
+    },
+    {
+      "id": "5_12_60_Washington_Post",
+      "doc_name": "5 12 60 Washington Post",
+      "-source": "5_12_60_Washington_Post.pdf"
+    },
+    {
+      "id": "5_16_60_Memo",
+      "doc_name": "5 16 60 Memo",
+      "-source": "5_16_60_Memo.pdf"
+    },
+    {
+      "id": "5_26_60_Breakfast_Meeting",
+      "doc_name": "5 26 60 Breakfast Meeting",
+      "-source": "5_26_60_Breakfast_Meeting.pdf"
+    },
+    {
+      "id": "5_60_Background_Paper",
+      "doc_name": "5 60 Background Paper",
+      "-source": "5_60_Background_Paper.pdf"
+    },
+    {
+      "id": "5",
+      "doc_name": "5",
+      "-source": "5.pdf"
+    },
+    {
+      "id": "6_2_60_MFR",
+      "doc_name": "6 2 60 Mfr",
+      "-source": "6_2_60_MFR.pdf"
+    },
+    {
+      "id": "6_18_57",
+      "doc_name": "6 18 57",
+      "-source": "6_18_57.pdf"
+    },
+    {
+      "id": "6",
+      "doc_name": "6",
+      "-source": "6.pdf"
+    },
+    {
+      "id": "7_7_59_MFR",
+      "doc_name": "7 7 59 Mfr",
+      "-source": "7_7_59_MFR.pdf"
+    },
+    {
+      "id": "7_8_59_Memo",
+      "doc_name": "7 8 59 Memo",
+      "-source": "7_8_59_Memo.pdf"
+    },
+    {
+      "id": "7_20_59_Memo",
+      "doc_name": "7 20 59 Memo",
+      "-source": "7_20_59_Memo.pdf"
+    },
+    {
+      "id": "7_28_60_Telegram",
+      "doc_name": "7 28 60 Telegram",
+      "-source": "7_28_60_Telegram.pdf"
+    },
+    {
+      "id": "7",
+      "doc_name": "7",
+      "-source": "7.pdf"
+    },
+    {
+      "id": "008_004",
+      "doc_name": "008 004",
+      "-source": "008_004.pdf"
+    },
+    {
+      "id": "008_005",
+      "doc_name": "008 005",
+      "-source": "008_005.pdf"
+    },
+    {
+      "id": "008_006",
+      "doc_name": "008 006",
+      "-source": "008_006.pdf"
+    },
+    {
+      "id": "008_007",
+      "doc_name": "008 007",
+      "-source": "008_007.pdf"
+    },
+    {
+      "id": "008_008",
+      "doc_name": "008 008",
+      "-source": "008_008.pdf"
+    },
+    {
+      "id": "008_009",
+      "doc_name": "008 009",
+      "-source": "008_009.pdf"
+    },
+    {
+      "id": "008_010",
+      "doc_name": "008 010",
+      "-source": "008_010.pdf"
+    },
+    {
+      "id": "8_18_60_CIA_Memo",
+      "doc_name": "8 18 60 Cia Memo",
+      "-source": "8_18_60_CIA_Memo.pdf"
+    },
+    {
+      "id": "8_23_60_Radio_Interview",
+      "doc_name": "8 23 60 Radio Interview",
+      "-source": "8_23_60_Radio_Interview.pdf"
+    },
+    {
+      "id": "8_25_59_DCI",
+      "doc_name": "8 25 59 Dci",
+      "-source": "8_25_59_DCI.pdf"
+    },
+    {
+      "id": "8_26_60_Memo",
+      "doc_name": "8 26 60 Memo",
+      "-source": "8_26_60_Memo.pdf"
+    },
+    {
+      "id": "9_6_60_Memo",
+      "doc_name": "9 6 60 Memo",
+      "-source": "9_6_60_Memo.pdf"
+    },
+    {
+      "id": "9_60_True_Article",
+      "doc_name": "9 60 True Article",
+      "-source": "9_60_True_Article.pdf"
+    },
+    {
+      "id": "010_002",
+      "doc_name": "010 002",
+      "-source": "010_002.pdf"
+    },
+    {
+      "id": "010_003",
+      "doc_name": "010 003",
+      "-source": "010_003.pdf"
+    },
+    {
+      "id": "10_5_58",
+      "doc_name": "10 5 58",
+      "-source": "10_5_58.pdf"
+    },
+    {
+      "id": "10_8_57_Memo",
+      "doc_name": "10 8 57 Memo",
+      "-source": "10_8_57_Memo.pdf"
+    },
+    {
+      "id": "10_8_57",
+      "doc_name": "10 8 57",
+      "-source": "10_8_57.pdf"
+    },
+    {
+      "id": "10_9_57_Early_Memo",
+      "doc_name": "10 9 57 Early Memo",
+      "-source": "10_9_57_Early_Memo.pdf"
+    },
+    {
+      "id": "10_9_57_Memo",
+      "doc_name": "10 9 57 Memo",
+      "-source": "10_9_57_Memo.pdf"
+    },
+    {
+      "id": "10_9_57",
+      "doc_name": "10 9 57",
+      "-source": "10_9_57.pdf"
+    },
+    {
+      "id": "10_11_57",
+      "doc_name": "10 11 57",
+      "-source": "10_11_57.pdf"
+    },
+    {
+      "id": "10_16_57",
+      "doc_name": "10 16 57",
+      "-source": "10_16_57.pdf"
+    },
+    {
+      "id": "10_30_59_Memo",
+      "doc_name": "10 30 59 Memo",
+      "-source": "10_30_59_Memo.pdf"
+    },
+    {
+      "id": "10_31_57",
+      "doc_name": "10 31 57",
+      "-source": "10_31_57.pdf"
+    },
+    {
+      "id": "10_1957_Statement",
+      "doc_name": "10 1957 Statement",
+      "-source": "10_1957_Statement.pdf"
+    },
+    {
+      "id": "11_24_54_Memo",
+      "doc_name": "11 24 54 Memo",
+      "-source": "11_24_54_Memo.pdf"
+    },
+    {
+      "id": "11",
+      "doc_name": "11",
+      "-source": "11.pdf"
+    },
+    {
+      "id": "12_2_57",
+      "doc_name": "12 2 57",
+      "-source": "12_2_57.pdf"
+    },
+    {
+      "id": "12_22_58_Memo",
+      "doc_name": "12 22 58 Memo",
+      "-source": "12_22_58_Memo.pdf"
+    },
+    {
+      "id": "13",
+      "doc_name": "13",
+      "-source": "13.pdf"
+    },
+    {
+      "id": "13a",
+      "doc_name": "13 A",
+      "-source": "13a.pdf"
+    },
+    {
+      "id": "14 copy",
+      "doc_name": "14 Copy",
+      "-source": "14 copy.pdf"
+    },
+    {
+      "id": "014_002",
+      "doc_name": "014 002",
+      "-source": "014_002.pdf"
+    },
+    {
+      "id": "014_003",
+      "doc_name": "014 003",
+      "-source": "014_003.pdf"
+    },
+    {
+      "id": "014_004",
+      "doc_name": "014 004",
+      "-source": "014_004.pdf"
+    },
+    {
+      "id": "16 copy",
+      "doc_name": "16 Copy",
+      "-source": "16 copy.pdf"
+    },
+    {
+      "id": "018_012",
+      "doc_name": "018 012",
+      "-source": "018_012.pdf"
+    },
+    {
+      "id": "018_013",
+      "doc_name": "018 013",
+      "-source": "018_013.pdf"
+    },
+    {
+      "id": "18",
+      "doc_name": "18",
+      "-source": "18.pdf"
+    },
+    {
+      "id": "19",
+      "doc_name": "19",
+      "-source": "19.pdf"
+    },
+    {
+      "id": "020_018",
+      "doc_name": "020 018",
+      "-source": "020_018.pdf"
+    },
+    {
+      "id": "020_019",
+      "doc_name": "020 019",
+      "-source": "020_019.pdf"
+    },
+    {
+      "id": "020_020",
+      "doc_name": "020 020",
+      "-source": "020_020.pdf"
+    },
+    {
+      "id": "020_021",
+      "doc_name": "020 021",
+      "-source": "020_021.pdf"
+    },
+    {
+      "id": "020_022",
+      "doc_name": "020 022",
+      "-source": "020_022.pdf"
+    },
+    {
+      "id": "020_023",
+      "doc_name": "020 023",
+      "-source": "020_023.pdf"
+    },
+    {
+      "id": "020_024",
+      "doc_name": "020 024",
+      "-source": "020_024.pdf"
+    },
+    {
+      "id": "020_025",
+      "doc_name": "020 025",
+      "-source": "020_025.pdf"
+    },
+    {
+      "id": "020_026",
+      "doc_name": "020 026",
+      "-source": "020_026.pdf"
+    },
+    {
+      "id": "020_027",
+      "doc_name": "020 027",
+      "-source": "020_027.pdf"
+    },
+    {
+      "id": "020_031",
+      "doc_name": "020 031",
+      "-source": "020_031.pdf"
+    },
+    {
+      "id": "020_032",
+      "doc_name": "020 032",
+      "-source": "020_032.pdf"
+    },
+    {
+      "id": "020_033",
+      "doc_name": "020 033",
+      "-source": "020_033.pdf"
+    },
+    {
+      "id": "020_034",
+      "doc_name": "020 034",
+      "-source": "020_034.pdf"
+    },
+    {
+      "id": "020_035",
+      "doc_name": "020 035",
+      "-source": "020_035.pdf"
+    },
+    {
+      "id": "020_036",
+      "doc_name": "020 036",
+      "-source": "020_036.pdf"
+    },
+    {
+      "id": "020_037",
+      "doc_name": "020 037",
+      "-source": "020_037.pdf"
+    },
+    {
+      "id": "020_056",
+      "doc_name": "020 056",
+      "-source": "020_056.pdf"
+    },
+    {
+      "id": "020_059",
+      "doc_name": "020 059",
+      "-source": "020_059.pdf"
+    },
+    {
+      "id": "020_060",
+      "doc_name": "020 060",
+      "-source": "020_060.pdf"
+    },
+    {
+      "id": "020_061",
+      "doc_name": "020 061",
+      "-source": "020_061.pdf"
+    },
+    {
+      "id": "020_062",
+      "doc_name": "020 062",
+      "-source": "020_062.pdf"
+    },
+    {
+      "id": "21",
+      "doc_name": "21",
+      "-source": "21.pdf"
+    },
+    {
+      "id": "027_003",
+      "doc_name": "027 003",
+      "-source": "027_003.pdf"
+    },
+    {
+      "id": "027_004",
+      "doc_name": "027 004",
+      "-source": "027_004.pdf"
+    },
+    {
+      "id": "028_001",
+      "doc_name": "028 001",
+      "-source": "028_001.pdf"
+    },
+    {
+      "id": "028_002",
+      "doc_name": "028 002",
+      "-source": "028_002.pdf"
+    },
+    {
+      "id": "032_001",
+      "doc_name": "032 001",
+      "-source": "032_001.pdf"
+    },
+    {
+      "id": "032_002",
+      "doc_name": "032 002",
+      "-source": "032_002.pdf"
+    },
+    {
+      "id": "033_006",
+      "doc_name": "033 006",
+      "-source": "033_006.pdf"
+    },
+    {
+      "id": "033_017",
+      "doc_name": "033 017",
+      "-source": "033_017.pdf"
+    },
+    {
+      "id": "033_018",
+      "doc_name": "033 018",
+      "-source": "033_018.pdf"
+    },
+    {
+      "id": "033_019",
+      "doc_name": "033 019",
+      "-source": "033_019.pdf"
+    },
+    {
+      "id": "033_020",
+      "doc_name": "033 020",
+      "-source": "033_020.pdf"
+    },
+    {
+      "id": "033_021",
+      "doc_name": "033 021",
+      "-source": "033_021.pdf"
+    },
+    {
+      "id": "033_032",
+      "doc_name": "033 032",
+      "-source": "033_032.pdf"
+    },
+    {
+      "id": "033_033",
+      "doc_name": "033 033",
+      "-source": "033_033.pdf"
+    },
+    {
+      "id": "033_034",
+      "doc_name": "033 034",
+      "-source": "033_034.pdf"
+    },
+    {
+      "id": "033_035",
+      "doc_name": "033 035",
+      "-source": "033_035.pdf"
+    },
+    {
+      "id": "033_036",
+      "doc_name": "033 036",
+      "-source": "033_036.pdf"
+    },
+    {
+      "id": "033_037",
+      "doc_name": "033 037",
+      "-source": "033_037.pdf"
+    },
+    {
+      "id": "033_038",
+      "doc_name": "033 038",
+      "-source": "033_038.pdf"
+    },
+    {
+      "id": "033_039",
+      "doc_name": "033 039",
+      "-source": "033_039.pdf"
+    },
+    {
+      "id": "033_040",
+      "doc_name": "033 040",
+      "-source": "033_040.pdf"
+    },
+    {
+      "id": "033_041",
+      "doc_name": "033 041",
+      "-source": "033_041.pdf"
+    },
+    {
+      "id": "033_042",
+      "doc_name": "033 042",
+      "-source": "033_042.pdf"
+    },
+    {
+      "id": "033_043",
+      "doc_name": "033 043",
+      "-source": "033_043.pdf"
+    },
+    {
+      "id": "033_044",
+      "doc_name": "033 044",
+      "-source": "033_044.pdf"
+    },
+    {
+      "id": "033_045",
+      "doc_name": "033 045",
+      "-source": "033_045.pdf"
+    },
+    {
+      "id": "033_046",
+      "doc_name": "033 046",
+      "-source": "033_046.pdf"
+    },
+    {
+      "id": "033_047",
+      "doc_name": "033 047",
+      "-source": "033_047.pdf"
+    },
+    {
+      "id": "033_048",
+      "doc_name": "033 048",
+      "-source": "033_048.pdf"
+    },
+    {
+      "id": "033_049",
+      "doc_name": "033 049",
+      "-source": "033_049.pdf"
+    },
+    {
+      "id": "033_050",
+      "doc_name": "033 050",
+      "-source": "033_050.pdf"
+    },
+    {
+      "id": "033_051",
+      "doc_name": "033 051",
+      "-source": "033_051.pdf"
+    },
+    {
+      "id": "033_052",
+      "doc_name": "033 052",
+      "-source": "033_052.pdf"
+    },
+    {
+      "id": "033_053",
+      "doc_name": "033 053",
+      "-source": "033_053.pdf"
+    },
+    {
+      "id": "046_003",
+      "doc_name": "046 003",
+      "-source": "046_003.pdf"
+    },
+    {
+      "id": "048_002",
+      "doc_name": "048 002",
+      "-source": "048_002.pdf"
+    },
+    {
+      "id": "048_003",
+      "doc_name": "048 003",
+      "-source": "048_003.pdf"
+    },
+    {
+      "id": "048_004",
+      "doc_name": "048 004",
+      "-source": "048_004.pdf"
+    },
+    {
+      "id": "048_005",
+      "doc_name": "048 005",
+      "-source": "048_005.pdf"
+    },
+    {
+      "id": "052_002",
+      "doc_name": "052 002",
+      "-source": "052_002.pdf"
+    },
+    {
+      "id": "052_003",
+      "doc_name": "052 003",
+      "-source": "052_003.pdf"
+    },
+    {
+      "id": "065_026",
+      "doc_name": "065 026",
+      "-source": "065_026.pdf"
+    },
+    {
+      "id": "065_026a",
+      "doc_name": "065 026 A",
+      "-source": "065_026a.pdf"
+    },
+    {
+      "id": "065_027",
+      "doc_name": "065 027",
+      "-source": "065_027.pdf"
+    },
+    {
+      "id": "065_028",
+      "doc_name": "065 028",
+      "-source": "065_028.pdf"
+    },
+    {
+      "id": "065_030",
+      "doc_name": "065 030",
+      "-source": "065_030.pdf"
+    },
+    {
+      "id": "065_031",
+      "doc_name": "065 031",
+      "-source": "065_031.pdf"
+    },
+    {
+      "id": "065_032",
+      "doc_name": "065 032",
+      "-source": "065_032.pdf"
+    },
+    {
+      "id": "065_033",
+      "doc_name": "065 033",
+      "-source": "065_033.pdf"
+    },
+    {
+      "id": "065_034",
+      "doc_name": "065 034",
+      "-source": "065_034.pdf"
+    },
+    {
+      "id": "065_035",
+      "doc_name": "065 035",
+      "-source": "065_035.pdf"
+    },
+    {
+      "id": "065_036",
+      "doc_name": "065 036",
+      "-source": "065_036.pdf"
+    },
+    {
+      "id": "065_037",
+      "doc_name": "065 037",
+      "-source": "065_037.pdf"
+    },
+    {
+      "id": "065_038",
+      "doc_name": "065 038",
+      "-source": "065_038.pdf"
+    },
+    {
+      "id": "065_039",
+      "doc_name": "065 039",
+      "-source": "065_039.pdf"
+    },
+    {
+      "id": "079_016",
+      "doc_name": "079 016",
+      "-source": "079_016.pdf"
+    },
+    {
+      "id": "079_017",
+      "doc_name": "079 017",
+      "-source": "079_017.pdf"
+    },
+    {
+      "id": "079_018",
+      "doc_name": "079 018",
+      "-source": "079_018.pdf"
+    },
+    {
+      "id": "079_019",
+      "doc_name": "079 019",
+      "-source": "079_019.pdf"
+    },
+    {
+      "id": "079_020",
+      "doc_name": "079 020",
+      "-source": "079_020.pdf"
+    },
+    {
+      "id": "079_021",
+      "doc_name": "079 021",
+      "-source": "079_021.pdf"
+    },
+    {
+      "id": "079_022",
+      "doc_name": "079 022",
+      "-source": "079_022.pdf"
+    },
+    {
+      "id": "079_023",
+      "doc_name": "079 023",
+      "-source": "079_023.pdf"
+    },
+    {
+      "id": "079_024",
+      "doc_name": "079 024",
+      "-source": "079_024.pdf"
+    },
+    {
+      "id": "079_025",
+      "doc_name": "079 025",
+      "-source": "079_025.pdf"
+    },
+    {
+      "id": "079_026",
+      "doc_name": "079 026",
+      "-source": "079_026.pdf"
+    },
+    {
+      "id": "081_005",
+      "doc_name": "081 005",
+      "-source": "081_005.pdf"
+    },
+    {
+      "id": "082_018",
+      "doc_name": "082 018",
+      "-source": "082_018.pdf"
+    },
+    {
+      "id": "082_019",
+      "doc_name": "082 019",
+      "-source": "082_019.pdf"
+    },
+    {
+      "id": "082_020",
+      "doc_name": "082 020",
+      "-source": "082_020.pdf"
+    },
+    {
+      "id": "082_021",
+      "doc_name": "082 021",
+      "-source": "082_021.pdf"
+    },
+    {
+      "id": "082_022",
+      "doc_name": "082 022",
+      "-source": "082_022.pdf"
+    },
+    {
+      "id": "082_023",
+      "doc_name": "082 023",
+      "-source": "082_023.pdf"
+    },
+    {
+      "id": "082_024",
+      "doc_name": "082 024",
+      "-source": "082_024.pdf"
+    },
+    {
+      "id": "082_025",
+      "doc_name": "082 025",
+      "-source": "082_025.pdf"
+    },
+    {
+      "id": "082_026",
+      "doc_name": "082 026",
+      "-source": "082_026.pdf"
+    },
+    {
+      "id": "083_017",
+      "doc_name": "083 017",
+      "-source": "083_017.pdf"
+    },
+    {
+      "id": "083_018",
+      "doc_name": "083 018",
+      "-source": "083_018.pdf"
+    },
+    {
+      "id": "083_019",
+      "doc_name": "083 019",
+      "-source": "083_019.pdf"
+    },
+    {
+      "id": "083_020",
+      "doc_name": "083 020",
+      "-source": "083_020.pdf"
+    },
+    {
+      "id": "083_021",
+      "doc_name": "083 021",
+      "-source": "083_021.pdf"
+    },
+    {
+      "id": "083_022",
+      "doc_name": "083 022",
+      "-source": "083_022.pdf"
+    },
+    {
+      "id": "083_023",
+      "doc_name": "083 023",
+      "-source": "083_023.pdf"
+    },
+    {
+      "id": "083_024",
+      "doc_name": "083 024",
+      "-source": "083_024.pdf"
+    },
+    {
+      "id": "083_025",
+      "doc_name": "083 025",
+      "-source": "083_025.pdf"
+    },
+    {
+      "id": "083_026",
+      "doc_name": "083 026",
+      "-source": "083_026.pdf"
+    },
+    {
+      "id": "083_027",
+      "doc_name": "083 027",
+      "-source": "083_027.pdf"
+    },
+    {
+      "id": "083_035",
+      "doc_name": "083 035",
+      "-source": "083_035.pdf"
+    },
+    {
+      "id": "083_036",
+      "doc_name": "083 036",
+      "-source": "083_036.pdf"
+    },
+    {
+      "id": "084_004",
+      "doc_name": "084 004",
+      "-source": "084_004.pdf"
+    },
+    {
+      "id": "085_002",
+      "doc_name": "085 002",
+      "-source": "085_002.pdf"
+    },
+    {
+      "id": "085_003",
+      "doc_name": "085 003",
+      "-source": "085_003.pdf"
+    },
+    {
+      "id": "088_013",
+      "doc_name": "088 013",
+      "-source": "088_013.pdf"
+    },
+    {
+      "id": "088_014",
+      "doc_name": "088 014",
+      "-source": "088_014.pdf"
+    },
+    {
+      "id": "088_015",
+      "doc_name": "088 015",
+      "-source": "088_015.pdf"
+    },
+    {
+      "id": "088_016",
+      "doc_name": "088 016",
+      "-source": "088_016.pdf"
+    },
+    {
+      "id": "088_017",
+      "doc_name": "088 017",
+      "-source": "088_017.pdf"
+    },
+    {
+      "id": "088_018",
+      "doc_name": "088 018",
+      "-source": "088_018.pdf"
+    },
+    {
+      "id": "088_019",
+      "doc_name": "088 019",
+      "-source": "088_019.pdf"
+    },
+    {
+      "id": "089_003",
+      "doc_name": "089 003",
+      "-source": "089_003.pdf"
+    },
+    {
+      "id": "089_005",
+      "doc_name": "089 005",
+      "-source": "089_005.pdf"
+    },
+    {
+      "id": "091_004",
+      "doc_name": "091 004",
+      "-source": "091_004.pdf"
+    },
+    {
+      "id": "092_064",
+      "doc_name": "092 064",
+      "-source": "092_064.pdf"
+    },
+    {
+      "id": "092_065",
+      "doc_name": "092 065",
+      "-source": "092_065.pdf"
+    },
+    {
+      "id": "092_084",
+      "doc_name": "092 084",
+      "-source": "092_084.pdf"
+    },
+    {
+      "id": "092_085",
+      "doc_name": "092 085",
+      "-source": "092_085.pdf"
+    },
+    {
+      "id": "093_003",
+      "doc_name": "093 003",
+      "-source": "093_003.pdf"
+    },
+    {
+      "id": "093_004",
+      "doc_name": "093 004",
+      "-source": "093_004.pdf"
+    },
+    {
+      "id": "100_001",
+      "doc_name": "100 001",
+      "-source": "100_001.pdf"
+    },
+    {
+      "id": "100_002",
+      "doc_name": "100 002",
+      "-source": "100_002.pdf"
+    },
+    {
+      "id": "100_003",
+      "doc_name": "100 003",
+      "-source": "100_003.pdf"
+    },
+    {
+      "id": "100_004",
+      "doc_name": "100 004",
+      "-source": "100_004.pdf"
+    },
+    {
+      "id": "101_001",
+      "doc_name": "101 001",
+      "-source": "101_001.pdf"
+    },
+    {
+      "id": "102_002",
+      "doc_name": "102 002",
+      "-source": "102_002.pdf"
+    },
+    {
+      "id": "102_003",
+      "doc_name": "102 003",
+      "-source": "102_003.pdf"
+    },
+    {
+      "id": "102_009",
+      "doc_name": "102 009",
+      "-source": "102_009.pdf"
+    },
+    {
+      "id": "102_010",
+      "doc_name": "102 010",
+      "-source": "102_010.pdf"
+    },
+    {
+      "id": "102_011",
+      "doc_name": "102 011",
+      "-source": "102_011.pdf"
+    },
+    {
+      "id": "103_001",
+      "doc_name": "103 001",
+      "-source": "103_001.pdf"
+    },
+    {
+      "id": "103_004",
+      "doc_name": "103 004",
+      "-source": "103_004.pdf"
+    },
+    {
+      "id": "104_001",
+      "doc_name": "104 001",
+      "-source": "104_001.pdf"
+    },
+    {
+      "id": "104_002",
+      "doc_name": "104 002",
+      "-source": "104_002.pdf"
+    },
+    {
+      "id": "104_003",
+      "doc_name": "104 003",
+      "-source": "104_003.pdf"
+    },
+    {
+      "id": "104_004",
+      "doc_name": "104 004",
+      "-source": "104_004.pdf"
+    },
+    {
+      "id": "104_005",
+      "doc_name": "104 005",
+      "-source": "104_005.pdf"
+    },
+    {
+      "id": "104_006",
+      "doc_name": "104 006",
+      "-source": "104_006.pdf"
+    },
+    {
+      "id": "105_001",
+      "doc_name": "105 001",
+      "-source": "105_001.pdf"
+    },
+    {
+      "id": "113_001",
+      "doc_name": "113 001",
+      "-source": "113_001.pdf"
+    },
+    {
+      "id": "126_001",
+      "doc_name": "126 001",
+      "-source": "126_001.pdf"
+    },
+    {
+      "id": "126_002",
+      "doc_name": "126 002",
+      "-source": "126_002.pdf"
+    },
+    {
+      "id": "126_003",
+      "doc_name": "126 003",
+      "-source": "126_003.pdf"
+    },
+    {
+      "id": "127_001",
+      "doc_name": "127 001",
+      "-source": "127_001.pdf"
+    },
+    {
+      "id": "127_002",
+      "doc_name": "127 002",
+      "-source": "127_002.pdf"
+    },
+    {
+      "id": "127_003",
+      "doc_name": "127 003",
+      "-source": "127_003.pdf"
+    },
+    {
+      "id": "127_004",
+      "doc_name": "127 004",
+      "-source": "127_004.pdf"
+    },
+    {
+      "id": "127_005",
+      "doc_name": "127 005",
+      "-source": "127_005.pdf"
+    },
+    {
+      "id": "129_001",
+      "doc_name": "129 001",
+      "-source": "129_001.pdf"
+    },
+    {
+      "id": "130_001",
+      "doc_name": "130 001",
+      "-source": "130_001.pdf"
+    },
+    {
+      "id": "130_002",
+      "doc_name": "130 002",
+      "-source": "130_002.pdf"
+    },
+    {
+      "id": "130_003",
+      "doc_name": "130 003",
+      "-source": "130_003.pdf"
+    },
+    {
+      "id": "131_003",
+      "doc_name": "131 003",
+      "-source": "131_003.pdf"
+    },
+    {
+      "id": "158_001",
+      "doc_name": "158 001",
+      "-source": "158_001.pdf"
+    },
+    {
+      "id": "158_002",
+      "doc_name": "158 002",
+      "-source": "158_002.pdf"
+    },
+    {
+      "id": "158_003",
+      "doc_name": "158 003",
+      "-source": "158_003.pdf"
+    },
+    {
+      "id": "159_001",
+      "doc_name": "159 001",
+      "-source": "159_001.pdf"
+    },
+    {
+      "id": "160_001",
+      "doc_name": "160 001",
+      "-source": "160_001.pdf"
+    },
+    {
+      "id": "160_002",
+      "doc_name": "160 002",
+      "-source": "160_002.pdf"
+    },
+    {
+      "id": "161_001",
+      "doc_name": "161 001",
+      "-source": "161_001.pdf"
+    },
+    {
+      "id": "161_002",
+      "doc_name": "161 002",
+      "-source": "161_002.pdf"
+    },
+    {
+      "id": "161_003",
+      "doc_name": "161 003",
+      "-source": "161_003.pdf"
+    },
+    {
+      "id": "161_004",
+      "doc_name": "161 004",
+      "-source": "161_004.pdf"
+    },
+    {
+      "id": "161_005",
+      "doc_name": "161 005",
+      "-source": "161_005.pdf"
+    },
+    {
+      "id": "161_006",
+      "doc_name": "161 006",
+      "-source": "161_006.pdf"
+    },
+    {
+      "id": "162_001",
+      "doc_name": "162 001",
+      "-source": "162_001.pdf"
+    },
+    {
+      "id": "268th_NSC",
+      "doc_name": "268 Th Nsc",
+      "-source": "268th_NSC.pdf"
+    },
+    {
+      "id": "1919_11_03_DDE_to_Chief",
+      "doc_name": "1919 11 03 Dde To Chief",
+      "-source": "1919_11_03_DDE_to_Chief.pdf"
+    },
+    {
+      "id": "1943_04_20",
+      "doc_name": "1943 04 20",
+      "-source": "1943_04_20.pdf"
+    },
+    {
+      "id": "1943_12_07_Roosevelt_to_Stalin",
+      "doc_name": "1943 12 07 Roosevelt To Stalin",
+      "-source": "1943_12_07_Roosevelt_to_Stalin.pdf"
+    },
+    {
+      "id": "1944_06_03_Conditions_in_Normandy",
+      "doc_name": "1944 06 03 Conditions In Normandy",
+      "-source": "1944_06_03_Conditions_in_Normandy.pdf"
+    },
+    {
+      "id": "1944_06_06_DDE_to_Marshall",
+      "doc_name": "1944 06 06 Dde To Marshall",
+      "-source": "1944_06_06_DDE_to_Marshall.pdf"
+    },
+    {
+      "id": "1944_06_06_to_08_82nd_Airborne",
+      "doc_name": "1944 06 06 To 08 82 Nd Airborne",
+      "-source": "1944_06_06_to_08_82nd_Airborne.pdf"
+    },
+    {
+      "id": "1944_06_08_SHAEF_Message",
+      "doc_name": "1944 06 08 Shaef Message",
+      "-source": "1944_06_08_SHAEF_Message.pdf"
+    },
+    {
+      "id": "1944_06_After_Action_Report",
+      "doc_name": "1944 06 After Action Report",
+      "-source": "1944_06_After_Action_Report.pdf"
+    },
+    {
+      "id": "1944_07_21_After_Action_Report",
+      "doc_name": "1944 07 21 After Action Report",
+      "-source": "1944_07_21_After_Action_Report.pdf"
+    },
+    {
+      "id": "1945_04_15_DDE_to_Marshall",
+      "doc_name": "1945 04 15 Dde To Marshall",
+      "-source": "1945_04_15_DDE_to_Marshall.pdf"
+    },
+    {
+      "id": "1945_04_15_Patton_to_DDE",
+      "doc_name": "1945 04 15 Patton To Dde",
+      "-source": "1945_04_15_Patton_to_DDE.pdf"
+    },
+    {
+      "id": "1945_04_18_DDE_to_Patton",
+      "doc_name": "1945 04 18 Dde To Patton",
+      "-source": "1945_04_18_DDE_to_Patton.pdf"
+    },
+    {
+      "id": "1945_04_19_DDE_to_Marshall",
+      "doc_name": "1945 04 19 Dde To Marshall",
+      "-source": "1945_04_19_DDE_to_Marshall.pdf"
+    },
+    {
+      "id": "1945_04_19_Marshall_to_DDE",
+      "doc_name": "1945 04 19 Marshall To Dde",
+      "-source": "1945_04_19_Marshall_to_DDE.pdf"
+    },
+    {
+      "id": "1945_04_21_Churchill_to_DDE",
+      "doc_name": "1945 04 21 Churchill To Dde",
+      "-source": "1945_04_21_Churchill_to_DDE.pdf"
+    },
+    {
+      "id": "1945_04_23_DDE_to_Churchill",
+      "doc_name": "1945 04 23 Dde To Churchill",
+      "-source": "1945_04_23_DDE_to_Churchill.pdf"
+    },
+    {
+      "id": "1945_06_01_Frieder_to_DDE",
+      "doc_name": "1945 06 01 Frieder To Dde",
+      "-source": "1945_06_01_Frieder_to_DDE.pdf"
+    },
+    {
+      "id": "1945_06_09_DDE_to_Frieder",
+      "doc_name": "1945 06 09 Dde To Frieder",
+      "-source": "1945_06_09_DDE_to_Frieder.pdf"
+    },
+    {
+      "id": "1945_09_14_DDE_to_Truman",
+      "doc_name": "1945 09 14 Dde To Truman",
+      "-source": "1945_09_14_DDE_to_Truman.pdf"
+    },
+    {
+      "id": "1945_09_18_DDE_to_Truman",
+      "doc_name": "1945 09 18 Dde To Truman",
+      "-source": "1945_09_18_DDE_to_Truman.pdf"
+    },
+    {
+      "id": "1945_10_08_DDE_to_Truman",
+      "doc_name": "1945 10 08 Dde To Truman",
+      "-source": "1945_10_08_DDE_to_Truman.pdf"
+    },
+    {
+      "id": "1950_01_03",
+      "doc_name": "1950 01 03",
+      "-source": "1950_01_03.pdf"
+    },
+    {
+      "id": "1950_01_19",
+      "doc_name": "1950 01 19",
+      "-source": "1950_01_19.pdf"
+    },
+    {
+      "id": "1951_04_03",
+      "doc_name": "1951 04 03",
+      "-source": "1951_04_03.pdf"
+    },
+    {
+      "id": "1951_04_09",
+      "doc_name": "1951 04 09",
+      "-source": "1951_04_09.pdf"
+    },
+    {
+      "id": "1951_07_06",
+      "doc_name": "1951 07 06",
+      "-source": "1951_07_06.pdf"
+    },
+    {
+      "id": "1952_02_25_Foster_to_Connally",
+      "doc_name": "1952 02 25 Foster To Connally",
+      "-source": "1952_02_25_Foster_to_Connally.pdf"
+    },
+    {
+      "id": "1952_08_01",
+      "doc_name": "1952 08 01",
+      "-source": "1952_08_01.pdf"
+    },
+    {
+      "id": "1952_08_08",
+      "doc_name": "1952 08 08",
+      "-source": "1952_08_08.pdf"
+    },
+    {
+      "id": "1952_08_16",
+      "doc_name": "1952 08 16",
+      "-source": "1952_08_16.pdf"
+    },
+    {
+      "id": "1952_10_03_Sixth_Draft",
+      "doc_name": "1952 10 03 Sixth Draft",
+      "-source": "1952_10_03_Sixth_Draft.pdf"
+    },
+    {
+      "id": "1952_11_16",
+      "doc_name": "1952 11 16",
+      "-source": "1952_11_16.pdf"
+    },
+    {
+      "id": "1952_11_20",
+      "doc_name": "1952 11 20",
+      "-source": "1952_11_20.pdf"
+    },
+    {
+      "id": "1952_11_29_Inaugural_Ball",
+      "doc_name": "1952 11 29 Inaugural Ball",
+      "-source": "1952_11_29_Inaugural_Ball.pdf"
+    },
+    {
+      "id": "1952_11_29_Inaugural_Parade",
+      "doc_name": "1952 11 29 Inaugural Parade",
+      "-source": "1952_11_29_Inaugural_Parade.pdf"
+    },
+    {
+      "id": "1952_12_30_Memo_Wiley_to_DDE",
+      "doc_name": "1952 12 30 Memo Wiley To Dde",
+      "-source": "1952_12_30_Memo_Wiley_to_DDE.pdf"
+    },
+    {
+      "id": "1952_12_30_Wiley_to_DDE",
+      "doc_name": "1952 12 30 Wiley To Dde",
+      "-source": "1952_12_30_Wiley_to_DDE.pdf"
+    },
+    {
+      "id": "1952_280_mm_gun",
+      "doc_name": "1952 280 Mm Gun",
+      "-source": "1952_280_mm_gun.pdf"
+    },
+    {
+      "id": "1953_01_13",
+      "doc_name": "1953 01 13",
+      "-source": "1953_01_13.pdf"
+    },
+    {
+      "id": "1953_01_15",
+      "doc_name": "1953 01 15",
+      "-source": "1953_01_15.pdf"
+    },
+    {
+      "id": "1953_01_20_Inaugural_Address",
+      "doc_name": "1953 01 20 Inaugural Address",
+      "-source": "1953_01_20_Inaugural_Address.pdf"
+    },
+    {
+      "id": "1953_01_20_Inaugural_Prayer",
+      "doc_name": "1953 01 20 Inaugural Prayer",
+      "-source": "1953_01_20_Inaugural_Prayer.pdf"
+    },
+    {
+      "id": "1953_01_20_Inauguration_Ceremonies_Program",
+      "doc_name": "1953 01 20 Inauguration Ceremonies Program",
+      "-source": "1953_01_20_Inauguration_Ceremonies_Program.pdf"
+    },
+    {
+      "id": "1953_01_22",
+      "doc_name": "1953 01 22",
+      "-source": "1953_01_22.pdf"
+    },
+    {
+      "id": "1953_01_29",
+      "doc_name": "1953 01 29",
+      "-source": "1953_01_29.pdf"
+    },
+    {
+      "id": "1953_02_02",
+      "doc_name": "1953 02 02",
+      "-source": "1953_02_02.pdf"
+    },
+    {
+      "id": "1953_02_03_McCarthy_to_DDE",
+      "doc_name": "1953 02 03 Mccarthy To Dde",
+      "-source": "1953_02_03_McCarthy_to_DDE.pdf"
+    },
+    {
+      "id": "1953_02_03",
+      "doc_name": "1953 02 03",
+      "-source": "1953_02_03.pdf"
+    },
+    {
+      "id": "1953_02_06_DDE_to_Wiley",
+      "doc_name": "1953 02 06 Dde To Wiley",
+      "-source": "1953_02_06_DDE_to_Wiley.pdf"
+    },
+    {
+      "id": "1953_02_19_Wilson_to_Adams",
+      "doc_name": "1953 02 19 Wilson To Adams",
+      "-source": "1953_02_19_Wilson_to_Adams.pdf"
+    },
+    {
+      "id": "1953_02_19",
+      "doc_name": "1953 02 19",
+      "-source": "1953_02_19.pdf"
+    },
+    {
+      "id": "1953_02_24",
+      "doc_name": "1953 02 24",
+      "-source": "1953_02_24.pdf"
+    },
+    {
+      "id": "1953_03_01",
+      "doc_name": "1953 03 01",
+      "-source": "1953_03_01.pdf"
+    },
+    {
+      "id": "1953_03_03",
+      "doc_name": "1953 03 03",
+      "-source": "1953_03_03.pdf"
+    },
+    {
+      "id": "1953_03_09",
+      "doc_name": "1953 03 09",
+      "-source": "1953_03_09.pdf"
+    },
+    {
+      "id": "1953_03_10",
+      "doc_name": "1953 03 10",
+      "-source": "1953_03_10.pdf"
+    },
+    {
+      "id": "1953_03_11_and_12",
+      "doc_name": "1953 03 11 And 12",
+      "-source": "1953_03_11_and_12.pdf"
+    },
+    {
+      "id": "1953_03_12",
+      "doc_name": "1953 03 12",
+      "-source": "1953_03_12.pdf"
+    },
+    {
+      "id": "1953_03_17_Wiley_to_Adams",
+      "doc_name": "1953 03 17 Wiley To Adams",
+      "-source": "1953_03_17_Wiley_to_Adams.pdf"
+    },
+    {
+      "id": "1953_03_24_Pearson_to_JFD",
+      "doc_name": "1953 03 24 Pearson To Jfd",
+      "-source": "1953_03_24_Pearson_to_JFD.pdf"
+    },
+    {
+      "id": "1953_03_25_Memo",
+      "doc_name": "1953 03 25 Memo",
+      "-source": "1953_03_25_Memo.pdf"
+    },
+    {
+      "id": "1953_03_30_Memo",
+      "doc_name": "1953 03 30 Memo",
+      "-source": "1953_03_30_Memo.pdf"
+    },
+    {
+      "id": "1953_04_01_JFD_to_DDE",
+      "doc_name": "1953 04 01 Jfd To Dde",
+      "-source": "1953_04_01_JFD_to_DDE.pdf"
+    },
+    {
+      "id": "1953_04_02_Agenda_Memo PJBD",
+      "doc_name": "1953 04 02 Agenda Memo Pjbd",
+      "-source": "1953_04_02_Agenda_Memo PJBD.pdf"
+    },
+    {
+      "id": "1953_04_06_Wilson_to_Adams",
+      "doc_name": "1953 04 06 Wilson To Adams",
+      "-source": "1953_04_06_Wilson_to_Adams.pdf"
+    },
+    {
+      "id": "1953_04_08",
+      "doc_name": "1953 04 08",
+      "-source": "1953_04_08.pdf"
+    },
+    {
+      "id": "1953_04_09",
+      "doc_name": "1953 04 09",
+      "-source": "1953_04_09.pdf"
+    },
+    {
+      "id": "1953_04_10",
+      "doc_name": "1953 04 10",
+      "-source": "1953_04_10.pdf"
+    },
+    {
+      "id": "1953_04_16_Report_to_NSC",
+      "doc_name": "1953 04 16 Report To Nsc",
+      "-source": "1953_04_16_Report_to_NSC.pdf"
+    },
+    {
+      "id": "1953_04_16",
+      "doc_name": "1953 04 16",
+      "-source": "1953_04_16.pdf"
+    },
+    {
+      "id": "1953_04_20_Smith_to_Adams",
+      "doc_name": "1953 04 20 Smith To Adams",
+      "-source": "1953_04_20_Smith_to_Adams.pdf"
+    },
+    {
+      "id": "1953_04_23_DDE_to_Wiley",
+      "doc_name": "1953 04 23 Dde To Wiley",
+      "-source": "1953_04_23_DDE_to_Wiley.pdf"
+    },
+    {
+      "id": "1953_04_23_Guy_to_DDE",
+      "doc_name": "1953 04 23 Guy To Dde",
+      "-source": "1953_04_23_Guy_to_DDE.pdf"
+    },
+    {
+      "id": "1953_04_27_Jones_to_Shanley",
+      "doc_name": "1953 04 27 Jones To Shanley",
+      "-source": "1953_04_27_Jones_to_Shanley.pdf"
+    },
+    {
+      "id": "1953_05_18_DDE_to_Bullis",
+      "doc_name": "1953 05 18 Dde To Bullis",
+      "-source": "1953_05_18_DDE_to_Bullis.pdf"
+    },
+    {
+      "id": "1953_05_22_Minnich_Notes",
+      "doc_name": "1953 05 22 Minnich Notes",
+      "-source": "1953_05_22_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1953_05",
+      "doc_name": "1953 05",
+      "-source": "1953_05.pdf"
+    },
+    {
+      "id": "1953_06_01",
+      "doc_name": "1953 06 01",
+      "-source": "1953_06_01.pdf"
+    },
+    {
+      "id": "1953_06_08",
+      "doc_name": "1953 06 08",
+      "-source": "1953_06_08.pdf"
+    },
+    {
+      "id": "1953_06_12",
+      "doc_name": "1953 06 12",
+      "-source": "1953_06_12.pdf"
+    },
+    {
+      "id": "1953_06_16_Browne",
+      "doc_name": "1953 06 16 Browne",
+      "-source": "1953_06_16_Browne.pdf"
+    },
+    {
+      "id": "1953_06_16_Norberg",
+      "doc_name": "1953 06 16 Norberg",
+      "-source": "1953_06_16_Norberg.pdf"
+    },
+    {
+      "id": "1953_06_17",
+      "doc_name": "1953 06 17",
+      "-source": "1953_06_17.pdf"
+    },
+    {
+      "id": "1953_06_22 copy",
+      "doc_name": "1953 06 22 Copy",
+      "-source": "1953_06_22 copy.pdf"
+    },
+    {
+      "id": "1953_06_22",
+      "doc_name": "1953 06 22",
+      "-source": "1953_06_22.pdf"
+    },
+    {
+      "id": "1953_06_29 copy",
+      "doc_name": "1953 06 29 Copy",
+      "-source": "1953_06_29 copy.pdf"
+    },
+    {
+      "id": "1953_06_29",
+      "doc_name": "1953 06 29",
+      "-source": "1953_06_29.pdf"
+    },
+    {
+      "id": "1953_07_02",
+      "doc_name": "1953 07 02",
+      "-source": "1953_07_02.pdf"
+    },
+    {
+      "id": "1953_07_14",
+      "doc_name": "1953 07 14",
+      "-source": "1953_07_14.pdf"
+    },
+    {
+      "id": "1953_07_15_Minnich_Notes",
+      "doc_name": "1953 07 15 Minnich Notes",
+      "-source": "1953_07_15_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1953_07_16_Shivers_to_DDE",
+      "doc_name": "1953 07 16 Shivers To Dde",
+      "-source": "1953_07_16_Shivers_to_DDE.pdf"
+    },
+    {
+      "id": "1953_07_21_DDE_to_Hazlett copy",
+      "doc_name": "1953 07 21 Dde To Hazlett Copy",
+      "-source": "1953_07_21_DDE_to_Hazlett copy.pdf"
+    },
+    {
+      "id": "1953_07_21_DDE_to_Hazlett",
+      "doc_name": "1953 07 21 Dde To Hazlett",
+      "-source": "1953_07_21_DDE_to_Hazlett.pdf"
+    },
+    {
+      "id": "1953_07_21_Shivers_from_DDE",
+      "doc_name": "1953 07 21 Shivers From Dde",
+      "-source": "1953_07_21_Shivers_from_DDE.pdf"
+    },
+    {
+      "id": "1953_07_27",
+      "doc_name": "1953 07 27",
+      "-source": "1953_07_27.pdf"
+    },
+    {
+      "id": "1953_07_29_Minnich_Notes",
+      "doc_name": "1953 07 29 Minnich Notes",
+      "-source": "1953_07_29_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1953_08_07",
+      "doc_name": "1953 08 07",
+      "-source": "1953_08_07.pdf"
+    },
+    {
+      "id": "1953_08_14_DDE_to_Byrnes",
+      "doc_name": "1953 08 14 Dde To Byrnes",
+      "-source": "1953_08_14_DDE_to_Byrnes.pdf"
+    },
+    {
+      "id": "1953_09_17",
+      "doc_name": "1953 09 17",
+      "-source": "1953_09_17.pdf"
+    },
+    {
+      "id": "1953_10_08",
+      "doc_name": "1953 10 08",
+      "-source": "1953_10_08.pdf"
+    },
+    {
+      "id": "1953_10_09_DDE_to_Milton",
+      "doc_name": "1953 10 09 Dde To Milton",
+      "-source": "1953_10_09_DDE_to_Milton.pdf"
+    },
+    {
+      "id": "1953_10_09",
+      "doc_name": "1953 10 09",
+      "-source": "1953_10_09.pdf"
+    },
+    {
+      "id": "1953_11_20_Byrnes_to_DDE",
+      "doc_name": "1953 11 20 Byrnes To Dde",
+      "-source": "1953_11_20_Byrnes_to_DDE.pdf"
+    },
+    {
+      "id": "1953_11_20_Kennon_to_DDE",
+      "doc_name": "1953 11 20 Kennon To Dde",
+      "-source": "1953_11_20_Kennon_to_DDE.pdf"
+    },
+    {
+      "id": "1953_11_27_CD_Jackson",
+      "doc_name": "1953 11 27 Cd Jackson",
+      "-source": "1953_11_27_CD_Jackson.pdf"
+    },
+    {
+      "id": "1953_11_30_CD_Jackson",
+      "doc_name": "1953 11 30 Cd Jackson",
+      "-source": "1953_11_30_CD_Jackson.pdf"
+    },
+    {
+      "id": "1953_11_30_Kennon_from_DDE",
+      "doc_name": "1953 11 30 Kennon From Dde",
+      "-source": "1953_11_30_Kennon_from_DDE.pdf"
+    },
+    {
+      "id": "1953_12_1_DDE_to_Byrnes",
+      "doc_name": "1953 12 1 Dde To Byrnes",
+      "-source": "1953_12_1_DDE_to_Byrnes.pdf"
+    },
+    {
+      "id": "1953_12_01_Rumbough_to_Snyder",
+      "doc_name": "1953 12 01 Rumbough To Snyder",
+      "-source": "1953_12_01_Rumbough_to_Snyder.pdf"
+    },
+    {
+      "id": "1953_12_21_CD_Jackson",
+      "doc_name": "1953 12 21 Cd Jackson",
+      "-source": "1953_12_21_CD_Jackson.pdf"
+    },
+    {
+      "id": "1953_12_22",
+      "doc_name": "1953 12 22",
+      "-source": "1953_12_22.pdf"
+    },
+    {
+      "id": "1953_Brownell_to_Adams",
+      "doc_name": "1953 Brownell To Adams",
+      "-source": "1953_Brownell_to_Adams.pdf"
+    },
+    {
+      "id": "1954_01_06_S2150",
+      "doc_name": "1954 01 06 S 2150",
+      "-source": "1954_01_06_S2150.pdf"
+    },
+    {
+      "id": "1954_01_18_JCS_to_Ferguson",
+      "doc_name": "1954 01 18 Jcs To Ferguson",
+      "-source": "1954_01_18_JCS_to_Ferguson.pdf"
+    },
+    {
+      "id": "1954_01_29",
+      "doc_name": "1954 01 29",
+      "-source": "1954_01_29.pdf"
+    },
+    {
+      "id": "1954_02_04",
+      "doc_name": "1954 02 04",
+      "-source": "1954_02_04.pdf"
+    },
+    {
+      "id": "1954_02_25_Hagerty",
+      "doc_name": "1954 02 25 Hagerty",
+      "-source": "1954_02_25_Hagerty.pdf"
+    },
+    {
+      "id": "1954_02_26",
+      "doc_name": "1954 02 26",
+      "-source": "1954_02_26.pdf"
+    },
+    {
+      "id": "1954_03_08_Hagerty",
+      "doc_name": "1954 03 08 Hagerty",
+      "-source": "1954_03_08_Hagerty.pdf"
+    },
+    {
+      "id": "1954_03_10_Hagerty",
+      "doc_name": "1954 03 10 Hagerty",
+      "-source": "1954_03_10_Hagerty.pdf"
+    },
+    {
+      "id": "1954_03_10",
+      "doc_name": "1954 03 10",
+      "-source": "1954_03_10.pdf"
+    },
+    {
+      "id": "1954_3_19",
+      "doc_name": "1954 3 19",
+      "-source": "1954_3_19.pdf"
+    },
+    {
+      "id": "1954_3_23",
+      "doc_name": "1954 3 23",
+      "-source": "1954_3_23.pdf"
+    },
+    {
+      "id": "1954_03_23",
+      "doc_name": "1954 03 23",
+      "-source": "1954_03_23.pdf"
+    },
+    {
+      "id": "1954_03_24_Hagerty",
+      "doc_name": "1954 03 24 Hagerty",
+      "-source": "1954_03_24_Hagerty.pdf"
+    },
+    {
+      "id": "1954_04_02",
+      "doc_name": "1954 04 02",
+      "-source": "1954_04_02.pdf"
+    },
+    {
+      "id": "1954_04_04",
+      "doc_name": "1954 04 04",
+      "-source": "1954_04_04.pdf"
+    },
+    {
+      "id": "1954_4_21",
+      "doc_name": "1954 4 21",
+      "-source": "1954_4_21.pdf"
+    },
+    {
+      "id": "1954_04_23",
+      "doc_name": "1954 04 23",
+      "-source": "1954_04_23.pdf"
+    },
+    {
+      "id": "1954_05_02_White_to_Adams",
+      "doc_name": "1954 05 02 White To Adams",
+      "-source": "1954_05_02_White_to_Adams.pdf"
+    },
+    {
+      "id": "1954_05_12_Hagerty",
+      "doc_name": "1954 05 12 Hagerty",
+      "-source": "1954_05_12_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_13_Dondero_to_DDE",
+      "doc_name": "1954 05 13 Dondero To Dde",
+      "-source": "1954_05_13_Dondero_to_DDE.pdf"
+    },
+    {
+      "id": "1954_05_13_Hagerty",
+      "doc_name": "1954 05 13 Hagerty",
+      "-source": "1954_05_13_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_13_Lewis_to_Stephens",
+      "doc_name": "1954 05 13 Lewis To Stephens",
+      "-source": "1954_05_13_Lewis_to_Stephens.pdf"
+    },
+    {
+      "id": "1954_05_13_Press_Release",
+      "doc_name": "1954 05 13 Press Release",
+      "-source": "1954_05_13_Press_Release.pdf"
+    },
+    {
+      "id": "1954_05_14_Hagerty",
+      "doc_name": "1954 05 14 Hagerty",
+      "-source": "1954_05_14_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_17_DDE_to_OSD",
+      "doc_name": "1954 05 17 Dde To Osd",
+      "-source": "1954_05_17_DDE_to_OSD.pdf"
+    },
+    {
+      "id": "1954_05_17_Hagerty",
+      "doc_name": "1954 05 17 Hagerty",
+      "-source": "1954_05_17_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_17_Minnich_Notes",
+      "doc_name": "1954 05 17 Minnich Notes",
+      "-source": "1954_05_17_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1954_05_20_DDE_to_Dondero",
+      "doc_name": "1954 05 20 Dde To Dondero",
+      "-source": "1954_05_20_DDE_to_Dondero.pdf"
+    },
+    {
+      "id": "1954_05_27_White_to_DDE",
+      "doc_name": "1954 05 27 White To Dde",
+      "-source": "1954_05_27_White_to_DDE.pdf"
+    },
+    {
+      "id": "1954_05_28_Hagerty",
+      "doc_name": "1954 05 28 Hagerty",
+      "-source": "1954_05_28_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_30_Hagerty",
+      "doc_name": "1954 05 30 Hagerty",
+      "-source": "1954_05_30_Hagerty.pdf"
+    },
+    {
+      "id": "1954_05_31_Hagerty",
+      "doc_name": "1954 05 31 Hagerty",
+      "-source": "1954_05_31_Hagerty.pdf"
+    },
+    {
+      "id": "1954_6_2",
+      "doc_name": "1954 6 2",
+      "-source": "1954_6_2.pdf"
+    },
+    {
+      "id": "1954_06_03_Seaton",
+      "doc_name": "1954 06 03 Seaton",
+      "-source": "1954_06_03_Seaton.pdf"
+    },
+    {
+      "id": "1954_6_7",
+      "doc_name": "1954 6 7",
+      "-source": "1954_6_7.pdf"
+    },
+    {
+      "id": "1954_06_08_Hagerty",
+      "doc_name": "1954 06 08 Hagerty",
+      "-source": "1954_06_08_Hagerty.pdf"
+    },
+    {
+      "id": "1954_6_22",
+      "doc_name": "1954 6 22",
+      "-source": "1954_6_22.pdf"
+    },
+    {
+      "id": "1954_6_24",
+      "doc_name": "1954 6 24",
+      "-source": "1954_6_24.pdf"
+    },
+    {
+      "id": "1954_06_30",
+      "doc_name": "1954 06 30",
+      "-source": "1954_06_30.pdf"
+    },
+    {
+      "id": "1954_07_15",
+      "doc_name": "1954 07 15",
+      "-source": "1954_07_15.pdf"
+    },
+    {
+      "id": "1954_07_30",
+      "doc_name": "1954 07 30",
+      "-source": "1954_07_30.pdf"
+    },
+    {
+      "id": "1954_08_08_Letter_Farrington_to_DDE",
+      "doc_name": "1954 08 08 Letter Farrington To Dde",
+      "-source": "1954_08_08_Letter_Farrington_to_DDE.pdf"
+    },
+    {
+      "id": "1954_08_08_Memo_Farrington_to_DDE",
+      "doc_name": "1954 08 08 Memo Farrington To Dde",
+      "-source": "1954_08_08_Memo_Farrington_to_DDE.pdf"
+    },
+    {
+      "id": "1954_08_17",
+      "doc_name": "1954 08 17",
+      "-source": "1954_08_17.pdf"
+    },
+    {
+      "id": "1954_09_20_King_to_Hall",
+      "doc_name": "1954 09 20 King To Hall",
+      "-source": "1954_09_20_King_to_Hall.pdf"
+    },
+    {
+      "id": "1954_09_21",
+      "doc_name": "1954 09 21",
+      "-source": "1954_09_21.pdf"
+    },
+    {
+      "id": "1954_10_23_DDE_to_Hazlett",
+      "doc_name": "1954 10 23 Dde To Hazlett",
+      "-source": "1954_10_23_DDE_to_Hazlett.pdf"
+    },
+    {
+      "id": "1954_10_25_DDE_to_King",
+      "doc_name": "1954 10 25 Dde To King",
+      "-source": "1954_10_25_DDE_to_King.pdf"
+    },
+    {
+      "id": "1954_11_03",
+      "doc_name": "1954 11 03",
+      "-source": "1954_11_03.pdf"
+    },
+    {
+      "id": "1954_11_19_Minnich_Notes",
+      "doc_name": "1954 11 19 Minnich Notes",
+      "-source": "1954_11_19_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1954_11_24",
+      "doc_name": "1954 11 24",
+      "-source": "1954_11_24.pdf"
+    },
+    {
+      "id": "1954_12_01",
+      "doc_name": "1954 12 01",
+      "-source": "1954_12_01.pdf"
+    },
+    {
+      "id": "1954_12_07",
+      "doc_name": "1954 12 07",
+      "-source": "1954_12_07.pdf"
+    },
+    {
+      "id": "1954_12_10",
+      "doc_name": "1954 12 10",
+      "-source": "1954_12_10.pdf"
+    },
+    {
+      "id": "1954_Alaskan_Delegates",
+      "doc_name": "1954 Alaskan Delegates",
+      "-source": "1954_Alaskan_Delegates.pdf"
+    },
+    {
+      "id": "1954_News_Report",
+      "doc_name": "1954 News Report",
+      "-source": "1954_News_Report.pdf"
+    },
+    {
+      "id": "1955_01_21",
+      "doc_name": "1955 01 21",
+      "-source": "1955_01_21.pdf"
+    },
+    {
+      "id": "1955_01_26_Attorney_General_Report",
+      "doc_name": "1955 01 26 Attorney General Report",
+      "-source": "1955_01_26_Attorney_General_Report.pdf"
+    },
+    {
+      "id": "1955_01_27_greenland",
+      "doc_name": "1955 01 27 Greenland",
+      "-source": "1955_01_27_greenland.pdf"
+    },
+    {
+      "id": "1955_02_16",
+      "doc_name": "1955 02 16",
+      "-source": "1955_02_16.pdf"
+    },
+    {
+      "id": "1955_02_22_Message_to_Congress",
+      "doc_name": "1955 02 22 Message To Congress",
+      "-source": "1955_02_22_Message_to_Congress.pdf"
+    },
+    {
+      "id": "1955_02_25_Bernstein_to_Rabb",
+      "doc_name": "1955 02 25 Bernstein To Rabb",
+      "-source": "1955_02_25_Bernstein_to_Rabb.pdf"
+    },
+    {
+      "id": "1955_02_28_Rabb_to_McCann",
+      "doc_name": "1955 02 28 Rabb To Mccann",
+      "-source": "1955_02_28_Rabb_to_McCann.pdf"
+    },
+    {
+      "id": "1955_03_03",
+      "doc_name": "1955 03 03",
+      "-source": "1955_03_03.pdf"
+    },
+    {
+      "id": "1955_03_19 Jackson_to_DDE",
+      "doc_name": "1955 03 19 Jackson To Dde",
+      "-source": "1955_03_19 Jackson_to_DDE.pdf"
+    },
+    {
+      "id": "1955_03_21_DDE_to_Goldstein",
+      "doc_name": "1955 03 21 Dde To Goldstein",
+      "-source": "1955_03_21_DDE_to_Goldstein.pdf"
+    },
+    {
+      "id": "1955_03_31_DDE_to_Jackson",
+      "doc_name": "1955 03 31 Dde To Jackson",
+      "-source": "1955_03_31_DDE_to_Jackson.pdf"
+    },
+    {
+      "id": "1955_04_11",
+      "doc_name": "1955 04 11",
+      "-source": "1955_04_11.pdf"
+    },
+    {
+      "id": "1955_04_22",
+      "doc_name": "1955 04 22",
+      "-source": "1955_04_22.pdf"
+    },
+    {
+      "id": "1955_04_29_Goldstein_to_DDE",
+      "doc_name": "1955 04 29 Goldstein To Dde",
+      "-source": "1955_04_29_Goldstein_to_DDE.pdf"
+    },
+    {
+      "id": "1955_05_16",
+      "doc_name": "1955 05 16",
+      "-source": "1955_05_16.pdf"
+    },
+    {
+      "id": "1955_05_20",
+      "doc_name": "1955 05 20",
+      "-source": "1955_05_20.pdf"
+    },
+    {
+      "id": "1955_05_25",
+      "doc_name": "1955 05 25",
+      "-source": "1955_05_25.pdf"
+    },
+    {
+      "id": "1955_05_26",
+      "doc_name": "1955 05 26",
+      "-source": "1955_05_26.pdf"
+    },
+    {
+      "id": "1955_05_31",
+      "doc_name": "1955 05 31",
+      "-source": "1955_05_31.pdf"
+    },
+    {
+      "id": "1955_06_02",
+      "doc_name": "1955 06 02",
+      "-source": "1955_06_02.pdf"
+    },
+    {
+      "id": "1955_06_20_Senate_Resolution",
+      "doc_name": "1955 06 20 Senate Resolution",
+      "-source": "1955_06_20_Senate_Resolution.pdf"
+    },
+    {
+      "id": "1955_06_21_Minnich_Notes",
+      "doc_name": "1955 06 21 Minnich Notes",
+      "-source": "1955_06_21_Minnich_Notes.pdf"
+    },
+    {
+      "id": "1955_06_30",
+      "doc_name": "1955 06 30",
+      "-source": "1955_06_30.pdf"
+    },
+    {
+      "id": "1955_07_01",
+      "doc_name": "1955 07 01",
+      "-source": "1955_07_01.pdf"
+    },
+    {
+      "id": "1955_07_21",
+      "doc_name": "1955 07 21",
+      "-source": "1955_07_21.pdf"
+    },
+    {
+      "id": "1955_7_26",
+      "doc_name": "1955 7 26",
+      "-source": "1955_7_26.pdf"
+    },
+    {
+      "id": "1955_7_29_NSF_Release",
+      "doc_name": "1955 7 29 Nsf Release",
+      "-source": "1955_7_29_NSF_Release.pdf"
+    },
+    {
+      "id": "1955_7_29_Press_Release",
+      "doc_name": "1955 7 29 Press Release",
+      "-source": "1955_7_29_Press_Release.pdf"
+    },
+    {
+      "id": "1955_08_09_Press_Release",
+      "doc_name": "1955 08 09 Press Release",
+      "-source": "1955_08_09_Press_Release.pdf"
+    },
+    {
+      "id": "1955_08_19",
+      "doc_name": "1955 08 19",
+      "-source": "1955_08_19.pdf"
+    },
+    {
+      "id": "1955_09_01_Chicago_Defender_to_DDE",
+      "doc_name": "1955 09 01 Chicago Defender To Dde",
+      "-source": "1955_09_01_Chicago_Defender_to_DDE.pdf"
+    },
+    {
+      "id": "1955_09_02_Barba_to_Chicago_Defender",
+      "doc_name": "1955 09 02 Barba To Chicago Defender",
+      "-source": "1955_09_02_Barba_to_Chicago_Defender.pdf"
+    },
+    {
+      "id": "1955_09_02_Bradley_to_DDE",
+      "doc_name": "1955 09 02 Bradley To Dde",
+      "-source": "1955_09_02_Bradley_to_DDE.pdf"
+    },
+    {
+      "id": "1955_09_06_Adams_to_Dept_Justice",
+      "doc_name": "1955 09 06 Adams To Dept Justice",
+      "-source": "1955_09_06_Adams_to_Dept_Justice.pdf"
+    },
+    {
+      "id": "1955_09_06_Hoover_to_Anderson",
+      "doc_name": "1955 09 06 Hoover To Anderson",
+      "-source": "1955_09_06_Hoover_to_Anderson.pdf"
+    },
+    {
+      "id": "1955_09_12 copy",
+      "doc_name": "1955 09 12 Copy",
+      "-source": "1955_09_12 copy.pdf"
+    },
+    {
+      "id": "1955_09_12",
+      "doc_name": "1955 09 12",
+      "-source": "1955_09_12.pdf"
+    },
+    {
+      "id": "1955_09_13_Hoover_to_Anderson",
+      "doc_name": "1955 09 13 Hoover To Anderson",
+      "-source": "1955_09_13_Hoover_to_Anderson.pdf"
+    },
+    {
+      "id": "1955_09_28_Night_Letter",
+      "doc_name": "1955 09 28 Night Letter",
+      "-source": "1955_09_28_Night_Letter.pdf"
+    },
+    {
+      "id": "1955_09_29_Memo_re_lynching",
+      "doc_name": "1955 09 29 Memo Re Lynching",
+      "-source": "1955_09_29_Memo_re_lynching.pdf"
+    },
+    {
+      "id": "1955_09_29_Pittsburgh_Courier",
+      "doc_name": "1955 09 29 Pittsburgh Courier",
+      "-source": "1955_09_29_Pittsburgh_Courier.pdf"
+    },
+    {
+      "id": "1955_10_11_Hoover_to_Anderson",
+      "doc_name": "1955 10 11 Hoover To Anderson",
+      "-source": "1955_10_11_Hoover_to_Anderson.pdf"
+    },
+    {
+      "id": "1955_10_15_Resolution",
+      "doc_name": "1955 10 15 Resolution",
+      "-source": "1955_10_15_Resolution.pdf"
+    },
+    {
+      "id": "1955_11_03",
+      "doc_name": "1955 11 03",
+      "-source": "1955_11_03.pdf"
+    },
+    {
+      "id": "1955_11_16",
+      "doc_name": "1955 11 16",
+      "-source": "1955_11_16.pdf"
+    },
+    {
+      "id": "1955_11_22_Hoover_to_Anderson",
+      "doc_name": "1955 11 22 Hoover To Anderson",
+      "-source": "1955_11_22_Hoover_to_Anderson.pdf"
+    },
+    {
+      "id": "1955_11_22_MDR_re_Till",
+      "doc_name": "1955 11 22 Mdr Re Till",
+      "-source": "1955_11_22_MDR_re_Till.pdf"
+    },
+    {
+      "id": "1955_11_23",
+      "doc_name": "1955 11 23",
+      "-source": "1955_11_23.pdf"
+    },
+    {
+      "id": "1955_12_16_Morrow_to_Adams",
+      "doc_name": "1955 12 16 Morrow To Adams",
+      "-source": "1955_12_16_Morrow_to_Adams.pdf"
+    },
+    {
+      "id": "1955_12_30",
+      "doc_name": "1955 12 30",
+      "-source": "1955_12_30.pdf"
+    },
+    {
+      "id": "1955_January",
+      "doc_name": "1955 January",
+      "-source": "1955_January.pdf"
+    },
+    {
+      "id": "1956_01_04_Memo",
+      "doc_name": "1956 01 04 Memo",
+      "-source": "1956_01_04_Memo.pdf"
+    },
+    {
+      "id": "1956_01_05_Memo_for_Adams",
+      "doc_name": "1956 01 05 Memo For Adams",
+      "-source": "1956_01_05_Memo_for_Adams.pdf"
+    },
+    {
+      "id": "1956_01_06_Memo",
+      "doc_name": "1956 01 06 Memo",
+      "-source": "1956_01_06_Memo.pdf"
+    },
+    {
+      "id": "1956_01_13",
+      "doc_name": "1956 01 13",
+      "-source": "1956_01_13.pdf"
+    },
+    {
+      "id": "1956_01_24",
+      "doc_name": "1956 01 24",
+      "-source": "1956_01_24.pdf"
+    },
+    {
+      "id": "1956_01_25",
+      "doc_name": "1956 01 25",
+      "-source": "1956_01_25.pdf"
+    },
+    {
+      "id": "1956_02_08_Hoover_to_Dillon",
+      "doc_name": "1956 02 08 Hoover To Dillon",
+      "-source": "1956_02_08_Hoover_to_Dillon.pdf"
+    },
+    {
+      "id": "1956_02_08",
+      "doc_name": "1956 02 08",
+      "-source": "1956_02_08.pdf"
+    },
+    {
+      "id": "1956_03_01_Hoover_Statement",
+      "doc_name": "1956 03 01 Hoover Statement",
+      "-source": "1956_03_01_Hoover_Statement.pdf"
+    },
+    {
+      "id": "1956_03_22_DDE_to_Graham",
+      "doc_name": "1956 03 22 Dde To Graham",
+      "-source": "1956_03_22_DDE_to_Graham.pdf"
+    },
+    {
+      "id": "1956_03_26",
+      "doc_name": "1956 03 26",
+      "-source": "1956_03_26.pdf"
+    },
+    {
+      "id": "1956_03_27_Graham_to_DDE",
+      "doc_name": "1956 03 27 Graham To Dde",
+      "-source": "1956_03_27_Graham_to_DDE.pdf"
+    },
+    {
+      "id": "1956_03_30_DDE_to_Graham",
+      "doc_name": "1956 03 30 Dde To Graham",
+      "-source": "1956_03_30_DDE_to_Graham.pdf"
+    },
+    {
+      "id": "1956_04_01_Cabinet_Paper",
+      "doc_name": "1956 04 01 Cabinet Paper",
+      "-source": "1956_04_01_Cabinet_Paper.pdf"
+    },
+    {
+      "id": "1956_04_10",
+      "doc_name": "1956 04 10",
+      "-source": "1956_04_10.pdf"
+    },
+    {
+      "id": "1956_04_30",
+      "doc_name": "1956 04 30",
+      "-source": "1956_04_30.pdf"
+    },
+    {
+      "id": "1956_06_04_Graham_to_DDE",
+      "doc_name": "1956 06 04 Graham To Dde",
+      "-source": "1956_06_04_Graham_to_DDE.pdf"
+    },
+    {
+      "id": "1956_06_11",
+      "doc_name": "1956 06 11",
+      "-source": "1956_06_11.pdf"
+    },
+    {
+      "id": "1956_06_28_Jones_to_DDE",
+      "doc_name": "1956 06 28 Jones To Dde",
+      "-source": "1956_06_28_Jones_to_DDE.pdf"
+    },
+    {
+      "id": "1956_07_05_and_10",
+      "doc_name": "1956 07 05 And 10",
+      "-source": "1956_07_05_and_10.pdf"
+    },
+    {
+      "id": "1956_08_09_Weeks_to_DDE",
+      "doc_name": "1956 08 09 Weeks To Dde",
+      "-source": "1956_08_09_Weeks_to_DDE.pdf"
+    },
+    {
+      "id": "1956_08_14_Diary_Entry",
+      "doc_name": "1956 08 14 Diary Entry",
+      "-source": "1956_08_14_Diary_Entry.pdf"
+    },
+    {
+      "id": "1956_08_29",
+      "doc_name": "1956 08 29",
+      "-source": "1956_08_29.pdf"
+    },
+    {
+      "id": "1956_09_11",
+      "doc_name": "1956 09 11",
+      "-source": "1956_09_11.pdf"
+    },
+    {
+      "id": "1956_10_03",
+      "doc_name": "1956 10 03",
+      "-source": "1956_10_03.pdf"
+    },
+    {
+      "id": "1956_10_23_Rabb_to_Hagerty",
+      "doc_name": "1956 10 23 Rabb To Hagerty",
+      "-source": "1956_10_23_Rabb_to_Hagerty.pdf"
+    },
+    {
+      "id": "1956_10_24_Hoover_to_Jackson",
+      "doc_name": "1956 10 24 Hoover To Jackson",
+      "-source": "1956_10_24_Hoover_to_Jackson.pdf"
+    },
+    {
+      "id": "1956_10_24_Participants",
+      "doc_name": "1956 10 24 Participants",
+      "-source": "1956_10_24_Participants.pdf"
+    },
+    {
+      "id": "1956_10_24_Rabb_to_Hagerty",
+      "doc_name": "1956 10 24 Rabb To Hagerty",
+      "-source": "1956_10_24_Rabb_to_Hagerty.pdf"
+    },
+    {
+      "id": "1956_10_24",
+      "doc_name": "1956 10 24",
+      "-source": "1956_10_24.pdf"
+    },
+    {
+      "id": "1956_10_Communist_Party_and_the_Negro",
+      "doc_name": "1956 10 Communist Party And The Negro",
+      "-source": "1956_10_Communist_Party_and_the_Negro.pdf"
+    },
+    {
+      "id": "1956_12_21",
+      "doc_name": "1956 12 21",
+      "-source": "1956_12_21.pdf"
+    },
+    {
+      "id": "1957_01_08",
+      "doc_name": "1957 01 08",
+      "-source": "1957_01_08.pdf"
+    },
+    {
+      "id": "1957_1_11",
+      "doc_name": "1957 1 11",
+      "-source": "1957_1_11.pdf"
+    },
+    {
+      "id": "1957_01_11",
+      "doc_name": "1957 01 11",
+      "-source": "1957_01_11.pdf"
+    },
+    {
+      "id": "1957_01_18",
+      "doc_name": "1957 01 18",
+      "-source": "1957_01_18.pdf"
+    },
+    {
+      "id": "1957_01_20_photograph",
+      "doc_name": "1957 01 20 Photograph",
+      "-source": "1957_01_20_photograph.pdf"
+    },
+    {
+      "id": "1957_02_08",
+      "doc_name": "1957 02 08",
+      "-source": "1957_02_08.pdf"
+    },
+    {
+      "id": "1957_02_16",
+      "doc_name": "1957 02 16",
+      "-source": "1957_02_16.pdf"
+    },
+    {
+      "id": "1957_03_06_Memo",
+      "doc_name": "1957 03 06 Memo",
+      "-source": "1957_03_06_Memo.pdf"
+    },
+    {
+      "id": "1957_03_28_Powell_to_DDE",
+      "doc_name": "1957 03 28 Powell To Dde",
+      "-source": "1957_03_28_Powell_to_DDE.pdf"
+    },
+    {
+      "id": "1957_04_02",
+      "doc_name": "1957 04 02",
+      "-source": "1957_04_02.pdf"
+    },
+    {
+      "id": "1957_04_17_Rabb_to_Adams",
+      "doc_name": "1957 04 17 Rabb To Adams",
+      "-source": "1957_04_17_Rabb_to_Adams.pdf"
+    },
+    {
+      "id": "1957_06_04_Morrow_to_Adams",
+      "doc_name": "1957 06 04 Morrow To Adams",
+      "-source": "1957_06_04_Morrow_to_Adams.pdf"
+    },
+    {
+      "id": "1957_06_04",
+      "doc_name": "1957 06 04",
+      "-source": "1957_06_04.pdf"
+    },
+    {
+      "id": "1957_06_19",
+      "doc_name": "1957 06 19",
+      "-source": "1957_06_19.pdf"
+    },
+    {
+      "id": "1957_06_24_Rabb_to_Adams",
+      "doc_name": "1957 06 24 Rabb To Adams",
+      "-source": "1957_06_24_Rabb_to_Adams.pdf"
+    },
+    {
+      "id": "1957_6_30_Press_Release",
+      "doc_name": "1957 6 30 Press Release",
+      "-source": "1957_6_30_Press_Release.pdf"
+    },
+    {
+      "id": "1957_07_12_Morrow_to_Adams",
+      "doc_name": "1957 07 12 Morrow To Adams",
+      "-source": "1957_07_12_Morrow_to_Adams.pdf"
+    },
+    {
+      "id": "1957_07_18_Washington_to_DDE",
+      "doc_name": "1957 07 18 Washington To Dde",
+      "-source": "1957_07_18_Washington_to_DDE.pdf"
+    },
+    {
+      "id": "1957_07_22_DDE_to_Hazlett",
+      "doc_name": "1957 07 22 Dde To Hazlett",
+      "-source": "1957_07_22_DDE_to_Hazlett.pdf"
+    },
+    {
+      "id": "1957_08_20_MFR",
+      "doc_name": "1957 08 20 Mfr",
+      "-source": "1957_08_20_MFR.pdf"
+    },
+    {
+      "id": "1957_08_26",
+      "doc_name": "1957 08 26",
+      "-source": "1957_08_26.pdf"
+    },
+    {
+      "id": "1957_08_29",
+      "doc_name": "1957 08 29",
+      "-source": "1957_08_29.pdf"
+    },
+    {
+      "id": "1957_08_30_Press_Release_Powell",
+      "doc_name": "1957 08 30 Press Release Powell",
+      "-source": "1957_08_30_Press_Release_Powell.pdf"
+    },
+    {
+      "id": "1957_09_06",
+      "doc_name": "1957 09 06",
+      "-source": "1957_09_06.pdf"
+    },
+    {
+      "id": "1957_09_11",
+      "doc_name": "1957 09 11",
+      "-source": "1957_09_11.pdf"
+    },
+    {
+      "id": "1957_09_12_Faubus_to_DDE",
+      "doc_name": "1957 09 12 Faubus To Dde",
+      "-source": "1957_09_12_Faubus_to_DDE.pdf"
+    },
+    {
+      "id": "1957_9_18_allen",
+      "doc_name": "1957 9 18 Allen",
+      "-source": "1957_9_18_allen.pdf"
+    },
+    {
+      "id": "1957_09_18_MFR",
+      "doc_name": "1957 09 18 Mfr",
+      "-source": "1957_09_18_MFR.pdf"
+    },
+    {
+      "id": "1957_09_21_Statement_by_President",
+      "doc_name": "1957 09 21 Statement By President",
+      "-source": "1957_09_21_Statement_by_President.pdf"
+    },
+    {
+      "id": "1957_9_23_allison",
+      "doc_name": "1957 9 23 Allison",
+      "-source": "1957_9_23_allison.pdf"
+    },
+    {
+      "id": "1957_09_23_Mann_to_DDE",
+      "doc_name": "1957 09 23 Mann To Dde",
+      "-source": "1957_09_23_Mann_to_DDE.pdf"
+    },
+    {
+      "id": "1957_09_24_DDE_to_Gruenther",
+      "doc_name": "1957 09 24 Dde To Gruenther",
+      "-source": "1957_09_24_DDE_to_Gruenther.pdf"
+    },
+    {
+      "id": "1957_9_24_helen_armstrong",
+      "doc_name": "1957 9 24 Helen Armstrong",
+      "-source": "1957_9_24_helen_armstrong.pdf"
+    },
+    {
+      "id": "1957_9_24_jh_armstrong",
+      "doc_name": "1957 9 24 Jh Armstrong",
+      "-source": "1957_9_24_jh_armstrong.pdf"
+    },
+    {
+      "id": "1957_09_24_Mann_to_DDE",
+      "doc_name": "1957 09 24 Mann To Dde",
+      "-source": "1957_09_24_Mann_to_DDE.pdf"
+    },
+    {
+      "id": "1957_09_24_Press_Release",
+      "doc_name": "1957 09 24 Press Release",
+      "-source": "1957_09_24_Press_Release.pdf"
+    },
+    {
+      "id": "1957_09_24_Telephone_Calls",
+      "doc_name": "1957 09 24 Telephone Calls",
+      "-source": "1957_09_24_Telephone_Calls.pdf"
+    },
+    {
+      "id": "1957_9_25_adair",
+      "doc_name": "1957 9 25 Adair",
+      "-source": "1957_9_25_adair.pdf"
+    },
+    {
+      "id": "1957_9_25_alexander",
+      "doc_name": "1957 9 25 Alexander",
+      "-source": "1957_9_25_alexander.pdf"
+    },
+    {
+      "id": "1957_9_25_allen",
+      "doc_name": "1957 9 25 Allen",
+      "-source": "1957_9_25_allen.pdf"
+    },
+    {
+      "id": "1957_9_25_ashdown",
+      "doc_name": "1957 9 25 Ashdown",
+      "-source": "1957_9_25_ashdown.pdf"
+    },
+    {
+      "id": "1957_09_25_Telephone_Calls",
+      "doc_name": "1957 09 25 Telephone Calls",
+      "-source": "1957_09_25_Telephone_Calls.pdf"
+    },
+    {
+      "id": "1957_09_26_Harris_to_DDE",
+      "doc_name": "1957 09 26 Harris To Dde",
+      "-source": "1957_09_26_Harris_to_DDE.pdf"
+    },
+    {
+      "id": "1957_9_27_allen",
+      "doc_name": "1957 9 27 Allen",
+      "-source": "1957_9_27_allen.pdf"
+    },
+    {
+      "id": "1957_09_27_DDE_to_Russell",
+      "doc_name": "1957 09 27 Dde To Russell",
+      "-source": "1957_09_27_DDE_to_Russell.pdf"
+    },
+    {
+      "id": "1957_09_27_Rabb_to_Adams",
+      "doc_name": "1957 09 27 Rabb To Adams",
+      "-source": "1957_09_27_Rabb_to_Adams.pdf"
+    },
+    {
+      "id": "1957_09_27_Russell_to_DDE",
+      "doc_name": "1957 09 27 Russell To Dde",
+      "-source": "1957_09_27_Russell_to_DDE.pdf"
+    },
+    {
+      "id": "1957_9_29_anderson",
+      "doc_name": "1957 9 29 Anderson",
+      "-source": "1957_9_29_anderson.pdf"
+    },
+    {
+      "id": "1957_09_30_DDE_to_Harris",
+      "doc_name": "1957 09 30 Dde To Harris",
+      "-source": "1957_09_30_DDE_to_Harris.pdf"
+    },
+    {
+      "id": "1957_10_1_adams",
+      "doc_name": "1957 10 1 Adams",
+      "-source": "1957_10_1_adams.pdf"
+    },
+    {
+      "id": "1957_10_1_anderson",
+      "doc_name": "1957 10 1 Anderson",
+      "-source": "1957_10_1_anderson.pdf"
+    },
+    {
+      "id": "1957_10_01_Stennis_to_DDE",
+      "doc_name": "1957 10 01 Stennis To Dde",
+      "-source": "1957_10_01_Stennis_to_DDE.pdf"
+    },
+    {
+      "id": "1957_10_2_morgan",
+      "doc_name": "1957 10 2 Morgan",
+      "-source": "1957_10_2_morgan.pdf"
+    },
+    {
+      "id": "1957_10_3_adam",
+      "doc_name": "1957 10 3 Adam",
+      "-source": "1957_10_3_adam.pdf"
+    },
+    {
+      "id": "1957_10_04_DDE_to_Brown",
+      "doc_name": "1957 10 04 Dde To Brown",
+      "-source": "1957_10_04_DDE_to_Brown.pdf"
+    },
+    {
+      "id": "1957_10_07_DDE_to_Stennis",
+      "doc_name": "1957 10 07 Dde To Stennis",
+      "-source": "1957_10_07_DDE_to_Stennis.pdf"
+    },
+    {
+      "id": "1957_10_8_armstrong",
+      "doc_name": "1957 10 8 Armstrong",
+      "-source": "1957_10_8_armstrong.pdf"
+    },
+    {
+      "id": "1957_10_08_Diary_Notes_Faubus_Meeting",
+      "doc_name": "1957 10 08 Diary Notes Faubus Meeting",
+      "-source": "1957_10_08_Diary_Notes_Faubus_Meeting.pdf"
+    },
+    {
+      "id": "1957_10_9_adkins",
+      "doc_name": "1957 10 9 Adkins",
+      "-source": "1957_10_9_adkins.pdf"
+    },
+    {
+      "id": "1957_10_10_anderson",
+      "doc_name": "1957 10 10 Anderson",
+      "-source": "1957_10_10_anderson.pdf"
+    },
+    {
+      "id": "1957_10_10_austin",
+      "doc_name": "1957 10 10 Austin",
+      "-source": "1957_10_10_austin.pdf"
+    },
+    {
+      "id": "1957_10_10_aycock",
+      "doc_name": "1957 10 10 Aycock",
+      "-source": "1957_10_10_aycock.pdf"
+    },
+    {
+      "id": "1957_10_12_anderson",
+      "doc_name": "1957 10 12 Anderson",
+      "-source": "1957_10_12_anderson.pdf"
+    },
+    {
+      "id": "1957_10_14_albright",
+      "doc_name": "1957 10 14 Albright",
+      "-source": "1957_10_14_albright.pdf"
+    },
+    {
+      "id": "1957_10_15_anderson",
+      "doc_name": "1957 10 15 Anderson",
+      "-source": "1957_10_15_anderson.pdf"
+    },
+    {
+      "id": "1957_10_17_albanese",
+      "doc_name": "1957 10 17 Albanese",
+      "-source": "1957_10_17_albanese.pdf"
+    },
+    {
+      "id": "1957_10_25_arnold",
+      "doc_name": "1957 10 25 Arnold",
+      "-source": "1957_10_25_arnold.pdf"
+    },
+    {
+      "id": "1957_10_25",
+      "doc_name": "1957 10 25",
+      "-source": "1957_10_25.pdf"
+    },
+    {
+      "id": "1957_10_28_Rankin_to_Sherman",
+      "doc_name": "1957 10 28 Rankin To Sherman",
+      "-source": "1957_10_28_Rankin_to_Sherman.pdf"
+    },
+    {
+      "id": "1957_10_albertson",
+      "doc_name": "1957 10 Albertson",
+      "-source": "1957_10_albertson.pdf"
+    },
+    {
+      "id": "1957_10_atwood",
+      "doc_name": "1957 10 Atwood",
+      "-source": "1957_10_atwood.pdf"
+    },
+    {
+      "id": "1957_11_1_aldridge",
+      "doc_name": "1957 11 1 Aldridge",
+      "-source": "1957_11_1_aldridge.pdf"
+    },
+    {
+      "id": "1957_11_12_Rabb_to_Adams",
+      "doc_name": "1957 11 12 Rabb To Adams",
+      "-source": "1957_11_12_Rabb_to_Adams.pdf"
+    },
+    {
+      "id": "1957_11_26_allen",
+      "doc_name": "1957 11 26 Allen",
+      "-source": "1957_11_26_allen.pdf"
+    },
+    {
+      "id": "1957_12_19",
+      "doc_name": "1957 12 19",
+      "-source": "1957_12_19.pdf"
+    },
+    {
+      "id": "1958_02_10_Press_Release",
+      "doc_name": "1958 02 10 Press Release",
+      "-source": "1958_02_10_Press_Release.pdf"
+    },
+    {
+      "id": "1958_02_10",
+      "doc_name": "1958 02 10",
+      "-source": "1958_02_10.pdf"
+    },
+    {
+      "id": "1958_02_11_Memo",
+      "doc_name": "1958 02 11 Memo",
+      "-source": "1958_02_11_Memo.pdf"
+    },
+    {
+      "id": "1958_02_20",
+      "doc_name": "1958 02 20",
+      "-source": "1958_02_20.pdf"
+    },
+    {
+      "id": "1958_03_01",
+      "doc_name": "1958 03 01",
+      "-source": "1958_03_01.pdf"
+    },
+    {
+      "id": "1958_03_21",
+      "doc_name": "1958 03 21",
+      "-source": "1958_03_21.pdf"
+    },
+    {
+      "id": "1958_04_10_Merriam_to_DDE",
+      "doc_name": "1958 04 10 Merriam To Dde",
+      "-source": "1958_04_10_Merriam_to_DDE.pdf"
+    },
+    {
+      "id": "1958_04_16_Statement",
+      "doc_name": "1958 04 16 Statement",
+      "-source": "1958_04_16_Statement.pdf"
+    },
+    {
+      "id": "1958_04_22",
+      "doc_name": "1958 04 22",
+      "-source": "1958_04_22.pdf"
+    },
+    {
+      "id": "1958_04_28",
+      "doc_name": "1958 04 28",
+      "-source": "1958_04_28.pdf"
+    },
+    {
+      "id": "1958_05_13_Castle_to_Stephens",
+      "doc_name": "1958 05 13 Castle To Stephens",
+      "-source": "1958_05_13_Castle_to_Stephens.pdf"
+    },
+    {
+      "id": "1958_05_13_Robinson_to_DDE",
+      "doc_name": "1958 05 13 Robinson To Dde",
+      "-source": "1958_05_13_Robinson_to_DDE.pdf"
+    },
+    {
+      "id": "1958_05_23",
+      "doc_name": "1958 05 23",
+      "-source": "1958_05_23.pdf"
+    },
+    {
+      "id": "1958_06_04_DDE_to_Robinson",
+      "doc_name": "1958 06 04 Dde To Robinson",
+      "-source": "1958_06_04_DDE_to_Robinson.pdf"
+    },
+    {
+      "id": "1958_06_09",
+      "doc_name": "1958 06 09",
+      "-source": "1958_06_09.pdf"
+    },
+    {
+      "id": "1958_06_23_Meeting_of_Negro_Leaders",
+      "doc_name": "1958 06 23 Meeting Of Negro Leaders",
+      "-source": "1958_06_23_Meeting_of_Negro_Leaders.pdf"
+    },
+    {
+      "id": "1958_06_24_Seaton_to_DDE",
+      "doc_name": "1958 06 24 Seaton To Dde",
+      "-source": "1958_06_24_Seaton_to_DDE.pdf"
+    },
+    {
+      "id": "1958_06_25_Siciliano_to_DDE",
+      "doc_name": "1958 06 25 Siciliano To Dde",
+      "-source": "1958_06_25_Siciliano_to_DDE.pdf"
+    },
+    {
+      "id": "1958_06_25_Wilkins_to_DDE",
+      "doc_name": "1958 06 25 Wilkins To Dde",
+      "-source": "1958_06_25_Wilkins_to_DDE.pdf"
+    },
+    {
+      "id": "1958_06_25",
+      "doc_name": "1958 06 25",
+      "-source": "1958_06_25.pdf"
+    },
+    {
+      "id": "1958_07_01_Statement",
+      "doc_name": "1958 07 01 Statement",
+      "-source": "1958_07_01_Statement.pdf"
+    },
+    {
+      "id": "1958_7_2",
+      "doc_name": "1958 7 2",
+      "-source": "1958_7_2.pdf"
+    },
+    {
+      "id": "1958_07_04_Stephens_to_Adams",
+      "doc_name": "1958 07 04 Stephens To Adams",
+      "-source": "1958_07_04_Stephens_to_Adams.pdf"
+    },
+    {
+      "id": "1958_07_07_DDE_to_Stepovich",
+      "doc_name": "1958 07 07 Dde To Stepovich",
+      "-source": "1958_07_07_DDE_to_Stepovich.pdf"
+    },
+    {
+      "id": "1958_07_07_Press_Release",
+      "doc_name": "1958 07 07 Press Release",
+      "-source": "1958_07_07_Press_Release.pdf"
+    },
+    {
+      "id": "1958_07_11_Castle_to_DDE",
+      "doc_name": "1958 07 11 Castle To Dde",
+      "-source": "1958_07_11_Castle_to_DDE.pdf"
+    },
+    {
+      "id": "1958_07_11_Itinerary",
+      "doc_name": "1958 07 11 Itinerary",
+      "-source": "1958_07_11_Itinerary.pdf"
+    },
+    {
+      "id": "1958_07_12_DDE_to_Castle",
+      "doc_name": "1958 07 12 Dde To Castle",
+      "-source": "1958_07_12_DDE_to_Castle.pdf"
+    },
+    {
+      "id": "1958_07_17_Stans_to_DDE",
+      "doc_name": "1958 07 17 Stans To Dde",
+      "-source": "1958_07_17_Stans_to_DDE.pdf"
+    },
+    {
+      "id": "1958_07_18_DDE_to_Stans",
+      "doc_name": "1958 07 18 Dde To Stans",
+      "-source": "1958_07_18_DDE_to_Stans.pdf"
+    },
+    {
+      "id": "1958_07_30",
+      "doc_name": "1958 07 30",
+      "-source": "1958_07_30.pdf"
+    },
+    {
+      "id": "1958_08_01_low_altitude_threat",
+      "doc_name": "1958 08 01 Low Altitude Threat",
+      "-source": "1958_08_01_low_altitude_threat.pdf"
+    },
+    {
+      "id": "1958_08_01_operation_us_ground_radars",
+      "doc_name": "1958 08 01 Operation Us Ground Radars",
+      "-source": "1958_08_01_operation_us_ground_radars.pdf"
+    },
+    {
+      "id": "1958_08_01_radar_coverage",
+      "doc_name": "1958 08 01 Radar Coverage",
+      "-source": "1958_08_01_radar_coverage.pdf"
+    },
+    {
+      "id": "1958_8_3",
+      "doc_name": "1958 8 3",
+      "-source": "1958_8_3.pdf"
+    },
+    {
+      "id": "1958_08_04_Bulletin_59_1",
+      "doc_name": "1958 08 04 Bulletin 59 1",
+      "-source": "1958_08_04_Bulletin_59_1.pdf"
+    },
+    {
+      "id": "1958_08_06_dept_sgd_herter",
+      "doc_name": "1958 08 06 Dept Sgd Herter",
+      "-source": "1958_08_06_dept_sgd_herter.pdf"
+    },
+    {
+      "id": "1958_8_8_Press_Release",
+      "doc_name": "1958 8 8 Press Release",
+      "-source": "1958_8_8_Press_Release.pdf"
+    },
+    {
+      "id": "1958_8_8_Press_Releases",
+      "doc_name": "1958 8 8 Press Releases",
+      "-source": "1958_8_8_Press_Releases.pdf"
+    },
+    {
+      "id": "1958_8_8_Telegram",
+      "doc_name": "1958 8 8 Telegram",
+      "-source": "1958_8_8_Telegram.pdf"
+    },
+    {
+      "id": "1958_8_11",
+      "doc_name": "1958 8 11",
+      "-source": "1958_8_11.pdf"
+    },
+    {
+      "id": "1958_08_14",
+      "doc_name": "1958 08 14",
+      "-source": "1958_08_14.pdf"
+    },
+    {
+      "id": "1958_08_15",
+      "doc_name": "1958 08 15",
+      "-source": "1958_08_15.pdf"
+    },
+    {
+      "id": "1958_8_18_Adenauer",
+      "doc_name": "1958 8 18 Adenauer",
+      "-source": "1958_8_18_Adenauer.pdf"
+    },
+    {
+      "id": "1958_8_18_Fanfani",
+      "doc_name": "1958 8 18 Fanfani",
+      "-source": "1958_8_18_Fanfani.pdf"
+    },
+    {
+      "id": "1958_8_18_News_Conference",
+      "doc_name": "1958 8 18 News Conference",
+      "-source": "1958_8_18_News_Conference.pdf"
+    },
+    {
+      "id": "1958_08_22",
+      "doc_name": "1958 08 22",
+      "-source": "1958_08_22.pdf"
+    },
+    {
+      "id": "1958_09_05",
+      "doc_name": "1958 09 05",
+      "-source": "1958_09_05.pdf"
+    },
+    {
+      "id": "1958_9_12_beckwith",
+      "doc_name": "1958 9 12 Beckwith",
+      "-source": "1958_9_12_beckwith.pdf"
+    },
+    {
+      "id": "1958_09_15_Design_C",
+      "doc_name": "1958 09 15 Design C",
+      "-source": "1958_09_15_Design_C.pdf"
+    },
+    {
+      "id": "1958_09_15_Letter",
+      "doc_name": "1958 09 15 Letter",
+      "-source": "1958_09_15_Letter.pdf"
+    },
+    {
+      "id": "1958_09_18",
+      "doc_name": "1958 09 18",
+      "-source": "1958_09_18.pdf"
+    },
+    {
+      "id": "1958_09_19",
+      "doc_name": "1958 09 19",
+      "-source": "1958_09_19.pdf"
+    },
+    {
+      "id": "1958_10_08 copy",
+      "doc_name": "1958 10 08 Copy",
+      "-source": "1958_10_08 copy.pdf"
+    },
+    {
+      "id": "1958_10_08",
+      "doc_name": "1958 10 08",
+      "-source": "1958_10_08.pdf"
+    },
+    {
+      "id": "1958_10_10",
+      "doc_name": "1958 10 10",
+      "-source": "1958_10_10.pdf"
+    },
+    {
+      "id": "1958_10_16",
+      "doc_name": "1958 10 16",
+      "-source": "1958_10_16.pdf"
+    },
+    {
+      "id": "1958_11_05",
+      "doc_name": "1958 11 05",
+      "-source": "1958_11_05.pdf"
+    },
+    {
+      "id": "1958_11_12_Tentative_Visit",
+      "doc_name": "1958 11 12 Tentative Visit",
+      "-source": "1958_11_12_Tentative_Visit.pdf"
+    },
+    {
+      "id": "1958_11_17_Aspen",
+      "doc_name": "1958 11 17 Aspen",
+      "-source": "1958_11_17_Aspen.pdf"
+    },
+    {
+      "id": "1958_11_18_Canada_to_Secretary_of_State",
+      "doc_name": "1958 11 18 Canada To Secretary Of State",
+      "-source": "1958_11_18_Canada_to_Secretary_of_State.pdf"
+    },
+    {
+      "id": "1958_11_19_Conger_to_Stephens",
+      "doc_name": "1958 11 19 Conger To Stephens",
+      "-source": "1958_11_19_Conger_to_Stephens.pdf"
+    },
+    {
+      "id": "1958_11_19",
+      "doc_name": "1958 11 19",
+      "-source": "1958_11_19.pdf"
+    },
+    {
+      "id": "1958_11_26",
+      "doc_name": "1958 11 26",
+      "-source": "1958_11_26.pdf"
+    },
+    {
+      "id": "1958_12_03",
+      "doc_name": "1958 12 03",
+      "-source": "1958_12_03.pdf"
+    },
+    {
+      "id": "1958_12_10",
+      "doc_name": "1958 12 10",
+      "-source": "1958_12_10.pdf"
+    },
+    {
+      "id": "1958_12_22",
+      "doc_name": "1958 12 22",
+      "-source": "1958_12_22.pdf"
+    },
+    {
+      "id": "1958_12_30_Memo",
+      "doc_name": "1958 12 30 Memo",
+      "-source": "1958_12_30_Memo.pdf"
+    },
+    {
+      "id": "1958_12_30_Press_Conference",
+      "doc_name": "1958 12 30 Press Conference",
+      "-source": "1958_12_30_Press_Conference.pdf"
+    },
+    {
+      "id": "1958_12_31_Memo",
+      "doc_name": "1958 12 31 Memo",
+      "-source": "1958_12_31_Memo.pdf"
+    },
+    {
+      "id": "1958_12_31_Rogers_to_DDE",
+      "doc_name": "1958 12 31 Rogers To Dde",
+      "-source": "1958_12_31_Rogers_to_DDE.pdf"
+    },
+    {
+      "id": "1958_Statehood_for_Alaska_and_Hawaii",
+      "doc_name": "1958 Statehood For Alaska And Hawaii",
+      "-source": "1958_Statehood_for_Alaska_and_Hawaii.pdf"
+    },
+    {
+      "id": "1959_01_03_Executive_Order",
+      "doc_name": "1959 01 03 Executive Order",
+      "-source": "1959_01_03_Executive_Order.pdf"
+    },
+    {
+      "id": "1959_01_03_Press_Conference",
+      "doc_name": "1959 01 03 Press Conference",
+      "-source": "1959_01_03_Press_Conference.pdf"
+    },
+    {
+      "id": "1959_01_03_Press_Release",
+      "doc_name": "1959 01 03 Press Release",
+      "-source": "1959_01_03_Press_Release.pdf"
+    },
+    {
+      "id": "1959_01_03_Proclamation_3269",
+      "doc_name": "1959 01 03 Proclamation 3269",
+      "-source": "1959_01_03_Proclamation_3269.pdf"
+    },
+    {
+      "id": "1959_01_14",
+      "doc_name": "1959 01 14",
+      "-source": "1959_01_14.pdf"
+    },
+    {
+      "id": "1959_01_15 copy",
+      "doc_name": "1959 01 15 Copy",
+      "-source": "1959_01_15 copy.pdf"
+    },
+    {
+      "id": "1959_01_15_JFD_to_DDE",
+      "doc_name": "1959 01 15 Jfd To Dde",
+      "-source": "1959_01_15_JFD_to_DDE.pdf"
+    },
+    {
+      "id": "1959_01_15",
+      "doc_name": "1959 01 15",
+      "-source": "1959_01_15.pdf"
+    },
+    {
+      "id": "1959_01_22",
+      "doc_name": "1959 01 22",
+      "-source": "1959_01_22.pdf"
+    },
+    {
+      "id": "1959_01_23",
+      "doc_name": "1959 01 23",
+      "-source": "1959_01_23.pdf"
+    },
+    {
+      "id": "1959_02_04_Seaton_to_DDE",
+      "doc_name": "1959 02 04 Seaton To Dde",
+      "-source": "1959_02_04_Seaton_to_DDE.pdf"
+    },
+    {
+      "id": "1959_02_06_Cablegram",
+      "doc_name": "1959 02 06 Cablegram",
+      "-source": "1959_02_06_Cablegram.pdf"
+    },
+    {
+      "id": "1959_02_12 copy",
+      "doc_name": "1959 02 12 Copy",
+      "-source": "1959_02_12 copy.pdf"
+    },
+    {
+      "id": "1959_02_12",
+      "doc_name": "1959 02 12",
+      "-source": "1959_02_12.pdf"
+    },
+    {
+      "id": "1959_02_13",
+      "doc_name": "1959 02 13",
+      "-source": "1959_02_13.pdf"
+    },
+    {
+      "id": "1959_02_18",
+      "doc_name": "1959 02 18",
+      "-source": "1959_02_18.pdf"
+    },
+    {
+      "id": "1959_02_20_Resolution",
+      "doc_name": "1959 02 20 Resolution",
+      "-source": "1959_02_20_Resolution.pdf"
+    },
+    {
+      "id": "1959_02_26_DDE_to_McGill",
+      "doc_name": "1959 02 26 Dde To Mcgill",
+      "-source": "1959_02_26_DDE_to_McGill.pdf"
+    },
+    {
+      "id": "1959_03_04_DDE_to_Seaton",
+      "doc_name": "1959 03 04 Dde To Seaton",
+      "-source": "1959_03_04_DDE_to_Seaton.pdf"
+    },
+    {
+      "id": "1959_03_04_DDE_to_Tawes",
+      "doc_name": "1959 03 04 Dde To Tawes",
+      "-source": "1959_03_04_DDE_to_Tawes.pdf"
+    },
+    {
+      "id": "1959_03_11",
+      "doc_name": "1959 03 11",
+      "-source": "1959_03_11.pdf"
+    },
+    {
+      "id": "1959_03_18_Press_Release_Signing_Statement",
+      "doc_name": "1959 03 18 Press Release Signing Statement",
+      "-source": "1959_03_18_Press_Release_Signing_Statement.pdf"
+    },
+    {
+      "id": "1959_03_18_Press_Release",
+      "doc_name": "1959 03 18 Press Release",
+      "-source": "1959_03_18_Press_Release.pdf"
+    },
+    {
+      "id": "1959_03_19",
+      "doc_name": "1959 03 19",
+      "-source": "1959_03_19.pdf"
+    },
+    {
+      "id": "1959_03_23",
+      "doc_name": "1959 03 23",
+      "-source": "1959_03_23.pdf"
+    },
+    {
+      "id": "1959_03_30",
+      "doc_name": "1959 03 30",
+      "-source": "1959_03_30.pdf"
+    },
+    {
+      "id": "1959_03_31",
+      "doc_name": "1959 03 31",
+      "-source": "1959_03_31.pdf"
+    },
+    {
+      "id": "1959_03",
+      "doc_name": "1959 03",
+      "-source": "1959_03.pdf"
+    },
+    {
+      "id": "1959_04_2_4",
+      "doc_name": "1959 04 2 4",
+      "-source": "1959_04_2_4.pdf"
+    },
+    {
+      "id": "1959_04_03",
+      "doc_name": "1959 04 03",
+      "-source": "1959_04_03.pdf"
+    },
+    {
+      "id": "1959_04_08_Bulletin",
+      "doc_name": "1959 04 08 Bulletin",
+      "-source": "1959_04_08_Bulletin.pdf"
+    },
+    {
+      "id": "1959_04_11",
+      "doc_name": "1959 04 11",
+      "-source": "1959_04_11.pdf"
+    },
+    {
+      "id": "1959_04_16",
+      "doc_name": "1959 04 16",
+      "-source": "1959_04_16.pdf"
+    },
+    {
+      "id": "1959_04_27",
+      "doc_name": "1959 04 27",
+      "-source": "1959_04_27.pdf"
+    },
+    {
+      "id": "1959_05_01_Castle_to_DDE",
+      "doc_name": "1959 05 01 Castle To Dde",
+      "-source": "1959_05_01_Castle_to_DDE.pdf"
+    },
+    {
+      "id": "1959_05_05 copy",
+      "doc_name": "1959 05 05 Copy",
+      "-source": "1959_05_05 copy.pdf"
+    },
+    {
+      "id": "1959_05_05",
+      "doc_name": "1959 05 05",
+      "-source": "1959_05_05.pdf"
+    },
+    {
+      "id": "1959_05_07",
+      "doc_name": "1959 05 07",
+      "-source": "1959_05_07.pdf"
+    },
+    {
+      "id": "1959_05_20_Press_Release",
+      "doc_name": "1959 05 20 Press Release",
+      "-source": "1959_05_20_Press_Release.pdf"
+    },
+    {
+      "id": "1959_05_20",
+      "doc_name": "1959 05 20",
+      "-source": "1959_05_20.pdf"
+    },
+    {
+      "id": "1959_05_22",
+      "doc_name": "1959 05 22",
+      "-source": "1959_05_22.pdf"
+    },
+    {
+      "id": "1959_05_24",
+      "doc_name": "1959 05 24",
+      "-source": "1959_05_24.pdf"
+    },
+    {
+      "id": "1959_05_25",
+      "doc_name": "1959 05 25",
+      "-source": "1959_05_25.pdf"
+    },
+    {
+      "id": "1959_05_27_Queen_Elizabeth_to_DDE",
+      "doc_name": "1959 05 27 Queen Elizabeth To Dde",
+      "-source": "1959_05_27_Queen_Elizabeth_to_DDE.pdf"
+    },
+    {
+      "id": "1959_06_16",
+      "doc_name": "1959 06 16",
+      "-source": "1959_06_16.pdf"
+    },
+    {
+      "id": "1959_06_17_Celebration_Schedule",
+      "doc_name": "1959 06 17 Celebration Schedule",
+      "-source": "1959_06_17_Celebration_Schedule.pdf"
+    },
+    {
+      "id": "1959_06_18",
+      "doc_name": "1959 06 18",
+      "-source": "1959_06_18.pdf"
+    },
+    {
+      "id": "1959_06_24",
+      "doc_name": "1959 06 24",
+      "-source": "1959_06_24.pdf"
+    },
+    {
+      "id": "1959_06_29_DDE_to_Diefenbaker",
+      "doc_name": "1959 06 29 Dde To Diefenbaker",
+      "-source": "1959_06_29_DDE_to_Diefenbaker.pdf"
+    },
+    {
+      "id": "1959_06_29_DDE_to_Queen_Elizabeth",
+      "doc_name": "1959 06 29 Dde To Queen Elizabeth",
+      "-source": "1959_06_29_DDE_to_Queen_Elizabeth.pdf"
+    },
+    {
+      "id": "1959_07_02_Quinn_to_DDE",
+      "doc_name": "1959 07 02 Quinn To Dde",
+      "-source": "1959_07_02_Quinn_to_DDE.pdf"
+    },
+    {
+      "id": "1959_07_04_Program",
+      "doc_name": "1959 07 04 Program",
+      "-source": "1959_07_04_Program.pdf"
+    },
+    {
+      "id": "1959_07_06",
+      "doc_name": "1959 07 06",
+      "-source": "1959_07_06.pdf"
+    },
+    {
+      "id": "1959_07_08",
+      "doc_name": "1959 07 08",
+      "-source": "1959_07_08.pdf"
+    },
+    {
+      "id": "1959_07_10",
+      "doc_name": "1959 07 10",
+      "-source": "1959_07_10.pdf"
+    },
+    {
+      "id": "1959_07_20",
+      "doc_name": "1959 07 20",
+      "-source": "1959_07_20.pdf"
+    },
+    {
+      "id": "1959_07_23",
+      "doc_name": "1959 07 23",
+      "-source": "1959_07_23.pdf"
+    },
+    {
+      "id": "1959_08_04",
+      "doc_name": "1959 08 04",
+      "-source": "1959_08_04.pdf"
+    },
+    {
+      "id": "1959_08_17 copy",
+      "doc_name": "1959 08 17 Copy",
+      "-source": "1959_08_17 copy.pdf"
+    },
+    {
+      "id": "1959_08_17",
+      "doc_name": "1959 08 17",
+      "-source": "1959_08_17.pdf"
+    },
+    {
+      "id": "1959_08_21_Design_for_EO_10834",
+      "doc_name": "1959 08 21 Design For Eo 10834",
+      "-source": "1959_08_21_Design_for_EO_10834.pdf"
+    },
+    {
+      "id": "1959_08_21_Executive_Order",
+      "doc_name": "1959 08 21 Executive Order",
+      "-source": "1959_08_21_Executive_Order.pdf"
+    },
+    {
+      "id": "1959_08_21_Proclamation_3309",
+      "doc_name": "1959 08 21 Proclamation 3309",
+      "-source": "1959_08_21_Proclamation_3309.pdf"
+    },
+    {
+      "id": "1959_08_21_Remarks",
+      "doc_name": "1959 08 21 Remarks",
+      "-source": "1959_08_21_Remarks.pdf"
+    },
+    {
+      "id": "1959_08_21",
+      "doc_name": "1959 08 21",
+      "-source": "1959_08_21.pdf"
+    },
+    {
+      "id": "1959_08_24_DDE_to_Quinn",
+      "doc_name": "1959 08 24 Dde To Quinn",
+      "-source": "1959_08_24_DDE_to_Quinn.pdf"
+    },
+    {
+      "id": "1959_09_17_Hughes_to_DDE",
+      "doc_name": "1959 09 17 Hughes To Dde",
+      "-source": "1959_09_17_Hughes_to_DDE.pdf"
+    },
+    {
+      "id": "1959_09_21_Statement",
+      "doc_name": "1959 09 21 Statement",
+      "-source": "1959_09_21_Statement.pdf"
+    },
+    {
+      "id": "1959_09_24",
+      "doc_name": "1959 09 24",
+      "-source": "1959_09_24.pdf"
+    },
+    {
+      "id": "1959_10_22_27",
+      "doc_name": "1959 10 22 27",
+      "-source": "1959_10_22_27.pdf"
+    },
+    {
+      "id": "1959_11_13",
+      "doc_name": "1959 11 13",
+      "-source": "1959_11_13.pdf"
+    },
+    {
+      "id": "1959_11_30_5412_activities",
+      "doc_name": "1959 11 30 5412 Activities",
+      "-source": "1959_11_30_5412_activities.pdf"
+    },
+    {
+      "id": "1960_01_13 copy",
+      "doc_name": "1960 01 13 Copy",
+      "-source": "1960_01_13 copy.pdf"
+    },
+    {
+      "id": "1960_01_13",
+      "doc_name": "1960 01 13",
+      "-source": "1960_01_13.pdf"
+    },
+    {
+      "id": "1960_02_08",
+      "doc_name": "1960 02 08",
+      "-source": "1960_02_08.pdf"
+    },
+    {
+      "id": "1960_02_29",
+      "doc_name": "1960 02 29",
+      "-source": "1960_02_29.pdf"
+    },
+    {
+      "id": "1960_03_10",
+      "doc_name": "1960 03 10",
+      "-source": "1960_03_10.pdf"
+    },
+    {
+      "id": "1960_03_12",
+      "doc_name": "1960 03 12",
+      "-source": "1960_03_12.pdf"
+    },
+    {
+      "id": "1960_03_24",
+      "doc_name": "1960 03 24",
+      "-source": "1960_03_24.pdf"
+    },
+    {
+      "id": "1960_03_25",
+      "doc_name": "1960 03 25",
+      "-source": "1960_03_25.pdf"
+    },
+    {
+      "id": "1960_03_29",
+      "doc_name": "1960 03 29",
+      "-source": "1960_03_29.pdf"
+    },
+    {
+      "id": "1960_04_05",
+      "doc_name": "1960 04 05",
+      "-source": "1960_04_05.pdf"
+    },
+    {
+      "id": "1960_04_08_Meeting",
+      "doc_name": "1960 04 08 Meeting",
+      "-source": "1960_04_08_Meeting.pdf"
+    },
+    {
+      "id": "1960_04_25",
+      "doc_name": "1960 04 25",
+      "-source": "1960_04_25.pdf"
+    },
+    {
+      "id": "1960_05_02",
+      "doc_name": "1960 05 02",
+      "-source": "1960_05_02.pdf"
+    },
+    {
+      "id": "1960_05_04",
+      "doc_name": "1960 05 04",
+      "-source": "1960_05_04.pdf"
+    },
+    {
+      "id": "1960_05_07",
+      "doc_name": "1960 05 07",
+      "-source": "1960_05_07.pdf"
+    },
+    {
+      "id": "1960_05_08_telegram_1083",
+      "doc_name": "1960 05 08 Telegram 1083",
+      "-source": "1960_05_08_telegram_1083.pdf"
+    },
+    {
+      "id": "1960_05_09_telegram_3590",
+      "doc_name": "1960 05 09 Telegram 3590",
+      "-source": "1960_05_09_telegram_3590.pdf"
+    },
+    {
+      "id": "1960_05_10_telegram_2775",
+      "doc_name": "1960 05 10 Telegram 2775",
+      "-source": "1960_05_10_telegram_2775.pdf"
+    },
+    {
+      "id": "1960_05_10_telegram_3603",
+      "doc_name": "1960 05 10 Telegram 3603",
+      "-source": "1960_05_10_telegram_3603.pdf"
+    },
+    {
+      "id": "1960_05_12_telegram_2166",
+      "doc_name": "1960 05 12 Telegram 2166",
+      "-source": "1960_05_12_telegram_2166.pdf"
+    },
+    {
+      "id": "1960_05_13_doc_21",
+      "doc_name": "1960 05 13 Doc 21",
+      "-source": "1960_05_13_doc_21.pdf"
+    },
+    {
+      "id": "1960_05_13_telegram_963",
+      "doc_name": "1960 05 13 Telegram 963",
+      "-source": "1960_05_13_telegram_963.pdf"
+    },
+    {
+      "id": "1960_05_13_telegram_5496",
+      "doc_name": "1960 05 13 Telegram 5496",
+      "-source": "1960_05_13_telegram_5496.pdf"
+    },
+    {
+      "id": "1960_05_14_telegram_2573",
+      "doc_name": "1960 05 14 Telegram 2573",
+      "-source": "1960_05_14_telegram_2573.pdf"
+    },
+    {
+      "id": "1960_05_14_telegram",
+      "doc_name": "1960 05 14 Telegram",
+      "-source": "1960_05_14_telegram.pdf"
+    },
+    {
+      "id": "1960_05_17",
+      "doc_name": "1960 05 17",
+      "-source": "1960_05_17.pdf"
+    },
+    {
+      "id": "1960_05_18_doc_23",
+      "doc_name": "1960 05 18 Doc 23",
+      "-source": "1960_05_18_doc_23.pdf"
+    },
+    {
+      "id": "1960_05_19_doc_12",
+      "doc_name": "1960 05 19 Doc 12",
+      "-source": "1960_05_19_doc_12.pdf"
+    },
+    {
+      "id": "1960_05_20_doc_24",
+      "doc_name": "1960 05 20 Doc 24",
+      "-source": "1960_05_20_doc_24.pdf"
+    },
+    {
+      "id": "1960_05_20_doc_35",
+      "doc_name": "1960 05 20 Doc 35",
+      "-source": "1960_05_20_doc_35.pdf"
+    },
+    {
+      "id": "1960_05_20_telegram_781",
+      "doc_name": "1960 05 20 Telegram 781",
+      "-source": "1960_05_20_telegram_781.pdf"
+    },
+    {
+      "id": "1960_05_20_telegram_2636",
+      "doc_name": "1960 05 20 Telegram 2636",
+      "-source": "1960_05_20_telegram_2636.pdf"
+    },
+    {
+      "id": "1960_05_20_telegram_2638",
+      "doc_name": "1960 05 20 Telegram 2638",
+      "-source": "1960_05_20_telegram_2638.pdf"
+    },
+    {
+      "id": "1960_05_20_telegram_2811",
+      "doc_name": "1960 05 20 Telegram 2811",
+      "-source": "1960_05_20_telegram_2811.pdf"
+    },
+    {
+      "id": "1960_05_20_telegram_secto_56",
+      "doc_name": "1960 05 20 Telegram Secto 56",
+      "-source": "1960_05_20_telegram_secto_56.pdf"
+    },
+    {
+      "id": "1960_05_21_telegram_3784",
+      "doc_name": "1960 05 21 Telegram 3784",
+      "-source": "1960_05_21_telegram_3784.pdf"
+    },
+    {
+      "id": "1960_05_22_doc_13",
+      "doc_name": "1960 05 22 Doc 13",
+      "-source": "1960_05_22_doc_13.pdf"
+    },
+    {
+      "id": "1960_05_27_doc_20",
+      "doc_name": "1960 05 27 Doc 20",
+      "-source": "1960_05_27_doc_20.pdf"
+    },
+    {
+      "id": "1960_06_03",
+      "doc_name": "1960 06 03",
+      "-source": "1960_06_03.pdf"
+    },
+    {
+      "id": "1960_06_11_telegram_3114",
+      "doc_name": "1960 06 11 Telegram 3114",
+      "-source": "1960_06_11_telegram_3114.pdf"
+    },
+    {
+      "id": "1960_06_28",
+      "doc_name": "1960 06 28",
+      "-source": "1960_06_28.pdf"
+    },
+    {
+      "id": "1960_07_04_Program",
+      "doc_name": "1960 07 04 Program",
+      "-source": "1960_07_04_Program.pdf"
+    },
+    {
+      "id": "1960_08_10 copy",
+      "doc_name": "1960 08 10 Copy",
+      "-source": "1960_08_10 copy.pdf"
+    },
+    {
+      "id": "1960_08_10",
+      "doc_name": "1960 08 10",
+      "-source": "1960_08_10.pdf"
+    },
+    {
+      "id": "1960_08_12",
+      "doc_name": "1960 08 12",
+      "-source": "1960_08_12.pdf"
+    },
+    {
+      "id": "1960_08_18",
+      "doc_name": "1960 08 18",
+      "-source": "1960_08_18.pdf"
+    },
+    {
+      "id": "1960_08_26",
+      "doc_name": "1960 08 26",
+      "-source": "1960_08_26.pdf"
+    },
+    {
+      "id": "1960_09_06",
+      "doc_name": "1960 09 06",
+      "-source": "1960_09_06.pdf"
+    },
+    {
+      "id": "1960_09_10",
+      "doc_name": "1960 09 10",
+      "-source": "1960_09_10.pdf"
+    },
+    {
+      "id": "1960_09_12",
+      "doc_name": "1960 09 12",
+      "-source": "1960_09_12.pdf"
+    },
+    {
+      "id": "1960_09_13 copy",
+      "doc_name": "1960 09 13 Copy",
+      "-source": "1960_09_13 copy.pdf"
+    },
+    {
+      "id": "1960_09_13",
+      "doc_name": "1960 09 13",
+      "-source": "1960_09_13.pdf"
+    },
+    {
+      "id": "1960_09_15",
+      "doc_name": "1960 09 15",
+      "-source": "1960_09_15.pdf"
+    },
+    {
+      "id": "1960_09_27",
+      "doc_name": "1960 09 27",
+      "-source": "1960_09_27.pdf"
+    },
+    {
+      "id": "1960_09_28",
+      "doc_name": "1960 09 28",
+      "-source": "1960_09_28.pdf"
+    },
+    {
+      "id": "1960_09_30 copy",
+      "doc_name": "1960 09 30 Copy",
+      "-source": "1960_09_30 copy.pdf"
+    },
+    {
+      "id": "1960_09_30",
+      "doc_name": "1960 09 30",
+      "-source": "1960_09_30.pdf"
+    },
+    {
+      "id": "1960_10_14",
+      "doc_name": "1960 10 14",
+      "-source": "1960_10_14.pdf"
+    },
+    {
+      "id": "1960_10_24",
+      "doc_name": "1960 10 24",
+      "-source": "1960_10_24.pdf"
+    },
+    {
+      "id": "1960_10_26",
+      "doc_name": "1960 10 26",
+      "-source": "1960_10_26.pdf"
+    },
+    {
+      "id": "1960_10_31_MFR",
+      "doc_name": "1960 10 31 Mfr",
+      "-source": "1960_10_31_MFR.pdf"
+    },
+    {
+      "id": "1960_12_01_summary_evaluation",
+      "doc_name": "1960 12 01 Summary Evaluation",
+      "-source": "1960_12_01_summary_evaluation.pdf"
+    },
+    {
+      "id": "1960_12_01",
+      "doc_name": "1960 12 01",
+      "-source": "1960_12_01.pdf"
+    },
+    {
+      "id": "1960_12_11",
+      "doc_name": "1960 12 11",
+      "-source": "1960_12_11.pdf"
+    },
+    {
+      "id": "1960_12_21",
+      "doc_name": "1960 12 21",
+      "-source": "1960_12_21.pdf"
+    },
+    {
+      "id": "1961_01_03",
+      "doc_name": "1961 01 03",
+      "-source": "1961_01_03.pdf"
+    },
+    {
+      "id": "1961_01_07_Draft_of_Speech",
+      "doc_name": "1961 01 07 Draft Of Speech",
+      "-source": "1961_01_07_Draft_of_Speech.pdf"
+    },
+    {
+      "id": "1961_01_17_Press_Release",
+      "doc_name": "1961 01 17 Press Release",
+      "-source": "1961_01_17_Press_Release.pdf"
+    },
+    {
+      "id": "1961_03_17_Memo_for_DDE_and_RN",
+      "doc_name": "1961 03 17 Memo For Dde And Rn",
+      "-source": "1961_03_17_Memo_for_DDE_and_RN.pdf"
+    },
+    {
+      "id": "1961_04_25",
+      "doc_name": "1961 04 25",
+      "-source": "1961_04_25.pdf"
+    },
+    {
+      "id": "1961_05_26",
+      "doc_name": "1961 05 26",
+      "-source": "1961_05_26.pdf"
+    },
+    {
+      "id": "1961_07_17",
+      "doc_name": "1961 07 17",
+      "-source": "1961_07_17.pdf"
+    },
+    {
+      "id": "1961_08_18",
+      "doc_name": "1961 08 18",
+      "-source": "1961_08_18.pdf"
+    },
+    {
+      "id": "1961_08_19",
+      "doc_name": "1961 08 19",
+      "-source": "1961_08_19.pdf"
+    },
+    {
+      "id": "1961_08_30",
+      "doc_name": "1961 08 30",
+      "-source": "1961_08_30.pdf"
+    },
+    {
+      "id": "1961_09_05",
+      "doc_name": "1961 09 05",
+      "-source": "1961_09_05.pdf"
+    },
+    {
+      "id": "1961_09_19",
+      "doc_name": "1961 09 19",
+      "-source": "1961_09_19.pdf"
+    },
+    {
+      "id": "1961_10_16",
+      "doc_name": "1961 10 16",
+      "-source": "1961_10_16.pdf"
+    },
+    {
+      "id": "1962_03_12_doc1",
+      "doc_name": "1962 03 12 Doc 1",
+      "-source": "1962_03_12_doc1.pdf"
+    },
+    {
+      "id": "1962_03_12_doc2",
+      "doc_name": "1962 03 12 Doc 2",
+      "-source": "1962_03_12_doc2.pdf"
+    },
+    {
+      "id": "1962_05_14 copy",
+      "doc_name": "1962 05 14 Copy",
+      "-source": "1962_05_14 copy.pdf"
+    },
+    {
+      "id": "1962_05_14",
+      "doc_name": "1962 05 14",
+      "-source": "1962_05_14.pdf"
+    },
+    {
+      "id": "1962_06_09",
+      "doc_name": "1962 06 09",
+      "-source": "1962_06_09.pdf"
+    },
+    {
+      "id": "1962_06_14",
+      "doc_name": "1962 06 14",
+      "-source": "1962_06_14.pdf"
+    },
+    {
+      "id": "1962_06_29",
+      "doc_name": "1962 06 29",
+      "-source": "1962_06_29.pdf"
+    },
+    {
+      "id": "1962_07_18",
+      "doc_name": "1962 07 18",
+      "-source": "1962_07_18.pdf"
+    },
+    {
+      "id": "1962_07_27",
+      "doc_name": "1962 07 27",
+      "-source": "1962_07_27.pdf"
+    },
+    {
+      "id": "1962_10_29",
+      "doc_name": "1962 10 29",
+      "-source": "1962_10_29.pdf"
+    },
+    {
+      "id": "1963_01_25_28",
+      "doc_name": "1963 01 25 28",
+      "-source": "1963_01_25_28.pdf"
+    },
+    {
+      "id": "1963_09_19",
+      "doc_name": "1963 09 19",
+      "-source": "1963_09_19.pdf"
+    },
+    {
+      "id": "1964_09_05",
+      "doc_name": "1964 09 05",
+      "-source": "1964_09_05.pdf"
+    },
+    {
+      "id": "1966_01_17_Karson_to_DDE",
+      "doc_name": "1966 01 17 Karson To Dde",
+      "-source": "1966_01_17_Karson_to_DDE.pdf"
+    },
+    {
+      "id": "1966_01_19_Congressional_Record",
+      "doc_name": "1966 01 19 Congressional Record",
+      "-source": "1966_01_19_Congressional_Record.pdf"
+    },
+    {
+      "id": "1966_02_07_DDE_to_Karson",
+      "doc_name": "1966 02 07 Dde To Karson",
+      "-source": "1966_02_07_DDE_to_Karson.pdf"
+    },
+    {
+      "id": "1967_02_15",
+      "doc_name": "1967 02 15",
+      "-source": "1967_02_15.pdf"
+    },
+    {
+      "id": "1967_05_27",
+      "doc_name": "1967 05 27",
+      "-source": "1967_05_27.pdf"
+    },
+    {
+      "id": "1967_06_13_Kennedy_to_DDE",
+      "doc_name": "1967 06 13 Kennedy To Dde",
+      "-source": "1967_06_13_Kennedy_to_DDE.pdf"
+    },
+    {
+      "id": "1967_06_21_DDE_to_Kennedy",
+      "doc_name": "1967 06 21 Dde To Kennedy",
+      "-source": "1967_06_21_DDE_to_Kennedy.pdf"
+    },
+    {
+      "id": "1968_11_20",
+      "doc_name": "1968 11 20",
+      "-source": "1968_11_20.pdf"
+    },
+    {
+      "id": "1968_12_01",
+      "doc_name": "1968 12 01",
+      "-source": "1968_12_01.pdf"
+    },
+    {
+      "id": "1968_12_02",
+      "doc_name": "1968 12 02",
+      "-source": "1968_12_02.pdf"
+    },
+    {
+      "id": "1977_10_03",
+      "doc_name": "1977 10 03",
+      "-source": "1977_10_03.pdf"
+    },
+    {
+      "id": "1980_January",
+      "doc_name": "1980 January",
+      "-source": "1980_January.pdf"
+    },
+    {
+      "id": "1985_12_28_Williams_to_Teasley",
+      "doc_name": "1985 12 28 Williams To Teasley",
+      "-source": "1985_12_28_Williams_to_Teasley.pdf"
+    },
+    {
+      "id": "Ackenhausen_Helen_324",
+      "doc_name": "Ackenhausen Helen 324",
+      "-source": "Ackenhausen_Helen_324.pdf"
+    },
+    {
+      "id": "Anderson_Biography",
+      "doc_name": "Anderson Biography",
+      "-source": "Anderson_Biography.pdf"
+    },
+    {
+      "id": "Anderson_Jack_Z_321",
+      "doc_name": "Anderson Jack Z 321",
+      "-source": "Anderson_Jack_Z_321.pdf"
+    },
+    {
+      "id": "appendix_b_no_date",
+      "doc_name": "Appendix B No Date",
+      "-source": "appendix_b_no_date.pdf"
+    },
+    {
+      "id": "appendix_c_no_date",
+      "doc_name": "Appendix C No Date",
+      "-source": "appendix_c_no_date.pdf"
+    },
+    {
+      "id": "appendix_d",
+      "doc_name": "Appendix D",
+      "-source": "appendix_d.pdf"
+    },
+    {
+      "id": "Appendix",
+      "doc_name": "Appendix",
+      "-source": "Appendix.pdf"
+    },
+    {
+      "id": "April_1953",
+      "doc_name": "April 1953",
+      "-source": "April_1953.pdf"
+    },
+    {
+      "id": "April_1954",
+      "doc_name": "April 1954",
+      "-source": "April_1954.pdf"
+    },
+    {
+      "id": "April_1955",
+      "doc_name": "April 1955",
+      "-source": "April_1955.pdf"
+    },
+    {
+      "id": "April_1956",
+      "doc_name": "April 1956",
+      "-source": "April_1956.pdf"
+    },
+    {
+      "id": "April_1957",
+      "doc_name": "April 1957",
+      "-source": "April_1957.pdf"
+    },
+    {
+      "id": "April_1958",
+      "doc_name": "April 1958",
+      "-source": "April_1958.pdf"
+    },
+    {
+      "id": "April_1959",
+      "doc_name": "April 1959",
+      "-source": "April_1959.pdf"
+    },
+    {
+      "id": "April_1960",
+      "doc_name": "April 1960",
+      "-source": "April_1960.pdf"
+    },
+    {
+      "id": "Archibold_John_and_Molly",
+      "doc_name": "Archibold John And Molly",
+      "-source": "Archibold_John_and_Molly.pdf"
+    },
+    {
+      "id": "Armistice_Draft_1953_07_26",
+      "doc_name": "Armistice Draft 1953 07 26",
+      "-source": "Armistice_Draft_1953_07_26.pdf"
+    },
+    {
+      "id": "Armistice_Signing_1953_08_06",
+      "doc_name": "Armistice Signing 1953 08 06",
+      "-source": "Armistice_Signing_1953_08_06.pdf"
+    },
+    {
+      "id": "army_rd_programs",
+      "doc_name": "Army Rd Programs",
+      "-source": "army_rd_programs.pdf"
+    },
+    {
+      "id": "army_ssms",
+      "doc_name": "Army Ssms",
+      "-source": "army_ssms.pdf"
+    },
+    {
+      "id": "Asper_Levi_J_2",
+      "doc_name": "Asper Levi J 2",
+      "-source": "Asper_Levi_J_2.pdf"
+    },
+    {
+      "id": "Atoms_for_Peace_Draft",
+      "doc_name": "Atoms For Peace Draft",
+      "-source": "Atoms_for_Peace_Draft.pdf"
+    },
+    {
+      "id": "Attachment_Court_Order_Plans_for_School",
+      "doc_name": "Attachment Court Order Plans For School",
+      "-source": "Attachment_Court_Order_Plans_for_School.pdf"
+    },
+    {
+      "id": "August_1953",
+      "doc_name": "August 1953",
+      "-source": "August_1953.pdf"
+    },
+    {
+      "id": "August_1954",
+      "doc_name": "August 1954",
+      "-source": "August_1954.pdf"
+    },
+    {
+      "id": "August_1955",
+      "doc_name": "August 1955",
+      "-source": "August_1955.pdf"
+    },
+    {
+      "id": "August_1956",
+      "doc_name": "August 1956",
+      "-source": "August_1956.pdf"
+    },
+    {
+      "id": "August_1957",
+      "doc_name": "August 1957",
+      "-source": "August_1957.pdf"
+    },
+    {
+      "id": "August_1958",
+      "doc_name": "August 1958",
+      "-source": "August_1958.pdf"
+    },
+    {
+      "id": "August_1959",
+      "doc_name": "August 1959",
+      "-source": "August_1959.pdf"
+    },
+    {
+      "id": "August_1960",
+      "doc_name": "August 1960",
+      "-source": "August_1960.pdf"
+    },
+    {
+      "id": "Baker_Caroline_Cahoone_535",
+      "doc_name": "Baker Caroline Cahoone 535",
+      "-source": "Baker_Caroline_Cahoone_535.pdf"
+    },
+    {
+      "id": "Barker_General_Ray",
+      "doc_name": "Barker General Ray",
+      "-source": "Barker_General_Ray.pdf"
+    },
+    {
+      "id": "Bennett_Charles",
+      "doc_name": "Bennett Charles",
+      "-source": "Bennett_Charles.pdf"
+    },
+    {
+      "id": "Bennett_Elmer",
+      "doc_name": "Bennett Elmer",
+      "-source": "Bennett_Elmer.pdf"
+    },
+    {
+      "id": "Benson_Ezra_Taft",
+      "doc_name": "Benson Ezra Taft",
+      "-source": "Benson_Ezra_Taft.pdf"
+    },
+    {
+      "id": "Berg_Harold",
+      "doc_name": "Berg Harold",
+      "-source": "Berg_Harold.pdf"
+    },
+    {
+      "id": "Bethe_Hans",
+      "doc_name": "Bethe Hans",
+      "-source": "Bethe_Hans.pdf"
+    },
+    {
+      "id": "Betts_Thomas",
+      "doc_name": "Betts Thomas",
+      "-source": "Betts_Thomas.pdf"
+    },
+    {
+      "id": "Bibliography_Holocaust",
+      "doc_name": "Bibliography Holocaust",
+      "-source": "Bibliography_Holocaust.pdf"
+    },
+    {
+      "id": "Bibliography_IHS",
+      "doc_name": "Bibliography Ihs",
+      "-source": "Bibliography_IHS.pdf"
+    },
+    {
+      "id": "Bibliography",
+      "doc_name": "Bibliography",
+      "-source": "Bibliography.pdf"
+    },
+    {
+      "id": "Binder1 copy 2",
+      "doc_name": "Binder 1 Copy 2",
+      "-source": "Binder1 copy 2.pdf"
+    },
+    {
+      "id": "Binder1 copy",
+      "doc_name": "Binder 1 Copy",
+      "-source": "Binder1 copy.pdf"
+    },
+    {
+      "id": "Binder1",
+      "doc_name": "Binder 1",
+      "-source": "Binder1.pdf"
+    },
+    {
+      "id": "Binder2 copy",
+      "doc_name": "Binder 2 Copy",
+      "-source": "Binder2 copy.pdf"
+    },
+    {
+      "id": "Binder2",
+      "doc_name": "Binder 2",
+      "-source": "Binder2.pdf"
+    },
+    {
+      "id": "Binder2a",
+      "doc_name": "Binder 2 A",
+      "-source": "Binder2a.pdf"
+    },
+    {
+      "id": "Binder3 copy 2",
+      "doc_name": "Binder 3 Copy 2",
+      "-source": "Binder3 copy 2.pdf"
+    },
+    {
+      "id": "Binder3 copy",
+      "doc_name": "Binder 3 Copy",
+      "-source": "Binder3 copy.pdf"
+    },
+    {
+      "id": "Binder3",
+      "doc_name": "Binder 3",
+      "-source": "Binder3.pdf"
+    },
+    {
+      "id": "Binder4 copy",
+      "doc_name": "Binder 4 Copy",
+      "-source": "Binder4 copy.pdf"
+    },
+    {
+      "id": "Binder4",
+      "doc_name": "Binder 4",
+      "-source": "Binder4.pdf"
+    },
+    {
+      "id": "Binder5 copy",
+      "doc_name": "Binder 5 Copy",
+      "-source": "Binder5 copy.pdf"
+    },
+    {
+      "id": "Binder5",
+      "doc_name": "Binder 5",
+      "-source": "Binder5.pdf"
+    },
+    {
+      "id": "Binder6 copy",
+      "doc_name": "Binder 6 Copy",
+      "-source": "Binder6 copy.pdf"
+    },
+    {
+      "id": "Binder6",
+      "doc_name": "Binder 6",
+      "-source": "Binder6.pdf"
+    },
+    {
+      "id": "Binder7 copy 2",
+      "doc_name": "Binder 7 Copy 2",
+      "-source": "Binder7 copy 2.pdf"
+    },
+    {
+      "id": "Binder7 copy",
+      "doc_name": "Binder 7 Copy",
+      "-source": "Binder7 copy.pdf"
+    },
+    {
+      "id": "Binder7",
+      "doc_name": "Binder 7",
+      "-source": "Binder7.pdf"
+    },
+    {
+      "id": "Binder7a",
+      "doc_name": "Binder 7 A",
+      "-source": "Binder7a.pdf"
+    },
+    {
+      "id": "Binder8 copy 2",
+      "doc_name": "Binder 8 Copy 2",
+      "-source": "Binder8 copy 2.pdf"
+    },
+    {
+      "id": "Binder8 copy",
+      "doc_name": "Binder 8 Copy",
+      "-source": "Binder8 copy.pdf"
+    },
+    {
+      "id": "Binder8",
+      "doc_name": "Binder 8",
+      "-source": "Binder8.pdf"
+    },
+    {
+      "id": "Binder9 copy 2",
+      "doc_name": "Binder 9 Copy 2",
+      "-source": "Binder9 copy 2.pdf"
+    },
+    {
+      "id": "Binder9 copy",
+      "doc_name": "Binder 9 Copy",
+      "-source": "Binder9 copy.pdf"
+    },
+    {
+      "id": "Binder9",
+      "doc_name": "Binder 9",
+      "-source": "Binder9.pdf"
+    },
+    {
+      "id": "Binder9a",
+      "doc_name": "Binder 9 A",
+      "-source": "Binder9a.pdf"
+    },
+    {
+      "id": "Binder10 copy 2",
+      "doc_name": "Binder 10 Copy 2",
+      "-source": "Binder10 copy 2.pdf"
+    },
+    {
+      "id": "Binder10 copy",
+      "doc_name": "Binder 10 Copy",
+      "-source": "Binder10 copy.pdf"
+    },
+    {
+      "id": "Binder10",
+      "doc_name": "Binder 10",
+      "-source": "Binder10.pdf"
+    },
+    {
+      "id": "Binder11 copy",
+      "doc_name": "Binder 11 Copy",
+      "-source": "Binder11 copy.pdf"
+    },
+    {
+      "id": "Binder11",
+      "doc_name": "Binder 11",
+      "-source": "Binder11.pdf"
+    },
+    {
+      "id": "Binder12 copy",
+      "doc_name": "Binder 12 Copy",
+      "-source": "Binder12 copy.pdf"
+    },
+    {
+      "id": "Binder12",
+      "doc_name": "Binder 12",
+      "-source": "Binder12.pdf"
+    },
+    {
+      "id": "Binder13 copy",
+      "doc_name": "Binder 13 Copy",
+      "-source": "Binder13 copy.pdf"
+    },
+    {
+      "id": "Binder13",
+      "doc_name": "Binder 13",
+      "-source": "Binder13.pdf"
+    },
+    {
+      "id": "Binder14",
+      "doc_name": "Binder 14",
+      "-source": "Binder14.pdf"
+    },
+    {
+      "id": "Binder15 copy",
+      "doc_name": "Binder 15 Copy",
+      "-source": "Binder15 copy.pdf"
+    },
+    {
+      "id": "Binder15",
+      "doc_name": "Binder 15",
+      "-source": "Binder15.pdf"
+    },
+    {
+      "id": "Binder16 copy",
+      "doc_name": "Binder 16 Copy",
+      "-source": "Binder16 copy.pdf"
+    },
+    {
+      "id": "Binder16",
+      "doc_name": "Binder 16",
+      "-source": "Binder16.pdf"
+    },
+    {
+      "id": "Binder17 copy 2",
+      "doc_name": "Binder 17 Copy 2",
+      "-source": "Binder17 copy 2.pdf"
+    },
+    {
+      "id": "Binder17 copy",
+      "doc_name": "Binder 17 Copy",
+      "-source": "Binder17 copy.pdf"
+    },
+    {
+      "id": "Binder17",
+      "doc_name": "Binder 17",
+      "-source": "Binder17.pdf"
+    },
+    {
+      "id": "Binder18 copy",
+      "doc_name": "Binder 18 Copy",
+      "-source": "Binder18 copy.pdf"
+    },
+    {
+      "id": "Binder18",
+      "doc_name": "Binder 18",
+      "-source": "Binder18.pdf"
+    },
+    {
+      "id": "Binder19 copy",
+      "doc_name": "Binder 19 Copy",
+      "-source": "Binder19 copy.pdf"
+    },
+    {
+      "id": "Binder19",
+      "doc_name": "Binder 19",
+      "-source": "Binder19.pdf"
+    },
+    {
+      "id": "Binder20 copy",
+      "doc_name": "Binder 20 Copy",
+      "-source": "Binder20 copy.pdf"
+    },
+    {
+      "id": "Binder20",
+      "doc_name": "Binder 20",
+      "-source": "Binder20.pdf"
+    },
+    {
+      "id": "Binder21",
+      "doc_name": "Binder 21",
+      "-source": "Binder21.pdf"
+    },
+    {
+      "id": "Binder22",
+      "doc_name": "Binder 22",
+      "-source": "Binder22.pdf"
+    },
+    {
+      "id": "BinderA copy",
+      "doc_name": "Bindera Copy",
+      "-source": "BinderA copy.pdf"
+    },
+    {
+      "id": "BinderA",
+      "doc_name": "Bindera",
+      "-source": "BinderA.pdf"
+    },
+    {
+      "id": "BinderAA",
+      "doc_name": "Binderaa",
+      "-source": "BinderAA.pdf"
+    },
+    {
+      "id": "BinderB copy",
+      "doc_name": "Binderb Copy",
+      "-source": "BinderB copy.pdf"
+    },
+    {
+      "id": "BinderB",
+      "doc_name": "Binderb",
+      "-source": "BinderB.pdf"
+    },
+    {
+      "id": "BinderC copy",
+      "doc_name": "Binderc Copy",
+      "-source": "BinderC copy.pdf"
+    },
+    {
+      "id": "BinderC",
+      "doc_name": "Binderc",
+      "-source": "BinderC.pdf"
+    },
+    {
+      "id": "BinderCC copy",
+      "doc_name": "Bindercc Copy",
+      "-source": "BinderCC copy.pdf"
+    },
+    {
+      "id": "BinderCC",
+      "doc_name": "Bindercc",
+      "-source": "BinderCC.pdf"
+    },
+    {
+      "id": "BinderD copy",
+      "doc_name": "Binderd Copy",
+      "-source": "BinderD copy.pdf"
+    },
+    {
+      "id": "BinderD",
+      "doc_name": "Binderd",
+      "-source": "BinderD.pdf"
+    },
+    {
+      "id": "BinderDD",
+      "doc_name": "Binderdd",
+      "-source": "BinderDD.pdf"
+    },
+    {
+      "id": "BinderE copy",
+      "doc_name": "Bindere Copy",
+      "-source": "BinderE copy.pdf"
+    },
+    {
+      "id": "BinderE",
+      "doc_name": "Bindere",
+      "-source": "BinderE.pdf"
+    },
+    {
+      "id": "BinderEE",
+      "doc_name": "Binderee",
+      "-source": "BinderEE.pdf"
+    },
+    {
+      "id": "BinderF copy",
+      "doc_name": "Binderf Copy",
+      "-source": "BinderF copy.pdf"
+    },
+    {
+      "id": "BinderF",
+      "doc_name": "Binderf",
+      "-source": "BinderF.pdf"
+    },
+    {
+      "id": "BinderFF",
+      "doc_name": "Binderff",
+      "-source": "BinderFF.pdf"
+    },
+    {
+      "id": "BinderG copy",
+      "doc_name": "Binderg Copy",
+      "-source": "BinderG copy.pdf"
+    },
+    {
+      "id": "BinderG",
+      "doc_name": "Binderg",
+      "-source": "BinderG.pdf"
+    },
+    {
+      "id": "BinderGG",
+      "doc_name": "Bindergg",
+      "-source": "BinderGG.pdf"
+    },
+    {
+      "id": "BinderH copy",
+      "doc_name": "Binderh Copy",
+      "-source": "BinderH copy.pdf"
+    },
+    {
+      "id": "BinderH",
+      "doc_name": "Binderh",
+      "-source": "BinderH.pdf"
+    },
+    {
+      "id": "BinderHH copy",
+      "doc_name": "Binderhh Copy",
+      "-source": "BinderHH copy.pdf"
+    },
+    {
+      "id": "BinderHH",
+      "doc_name": "Binderhh",
+      "-source": "BinderHH.pdf"
+    },
+    {
+      "id": "BinderI copy",
+      "doc_name": "Binderi Copy",
+      "-source": "BinderI copy.pdf"
+    },
+    {
+      "id": "BinderI",
+      "doc_name": "Binderi",
+      "-source": "BinderI.pdf"
+    },
+    {
+      "id": "BinderII",
+      "doc_name": "Binderii",
+      "-source": "BinderII.pdf"
+    },
+    {
+      "id": "BinderJ copy",
+      "doc_name": "Binderj Copy",
+      "-source": "BinderJ copy.pdf"
+    },
+    {
+      "id": "BinderJ",
+      "doc_name": "Binderj",
+      "-source": "BinderJ.pdf"
+    },
+    {
+      "id": "BinderJJ copy",
+      "doc_name": "Binderjj Copy",
+      "-source": "BinderJJ copy.pdf"
+    },
+    {
+      "id": "BinderJJ",
+      "doc_name": "Binderjj",
+      "-source": "BinderJJ.pdf"
+    },
+    {
+      "id": "BinderJJJ",
+      "doc_name": "Binderjjj",
+      "-source": "BinderJJJ.pdf"
+    },
+    {
+      "id": "BinderJJJJ",
+      "doc_name": "Binderjjjj",
+      "-source": "BinderJJJJ.pdf"
+    },
+    {
+      "id": "BinderJJJJJ",
+      "doc_name": "Binderjjjjj",
+      "-source": "BinderJJJJJ.pdf"
+    },
+    {
+      "id": "BinderK copy",
+      "doc_name": "Binderk Copy",
+      "-source": "BinderK copy.pdf"
+    },
+    {
+      "id": "BinderK",
+      "doc_name": "Binderk",
+      "-source": "BinderK.pdf"
+    },
+    {
+      "id": "BinderKK",
+      "doc_name": "Binderkk",
+      "-source": "BinderKK.pdf"
+    },
+    {
+      "id": "BinderL copy",
+      "doc_name": "Binderl Copy",
+      "-source": "BinderL copy.pdf"
+    },
+    {
+      "id": "BinderL",
+      "doc_name": "Binderl",
+      "-source": "BinderL.pdf"
+    },
+    {
+      "id": "BinderLL",
+      "doc_name": "Binderll",
+      "-source": "BinderLL.pdf"
+    },
+    {
+      "id": "BinderM copy",
+      "doc_name": "Binderm Copy",
+      "-source": "BinderM copy.pdf"
+    },
+    {
+      "id": "BinderM",
+      "doc_name": "Binderm",
+      "-source": "BinderM.pdf"
+    },
+    {
+      "id": "BinderMM copy",
+      "doc_name": "Bindermm Copy",
+      "-source": "BinderMM copy.pdf"
+    },
+    {
+      "id": "BinderMM",
+      "doc_name": "Bindermm",
+      "-source": "BinderMM.pdf"
+    },
+    {
+      "id": "BinderN copy",
+      "doc_name": "Bindern Copy",
+      "-source": "BinderN copy.pdf"
+    },
+    {
+      "id": "BinderN",
+      "doc_name": "Bindern",
+      "-source": "BinderN.pdf"
+    },
+    {
+      "id": "BinderNN",
+      "doc_name": "Bindernn",
+      "-source": "BinderNN.pdf"
+    },
+    {
+      "id": "BinderO copy",
+      "doc_name": "Bindero Copy",
+      "-source": "BinderO copy.pdf"
+    },
+    {
+      "id": "BinderO",
+      "doc_name": "Bindero",
+      "-source": "BinderO.pdf"
+    },
+    {
+      "id": "BinderOO",
+      "doc_name": "Binderoo",
+      "-source": "BinderOO.pdf"
+    },
+    {
+      "id": "BinderP copy",
+      "doc_name": "Binderp Copy",
+      "-source": "BinderP copy.pdf"
+    },
+    {
+      "id": "BinderP",
+      "doc_name": "Binderp",
+      "-source": "BinderP.pdf"
+    },
+    {
+      "id": "BinderPP",
+      "doc_name": "Binderpp",
+      "-source": "BinderPP.pdf"
+    },
+    {
+      "id": "BinderQ copy",
+      "doc_name": "Binderq Copy",
+      "-source": "BinderQ copy.pdf"
+    },
+    {
+      "id": "BinderQ",
+      "doc_name": "Binderq",
+      "-source": "BinderQ.pdf"
+    },
+    {
+      "id": "BinderQQ",
+      "doc_name": "Binderqq",
+      "-source": "BinderQQ.pdf"
+    },
+    {
+      "id": "BinderR copy",
+      "doc_name": "Binderr Copy",
+      "-source": "BinderR copy.pdf"
+    },
+    {
+      "id": "BinderR",
+      "doc_name": "Binderr",
+      "-source": "BinderR.pdf"
+    },
+    {
+      "id": "BinderRR",
+      "doc_name": "Binderrr",
+      "-source": "BinderRR.pdf"
+    },
+    {
+      "id": "BinderS copy",
+      "doc_name": "Binders Copy",
+      "-source": "BinderS copy.pdf"
+    },
+    {
+      "id": "BinderS",
+      "doc_name": "Binders",
+      "-source": "BinderS.pdf"
+    },
+    {
+      "id": "BinderSS",
+      "doc_name": "Binderss",
+      "-source": "BinderSS.pdf"
+    },
+    {
+      "id": "BinderT copy",
+      "doc_name": "Bindert Copy",
+      "-source": "BinderT copy.pdf"
+    },
+    {
+      "id": "BinderT",
+      "doc_name": "Bindert",
+      "-source": "BinderT.pdf"
+    },
+    {
+      "id": "BinderTT",
+      "doc_name": "Bindertt",
+      "-source": "BinderTT.pdf"
+    },
+    {
+      "id": "BinderU copy",
+      "doc_name": "Binderu Copy",
+      "-source": "BinderU copy.pdf"
+    },
+    {
+      "id": "BinderU",
+      "doc_name": "Binderu",
+      "-source": "BinderU.pdf"
+    },
+    {
+      "id": "BinderV copy",
+      "doc_name": "Binderv Copy",
+      "-source": "BinderV copy.pdf"
+    },
+    {
+      "id": "BinderV",
+      "doc_name": "Binderv",
+      "-source": "BinderV.pdf"
+    },
+    {
+      "id": "BinderW copy",
+      "doc_name": "Binderw Copy",
+      "-source": "BinderW copy.pdf"
+    },
+    {
+      "id": "BinderW",
+      "doc_name": "Binderw",
+      "-source": "BinderW.pdf"
+    },
+    {
+      "id": "BinderX copy",
+      "doc_name": "Binderx Copy",
+      "-source": "BinderX copy.pdf"
+    },
+    {
+      "id": "BinderX",
+      "doc_name": "Binderx",
+      "-source": "BinderX.pdf"
+    },
+    {
+      "id": "BinderY copy",
+      "doc_name": "Bindery Copy",
+      "-source": "BinderY copy.pdf"
+    },
+    {
+      "id": "BinderY",
+      "doc_name": "Bindery",
+      "-source": "BinderY.pdf"
+    },
+    {
+      "id": "BinderZ copy",
+      "doc_name": "Binderz Copy",
+      "-source": "BinderZ copy.pdf"
+    },
+    {
+      "id": "BinderZ",
+      "doc_name": "Binderz",
+      "-source": "BinderZ.pdf"
+    },
+    {
+      "id": "Bird_John",
+      "doc_name": "Bird John",
+      "-source": "Bird_John.pdf"
+    },
+    {
+      "id": "Bishop_JW",
+      "doc_name": "Bishop Jw",
+      "-source": "Bishop_JW.pdf"
+    },
+    {
+      "id": "Bissell_Richard_EL",
+      "doc_name": "Bissell Richard El",
+      "-source": "Bissell_Richard_EL.pdf"
+    },
+    {
+      "id": "Black_Eugene",
+      "doc_name": "Black Eugene",
+      "-source": "Black_Eugene.pdf"
+    },
+    {
+      "id": "Black_Lillian_Brown_555",
+      "doc_name": "Black Lillian Brown 555",
+      "-source": "Black_Lillian_Brown_555.pdf"
+    },
+    {
+      "id": "Bolte_Charles",
+      "doc_name": "Bolte Charles",
+      "-source": "Bolte_Charles.pdf"
+    },
+    {
+      "id": "Bolton_Robert",
+      "doc_name": "Bolton Robert",
+      "-source": "Bolton_Robert.pdf"
+    },
+    {
+      "id": "Brainard_CL",
+      "doc_name": "Brainard Cl",
+      "-source": "Brainard_CL.pdf"
+    },
+    {
+      "id": "British_Assault_Area",
+      "doc_name": "British Assault Area",
+      "-source": "British_Assault_Area.pdf"
+    },
+    {
+      "id": "Broshous_Charles",
+      "doc_name": "Broshous Charles",
+      "-source": "Broshous_Charles.pdf"
+    },
+    {
+      "id": "Brown_v_BoE",
+      "doc_name": "Brown V Boe",
+      "-source": "Brown_v_BoE.pdf"
+    },
+    {
+      "id": "Brownell_Herbert_EL",
+      "doc_name": "Brownell Herbert El",
+      "-source": "Brownell_Herbert_EL.pdf"
+    },
+    {
+      "id": "Burgess_W_Randolph_407",
+      "doc_name": "Burgess W Randolph 407",
+      "-source": "Burgess_W_Randolph_407.pdf"
+    },
+    {
+      "id": "Butcher_Diary",
+      "doc_name": "Butcher Diary",
+      "-source": "Butcher_Diary.pdf"
+    },
+    {
+      "id": "Cannon_Craig",
+      "doc_name": "Cannon Craig",
+      "-source": "Cannon_Craig.pdf"
+    },
+    {
+      "id": "Capitol_Luncheon",
+      "doc_name": "Capitol Luncheon",
+      "-source": "Capitol_Luncheon.pdf"
+    },
+    {
+      "id": "Carlson_Frank",
+      "doc_name": "Carlson Frank",
+      "-source": "Carlson_Frank.pdf"
+    },
+    {
+      "id": "catering_contract",
+      "doc_name": "Catering Contract",
+      "-source": "catering_contract.pdf"
+    },
+    {
+      "id": "Chilson_Hatfield",
+      "doc_name": "Chilson Hatfield",
+      "-source": "Chilson_Hatfield.pdf"
+    },
+    {
+      "id": "Chronology",
+      "doc_name": "Chronology",
+      "-source": "Chronology.pdf"
+    },
+    {
+      "id": "CIA_Special_Estimate_Soviet_Capabilities",
+      "doc_name": "Cia Special Estimate Soviet Capabilities",
+      "-source": "CIA_Special_Estimate_Soviet_Capabilities.pdf"
+    },
+    {
+      "id": "Civil_Rights_Bill",
+      "doc_name": "Civil Rights Bill",
+      "-source": "Civil_Rights_Bill.pdf"
+    },
+    {
+      "id": "Clark_Robert",
+      "doc_name": "Clark Robert",
+      "-source": "Clark_Robert.pdf"
+    },
+    {
+      "id": "Clark_Thomas",
+      "doc_name": "Clark Thomas",
+      "-source": "Clark_Thomas.pdf"
+    },
+    {
+      "id": "Cochran_Jacqueline",
+      "doc_name": "Cochran Jacqueline",
+      "-source": "Cochran_Jacqueline.pdf"
+    },
+    {
+      "id": "Cochran_Jacqueline1",
+      "doc_name": "Cochran Jacqueline 1",
+      "-source": "Cochran_Jacqueline1.pdf"
+    },
+    {
+      "id": "Cochran_Jacqueline2",
+      "doc_name": "Cochran Jacqueline 2",
+      "-source": "Cochran_Jacqueline2.pdf"
+    },
+    {
+      "id": "Cochran_Jacqueline3",
+      "doc_name": "Cochran Jacqueline 3",
+      "-source": "Cochran_Jacqueline3.pdf"
+    },
+    {
+      "id": "Cohen_Wilbur",
+      "doc_name": "Cohen Wilbur",
+      "-source": "Cohen_Wilbur.pdf"
+    },
+    {
+      "id": "commemorative_program",
+      "doc_name": "Commemorative Program",
+      "-source": "commemorative_program.pdf"
+    },
+    {
+      "id": "Complaint",
+      "doc_name": "Complaint",
+      "-source": "Complaint.pdf"
+    },
+    {
+      "id": "Cook_Richard",
+      "doc_name": "Cook Richard",
+      "-source": "Cook_Richard.pdf"
+    },
+    {
+      "id": "Cooper_George",
+      "doc_name": "Cooper George",
+      "-source": "Cooper_George.pdf"
+    },
+    {
+      "id": "Crowl_Philip",
+      "doc_name": "Crowl Philip",
+      "-source": "Crowl_Philip.pdf"
+    },
+    {
+      "id": "Cushman_Robert",
+      "doc_name": "Cushman Robert",
+      "-source": "Cushman_Robert.pdf"
+    },
+    {
+      "id": "daily_log",
+      "doc_name": "Daily Log",
+      "-source": "daily_log.pdf"
+    },
+    {
+      "id": "DDE_Troops_to_Arkansas",
+      "doc_name": "Dde Troops To Arkansas",
+      "-source": "DDE_Troops_to_Arkansas.pdf"
+    },
+    {
+      "id": "December_1953",
+      "doc_name": "December 1953",
+      "-source": "December_1953.pdf"
+    },
+    {
+      "id": "December_1954",
+      "doc_name": "December 1954",
+      "-source": "December_1954.pdf"
+    },
+    {
+      "id": "December_1955",
+      "doc_name": "December 1955",
+      "-source": "December_1955.pdf"
+    },
+    {
+      "id": "December_1956",
+      "doc_name": "December 1956",
+      "-source": "December_1956.pdf"
+    },
+    {
+      "id": "December_1957",
+      "doc_name": "December 1957",
+      "-source": "December_1957.pdf"
+    },
+    {
+      "id": "December_1958",
+      "doc_name": "December 1958",
+      "-source": "December_1958.pdf"
+    },
+    {
+      "id": "December_1959",
+      "doc_name": "December 1959",
+      "-source": "December_1959.pdf"
+    },
+    {
+      "id": "December_1960",
+      "doc_name": "December 1960",
+      "-source": "December_1960.pdf"
+    },
+    {
+      "id": "Description_Gown_Jewelry copy",
+      "doc_name": "Description Gown Jewelry Copy",
+      "-source": "Description_Gown_Jewelry copy.pdf"
+    },
+    {
+      "id": "description_gown_jewelry",
+      "doc_name": "Description Gown Jewelry",
+      "-source": "description_gown_jewelry.pdf"
+    },
+    {
+      "id": "Devers_Jacob_377",
+      "doc_name": "Devers Jacob 377",
+      "-source": "Devers_Jacob_377.PDF"
+    },
+    {
+      "id": "Economic_Life_in_Poland",
+      "doc_name": "Economic Life In Poland",
+      "-source": "Economic_Life_in_Poland.pdf"
+    },
+    {
+      "id": "Eisenhower_Barbara_492",
+      "doc_name": "Eisenhower Barbara 492",
+      "-source": "Eisenhower_Barbara_492.pdf"
+    },
+    {
+      "id": "Eisenhower_Foltz_Barbara_554",
+      "doc_name": "Eisenhower Foltz Barbara 554",
+      "-source": "Eisenhower_Foltz_Barbara_554.pdf"
+    },
+    {
+      "id": "Eisenhower_Mamie_12",
+      "doc_name": "Eisenhower Mamie 12",
+      "-source": "Eisenhower_Mamie_12.pdf"
+    },
+    {
+      "id": "Eisenhower_Milton_13",
+      "doc_name": "Eisenhower Milton 13",
+      "-source": "Eisenhower_Milton_13.pdf"
+    },
+    {
+      "id": "Elvidge_Ford_and_Anita",
+      "doc_name": "Elvidge Ford And Anita",
+      "-source": "Elvidge_Ford_and_Anita.pdf"
+    },
+    {
+      "id": "Ewald_William",
+      "doc_name": "Ewald William",
+      "-source": "Ewald_William.pdf"
+    },
+    {
+      "id": "Fact_Paper_279",
+      "doc_name": "Fact Paper 279",
+      "-source": "Fact_Paper_279.pdf"
+    },
+    {
+      "id": "Facts",
+      "doc_name": "Facts",
+      "-source": "Facts.pdf"
+    },
+    {
+      "id": "February_1953",
+      "doc_name": "February 1953",
+      "-source": "February_1953.pdf"
+    },
+    {
+      "id": "February_1954",
+      "doc_name": "February 1954",
+      "-source": "February_1954.pdf"
+    },
+    {
+      "id": "February_1955",
+      "doc_name": "February 1955",
+      "-source": "February_1955.pdf"
+    },
+    {
+      "id": "February_1956",
+      "doc_name": "February 1956",
+      "-source": "February_1956.pdf"
+    },
+    {
+      "id": "February_1957",
+      "doc_name": "February 1957",
+      "-source": "February_1957.pdf"
+    },
+    {
+      "id": "February_1958",
+      "doc_name": "February 1958",
+      "-source": "February_1958.pdf"
+    },
+    {
+      "id": "February_1959",
+      "doc_name": "February 1959",
+      "-source": "February_1959.pdf"
+    },
+    {
+      "id": "February_1960",
+      "doc_name": "February 1960",
+      "-source": "February_1960.pdf"
+    },
+    {
+      "id": "FitzGerald_Dennis",
+      "doc_name": "Fitzgerald Dennis",
+      "-source": "FitzGerald_Dennis.pdf"
+    },
+    {
+      "id": "Fitzwater_Ivan",
+      "doc_name": "Fitzwater Ivan",
+      "-source": "Fitzwater_Ivan.pdf"
+    },
+    {
+      "id": "Flemming_Arthur_504",
+      "doc_name": "Flemming Arthur 504",
+      "-source": "Flemming_Arthur_504.pdf"
+    },
+    {
+      "id": "Flemming_Arthur_506",
+      "doc_name": "Flemming Arthur 506",
+      "-source": "Flemming_Arthur_506.pdf"
+    },
+    {
+      "id": "Forney_Abram",
+      "doc_name": "Forney Abram",
+      "-source": "Forney_Abram.pdf"
+    },
+    {
+      "id": "Funk_Howard",
+      "doc_name": "Funk Howard",
+      "-source": "Funk_Howard.pdf"
+    },
+    {
+      "id": "G2_Report_307",
+      "doc_name": "G 2 Report 307",
+      "-source": "G2_Report_307.pdf"
+    },
+    {
+      "id": "Garrison_LE",
+      "doc_name": "Garrison Le",
+      "-source": "Garrison_LE.pdf"
+    },
+    {
+      "id": "Gemmill_Robert",
+      "doc_name": "Gemmill Robert",
+      "-source": "Gemmill_Robert.pdf"
+    },
+    {
+      "id": "Ginzberg_Eli",
+      "doc_name": "Ginzberg Eli",
+      "-source": "Ginzberg_Eli.pdf"
+    },
+    {
+      "id": "Glossary",
+      "doc_name": "Glossary",
+      "-source": "Glossary.pdf"
+    },
+    {
+      "id": "Goodpaster_Andrew_378",
+      "doc_name": "Goodpaster Andrew 378",
+      "-source": "Goodpaster_Andrew_378.pdf"
+    },
+    {
+      "id": "Gray_Gordon_342",
+      "doc_name": "Gray Gordon 342",
+      "-source": "Gray_Gordon_342.pdf"
+    },
+    {
+      "id": "Green_Howard",
+      "doc_name": "Green Howard",
+      "-source": "Green_Howard.pdf"
+    },
+    {
+      "id": "Guidebook",
+      "doc_name": "Guidebook",
+      "-source": "Guidebook.pdf"
+    },
+    {
+      "id": "Hacker_Louis_347",
+      "doc_name": "Hacker Louis 347",
+      "-source": "Hacker_Louis_347.pdf"
+    },
+    {
+      "id": "Hall_Leonard_478",
+      "doc_name": "Hall Leonard 478",
+      "-source": "Hall_Leonard_478.pdf"
+    },
+    {
+      "id": "Halleck_Charles_489",
+      "doc_name": "Halleck Charles 489",
+      "-source": "Halleck_Charles_489.pdf"
+    },
+    {
+      "id": "Hampton_Robert_485",
+      "doc_name": "Hampton Robert 485",
+      "-source": "Hampton_Robert_485.pdf"
+    },
+    {
+      "id": "Handy_Thomas_486",
+      "doc_name": "Handy Thomas 486",
+      "-source": "Handy_Thomas_486.pdf"
+    },
+    {
+      "id": "Heaton_Leonard_337",
+      "doc_name": "Heaton Leonard 337",
+      "-source": "Heaton_Leonard_337.pdf"
+    },
+    {
+      "id": "Heilbronn_Kurt",
+      "doc_name": "Heilbronn Kurt",
+      "-source": "Heilbronn_Kurt.pdf"
+    },
+    {
+      "id": "Herwarth_Hans_von",
+      "doc_name": "Herwarth Hans Von",
+      "-source": "Herwarth_Hans_von.pdf"
+    },
+    {
+      "id": "Hitler_Marriage_Will_Political_Testament",
+      "doc_name": "Hitler Marriage Will Political Testament",
+      "-source": "Hitler_Marriage_Will_Political_Testament.pdf"
+    },
+    {
+      "id": "Hitler_Will_General_Intelligence",
+      "doc_name": "Hitler Will General Intelligence",
+      "-source": "Hitler_Will_General_Intelligence.pdf"
+    },
+    {
+      "id": "Hoegh_Leo_480",
+      "doc_name": "Hoegh Leo 480",
+      "-source": "Hoegh_Leo_480.pdf"
+    },
+    {
+      "id": "Hoffman_Raymond_481",
+      "doc_name": "Hoffman Raymond 481",
+      "-source": "Hoffman_Raymond_481.pdf"
+    },
+    {
+      "id": "Hopkins_William_494",
+      "doc_name": "Hopkins William 494",
+      "-source": "Hopkins_William_494.pdf"
+    },
+    {
+      "id": "I_Shall_Go_To_Korea_1952_10_24",
+      "doc_name": "I Shall Go To Korea 1952 10 24",
+      "-source": "I_Shall_Go_To_Korea_1952_10_24.pdf"
+    },
+    {
+      "id": "In_Case_of_Failure_Message",
+      "doc_name": "In Case Of Failure Message",
+      "-source": "In_Case_of_Failure_Message.pdf"
+    },
+    {
+      "id": "inaugural_address_reading_copy",
+      "doc_name": "Inaugural Address Reading Copy",
+      "-source": "inaugural_address_reading_copy.pdf"
+    },
+    {
+      "id": "Information_Sheet",
+      "doc_name": "Information Sheet",
+      "-source": "Information_Sheet.pdf"
+    },
+    {
+      "id": "Ingraham_and_Porter_349",
+      "doc_name": "Ingraham And Porter 349",
+      "-source": "Ingraham_and_Porter_349.pdf"
+    },
+    {
+      "id": "Ingraham_Joe_363",
+      "doc_name": "Ingraham Joe 363",
+      "-source": "Ingraham_Joe_363.pdf"
+    },
+    {
+      "id": "Inspection_of_German_Concentration_Camp",
+      "doc_name": "Inspection Of German Concentration Camp",
+      "-source": "Inspection_of_German_Concentration_Camp.pdf"
+    },
+    {
+      "id": "Interview",
+      "doc_name": "Interview",
+      "-source": "Interview.pdf"
+    },
+    {
+      "id": "Investigation_Report_Life_in_Camp",
+      "doc_name": "Investigation Report Life In Camp",
+      "-source": "Investigation_Report_Life_in_Camp.pdf"
+    },
+    {
+      "id": "Jackson_Nettie_Stover",
+      "doc_name": "Jackson Nettie Stover",
+      "-source": "Jackson_Nettie_Stover.pdf"
+    },
+    {
+      "id": "January_1953",
+      "doc_name": "January 1953",
+      "-source": "January_1953.pdf"
+    },
+    {
+      "id": "January_1954",
+      "doc_name": "January 1954",
+      "-source": "January_1954.pdf"
+    },
+    {
+      "id": "January_1955",
+      "doc_name": "January 1955",
+      "-source": "January_1955.pdf"
+    },
+    {
+      "id": "January_1956",
+      "doc_name": "January 1956",
+      "-source": "January_1956.pdf"
+    },
+    {
+      "id": "January_1957",
+      "doc_name": "January 1957",
+      "-source": "January_1957.pdf"
+    },
+    {
+      "id": "January_1958",
+      "doc_name": "January 1958",
+      "-source": "January_1958.pdf"
+    },
+    {
+      "id": "January_1959",
+      "doc_name": "January 1959",
+      "-source": "January_1959.pdf"
+    },
+    {
+      "id": "January_1960",
+      "doc_name": "January 1960",
+      "-source": "January_1960.pdf"
+    },
+    {
+      "id": "January_1961",
+      "doc_name": "January 1961",
+      "-source": "January_1961.pdf"
+    },
+    {
+      "id": "Jehl_Sue_Sarafian",
+      "doc_name": "Jehl Sue Sarafian",
+      "-source": "Jehl_Sue_Sarafian.pdf"
+    },
+    {
+      "id": "Jones_Roger_497",
+      "doc_name": "Jones Roger 497",
+      "-source": "Jones_Roger_497.pdf"
+    },
+    {
+      "id": "Jordan_Len_354",
+      "doc_name": "Jordan Len 354",
+      "-source": "Jordan_Len_354.pdf"
+    },
+    {
+      "id": "Journal_Entries",
+      "doc_name": "Journal Entries",
+      "-source": "Journal_Entries.pdf"
+    },
+    {
+      "id": "July_1953",
+      "doc_name": "July 1953",
+      "-source": "July_1953.pdf"
+    },
+    {
+      "id": "July_1954",
+      "doc_name": "July 1954",
+      "-source": "July_1954.pdf"
+    },
+    {
+      "id": "July_1955",
+      "doc_name": "July 1955",
+      "-source": "July_1955.pdf"
+    },
+    {
+      "id": "July_1956",
+      "doc_name": "July 1956",
+      "-source": "July_1956.pdf"
+    },
+    {
+      "id": "July_1957",
+      "doc_name": "July 1957",
+      "-source": "July_1957.pdf"
+    },
+    {
+      "id": "July_1958",
+      "doc_name": "July 1958",
+      "-source": "July_1958.pdf"
+    },
+    {
+      "id": "July_1959",
+      "doc_name": "July 1959",
+      "-source": "July_1959.pdf"
+    },
+    {
+      "id": "July_1960",
+      "doc_name": "July 1960",
+      "-source": "July_1960.pdf"
+    },
+    {
+      "id": "June_1953",
+      "doc_name": "June 1953",
+      "-source": "June_1953.pdf"
+    },
+    {
+      "id": "June_1954",
+      "doc_name": "June 1954",
+      "-source": "June_1954.pdf"
+    },
+    {
+      "id": "June_1955",
+      "doc_name": "June 1955",
+      "-source": "June_1955.pdf"
+    },
+    {
+      "id": "June_1956",
+      "doc_name": "June 1956",
+      "-source": "June_1956.pdf"
+    },
+    {
+      "id": "June_1957",
+      "doc_name": "June 1957",
+      "-source": "June_1957.pdf"
+    },
+    {
+      "id": "June_1958",
+      "doc_name": "June 1958",
+      "-source": "June_1958.pdf"
+    },
+    {
+      "id": "June_1959",
+      "doc_name": "June 1959",
+      "-source": "June_1959.pdf"
+    },
+    {
+      "id": "June_1960",
+      "doc_name": "June 1960",
+      "-source": "June_1960.pdf"
+    },
+    {
+      "id": "Key_Individuals",
+      "doc_name": "Key Individuals",
+      "-source": "Key_Individuals.pdf"
+    },
+    {
+      "id": "Khrushchev",
+      "doc_name": "Khrushchev",
+      "-source": "Khrushchev.pdf"
+    },
+    {
+      "id": "Kidd_Gordon",
+      "doc_name": "Kidd Gordon",
+      "-source": "Kidd_Gordon.pdf"
+    },
+    {
+      "id": "Kieve_Robert_411",
+      "doc_name": "Kieve Robert 411",
+      "-source": "Kieve_Robert_411.pdf"
+    },
+    {
+      "id": "King_Helen",
+      "doc_name": "King Helen",
+      "-source": "King_Helen.pdf"
+    },
+    {
+      "id": "Kinnear_George",
+      "doc_name": "Kinnear George",
+      "-source": "Kinnear_George.pdf"
+    },
+    {
+      "id": "Kirk_Grayson",
+      "doc_name": "Kirk Grayson",
+      "-source": "Kirk_Grayson.pdf"
+    },
+    {
+      "id": "Kistiakowsky_George",
+      "doc_name": "Kistiakowsky George",
+      "-source": "Kistiakowsky_George.pdf"
+    },
+    {
+      "id": "Krout_John_381",
+      "doc_name": "Krout John 381",
+      "-source": "Krout_John_381.pdf"
+    },
+    {
+      "id": "Lane_Alvin",
+      "doc_name": "Lane Alvin",
+      "-source": "Lane_Alvin.pdf"
+    },
+    {
+      "id": "Lee_William_323",
+      "doc_name": "Lee William 323",
+      "-source": "Lee_William_323.pdf"
+    },
+    {
+      "id": "Leonard_John_327",
+      "doc_name": "Leonard John 327",
+      "-source": "Leonard_John_327.pdf"
+    },
+    {
+      "id": "letter_bonwit_teller_bill",
+      "doc_name": "Letter Bonwit Teller Bill",
+      "-source": "letter_bonwit_teller_bill.pdf"
+    },
+    {
+      "id": "Letters_Porter_to_Parents",
+      "doc_name": "Letters Porter To Parents",
+      "-source": "Letters_Porter_to_Parents.pdf"
+    },
+    {
+      "id": "Lewis_Orme",
+      "doc_name": "Lewis Orme",
+      "-source": "Lewis_Orme.pdf"
+    },
+    {
+      "id": "List_of_Witnesses",
+      "doc_name": "List Of Witnesses",
+      "-source": "List_of_Witnesses.pdf"
+    },
+    {
+      "id": "Little_Rock_Speech_Draft",
+      "doc_name": "Little Rock Speech Draft",
+      "-source": "Little_Rock_Speech_Draft.pdf"
+    },
+    {
+      "id": "Little_Rock_Telegram",
+      "doc_name": "Little Rock Telegram",
+      "-source": "Little_Rock_Telegram.pdf"
+    },
+    {
+      "id": "Long_John",
+      "doc_name": "Long John",
+      "-source": "Long_John.pdf"
+    },
+    {
+      "id": "Long_Mrs_Robert",
+      "doc_name": "Long Mrs Robert",
+      "-source": "Long_Mrs_Robert.pdf"
+    },
+    {
+      "id": "Luce_Henry_534",
+      "doc_name": "Luce Henry 534",
+      "-source": "Luce_Henry_534.pdf"
+    },
+    {
+      "id": "Lutes_LeRoy_408",
+      "doc_name": "Lutes Leroy 408",
+      "-source": "Lutes_LeRoy_408.pdf"
+    },
+    {
+      "id": "Lyons_Eugene",
+      "doc_name": "Lyons Eugene",
+      "-source": "Lyons_Eugene.pdf"
+    },
+    {
+      "id": "M_Day_Summary",
+      "doc_name": "M Day Summary",
+      "-source": "M_Day_Summary.pdf"
+    },
+    {
+      "id": "MacArthur_Douglas_538",
+      "doc_name": "Macarthur Douglas 538",
+      "-source": "MacArthur_Douglas_538.pdf"
+    },
+    {
+      "id": "MacAskill_Robert",
+      "doc_name": "Macaskill Robert",
+      "-source": "MacAskill_Robert.pdf"
+    },
+    {
+      "id": "Macmillan",
+      "doc_name": "Macmillan",
+      "-source": "Macmillan.pdf"
+    },
+    {
+      "id": "Manion_Clarence",
+      "doc_name": "Manion Clarence",
+      "-source": "Manion_Clarence.pdf"
+    },
+    {
+      "id": "Mann_Thomas_353",
+      "doc_name": "Mann Thomas 353",
+      "-source": "Mann_Thomas_353.pdf"
+    },
+    {
+      "id": "Map",
+      "doc_name": "Map",
+      "-source": "Map.pdf"
+    },
+    {
+      "id": "March_1953",
+      "doc_name": "March 1953",
+      "-source": "March_1953.pdf"
+    },
+    {
+      "id": "March_1954",
+      "doc_name": "March 1954",
+      "-source": "March_1954.pdf"
+    },
+    {
+      "id": "March_1955",
+      "doc_name": "March 1955",
+      "-source": "March_1955.pdf"
+    },
+    {
+      "id": "March_1956",
+      "doc_name": "March 1956",
+      "-source": "March_1956.pdf"
+    },
+    {
+      "id": "March_1957",
+      "doc_name": "March 1957",
+      "-source": "March_1957.pdf"
+    },
+    {
+      "id": "March_1958",
+      "doc_name": "March 1958",
+      "-source": "March_1958.pdf"
+    },
+    {
+      "id": "March_1959",
+      "doc_name": "March 1959",
+      "-source": "March_1959.pdf"
+    },
+    {
+      "id": "March_1960",
+      "doc_name": "March 1960",
+      "-source": "March_1960.pdf"
+    },
+    {
+      "id": "Matchett_Henry",
+      "doc_name": "Matchett Henry",
+      "-source": "Matchett_Henry.pdf"
+    },
+    {
+      "id": "May_1953",
+      "doc_name": "May 1953",
+      "-source": "May_1953.pdf"
+    },
+    {
+      "id": "May_1954",
+      "doc_name": "May 1954",
+      "-source": "May_1954.pdf"
+    },
+    {
+      "id": "May_1955",
+      "doc_name": "May 1955",
+      "-source": "May_1955.pdf"
+    },
+    {
+      "id": "May_1956",
+      "doc_name": "May 1956",
+      "-source": "May_1956.pdf"
+    },
+    {
+      "id": "May_1957",
+      "doc_name": "May 1957",
+      "-source": "May_1957.pdf"
+    },
+    {
+      "id": "May_1958",
+      "doc_name": "May 1958",
+      "-source": "May_1958.pdf"
+    },
+    {
+      "id": "May_1959",
+      "doc_name": "May 1959",
+      "-source": "May_1959.pdf"
+    },
+    {
+      "id": "May_1960",
+      "doc_name": "May 1960",
+      "-source": "May_1960.pdf"
+    },
+    {
+      "id": "McAdam_Charles",
+      "doc_name": "Mcadam Charles",
+      "-source": "McAdam_Charles.pdf"
+    },
+    {
+      "id": "McCabe_Edward_536",
+      "doc_name": "Mccabe Edward 536",
+      "-source": "McCabe_Edward_536.pdf"
+    },
+    {
+      "id": "McCann_Kevin",
+      "doc_name": "Mccann Kevin",
+      "-source": "McCann_Kevin.pdf"
+    },
+    {
+      "id": "McCarty_Nancy_Jensen_335",
+      "doc_name": "Mccarty Nancy Jensen 335",
+      "-source": "McCarty_Nancy_Jensen_335.pdf"
+    },
+    {
+      "id": "McCone_John",
+      "doc_name": "Mccone John",
+      "-source": "McCone_John.pdf"
+    },
+    {
+      "id": "McCoy_Alvin",
+      "doc_name": "Mccoy Alvin",
+      "-source": "McCoy_Alvin.pdf"
+    },
+    {
+      "id": "McCrum_Marie_360",
+      "doc_name": "Mccrum Marie 360",
+      "-source": "McCrum_Marie_360.pdf"
+    },
+    {
+      "id": "McDonnell_John",
+      "doc_name": "Mcdonnell John",
+      "-source": "McDonnell_John.pdf"
+    },
+    {
+      "id": "McIlvaine_Robinson",
+      "doc_name": "Mcilvaine Robinson",
+      "-source": "McIlvaine_Robinson.pdf"
+    },
+    {
+      "id": "McKay_Lawrence",
+      "doc_name": "Mckay Lawrence",
+      "-source": "McKay_Lawrence.pdf"
+    },
+    {
+      "id": "Mears_Clifton",
+      "doc_name": "Mears Clifton",
+      "-source": "Mears_Clifton.pdf"
+    },
+    {
+      "id": "Mellor_Mabel",
+      "doc_name": "Mellor Mabel",
+      "-source": "Mellor_Mabel.pdf"
+    },
+    {
+      "id": "Memo_Malcolm_Moos",
+      "doc_name": "Memo Malcolm Moos",
+      "-source": "Memo_Malcolm_Moos.pdf"
+    },
+    {
+      "id": "Memo_of_PJBD_Meeting",
+      "doc_name": "Memo Of Pjbd Meeting",
+      "-source": "Memo_of_PJBD_Meeting.pdf"
+    },
+    {
+      "id": "Memo_of_US_Costs",
+      "doc_name": "Memo Of Us Costs",
+      "-source": "Memo_of_US_Costs.pdf"
+    },
+    {
+      "id": "Military_Assistance",
+      "doc_name": "Military Assistance",
+      "-source": "Military_Assistance.pdf"
+    },
+    {
+      "id": "Minnich_Arthur_391",
+      "doc_name": "Minnich Arthur 391",
+      "-source": "Minnich_Arthur_391.pdf"
+    },
+    {
+      "id": "Minutes_of_the_SCAEF",
+      "doc_name": "Minutes Of The Scaef",
+      "-source": "Minutes_of_the_SCAEF.pdf"
+    },
+    {
+      "id": "Moaney_John_328",
+      "doc_name": "Moaney John 328",
+      "-source": "Moaney_John_328.pdf"
+    },
+    {
+      "id": "Moore_Ray",
+      "doc_name": "Moore Ray",
+      "-source": "Moore_Ray.pdf"
+    },
+    {
+      "id": "Morrow_E_Frederic_376",
+      "doc_name": "Morrow E Frederic 376",
+      "-source": "Morrow_E_Frederic_376.pdf"
+    },
+    {
+      "id": "Nautilus_Transpolar_Cruise_Schedule",
+      "doc_name": "Nautilus Transpolar Cruise Schedule",
+      "-source": "Nautilus_Transpolar_Cruise_Schedule.pdf"
+    },
+    {
+      "id": "Nevins_Arthur_380",
+      "doc_name": "Nevins Arthur 380",
+      "-source": "Nevins_Arthur_380.pdf"
+    },
+    {
+      "id": "no_date_alexander",
+      "doc_name": "No Date Alexander",
+      "-source": "no_date_alexander.pdf"
+    },
+    {
+      "id": "no_date_allison",
+      "doc_name": "No Date Allison",
+      "-source": "no_date_allison.pdf"
+    },
+    {
+      "id": "Norstad_Lauris_385",
+      "doc_name": "Norstad Lauris 385",
+      "-source": "Norstad_Lauris_385.pdf"
+    },
+    {
+      "id": "November_1953",
+      "doc_name": "November 1953",
+      "-source": "November_1953.pdf"
+    },
+    {
+      "id": "November_1954",
+      "doc_name": "November 1954",
+      "-source": "November_1954.pdf"
+    },
+    {
+      "id": "November_1955",
+      "doc_name": "November 1955",
+      "-source": "November_1955.pdf"
+    },
+    {
+      "id": "November_1956",
+      "doc_name": "November 1956",
+      "-source": "November_1956.pdf"
+    },
+    {
+      "id": "November_1957",
+      "doc_name": "November 1957",
+      "-source": "November_1957.pdf"
+    },
+    {
+      "id": "November_1958",
+      "doc_name": "November 1958",
+      "-source": "November_1958.pdf"
+    },
+    {
+      "id": "November_1959",
+      "doc_name": "November 1959",
+      "-source": "November_1959.pdf"
+    },
+    {
+      "id": "November_1960",
+      "doc_name": "November 1960",
+      "-source": "November_1960.pdf"
+    },
+    {
+      "id": "nsc_directive",
+      "doc_name": "Nsc Directive",
+      "-source": "nsc_directive.pdf"
+    },
+    {
+      "id": "ocb_draft_minutes",
+      "doc_name": "Ocb Draft Minutes",
+      "-source": "ocb_draft_minutes.pdf"
+    },
+    {
+      "id": "October_1953",
+      "doc_name": "October 1953",
+      "-source": "October_1953.pdf"
+    },
+    {
+      "id": "October_1954",
+      "doc_name": "October 1954",
+      "-source": "October_1954.pdf"
+    },
+    {
+      "id": "October_1955",
+      "doc_name": "October 1955",
+      "-source": "October_1955.pdf"
+    },
+    {
+      "id": "October_1956",
+      "doc_name": "October 1956",
+      "-source": "October_1956.pdf"
+    },
+    {
+      "id": "October_1957",
+      "doc_name": "October 1957",
+      "-source": "October_1957.pdf"
+    },
+    {
+      "id": "October_1958",
+      "doc_name": "October 1958",
+      "-source": "October_1958.pdf"
+    },
+    {
+      "id": "October_1959",
+      "doc_name": "October 1959",
+      "-source": "October_1959.pdf"
+    },
+    {
+      "id": "October_1960",
+      "doc_name": "October 1960",
+      "-source": "October_1960.pdf"
+    },
+    {
+      "id": "Oles_Floyd_249",
+      "doc_name": "Oles Floyd 249",
+      "-source": "Oles_Floyd_249.pdf"
+    },
+    {
+      "id": "On_Being_a_Woman",
+      "doc_name": "On Being A Woman",
+      "-source": "On_Being_a_Woman.pdf"
+    },
+    {
+      "id": "Operation_Policy_Memoranda",
+      "doc_name": "Operation Policy Memoranda",
+      "-source": "Operation_Policy_Memoranda.pdf"
+    },
+    {
+      "id": "orchestra_schedule",
+      "doc_name": "Orchestra Schedule",
+      "-source": "orchestra_schedule.pdf"
+    },
+    {
+      "id": "Order_of_the_Day_draft",
+      "doc_name": "Order Of The Day Draft",
+      "-source": "Order_of_the_Day_draft.pdf"
+    },
+    {
+      "id": "Order_of_the_Day",
+      "doc_name": "Order Of The Day",
+      "-source": "Order_of_the_Day.pdf"
+    },
+    {
+      "id": "Osborn_Genevieve_533",
+      "doc_name": "Osborn Genevieve 533",
+      "-source": "Osborn_Genevieve_533.pdf"
+    },
+    {
+      "id": "Overlord_Part_1",
+      "doc_name": "Overlord Part 1",
+      "-source": "Overlord_Part_1.pdf"
+    },
+    {
+      "id": "Overlord_Part_2",
+      "doc_name": "Overlord Part 2",
+      "-source": "Overlord_Part_2.pdf"
+    },
+    {
+      "id": "Pamphlet_Commission_on_Civil_Rights",
+      "doc_name": "Pamphlet Commission On Civil Rights",
+      "-source": "Pamphlet_Commission_on_Civil_Rights.pdf"
+    },
+    {
+      "id": "parade_float_id_card",
+      "doc_name": "Parade Float Id Card",
+      "-source": "parade_float_id_card.pdf"
+    },
+    {
+      "id": "Parker_Hugh_326",
+      "doc_name": "Parker Hugh 326",
+      "-source": "Parker_Hugh_326.pdf"
+    },
+    {
+      "id": "parking_permit",
+      "doc_name": "Parking Permit",
+      "-source": "parking_permit.pdf"
+    },
+    {
+      "id": "Paul_Charles_493",
+      "doc_name": "Paul Charles 493",
+      "-source": "Paul_Charles_493.pdf"
+    },
+    {
+      "id": "Pearkes_GR_339",
+      "doc_name": "Pearkes Gr 339",
+      "-source": "Pearkes_GR_339.pdf"
+    },
+    {
+      "id": "Persons_Attending",
+      "doc_name": "Persons Attending",
+      "-source": "Persons_Attending.pdf"
+    },
+    {
+      "id": "Picking_Lelia_7",
+      "doc_name": "Picking Lelia 7",
+      "-source": "Picking_Lelia_7.pdf"
+    },
+    {
+      "id": "Portal_Charles_79",
+      "doc_name": "Portal Charles 79",
+      "-source": "Portal_Charles_79.pdf"
+    },
+    {
+      "id": "Porter_HJ_370",
+      "doc_name": "Porter Hj 370",
+      "-source": "Porter_HJ_370.pdf"
+    },
+    {
+      "id": "Post_Armistice_Policy_1954_01_05",
+      "doc_name": "Post Armistice Policy 1954 01 05",
+      "-source": "Post_Armistice_Policy_1954_01_05.pdf"
+    },
+    {
+      "id": "Press_Conference_1945_06_18",
+      "doc_name": "Press Conference 1945 06 18",
+      "-source": "Press_Conference_1945_06_18.pdf"
+    },
+    {
+      "id": "Press_release_DDE_telegram_to_Faubus",
+      "doc_name": "Press Release Dde Telegram To Faubus",
+      "-source": "Press_release_DDE_telegram_to_Faubus.pdf"
+    },
+    {
+      "id": "Press_Release_EO_10730",
+      "doc_name": "Press Release Eo 10730",
+      "-source": "Press_Release_EO_10730.pdf"
+    },
+    {
+      "id": "press_release_inaugural_gown_jewelry",
+      "doc_name": "Press Release Inaugural Gown Jewelry",
+      "-source": "press_release_inaugural_gown_jewelry.pdf"
+    },
+    {
+      "id": "Press_Release_Proclamation",
+      "doc_name": "Press Release Proclamation",
+      "-source": "Press_Release_Proclamation.pdf"
+    },
+    {
+      "id": "principal_facts",
+      "doc_name": "Principal Facts",
+      "-source": "principal_facts.pdf"
+    },
+    {
+      "id": "Program",
+      "doc_name": "Program",
+      "-source": "Program.pdf"
+    },
+    {
+      "id": "Public_Opinion_1953_06_02",
+      "doc_name": "Public Opinion 1953 06 02",
+      "-source": "Public_Opinion_1953_06_02.pdf"
+    },
+    {
+      "id": "Quadrant_Conference",
+      "doc_name": "Quadrant Conference",
+      "-source": "Quadrant_Conference.pdf"
+    },
+    {
+      "id": "Quesada_Elwood_476",
+      "doc_name": "Quesada Elwood 476",
+      "-source": "Quesada_Elwood_476.pdf"
+    },
+    {
+      "id": "Rabb_Maxwell_479",
+      "doc_name": "Rabb Maxwell 479",
+      "-source": "Rabb_Maxwell_479.pdf"
+    },
+    {
+      "id": "rb47",
+      "doc_name": "Rb 47",
+      "-source": "rb47.pdf"
+    },
+    {
+      "id": "Reaction",
+      "doc_name": "Reaction",
+      "-source": "Reaction.pdf"
+    },
+    {
+      "id": "Reading_Copy",
+      "doc_name": "Reading Copy",
+      "-source": "Reading_Copy.pdf"
+    },
+    {
+      "id": "report_atomic_capable_aircraft",
+      "doc_name": "Report Atomic Capable Aircraft",
+      "-source": "report_atomic_capable_aircraft.pdf"
+    },
+    {
+      "id": "Report_Dachau",
+      "doc_name": "Report Dachau",
+      "-source": "Report_Dachau.pdf"
+    },
+    {
+      "id": "Report_Executive_Branch",
+      "doc_name": "Report Executive Branch",
+      "-source": "Report_Executive_Branch.pdf"
+    },
+    {
+      "id": "Report_Harrison",
+      "doc_name": "Report Harrison",
+      "-source": "Report_Harrison.pdf"
+    },
+    {
+      "id": "report_implementation_psb_d_21",
+      "doc_name": "Report Implementation Psb D 21",
+      "-source": "report_implementation_psb_d_21.pdf"
+    },
+    {
+      "id": "report_Jackson_to_Moody",
+      "doc_name": "Report Jackson To Moody",
+      "-source": "report_Jackson_to_Moody.pdf"
+    },
+    {
+      "id": "report_military_aid_programs",
+      "doc_name": "Report Military Aid Programs",
+      "-source": "report_military_aid_programs.pdf"
+    },
+    {
+      "id": "report_nasser",
+      "doc_name": "Report Nasser",
+      "-source": "report_nasser.pdf"
+    },
+    {
+      "id": "Report_of_Atrocities",
+      "doc_name": "Report Of Atrocities",
+      "-source": "Report_of_Atrocities.pdf"
+    },
+    {
+      "id": "Report_of_the_Amphibious_Operations",
+      "doc_name": "Report Of The Amphibious Operations",
+      "-source": "Report_of_the_Amphibious_Operations.pdf"
+    },
+    {
+      "id": "Report_of_the_Eighth_Air_Force",
+      "doc_name": "Report Of The Eighth Air Force",
+      "-source": "Report_of_the_Eighth_Air_Force.pdf"
+    },
+    {
+      "id": "Report_on_Womanpower_Conference",
+      "doc_name": "Report On Womanpower Conference",
+      "-source": "Report_on_Womanpower_Conference.pdf"
+    },
+    {
+      "id": "report_uk_position",
+      "doc_name": "Report Uk Position",
+      "-source": "report_uk_position.pdf"
+    },
+    {
+      "id": "RNC_News_Release",
+      "doc_name": "Rnc News Release",
+      "-source": "RNC_News_Release.pdf"
+    },
+    {
+      "id": "Robinson_William_392",
+      "doc_name": "Robinson William 392",
+      "-source": "Robinson_William_392.pdf"
+    },
+    {
+      "id": "Roger_to_Martin",
+      "doc_name": "Roger To Martin",
+      "-source": "Roger_to_Martin.pdf"
+    },
+    {
+      "id": "Rossides_Eugene_510",
+      "doc_name": "Rossides Eugene 510",
+      "-source": "Rossides_Eugene_510.pdf"
+    },
+    {
+      "id": "Russell_Christopher_406",
+      "doc_name": "Russell Christopher 406",
+      "-source": "Russell_Christopher_406.pdf"
+    },
+    {
+      "id": "Sacco_Irene_474",
+      "doc_name": "Sacco Irene 474",
+      "-source": "Sacco_Irene_474.pdf"
+    },
+    {
+      "id": "Salk_A",
+      "doc_name": "Salk A",
+      "-source": "Salk_A.pdf"
+    },
+    {
+      "id": "Salk_B",
+      "doc_name": "Salk B",
+      "-source": "Salk_B.pdf"
+    },
+    {
+      "id": "Salk_C",
+      "doc_name": "Salk C",
+      "-source": "Salk_C.pdf"
+    },
+    {
+      "id": "Salk_D",
+      "doc_name": "Salk D",
+      "-source": "Salk_D.pdf"
+    },
+    {
+      "id": "Salk_E",
+      "doc_name": "Salk E",
+      "-source": "Salk_E.pdf"
+    },
+    {
+      "id": "Salk_F",
+      "doc_name": "Salk F",
+      "-source": "Salk_F.pdf"
+    },
+    {
+      "id": "Salk_G",
+      "doc_name": "Salk G",
+      "-source": "Salk_G.pdf"
+    },
+    {
+      "id": "Salk_H",
+      "doc_name": "Salk H",
+      "-source": "Salk_H.pdf"
+    },
+    {
+      "id": "Salk_I",
+      "doc_name": "Salk I",
+      "-source": "Salk_I.pdf"
+    },
+    {
+      "id": "Salk_J",
+      "doc_name": "Salk J",
+      "-source": "Salk_J.pdf"
+    },
+    {
+      "id": "Salk_K",
+      "doc_name": "Salk K",
+      "-source": "Salk_K.pdf"
+    },
+    {
+      "id": "Salk_L",
+      "doc_name": "Salk L",
+      "-source": "Salk_L.pdf"
+    },
+    {
+      "id": "Salk_M",
+      "doc_name": "Salk M",
+      "-source": "Salk_M.pdf"
+    },
+    {
+      "id": "Schaefer_JE_81",
+      "doc_name": "Schaefer Je 81",
+      "-source": "Schaefer_JE_81.pdf"
+    },
+    {
+      "id": "Schoenberg_Irving_561",
+      "doc_name": "Schoenberg Irving 561",
+      "-source": "Schoenberg_Irving_561.pdf"
+    },
+    {
+      "id": "Schulz_Robert_495",
+      "doc_name": "Schulz Robert 495",
+      "-source": "Schulz_Robert_495.pdf"
+    },
+    {
+      "id": "Scott_Inez_409",
+      "doc_name": "Scott Inez 409",
+      "-source": "Scott_Inez_409.pdf"
+    },
+    {
+      "id": "Scripps_Friendship_Balloon_Lift",
+      "doc_name": "Scripps Friendship Balloon Lift",
+      "-source": "Scripps_Friendship_Balloon_Lift.pdf"
+    },
+    {
+      "id": "Seaton_Fred_Mrs",
+      "doc_name": "Seaton Fred Mrs",
+      "-source": "Seaton_Fred_Mrs.pdf"
+    },
+    {
+      "id": "September_1953",
+      "doc_name": "September 1953",
+      "-source": "September_1953.pdf"
+    },
+    {
+      "id": "September_1954",
+      "doc_name": "September 1954",
+      "-source": "September_1954.pdf"
+    },
+    {
+      "id": "September_1955",
+      "doc_name": "September 1955",
+      "-source": "September_1955.pdf"
+    },
+    {
+      "id": "September_1956",
+      "doc_name": "September 1956",
+      "-source": "September_1956.pdf"
+    },
+    {
+      "id": "September_1957",
+      "doc_name": "September 1957",
+      "-source": "September_1957.pdf"
+    },
+    {
+      "id": "September_1958",
+      "doc_name": "September 1958",
+      "-source": "September_1958.pdf"
+    },
+    {
+      "id": "September_1959",
+      "doc_name": "September 1959",
+      "-source": "September_1959.pdf"
+    },
+    {
+      "id": "September_1960",
+      "doc_name": "September 1960",
+      "-source": "September_1960.pdf"
+    },
+    {
+      "id": "Sextant_and_Eureka_Conferences",
+      "doc_name": "Sextant And Eureka Conferences",
+      "-source": "Sextant_and_Eureka_Conferences.pdf"
+    },
+    {
+      "id": "SHAEF_Report_German_Concentration_Camps",
+      "doc_name": "Shaef Report German Concentration Camps",
+      "-source": "SHAEF_Report_German_Concentration_Camps.pdf"
+    },
+    {
+      "id": "Shanley_Bernard_348",
+      "doc_name": "Shanley Bernard 348",
+      "-source": "Shanley_Bernard_348.pdf"
+    },
+    {
+      "id": "Sheldon_Joe_329",
+      "doc_name": "Sheldon Joe 329",
+      "-source": "Sheldon_Joe_329.pdf"
+    },
+    {
+      "id": "Simpson_William_314",
+      "doc_name": "Simpson William 314",
+      "-source": "Simpson_William_314.pdf"
+    },
+    {
+      "id": "Situation_Report_no176",
+      "doc_name": "Situation Report No 176",
+      "-source": "Situation_Report_no176.pdf"
+    },
+    {
+      "id": "Situation_Report_no211",
+      "doc_name": "Situation Report No 211",
+      "-source": "Situation_Report_no211.pdf"
+    },
+    {
+      "id": "Situation_Report_no217",
+      "doc_name": "Situation Report No 217",
+      "-source": "Situation_Report_no217.pdf"
+    },
+    {
+      "id": "Situation_Report_no218",
+      "doc_name": "Situation Report No 218",
+      "-source": "Situation_Report_no218.pdf"
+    },
+    {
+      "id": "Situation_Report_no226",
+      "doc_name": "Situation Report No 226",
+      "-source": "Situation_Report_no226.pdf"
+    },
+    {
+      "id": "Situation_Report_no233",
+      "doc_name": "Situation Report No 233",
+      "-source": "Situation_Report_no233.pdf"
+    },
+    {
+      "id": "Smith_Gerard_513",
+      "doc_name": "Smith Gerard 513",
+      "-source": "Smith_Gerard_513.pdf"
+    },
+    {
+      "id": "Smylie_Robert_355",
+      "doc_name": "Smylie Robert 355",
+      "-source": "Smylie_Robert_355.pdf"
+    },
+    {
+      "id": "Snider_Dwight_520",
+      "doc_name": "Snider Dwight 520",
+      "-source": "Snider_Dwight_520.pdf"
+    },
+    {
+      "id": "Snider_Orin_6",
+      "doc_name": "Snider Orin 6",
+      "-source": "Snider_Orin_6.pdf"
+    },
+    {
+      "id": "Stack_James_317",
+      "doc_name": "Stack James 317",
+      "-source": "Stack_James_317.pdf"
+    },
+    {
+      "id": "Stambaugh_John_372",
+      "doc_name": "Stambaugh John 372",
+      "-source": "Stambaugh_John_372.pdf"
+    },
+    {
+      "id": "Stanley_Timothy_398",
+      "doc_name": "Stanley Timothy 398",
+      "-source": "Stanley_Timothy_398.pdf"
+    },
+    {
+      "id": "Staph_Charles_375",
+      "doc_name": "Staph Charles 375",
+      "-source": "Staph_Charles_375.pdf"
+    },
+    {
+      "id": "Stassen_Harold_519",
+      "doc_name": "Stassen Harold 519",
+      "-source": "Stassen_Harold_519.pdf"
+    },
+    {
+      "id": "Statehood_for_Alaska_and_Hawaii",
+      "doc_name": "Statehood For Alaska And Hawaii",
+      "-source": "Statehood_for_Alaska_and_Hawaii.pdf"
+    },
+    {
+      "id": "Statement_of_the_Attorney_General",
+      "doc_name": "Statement Of The Attorney General",
+      "-source": "Statement_of_the_Attorney_General.pdf"
+    },
+    {
+      "id": "Statements_by_DDE_and_Faubus",
+      "doc_name": "Statements By Dde And Faubus",
+      "-source": "Statements_by_DDE_and_Faubus.pdf"
+    },
+    {
+      "id": "Stevens_Ted_484",
+      "doc_name": "Stevens Ted 484",
+      "-source": "Stevens_Ted_484.pdf"
+    },
+    {
+      "id": "Suggested_Material",
+      "doc_name": "Suggested Material",
+      "-source": "Suggested_Material.pdf"
+    },
+    {
+      "id": "Summer_1960",
+      "doc_name": "Summer 1960",
+      "-source": "Summer_1960.pdf"
+    },
+    {
+      "id": "Sutton_Glenn_356",
+      "doc_name": "Sutton Glenn 356",
+      "-source": "Sutton_Glenn_356.pdf"
+    },
+    {
+      "id": "Swan_Walter_343",
+      "doc_name": "Swan Walter 343",
+      "-source": "Swan_Walter_343.pdf"
+    },
+    {
+      "id": "Tait_Edward_384",
+      "doc_name": "Tait Edward 384",
+      "-source": "Tait_Edward_384.pdf"
+    },
+    {
+      "id": "taiwan_straits",
+      "doc_name": "Taiwan Straits",
+      "-source": "taiwan_straits.pdf"
+    },
+    {
+      "id": "Tentative_Inaugural_Program",
+      "doc_name": "Tentative Inaugural Program",
+      "-source": "Tentative_Inaugural_Program.pdf"
+    },
+    {
+      "id": "Thomas_Charles_490",
+      "doc_name": "Thomas Charles 490",
+      "-source": "Thomas_Charles_490.pdf"
+    },
+    {
+      "id": "Tollefson_Thor_338",
+      "doc_name": "Tollefson Thor 338",
+      "-source": "Tollefson_Thor_338.pdf"
+    },
+    {
+      "id": "Toner_Albert_491",
+      "doc_name": "Toner Albert 491",
+      "-source": "Toner_Albert_491.pdf"
+    },
+    {
+      "id": "Top_Women_Appointments",
+      "doc_name": "Top Women Appointments",
+      "-source": "Top_Women_Appointments.pdf"
+    },
+    {
+      "id": "Tourtellotte_Williams_332",
+      "doc_name": "Tourtellotte Williams 332",
+      "-source": "Tourtellotte_Williams_332.pdf"
+    },
+    {
+      "id": "Trident_Conference",
+      "doc_name": "Trident Conference",
+      "-source": "Trident_Conference.pdf"
+    },
+    {
+      "id": "tritium",
+      "doc_name": "Tritium",
+      "-source": "tritium.pdf"
+    },
+    {
+      "id": "Typescript_Speech_Draft",
+      "doc_name": "Typescript Speech Draft",
+      "-source": "Typescript_Speech_Draft.pdf"
+    },
+    {
+      "id": "undated_letter_charles_bunnell",
+      "doc_name": "Undated Letter Charles Bunnell",
+      "-source": "undated_letter_charles_bunnell.pdf"
+    },
+    {
+      "id": "undated_UK_Indochina",
+      "doc_name": "Undated Uk Indochina",
+      "-source": "undated_UK_Indochina.pdf"
+    },
+    {
+      "id": "union_labor_regulations",
+      "doc_name": "Union Labor Regulations",
+      "-source": "union_labor_regulations.pdf"
+    },
+    {
+      "id": "ussr_space_program",
+      "doc_name": "Ussr Space Program",
+      "-source": "ussr_space_program.pdf"
+    },
+    {
+      "id": "Walters_Vernon_108",
+      "doc_name": "Walters Vernon 108",
+      "-source": "Walters_Vernon_108.pdf"
+    },
+    {
+      "id": "Wheeler_Clyde_388",
+      "doc_name": "Wheeler Clyde 388",
+      "-source": "Wheeler_Clyde_388.pdf"
+    },
+    {
+      "id": "Wheeler_Clyde_515",
+      "doc_name": "Wheeler Clyde 515",
+      "-source": "Wheeler_Clyde_515.pdf"
+    },
+    {
+      "id": "Whitman_Ann_511",
+      "doc_name": "Whitman Ann 511",
+      "-source": "Whitman_Ann_511.pdf"
+    },
+    {
+      "id": "Williams_Ralph_503",
+      "doc_name": "Williams Ralph 503",
+      "-source": "Williams_Ralph_503.pdf"
+    },
+    {
+      "id": "Witter_Ray_5",
+      "doc_name": "Witter Ray 5",
+      "-source": "Witter_Ray_5.pdf"
+    },
+    {
+      "id": "Women_in_County_and_Municipal_Service",
+      "doc_name": "Women In County And Municipal Service",
+      "-source": "Women_in_County_and_Municipal_Service.pdf"
+    },
+    {
+      "id": "Women_in_Federal_Service",
+      "doc_name": "Women In Federal Service",
+      "-source": "Women_in_Federal_Service.pdf"
+    },
+    {
+      "id": "Women_in_Foreign_Service",
+      "doc_name": "Women In Foreign Service",
+      "-source": "Women_in_Foreign_Service.pdf"
+    },
+    {
+      "id": "Women_in_Judicial_Service",
+      "doc_name": "Women In Judicial Service",
+      "-source": "Women_in_Judicial_Service.pdf"
+    },
+    {
+      "id": "Women_in_State_Appointive_Positions",
+      "doc_name": "Women In State Appointive Positions",
+      "-source": "Women_in_State_Appointive_Positions.pdf"
+    },
+    {
+      "id": "Women_in_State_Elective_Postions",
+      "doc_name": "Women In State Elective Postions",
+      "-source": "Women_in_State_Elective_Postions.pdf"
+    },
+    {
+      "id": "Women_in_US_Congress",
+      "doc_name": "Women In Us Congress",
+      "-source": "Women_in_US_Congress.pdf"
+    },
+    {
+      "id": "Woodruff_Roscoe_404",
+      "doc_name": "Woodruff Roscoe 404",
+      "-source": "Woodruff_Roscoe_404.pdf"
+    },
+    {
+      "id": "Woodward_Jack_512",
+      "doc_name": "Woodward Jack 512",
+      "-source": "Woodward_Jack_512.pdf"
+    },
+    {
+      "id": "Yost_Charles_416",
+      "doc_name": "Yost Charles 416",
+      "-source": "Yost_Charles_416.pdf"
+    },
+    {
+      "id": "Zaghi",
+      "doc_name": "Zaghi",
+      "-source": "Zaghi.pdf"
+    }
+  ]
+}

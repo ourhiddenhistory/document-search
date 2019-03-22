@@ -1,0 +1,50 @@
+
+# PHP CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-php/ for more details
+# image list: https://hub.docker.com/r/circleci/php/tags/
+# Source: https://medium.freecodecamp.org/our-journey-for-using-circleci-2-0-to-build-and-deploy-an-angular-app-to-aws-s3-8e7ea3f51503
+
+version: 2.0
+
+jobs:
+
+  deploy-ohh:
+    docker:
+      - image: circleci/ruby:2.6-node-browsers
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: Install rsync
+          command: sudo apt install rsync
+      # Restore local dependencies from cache
+      - restore_cache:
+          keys:
+              - v1-dependencies-{{ checksum "package.json" }}
+              - v1-dependencies-
+      # Install project dependencies
+      - run:
+          name: Install local dependencies
+          command: npm install && sudo npm install -g gulp-cli
+      # Cache local dependencies if they don't exist
+      - save_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+          paths:
+              - node_modules
+      - save_cache:
+          key: v1-dist-{{ .Environment.CIRCLE_BRANCH }}-{{ .Environment.CIRCLE_SHA1 }}
+          paths:
+              - dist
+      - run:
+          name: Install Jekyll
+          command: gem install jekyll && bundle install
+      - deploy:
+          name: Deploy
+          command: ./deploy.sh
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - deploy-ohh

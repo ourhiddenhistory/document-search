@@ -1,0 +1,20 @@
+{
+  "id": "009",
+  "shortname": "iran-contra-fbi",
+  "collection": "FBI Iran-Contra Documents",
+  "alt_names": [],
+  "date": "1989",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/Iran-Contra",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "File 1 Section 1"
+    },
+    {
+      "id": "003",
+      "doc_name": "File 1 Section 3"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "id": "052",
+  "shortname": "seldes-george",
+  "collection": "George Seldes Books",
+  "alt_names": [],
+  "date": "1940",
+  "important": "",
+  "description": "George Seldes was a legendary US journalist whose career spanned from the First World War to much of the cold war.",
+  "source": "https://archive.org/search.php?query=george%20seldes&and[]=mediatype%3A%22texts%22",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Iron Blood And Profits: An Exposure Of The World-wide Munitions Racket",
+      "source": "https://archive.org/stream/in.ernet.dli.2015.155767/2015.155767.Iron-Blood-And-Profits-An-Exposure-Of-The-World-wide-Munitions-Racket"
+    },
+    {
+      "id": "002",
+      "doc_name": "Can These Things Be!",
+      "source": "https://archive.org/stream/in.ernet.dli.2015.166388/2015.166388.Can-These-Things-Be"
+    },
+    {
+      "id": "003",
+      "doc_name": "One Thousand Americans",
+      "source": "https://archive.org/stream/in.ernet.dli.2015.263331/2015.263331.One-Thousand"
+    },
+    {
+      "id": "004",
+      "doc_name": "World Panorama: 1918 - 1933",
+      "source": "https://archive.org/stream/in.ernet.dli.2015.510044/2015.510044.World-Panorama"
+    },
+    {
+      "id": "005",
+      "doc_name": "Facts and Fascism",
+      "source": "https://archive.org/stream/FactsAndFascism/FactsandFascism_BW"
+    },
+    {
+      "id": "006",
+      "doc_name": "The Facts Are; A Guide to Falsehood and Propaganda in the Press and Radio",
+      "source": "https://archive.org/stream/factsareguidetof00seldrich"
+    },
+    {
+      "id": "007",
+      "doc_name": "The Fascist Road to Ruin",
+      "source": "https://archive.org/stream/TheFascistRoadToRuin/fascist"
+    },
+    {
+      "id": "008",
+      "doc_name": "Lords Of The Press",
+      "source": "https://archive.org/stream/LordsOfThePressGeorgeSeldes1938411pgsPOL.sml/Lords_Of_The_Press-George_Seldes-1938-411pgs-POL.sml"
+    },
+    {
+      "id": "009",
+      "doc_name": "Sawdust Caesar: The Untold History of Mussolini and Fascism",
+      "source": "https://archive.org/stream/SawdustCaesarTheUntoldStoryOfMussoliniAndFascism/SawdustCaesar-GeorgeSeldes"
+    },
+    {
+      "id": "010",
+      "doc_name": "The People Don't Know: The American Press and the Cold War",
+      "source": "https://archive.org/stream/ThePeopleDontKnow"
+    },
+    {
+      "id": "011",
+      "doc_name": "You Can't Print That!: The Truth Behind the News 1918 to 1928",
+      "source": "https://archive.org/stream/B-001-002-045"
+    },
+    {
+      "id": "2.5",
+      "doc_name": "2.5",
+      "-source": ""
+    },
+    {
+      "id": "2.6",
+      "doc_name": "2.6",
+      "-source": ""
+    },
+    {
+      "id": "2.7",
+      "doc_name": "2.7",
+      "-source": ""
+    },
+    {
+      "id": "2.8",
+      "doc_name": "2.8",
+      "-source": ""
+    },
+    {
+      "id": "2.9",
+      "doc_name": "2.9",
+      "-source": ""
+    },
+    {
+      "id": "2.10",
+      "doc_name": "2.10",
+      "-source": ""
+    },
+    {
+      "id": "2.11",
+      "doc_name": "2.11",
+      "-source": ""
+    },
+    {
+      "id": "2.13",
+      "doc_name": "2.13",
+      "-source": ""
+    },
+    {
+      "id": "3.01",
+      "doc_name": "3.01",
+      "-source": ""
+    },
+    {
+      "id": "3.02",
+      "doc_name": "3.02",
+      "-source": ""
+    },
+    {
+      "id": "3.03",
+      "doc_name": "3.03",
+      "-source": ""
+    },
+    {
+      "id": "3.04",
+      "doc_name": "3.04",
+      "-source": ""
+    },
+    {
+      "id": "3.05",
+      "doc_name": "3.05",
+      "-source": ""
+    },
+    {
+      "id": "3.06",
+      "doc_name": "3.06",
+      "-source": ""
+    },
+    {
+      "id": "3.07",
+      "doc_name": "3.07",
+      "-source": ""
+    },
+    {
+      "id": "3.08",
+      "doc_name": "3.08",
+      "-source": ""
+    },
+    {
+      "id": "3.09",
+      "doc_name": "3.09",
+      "-source": ""
+    },
+    {
+      "id": "3.10",
+      "doc_name": "3.10",
+      "-source": ""
+    },
+    {
+      "id": "3.11",
+      "doc_name": "3.11",
+      "-source": ""
+    },
+    {
+      "id": "3.12",
+      "doc_name": "3.12",
+      "-source": ""
+    },
+    {
+      "id": "3.13",
+      "doc_name": "3.13",
+      "-source": ""
+    },
+    {
+      "id": "3.14",
+      "doc_name": "3.14",
+      "-source": ""
+    },
+    {
+      "id": "3.15",
+      "doc_name": "3.15",
+      "-source": ""
+    },
+    {
+      "id": "3.16",
+      "doc_name": "3.16",
+      "-source": ""
+    },
+    {
+      "id": "3.17",
+      "doc_name": "3.17",
+      "-source": ""
+    },
+    {
+      "id": "3.18",
+      "doc_name": "3.18",
+      "-source": ""
+    },
+    {
+      "id": "3.19",
+      "doc_name": "3.19",
+      "-source": ""
+    },
+    {
+      "id": "3.20",
+      "doc_name": "3.20",
+      "-source": ""
+    },
+    {
+      "id": "3.21",
+      "doc_name": "3.21",
+      "-source": ""
+    },
+    {
+      "id": "3.22",
+      "doc_name": "3.22",
+      "-source": ""
+    },
+    {
+      "id": "3.23",
+      "doc_name": "3.23",
+      "-source": ""
+    },
+    {
+      "id": "3.24",
+      "doc_name": "3.24",
+      "-source": ""
+    },
+    {
+      "id": "3.25",
+      "doc_name": "3.25",
+      "-source": ""
+    },
+    {
+      "id": "3.26",
+      "doc_name": "3.26",
+      "-source": ""
+    },
+    {
+      "id": "4.01",
+      "doc_name": "4.01",
+      "-source": ""
+    },
+    {
+      "id": "4.02",
+      "doc_name": "4.02",
+      "-source": ""
+    },
+    {
+      "id": "4.03",
+      "doc_name": "4.03",
+      "-source": ""
+    },
+    {
+      "id": "4.04",
+      "doc_name": "4.04",
+      "-source": ""
+    },
+    {
+      "id": "4.05",
+      "doc_name": "4.05",
+      "-source": ""
+    },
+    {
+      "id": "4.06",
+      "doc_name": "4.06",
+      "-source": ""
+    },
+    {
+      "id": "4.07",
+      "doc_name": "4.07",
+      "-source": ""
+    },
+    {
+      "id": "4.08",
+      "doc_name": "4.08",
+      "-source": ""
+    },
+    {
+      "id": "4.09",
+      "doc_name": "4.09",
+      "-source": ""
+    },
+    {
+      "id": "4.11",
+      "doc_name": "4.11",
+      "-source": ""
+    },
+    {
+      "id": "4.12",
+      "doc_name": "4.12",
+      "-source": ""
+    },
+    {
+      "id": "4.13",
+      "doc_name": "4.13",
+      "-source": ""
+    },
+    {
+      "id": "4.14",
+      "doc_name": "4.14",
+      "-source": ""
+    },
+    {
+      "id": "4.15",
+      "doc_name": "4.15",
+      "-source": ""
+    },
+    {
+      "id": "4.16",
+      "doc_name": "4.16",
+      "-source": ""
+    },
+    {
+      "id": "4.17",
+      "doc_name": "4.17",
+      "-source": ""
+    },
+    {
+      "id": "4.18",
+      "doc_name": "4.18",
+      "-source": ""
+    },
+    {
+      "id": "4.19",
+      "doc_name": "4.19",
+      "-source": ""
+    },
+    {
+      "id": "4.20",
+      "doc_name": "4.20",
+      "-source": ""
+    },
+    {
+      "id": "4.21",
+      "doc_name": "4.21",
+      "-source": ""
+    },
+    {
+      "id": "4.22",
+      "doc_name": "4.22",
+      "-source": ""
+    },
+    {
+      "id": "4.23",
+      "doc_name": "4.23",
+      "-source": ""
+    },
+    {
+      "id": "4.24",
+      "doc_name": "4.24",
+      "-source": ""
+    },
+    {
+      "id": "4.25",
+      "doc_name": "4.25",
+      "-source": ""
+    },
+    {
+      "id": "4.26",
+      "doc_name": "4.26",
+      "-source": ""
+    },
+    {
+      "id": "5.01",
+      "doc_name": "5.01",
+      "-source": ""
+    },
+    {
+      "id": "5.02",
+      "doc_name": "5.02",
+      "-source": ""
+    },
+    {
+      "id": "5.03",
+      "doc_name": "5.03",
+      "-source": ""
+    },
+    {
+      "id": "5.04",
+      "doc_name": "5.04",
+      "-source": ""
+    },
+    {
+      "id": "5.05",
+      "doc_name": "5.05",
+      "-source": ""
+    },
+    {
+      "id": "5.06",
+      "doc_name": "5.06",
+      "-source": ""
+    },
+    {
+      "id": "5.07",
+      "doc_name": "5.07",
+      "-source": ""
+    },
+    {
+      "id": "5.08",
+      "doc_name": "5.08",
+      "-source": ""
+    },
+    {
+      "id": "5.09",
+      "doc_name": "5.09",
+      "-source": ""
+    },
+    {
+      "id": "5.10",
+      "doc_name": "5.10",
+      "-source": ""
+    },
+    {
+      "id": "5.11",
+      "doc_name": "5.11",
+      "-source": ""
+    },
+    {
+      "id": "5.12",
+      "doc_name": "5.12",
+      "-source": ""
+    },
+    {
+      "id": "5.13",
+      "doc_name": "5.13",
+      "-source": ""
+    },
+    {
+      "id": "5.14",
+      "doc_name": "5.14",
+      "-source": ""
+    },
+    {
+      "id": "5.15",
+      "doc_name": "5.15",
+      "-source": ""
+    },
+    {
+      "id": "5.16",
+      "doc_name": "5.16",
+      "-source": ""
+    },
+    {
+      "id": "5.17",
+      "doc_name": "5.17",
+      "-source": ""
+    },
+    {
+      "id": "5.18",
+      "doc_name": "5.18",
+      "-source": ""
+    },
+    {
+      "id": "5.19",
+      "doc_name": "5.19",
+      "-source": ""
+    },
+    {
+      "id": "5.20",
+      "doc_name": "5.20",
+      "-source": ""
+    },
+    {
+      "id": "5.21",
+      "doc_name": "5.21",
+      "-source": ""
+    },
+    {
+      "id": "5.22",
+      "doc_name": "5.22",
+      "-source": ""
+    },
+    {
+      "id": "5.23",
+      "doc_name": "5.23",
+      "-source": ""
+    },
+    {
+      "id": "5.24",
+      "doc_name": "5.24",
+      "-source": ""
+    },
+    {
+      "id": "5.25",
+      "doc_name": "5.25",
+      "-source": ""
+    },
+    {
+      "id": "5.26",
+      "doc_name": "5.26",
+      "-source": ""
+    },
+    {
+      "id": "InFact1",
+      "doc_name": "InFact1",
+      "-source": ""
+    },
+    {
+      "id": "InFactVol2No14",
+      "doc_name": "InFactVol2No14",
+      "-source": ""
+    },
+    {
+      "id": "InFactVol2No15",
+      "doc_name": "InFactVol2No15",
+      "-source": ""
+    },
+    {
+      "id": "InFactVol2No16",
+      "doc_name": "InFactVol2No16",
+      "-source": ""
+    },
+    {
+      "id": "InFactVol9No2",
+      "doc_name": "InFactVol9No2",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolIIndex",
+      "doc_name": "InFactVolIIndex",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.1",
+      "doc_name": "InFactVolINo.1",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.2",
+      "doc_name": "InFactVolINo.2",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.3",
+      "doc_name": "InFactVolINo.3",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.4",
+      "doc_name": "InFactVolINo.4",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.5",
+      "doc_name": "InFactVolINo.5",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.6",
+      "doc_name": "InFactVolINo.6",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.7",
+      "doc_name": "InFactVolINo.7",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.8",
+      "doc_name": "InFactVolINo.8",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.9",
+      "doc_name": "InFactVolINo.9",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.10",
+      "doc_name": "InFactVolINo.10",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.11",
+      "doc_name": "InFactVolINo.11",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.12",
+      "doc_name": "InFactVolINo.12",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolINo.13",
+      "doc_name": "InFactVolINo.13",
+      "-source": ""
+    },
+    {
+      "id": "InFactVolume2IssueNumber4no.17",
+      "doc_name": "InFactVolume2IssueNumber4no.17",
+      "-source": ""
+    },
+    {
+      "id": "Vol4Index",
+      "doc_name": "Vol4Index",
+      "-source": ""
+    },
+    {
+      "id": "Vol5Index",
+      "doc_name": "Vol5Index",
+      "-source": ""
+    },
+    {
+      "id": "Volume2Index",
+      "doc_name": "Volume2Index",
+      "-source": ""
+    }
+  ]
+}

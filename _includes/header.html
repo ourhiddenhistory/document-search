@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+
+  <!-- cache busting -->
+  {% assign min = 00 %}
+  {% assign max = 100 %}
+  {% assign diff = max | minus: min %}
+  {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+  <title>Our Hidden History - Document Search</title>
+  <link rel='stylesheet prefetch'
+        href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css'>
+  <link rel='stylesheet prefetch'
+        href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
+  <link rel='stylesheet prefetch'
+        href='{{site.baseurl}}/dist/style.css?{{randomNumber}}'>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@ourhiddenhistry">
+  <meta property="fb:admins" content=""/>
+  <meta property="og:title" content="Our Hidden History Documents Database" />
+  <meta property="og:type"   content="website" />
+  <meta property="og:url" content="https://ourhiddenhistory.org{{site.baseurl}}{{page.url}}" />
+  <meta property="og:image" content="https://ourhiddenhistory.org/doc-search/dist/img/ourhiddenhistory-twitter.png" />
+  <meta property="og:description"
+    content="A Database of Cold War and Post-Cold War History" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="Our Hidden History" />
+
+</head>
+
+<body translate="no">
+
+  <div class="{{ page.app }}">
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+      <a class="navbar-brand" href="/doc-search/index.php">
+        Our Hidden History Doc Search
+      </a>
+      <button class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarTogglerDemo02"
+              aria-controls="navbarTogglerDemo02"
+              aria-expanded="false"
+              aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item">
+            <a class="nav-link btn btn-md btn-info" href="{{ site.baseurl }}/documents-list.html">Documents List</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/index.php"><i class="fa fa-search" aria-hidden="true"></i> Search</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/posts.html">Posts</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/code.html">Code</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/links.html">Links</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/">OurHiddenHistory.org</a>
+          </li>
+          <!--
+          <li class="nav-item">
+            <a class="nav-link" href="/methodology.html">Methodology</a>
+          </li>
+          -->
+        </ul>
+
+        <div class="btn btn-sm disabled docsearch__indexed-cnt"></div>
+        <!--
+        <button type="button"
+                class="btn btn-primary pull-right"
+                data-toggle="modal"
+                data-target="#exampleModalLong">
+          Document List
+        </button>
+        -->
+      </div>
+
+    </nav>

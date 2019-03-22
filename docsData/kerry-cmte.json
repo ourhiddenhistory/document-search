@@ -1,0 +1,39 @@
+{
+  "id": "003",
+  "shortname": "kerry-cmte",
+  "collection": "Drugs, Law Enforcement and Foreign Policy: Subcommittee on Terrorism, Narcotics, International Operations Committee",
+  "alt_names": [
+    "Kerry Committee"
+  ],
+  "date": "1988-04",
+  "description": "The Kerry Committee investigated drug trafficking in the Caribbean including that of the Nicaragua Contras. The San Jose Mercury News' 'Dark Alliance' series, written by reporter Gary Webb, would follow up on some different threads of this same story.",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Hearings Part 1",
+      "source": "KerryCommitteeHearings/Kerry%20Hearings%20Part%201"
+    },
+    {
+      "id": "002",
+      "doc_name": "Hearings Part 2: Panama",
+      "source": "KerryCommitteeHearings/Kerry%20Hearings%20Part%202%20-%20Panama"
+    },
+    {
+      "id": "003",
+      "doc_name": "Hearings Part 3: The Cartel, Haiti, and Central America",
+      "source": "KerryCommitteeHearings/Kerry%20Hearings%20Part%203%20-%20Cartel%2C%20Haiti%20and%20Central%20America"
+    },
+    {
+      "id": "004",
+      "doc_name": "Hearings Part 4: The Cartel, Haiti, and Central America",
+      "source": "KerryCommitteeHearings/Kerry%20Hearings%20Part%204%20-%20Cartel%2C%20Haiti%20and%20Central%20America"
+    },
+    {
+      "id": "005",
+      "doc_name": "Final Report: Drugs, Law Enforcement and Foreign Policy",
+      "source": "KerryCommitteeReport/Kerry%20Committee%20Report"
+    }
+  ]
+}

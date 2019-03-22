@@ -1,0 +1,17 @@
+{
+  "id": "006",
+  "shortname": "bcci-uk",
+  "collection": "BCCI Report, United Kingdom",
+  "alt_names": [],
+  "date": "1991",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/stream/InquiryIntoTheSupervisionOfTheBankOfCreditAndCommerceInternational/Inquiry%20into%20the%20Supervision%20of%20the%20Bank%20of%20Credit%20and%20Commerce%20International",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Inquiry Into The Supervision Of The Bank of Credit and Commerce International (BCCI)",
+      "source": "https://archive.org/stream/InquiryIntoTheSupervisionOfTheBankOfCreditAndCommerceInternational/Inquiry%20into%20the%20Supervision%20of%20the%20Bank%20of%20Credit%20and%20Commerce%20International"
+    }
+  ]
+}

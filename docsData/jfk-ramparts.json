@@ -1,0 +1,188 @@
+{
+  "id": "053",
+  "shortname": "jfk-ramparts",
+  "collection": "The JFK Assassination in Ramparts Magazine",
+  "alt_names": [],
+  "date": "1968",
+  "important": "",
+  "description": "Materials courtesy of The Weisberg Collection. Hood College, Frederick, MD, USA. URL: <a href='http://jfk.hood.edu/'>http://jfk.hood.edu</a>.",
+  "source": "https://archive.org/details/TheCentralIntelligenceAgency_RichardHelmsDocuments",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Ramparts Magazine 01",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2001"
+    },
+    {
+      "id": "002",
+      "doc_name": "Ramparts Magazine 02",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2002"
+    },
+    {
+      "id": "003",
+      "doc_name": "Ramparts Magazine 03",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2003"
+    },
+    {
+      "id": "004",
+      "doc_name": "Ramparts Magazine 04",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2004"
+    },
+    {
+      "id": "005",
+      "doc_name": "Ramparts Magazine 05",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2005"
+    },
+    {
+      "id": "006",
+      "doc_name": "Ramparts Magazine 06",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2006"
+    },
+    {
+      "id": "007",
+      "doc_name": "Ramparts Magazine 07",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2007"
+    },
+    {
+      "id": "008",
+      "doc_name": "Ramparts Magazine 08",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2008"
+    },
+    {
+      "id": "009",
+      "doc_name": "Ramparts Magazine 09",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2009"
+    },
+    {
+      "id": "010",
+      "doc_name": "Ramparts Magazine 10",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2010"
+    },
+    {
+      "id": "011",
+      "doc_name": "Ramparts Magazine 11",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2011"
+    },
+    {
+      "id": "012",
+      "doc_name": "Ramparts Magazine 12",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2012"
+    },
+    {
+      "id": "013",
+      "doc_name": "Ramparts Magazine 13",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2013"
+    },
+    {
+      "id": "014",
+      "doc_name": "Ramparts Magazine 14",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2014"
+    },
+    {
+      "id": "015",
+      "doc_name": "Ramparts Magazine 15",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2015"
+    },
+    {
+      "id": "016",
+      "doc_name": "Ramparts Magazine 16",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2016"
+    },
+    {
+      "id": "017",
+      "doc_name": "Ramparts Magazine 17",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2017"
+    },
+    {
+      "id": "018",
+      "doc_name": "Ramparts Magazine 18",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2018"
+    },
+    {
+      "id": "019",
+      "doc_name": "Ramparts Magazine 19",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2019"
+    },
+    {
+      "id": "020",
+      "doc_name": "Ramparts Magazine 20",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2020"
+    },
+    {
+      "id": "021",
+      "doc_name": "Ramparts Magazine 21",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2021"
+    },
+    {
+      "id": "022",
+      "doc_name": "Ramparts Magazine 22",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2022"
+    },
+    {
+      "id": "023",
+      "doc_name": "Ramparts Magazine 23",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2023"
+    },
+    {
+      "id": "024",
+      "doc_name": "Ramparts Magazine 24",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2024"
+    },
+    {
+      "id": "025",
+      "doc_name": "Ramparts Magazine 25",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2025"
+    },
+    {
+      "id": "026",
+      "doc_name": "Ramparts Magazine 26",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2026"
+    },
+    {
+      "id": "027",
+      "doc_name": "Ramparts Magazine 27",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2027"
+    },
+    {
+      "id": "028",
+      "doc_name": "Ramparts Magazine 28",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2028"
+    },
+    {
+      "id": "029",
+      "doc_name": "Ramparts Magazine 29",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2029"
+    },
+    {
+      "id": "030",
+      "doc_name": "Ramparts Magazine 30",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2030"
+    },
+    {
+      "id": "031",
+      "doc_name": "Ramparts Magazine 31",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2031"
+    },
+    {
+      "id": "032",
+      "doc_name": "Ramparts Magazine 32",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2032"
+    },
+    {
+      "id": "033",
+      "doc_name": "Ramparts Magazine 33",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2033"
+    },
+    {
+      "id": "034",
+      "doc_name": "Ramparts Magazine 34",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2034"
+    },
+    {
+      "id": "035",
+      "doc_name": "Ramparts Magazine 35",
+      "source": "https://archive.org/stream/nsia-RampartsMagazine/nsia-RampartsMagazine/Ramparts%20Magazine%2035"
+    }
+  ]
+}

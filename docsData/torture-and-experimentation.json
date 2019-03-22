@@ -1,0 +1,108 @@
+{
+  "id": "031",
+  "shortname": "torture-and-experimentation",
+  "collection": "Torture, Medical Experimentation on Humans (Various Government and Non-Government Documents)",
+  "alt_names": [],
+  "date": "1975 - 2012",
+  "source": "https://archive.org/details/US-Government-Medical-Experimentation-On-Humans",
+  "description": "",
+  "important": "",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Committee Study ofthe Central Intelligence Agency's Detention and Interrogation Program, Senate Select Committee on Intelligence",
+      "date": "2012",
+      "source": "https://archive.org/stream/141210UssenateCiatorturereport/141210-ussenate-ciatorturereport"
+    },
+    {
+      "id": "002",
+      "doc_name": "Biomedical and Behavioral Research, 1975, Senate Judiciary Committee",
+      "date": "1975",
+      "source": "https://archive.org/stream/US-Government-Medical-Experimentation-On-Humans/behavioral-and-medical-research"
+    },
+    {
+      "id": "003",
+      "doc_name": "CIA Papers Detail Secret Experiments on Behavior Control",
+      "date": "1977",
+      "source": "https://archive.org/stream/US-Government-Medical-Experimentation-On-Humans/cia-papers-mkultra"
+    },
+    {
+      "id": "004",
+      "doc_name": "Cold War Era Human Subject Experimentation, House Government Operations Committee",
+      "date": "1994",
+      "source": "https://archive.org/stream/US-Government-Medical-Experimentation-On-Humans/cold-war-era-human-expirimentation"
+    },
+    {
+      "id": "005",
+      "doc_name": "Human Drug Testing by the CIA, 1977, Senate Human Resources Committee",
+      "date": "1977",
+      "source": "https://archive.org/stream/US-Government-Medical-Experimentation-On-Humans/human-drug-testing"
+    },
+    {
+      "id": "006",
+      "doc_name": "Government-Sponsored Testing on Humans, House Judiciary Committee",
+      "date": "1994-02-03",
+      "source": "https://archive.org/stream/US-Government-Medical-Experimentation-On-Humans/testing-on-human"
+    },
+    {
+      "id": "007",
+      "doc_name": "Search for the Manchurian Candidate by John Marks",
+      "date": "1977",
+      "source": "https://archive.org/stream/pdfy-JSKQIeR_oYTgzSjl/John%20Marks%20-%20The%20Search%20for%20the%20Manchurian%20Candidate%20-%20The%20CIA%20and%20Mind%20Control"
+    },
+    {
+      "id": "008",
+      "doc_name": "MKULTRA Briefing Book - List of MKULTRA Subprojects",
+      "date": "01-01-1976",
+      "source": "https://archive.org/stream/MKULTRABriefingBookListOfSubprojectsWithBriefDescriptionsJanuary1976/MKULTRA%20Briefing%20Book%20-%20List%20of%20subprojects%20with%20brief%20descriptions%20-%20January%201976"
+    },
+    {
+      "id": "009",
+      "doc_name": "MKULTRA - The CIA's Program of Research in Behavior Modification",
+      "date": "1977",
+      "source": ""
+    },
+    {
+      "id": "010",
+      "doc_name": "What Went Wrong, Bush Torture",
+      "date": "2009",
+      "source": ""
+    },
+    {
+      "id": "011",
+      "doc_name": "Advisory Committee on Human Radiation Experiments",
+      "date": "1995",
+      "source": ""
+    },
+    {
+      "id": "012",
+      "doc_name": "A Short History of Psychological Torture by Alfred W. McCoy",
+      "date": "2009",
+      "source": ""
+    },
+    {
+      "id": "013",
+      "doc_name": "Science in Dachau's Shadow by Alfred W. McCoy",
+      "date": "1995",
+      "source": ""
+    },
+    {
+      "id": "014",
+      "doc_name": "KUBARK (CIA) Interrogation Manual",
+      "date": "1961",
+      "source": ""
+    },
+    {
+      "id": "015",
+      "doc_name": "Isolation Sensory Deprivation and Sensory Overload by Jeffrey S. Kaye",
+      "date": "",
+      "source": ""
+    },
+    {
+      "id": "016",
+      "doc_name": "Psychological Torture as a Cold War Imperative",
+      "date": "",
+      "source": ""
+    }
+  ]
+}

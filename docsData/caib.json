@@ -1,0 +1,447 @@
+{
+  "id": "020",
+  "shortname": "caib",
+  "collection": "Covert Action Information Bulletin / Covert Action Quarterly",
+  "alt_names": [],
+  "date": "1979",
+  "source": "https://covertactionmagazine.com/",
+  "description": "Relaunched in 2018 at <a href=\"https://covertactionmagazine.com/\">Covert Action Magazine</a>. <em>Lies of Our Times</em> was a media criticism magazine created by Covert Action Magazine co-founders Ellen Ray and William Schaap.",
+  "important": "",
+  "type": "cam",
+  "files": [
+    {
+      "id": "CAIB01",
+      "doc_name": "Covert Action Information Bulletin, #1",
+      "source": "wp-content/uploads/2018/08/CAIB01"
+    },
+    {
+      "id": "CAIB02",
+      "doc_name": "Covert Action Information Bulletin, #2",
+      "source": "wp-content/uploads/2018/08/CAIB02"
+    },
+    {
+      "id": "CAIB03",
+      "doc_name": "Covert Action Information Bulletin, #3",
+      "source": "wp-content/uploads/2018/08/CAIB03"
+    },
+    {
+      "id": "CAIB04",
+      "doc_name": "Covert Action Information Bulletin, #4",
+      "source": "wp-content/uploads/2018/08/CAIB04"
+    },
+    {
+      "id": "CAIB05",
+      "doc_name": "Covert Action Information Bulletin, #5",
+      "source": "wp-content/uploads/2018/08/CAIB05"
+    },
+    {
+      "id": "CAIB06",
+      "doc_name": "Covert Action Information Bulletin, #6",
+      "source": "wp-content/uploads/2018/08/CAIB06"
+    },
+    {
+      "id": "CAIB07",
+      "doc_name": "Covert Action Information Bulletin, #7",
+      "source": "wp-content/uploads/2018/08/CAIB07"
+    },
+    {
+      "id": "CAIB08",
+      "doc_name": "Covert Action Information Bulletin, #8",
+      "source": "wp-content/uploads/2018/08/CAIB08"
+    },
+    {
+      "id": "CAIB09",
+      "doc_name": "Covert Action Information Bulletin, #9",
+      "source": "wp-content/uploads/2018/08/CAIB09"
+    },
+    {
+      "id": "CAIB10",
+      "doc_name": "Covert Action Information Bulletin, #10",
+      "source": "wp-content/uploads/2018/08/CAIB10"
+    },
+    {
+      "id": "CAIB11",
+      "doc_name": "Covert Action Information Bulletin, #11",
+      "source": "wp-content/uploads/2018/08/CAIB11"
+    },
+    {
+      "id": "CAIB12",
+      "doc_name": "Covert Action Information Bulletin, #12",
+      "source": "wp-content/uploads/2018/08/CAIB12"
+    },
+    {
+      "id": "CAIB13",
+      "doc_name": "Covert Action Information Bulletin, #13",
+      "source": "wp-content/uploads/2018/08/CAIB13"
+    },
+    {
+      "id": "CAIB14-15",
+      "doc_name": "Covert Action Information Bulletin, #14, #15",
+      "source": "wp-content/uploads/2018/08/CAIB14-15"
+    },
+    {
+      "id": "CAIB16",
+      "doc_name": "Covert Action Information Bulletin, #16",
+      "source": "wp-content/uploads/2018/08/CAIB16"
+    },
+    {
+      "id": "CAIB17",
+      "doc_name": "Covert Action Information Bulletin, #17",
+      "source": "wp-content/uploads/2018/08/CAIB17"
+    },
+    {
+      "id": "CAIB18",
+      "doc_name": "Covert Action Information Bulletin, #18",
+      "source": "wp-content/uploads/2018/08/CAIB18"
+    },
+    {
+      "id": "CAIB19",
+      "doc_name": "Covert Action Information Bulletin, #19",
+      "source": "wp-content/uploads/2018/08/CAIB19"
+    },
+    {
+      "id": "CAIB20",
+      "doc_name": "Covert Action Information Bulletin, #20",
+      "source": "wp-content/uploads/2018/08/CAIB20"
+    },
+    {
+      "id": "CAIB21",
+      "doc_name": "Covert Action Information Bulletin, #21",
+      "source": "wp-content/uploads/2018/08/CAIB21"
+    },
+    {
+      "id": "CAIB22",
+      "doc_name": "Covert Action Information Bulletin, #22",
+      "source": "wp-content/uploads/2018/08/CAIB22"
+    },
+    {
+      "id": "CAIB23",
+      "doc_name": "Covert Action Information Bulletin, #23",
+      "source": "wp-content/uploads/2018/08/CAIB23"
+    },
+    {
+      "id": "CAIB24",
+      "doc_name": "Covert Action Information Bulletin, #24",
+      "source": "wp-content/uploads/2018/08/CAIB24"
+    },
+    {
+      "id": "CAIB25",
+      "doc_name": "Covert Action Information Bulletin, #25",
+      "source": "wp-content/uploads/2018/08/CAIB25"
+    },
+    {
+      "id": "CAIB26",
+      "doc_name": "Covert Action Information Bulletin, #26",
+      "source": "wp-content/uploads/2018/08/CAIB26"
+    },
+    {
+      "id": "CAIB27",
+      "doc_name": "Covert Action Information Bulletin, #27",
+      "source": "wp-content/uploads/2018/08/CAIB27"
+    },
+    {
+      "id": "CAIB28",
+      "doc_name": "Covert Action Information Bulletin, #28",
+      "source": "wp-content/uploads/2018/08/CAIB28"
+    },
+    {
+      "id": "CAIB29",
+      "doc_name": "Covert Action Information Bulletin, #29",
+      "source": "wp-content/uploads/2018/08/CAIB29"
+    },
+    {
+      "id": "CAIB30",
+      "doc_name": "Covert Action Information Bulletin, #30",
+      "source": "wp-content/uploads/2018/08/CAIB30"
+    },
+    {
+      "id": "CAIB32",
+      "doc_name": "Covert Action Information Bulletin, #32",
+      "source": "wp-content/uploads/2018/08/CAIB32"
+    },
+    {
+      "id": "CAIB33",
+      "doc_name": "Covert Action Information Bulletin, #33",
+      "source": "wp-content/uploads/2018/08/CAIB33"
+    },
+    {
+      "id": "CAIB34",
+      "doc_name": "Covert Action Information Bulletin, #34",
+      "source": "wp-content/uploads/2018/08/CAIB34"
+    },
+    {
+      "id": "CAIB35",
+      "doc_name": "Covert Action Information Bulletin, #35",
+      "source": "wp-content/uploads/2018/08/CAIB35"
+    },
+    {
+      "id": "CAIB36",
+      "doc_name": "Covert Action Information Bulletin, #36",
+      "source": "wp-content/uploads/2018/08/CAIB36"
+    },
+    {
+      "id": "CAIB37",
+      "doc_name": "Covert Action Information Bulletin, #37",
+      "source": "wp-content/uploads/2018/08/CAIB37"
+    },
+    {
+      "id": "CAIB38",
+      "doc_name": "Covert Action Information Bulletin, #38",
+      "source": "wp-content/uploads/2018/08/CAIB38"
+    },
+    {
+      "id": "CAIB39",
+      "doc_name": "Covert Action Information Bulletin, #39",
+      "source": "wp-content/uploads/2018/08/CAIB39"
+    },
+    {
+      "id": "CAIB40",
+      "doc_name": "Covert Action Information Bulletin, #40",
+      "source": "wp-content/uploads/2018/08/CAIB40"
+    },
+    {
+      "id": "CAIB41",
+      "doc_name": "Covert Action Information Bulletin, #41",
+      "source": "wp-content/uploads/2018/08/CAIB41"
+    },
+    {
+      "id": "CAIB42",
+      "doc_name": "Covert Action Information Bulletin, #42",
+      "source": "wp-content/uploads/2018/08/CAIB42"
+    },
+    {
+      "id": "CAQ43",
+      "doc_name": "Covert Action Quarterly, #43",
+      "source": "wp-content/uploads/2018/08/CAQ43"
+    },
+    {
+      "id": "CAQ44",
+      "doc_name": "Covert Action Quarterly, #44",
+      "source": "wp-content/uploads/2018/08/CAQ44"
+    },
+    {
+      "id": "CAQ45",
+      "doc_name": "Covert Action Quarterly, #45",
+      "source": "wp-content/uploads/2018/08/CAQ45"
+    },
+    {
+      "id": "CAQ46",
+      "doc_name": "Covert Action Quarterly, #46",
+      "source": "wp-content/uploads/2018/08/CAQ46"
+    },
+    {
+      "id": "CAQ47",
+      "doc_name": "Covert Action Quarterly, #47",
+      "source": "wp-content/uploads/2018/08/CAQ47"
+    },
+    {
+      "id": "CAQ48",
+      "doc_name": "Covert Action Quarterly, #48",
+      "source": "wp-content/uploads/2018/08/CAQ48"
+    },
+    {
+      "id": "CAQ49",
+      "doc_name": "Covert Action Quarterly, #49",
+      "source": "wp-content/uploads/2018/08/CAQ49"
+    },
+    {
+      "id": "CAQ50",
+      "doc_name": "Covert Action Quarterly, #50",
+      "source": "wp-content/uploads/2018/08/CAQ50"
+    },
+    {
+      "id": "CAQ51",
+      "doc_name": "Covert Action Quarterly, #51",
+      "source": "wp-content/uploads/2018/08/CAQ51"
+    },
+    {
+      "id": "CAQ52",
+      "doc_name": "Covert Action Quarterly, #52",
+      "source": "wp-content/uploads/2018/08/CAQ52"
+    },
+    {
+      "id": "CAQ53",
+      "doc_name": "Covert Action Quarterly, #53",
+      "source": "wp-content/uploads/2018/08/CAQ53"
+    },
+    {
+      "id": "CAQ54",
+      "doc_name": "Covert Action Quarterly, #54",
+      "source": "wp-content/uploads/2018/08/CAQ54"
+    },
+    {
+      "id": "CAQ55",
+      "doc_name": "Covert Action Quarterly, #55",
+      "source": "wp-content/uploads/2018/08/CAQ55"
+    },
+    {
+      "id": "CAQ56",
+      "doc_name": "Covert Action Quarterly, #56",
+      "source": "wp-content/uploads/2018/08/CAQ56"
+    },
+    {
+      "id": "CAQ57",
+      "doc_name": "Covert Action Quarterly, #57",
+      "source": "wp-content/uploads/2018/08/CAQ57"
+    },
+    {
+      "id": "CAQ58",
+      "doc_name": "Covert Action Quarterly, #58",
+      "source": "wp-content/uploads/2018/08/CAQ58"
+    },
+    {
+      "id": "CAQ59",
+      "doc_name": "Covert Action Quarterly, #59",
+      "source": "wp-content/uploads/2018/08/CAQ59"
+    },
+    {
+      "id": "CAQ60",
+      "doc_name": "Covert Action Quarterly, #60",
+      "source": "wp-content/uploads/2018/08/CAQ60"
+    },
+    {
+      "id": "CAQ61",
+      "doc_name": "Covert Action Quarterly, #61",
+      "source": "wp-content/uploads/2018/08/CAQ61"
+    },
+    {
+      "id": "CAQ62",
+      "doc_name": "Covert Action Quarterly, #62",
+      "source": "wp-content/uploads/2018/08/CAQ62"
+    },
+    {
+      "id": "CAQ63",
+      "doc_name": "Covert Action Quarterly, #63",
+      "source": "wp-content/uploads/2018/08/CAQ63"
+    },
+    {
+      "id": "CAQ64",
+      "doc_name": "Covert Action Quarterly, #64",
+      "source": "wp-content/uploads/2018/08/CAQ64"
+    },
+    {
+      "id": "CAQ65",
+      "doc_name": "Covert Action Quarterly, #65",
+      "source": "wp-content/uploads/2018/08/CAQ65"
+    },
+    {
+      "id": "CAQ66",
+      "doc_name": "Covert Action Quarterly, #66",
+      "source": "wp-content/uploads/2018/08/CAQ66"
+    },
+    {
+      "id": "CAQ67",
+      "doc_name": "Covert Action Quarterly, #67",
+      "source": "wp-content/uploads/2018/08/CAQ67"
+    },
+    {
+      "id": "CAQ68",
+      "doc_name": "Covert Action Quarterly, #68",
+      "source": "wp-content/uploads/2018/08/CAQ68"
+    },
+    {
+      "id": "CAQ69",
+      "doc_name": "Covert Action Quarterly, #69",
+      "source": "wp-content/uploads/2018/08/CAQ69"
+    },
+    {
+      "id": "CAQ70",
+      "doc_name": "Covert Action Quarterly, #70",
+      "source": "wp-content/uploads/2018/08/CAQ70"
+    },
+    {
+      "id": "CAQ71",
+      "doc_name": "Covert Action Quarterly, #71",
+      "source": "wp-content/uploads/2018/08/CAQ71"
+    },
+    {
+      "id": "CAQ72",
+      "doc_name": "Covert Action Quarterly, #72",
+      "source": "wp-content/uploads/2018/08/CAQ72"
+    },
+    {
+      "id": "CAQ73",
+      "doc_name": "Covert Action Quarterly, #73",
+      "source": "wp-content/uploads/2018/08/CAQ73"
+    },
+    {
+      "id": "CAQ74",
+      "doc_name": "Covert Action Quarterly, #74",
+      "source": "wp-content/uploads/2018/08/CAQ74"
+    },
+    {
+      "id": "CAQ75",
+      "doc_name": "Covert Action Quarterly, #75",
+      "source": "wp-content/uploads/2018/08/CAQ75"
+    },
+    {
+      "id": "CAQ76",
+      "doc_name": "Covert Action Quarterly, #76",
+      "source": "wp-content/uploads/2018/08/CAQ76"
+    },
+    {
+      "id": "CAQ77",
+      "doc_name": "Covert Action Quarterly, #77",
+      "source": "wp-content/uploads/2018/08/CAQ77"
+    },
+    {
+      "id": "CAQ78",
+      "doc_name": "Covert Action Quarterly, #78",
+      "source": "wp-content/uploads/2018/08/CAQ78"
+    },
+    {
+      "id": "Aug1990-V1-N8.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Aug1990-V1-N8.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Feb1990-V1-N2.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Feb1990-V1-N2.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Jan1990-V1-N1.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Jan1990-V1-N1.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Jul1990-V1-N7.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Jul1990-V1-N7.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Jun1990-V1-N6.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Jun1990-V1-N6.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Mar1990-V1-N3.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "Mar1990-V1-N3.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Mar1990-V1-N31.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Mar1990-V1-N31.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "May1990-V1-N5.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/May1990-V1-N5.pdf",
+      "type": "archive-b"
+    },
+    {
+      "id": "Sep-Dec1994-V5-N7.pdf",
+      "doc_name": "Lies of Our Times Magazine",
+      "source": "LiesOfOurTimesCollection/Sep-Dec1994-V5-N7.pdf",
+      "type": "archive-b"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "023",
+  "shortname": "watergate",
+  "collection": "Watergate Collection",
+  "alt_names": [],
+  "date": "1973",
+  "source": "https://archive.org/search.php?query=watergate",
+  "description": "The source pdfs of the 'Judiciary Committee Hearings' are, unfortunately, very poorly scanned and the character recognition reflects this.",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Debate on Articles of Impeachment",
+      "source": ""
+    },
+    {
+      "id": "002",
+      "doc_name": "Presidential Campaign Activities of 1972, Appendix Part 1",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Appendix%2C%20Part%20I%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Legal%20Documents%20Relating%20to%20the%20Select%20Committee%20Hearings"
+    },
+    {
+      "id": "003",
+      "doc_name": "Presidential Campaign Activities of 1972, Appendix Part 2",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Appendix%2C%20Part%20II%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Legal%20Documents%20Relating%20to%20the%20Select%20Committee%20Hearings"
+    },
+    {
+      "id": "004",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 1",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%201%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "005",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 10",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2010%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20II%20-%20Campaign%20Practices"
+    },
+    {
+      "id": "006",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 11",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2011%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Releated%20Activities%2C%20Phase%20II%20-%20Campaign%20Practices"
+    },
+    {
+      "id": "007",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 12",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2012%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20II%20-%20Campaign%20Practices"
+    },
+    {
+      "id": "008",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 13",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2013%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20III%20-%20Campaign%20Financing"
+    },
+    {
+      "id": "009",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 14",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2014%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Milk%20Fund%20Investigation"
+    },
+    {
+      "id": "010",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 15",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2015%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Milk%20Fund%20Investigation"
+    },
+    {
+      "id": "011",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 16",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2016%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Milk%20Fund%20Investigation"
+    },
+    {
+      "id": "012",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 17",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2017%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Milk%20Fund%20Investigation"
+    },
+    {
+      "id": "013",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 18",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2018%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Use%20of%20Incumbency-Responsiveness%20Program"
+    },
+    {
+      "id": "014",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 19",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2019%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Use%20of%20Incumbency-Responsiveness%20Program%20%28Additional%20Documents%29"
+    },
+    {
+      "id": "015",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 2",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%202%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "016",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 20",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2020%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20The%20Hughes-Rebozo%20Investigation%2C%20and%20Related%20Matters"
+    },
+    {
+      "id": "017",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 21",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2021%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20The%20Hughes-Rebozo%20Investigation%2C%20and%20Related%20Matters"
+    },
+    {
+      "id": "018",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 22",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2022%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20The%20Hughes-Rebozo%20Investigation%20and%20Related%20Matters"
+    },
+    {
+      "id": "019",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 23",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2023%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20The%20Hughes-Rebozo%20Investigation%2C%20and%20Related%20Matters"
+    },
+    {
+      "id": "020",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 24",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2024%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20The%20Hughes-Rebozo%20Investigation%20and%20Related%20Matters"
+    },
+    {
+      "id": "021",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 25",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%2025%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Supplemental%20Material%20on%20Campaign%20Practices%20and%20Finances"
+    },
+    {
+      "id": "022",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 3",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%203%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "023",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 4",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%204%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "024",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 5",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%205%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "025",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 6",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%206%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "026",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 7",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%207%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "027",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 8",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%208%20of%20Presidential%20Campaign%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%20-%20Watergate%20Investigation"
+    },
+    {
+      "id": "028",
+      "doc_name": "Presidential Campaign Activities of 1972, Book 9",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Book%209%20of%20Presidential%20Campaign%20Activities%20of%201972%2C%20Watergate%20and%20Related%20Activities%2C%20Phase%20I%3A%20Watergate%20Investigation"
+    },
+    {
+      "id": "029",
+      "doc_name": "Final Report of the Senate Select Committee on Presidential Campaign Activities",
+      "source": "SenateSelectCommitteeOnPresidentialCampaignActivitiesReport/Final%20Report%20of%20the%20Senate%20Select%20Committee%20on%20Presidential%20Campaign%20Activities"
+    },
+    {
+      "id": "030",
+      "doc_name": "Judiciary Committee Hearings - Brief on Behalf of the President of the United States",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Brief%20on%20Behalf%20of%20the%20President%20of%20the%20United%20States"
+    },
+    {
+      "id": "031",
+      "doc_name": "Judiciary Committee Hearings - Comparison of White House and Judiciary Committee Transcripts of Eight Recorded Presidential Conversations",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Comparison%20of%20White%20House%20and%20Judiciary%20Committee%20Transcripts%20of%20Eight%20Recorded%20Presidential%20Conversations"
+    },
+    {
+      "id": "032",
+      "doc_name": "Judiciary Committee Hearings - Impeachment of Richard M. Nixon, President of the United States",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Impeachment%20of%20Richard%20M%20Nixon%2C%20President%20of%20the%20United%20States"
+    },
+    {
+      "id": "033",
+      "doc_name": "Judiciary Committee Hearings - Minority Memorandum on Facts and Law",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Minority%20Memorandum%20on%20Facts%20and%20Law"
+    },
+    {
+      "id": "034",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information Submitted on Behalf of President Nixon, Book IV - White House Surveillance Activities",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%20Submitted%20on%20Behalf%20of%20President%20Nixon%2C%20Book%20IV%20-%20White%20House%20Surveillance%20Activities"
+    },
+    {
+      "id": "035",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Appendix IV - Political Matters Memoranda",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Appendix%20IV%20-%20Political%20Matters%20Memoranda"
+    },
+    {
+      "id": "036",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book I - Events Prior to the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20I%20-%20Events%20Prior%20to%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "037",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book II - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20II%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "038",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book III, Part 1 - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20III%2C%20Part%201%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "039",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book III, Part 2 - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20III%2C%20Part%202%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "040",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book IV, Part 1 - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20IV%2C%20Part%201%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "041",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book IV, Part 2 - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20IV%2C%20Part%202%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "042",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book IV, Part 3 - Events Following the Watergate Break-In",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20IV%2C%20Part%203%20-%20Events%20Following%20the%20Watergate%20Break-In"
+    },
+    {
+      "id": "043",
+      "doc_name": "Judiciary Committee Hearings - Statement of Information, Book VII Part 1- White House Surveillance Activities and Campaign Activities",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Statement%20of%20Information%2C%20Book%20VII%2C%20Part%201-%20White%20House%20Surveillance%20Activities%20and%20Campaign%20Activities"
+    },
+    {
+      "id": "044",
+      "doc_name": "Judiciary Committee Hearings - Testimony of Witnesses, Book I- Alexander Butterfield Paul O'Brien and Fred C. LaRue",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Testimony%20of%20Witnesses%2C%20Book%20I-%20Alexander%20Butterfield%2C%20Paul%20O%27Brien%2C%20and%20Fred%20C.%20LaRue"
+    },
+    {
+      "id": "045",
+      "doc_name": "Judiciary Committee Hearings - Testimony of Witnesses, Book II- William O. Bittman John N. Mitchell and John W. Dean III",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Testimony%20of%20Witnesses%2C%20Book%20II-%20William%20O.%20Bittman%2C%20John%20N.%20Mitchell%2C%20and%20John%20W.%20Dean%20III"
+    },
+    {
+      "id": "046",
+      "doc_name": "Judiciary Committee Hearings - Testimony of Witnesses, Book III- Henry E. Petersen Charles W. Colson and Herbert W. Kalmbach",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Testimony%20of%20Witnesses%2C%20Book%20III-%20Henry%20E.%20Petersen%2C%20Charles%20W.%20Colson%2C%20and%20Herbert%20W.%20Kalmbach"
+    },
+    {
+      "id": "047",
+      "doc_name": "Judiciary Committee Hearings - Transcripts of Eight Recorded Presidential Conversations",
+      "source": "WatergateHearingsBeforeTheHouseCommitteeOnTheJudiciary/Judiciary%20Committee%20Hearings-%20Transcripts%20of%20Eight%20Recorded%20Presidential%20Conversations"
+    },
+    {
+      "id": "048",
+      "doc_name": "Inquiry into the Alleged Involvement of CIA in the Watergate and Ellsberg Matters",
+      "source": "InquiryIntoTheAllegedInvolvementOfCIAInTheWatergateAndEllsbergMatters/Inquiry%20into%20the%20Alleged%20Involvement%20of%20CIA%20in%20the%20Watergate%20and%20Ellsberg%20Matters"
+    }
+  ]
+}

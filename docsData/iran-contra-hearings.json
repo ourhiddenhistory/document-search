@@ -1,0 +1,75 @@
+{
+  "id": "013",
+  "shortname": "iran-contra-hearings",
+  "collection": "Joint Hearings Before the Iran-Contra Committees",
+  "alt_names": [
+    "Iran-Contra Hearings"
+  ],
+  "date": "1987",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/Iran-ContraHearingsTestimonyTranscripts",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Richard V. Secord",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0001-Secord"
+    },
+    {
+      "id": "002",
+      "doc_name": "Robert C. McFarlane, Gaston J. Sigur, Jr., and Robert W. Owen",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0003-McFarlane-Sigur-Owen"
+    },
+    {
+      "id": "003",
+      "doc_name": "Castillo",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0002_Castillo"
+    },
+    {
+      "id": "004",
+      "doc_name": "North (1st Day)",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0004_North-1"
+    },
+    {
+      "id": "005",
+      "doc_name": "North (2nd Day), McFarlane",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0005_North-2-McFarlane"
+    },
+    {
+      "id": "006",
+      "doc_name": "Appendix to North/McFarlane Testimony",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0006_North-Appendix"
+    },
+    {
+      "id": "007",
+      "doc_name": "Poindexter",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0007_Poindexter"
+    },
+    {
+      "id": "008",
+      "doc_name": "Regan, Weinberger",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0008_Regan-Weinberger"
+    },
+    {
+      "id": "009",
+      "doc_name": "Calero, Singlaub, et al",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0009_Calero-Singlaub-et-al"
+    },
+    {
+      "id": "010",
+      "doc_name": "Abrams, Hakim, et al",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0010_Abrams-Hakim-et-al"
+    },
+    {
+      "id": "011",
+      "doc_name": "Meese, Shultz",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0011_Meese-Shultz"
+    },
+    {
+      "id": "012",
+      "doc_name": "Clarridge, CCATF, George",
+      "source": "Iran-ContraHearingsTestimonyTranscripts/1987-irn-0012_Clarridge-CCATF-George"
+    }
+  ]
+}

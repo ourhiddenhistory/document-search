@@ -1,0 +1,27 @@
+{
+  "id": "002",
+  "shortname": "bcci-banking",
+  "collection": "Bank of Credit and Commerce International (BCCI) Hearings before the Committee on Banking, Finance, and Urban Affairs, US House of Representatives",
+  "alt_names": [],
+  "date": "1991",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Volume 1",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs/BCCI%20Hearings%20before%20the%20Committee%20on%20Banking%2C%20Finance%2C%20and%20Urban%20Affairs%20Volume%201"
+    },
+    {
+      "id": "002",
+      "doc_name": "Volume 2",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs/BCCI%20Hearings%20before%20the%20Committee%20on%20Banking%2C%20Finance%2C%20and%20Urban%20Affairs%20Volume%202"
+    },
+    {
+      "id": "003",
+      "doc_name": "Volume 3",
+      "source": "https://archive.org/stream/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs/BCCI%20Hearings%20before%20the%20Committee%20on%20Banking%2C%20Finance%2C%20and%20Urban%20Affairs%20Volume%203"
+    }
+  ]
+}

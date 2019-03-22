@@ -1,0 +1,129 @@
+{
+  "id": "080",
+  "shortname": "misc-books",
+  "collection": "Miscellaneous Books",
+  "alt_names": [],
+  "date": "2004",
+  "important": "",
+  "description": "",
+  "source": "",
+  "type": "pdf",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "A People's History of the United States, by Howard Zinn",
+      "source": false
+    },
+    {
+      "id": "002",
+      "doc_name": "Overthrow: America's Century of Regime Change from Hawaii to Iraq, by Stephen Kinzer",
+      "source": false
+    },
+    {
+      "id": "003",
+      "doc_name": "Hidden Agendas, by John Pilger",
+      "source": false
+    },
+    {
+      "id": "004",
+      "doc_name": "Guns, Germs, and Steel, by Jared Diamond",
+      "source": false
+    },
+    {
+      "id": "005",
+      "doc_name": "Kennedy and Nasser - A Failed Relationship, by Josephine Lippincott",
+      "source": false
+    },
+    {
+      "id": "006",
+      "doc_name": "Killing Hope, by William Blum",
+      "source": false
+    },
+    {
+      "id": "007",
+      "doc_name": "The Shock Doctrine, by Naomi Klein",
+      "source": false
+    },
+    {
+      "id": "008",
+      "doc_name": "Deep Events and the CIA’s Global Drug Connection, by Peter Dale Scott",
+      "source": false
+    },
+    {
+      "id": "009",
+      "doc_name": "The National Security Council and the Iran-Contra Affair, by Congressman Ed Jenkins and Robert H. Brink",
+      "source": false
+    },
+    {
+      "id": "010",
+      "doc_name": "Blackshirts and Reds, by Michael Parenti",
+      "source": false
+    },
+    {
+      "id": "011",
+      "doc_name": "Confessions of an Economic Hit Man, by John Perkins",
+      "source": false
+    },
+    {
+      "id": "012",
+      "doc_name": "1956: Counter-Revolution in Hungary, by Janos Berecz",
+      "source": false
+    },
+    {
+      "id": "013",
+      "doc_name": "Iran-Contra's Untold Story, by Robert Parry and Peter Kornbluh",
+      "source": false
+    },
+    {
+      "id": "014",
+      "doc_name": "No Logo, by Naomi Klein",
+      "source": false
+    },
+    {
+      "id": "015",
+      "doc_name": "'A Few Bad Apples': A Partial List of Notorious Graduates of the School of the Americas",
+      "source": false
+    },
+    {
+      "id": "016",
+      "doc_name": "Judge for Yourself, by John Judge",
+      "source": false
+    },
+    {
+      "id": "017",
+      "doc_name": "The Road to Watergate and Beyond: The Growth and Abuse of Executive Authority since 1940, by Barton J. Bernstein",
+      "source": false
+    },
+    {
+      "id": "018",
+      "doc_name": "Salvadoran Rightists: The Deadly Patriots",
+      "source": false
+    },
+    {
+      "id": "018",
+      "doc_name": "Salvadoran Rightists: The Deadly Patriots",
+      "source": false
+    },
+    {
+      "id": "019",
+      "doc_name": "Email: Some Nuggets on LBJ",
+      "source": false
+    },
+    {
+      "id": "dixieSecret",
+      "doc_name": "Dixie's Dirty Secret, by James Dickerson",
+      "source": false
+    },
+    {
+      "id": "turner-hoovers-fbi",
+      "doc_name": "Hoover's FBI, by William Turner",
+      "source": false
+    },
+    {
+      "id": "ramparts-big-brother",
+      "doc_name": "Big Brother and the Holding Company",
+      "source": false
+    }
+  ]
+}

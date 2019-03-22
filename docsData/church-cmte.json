@@ -1,0 +1,100 @@
+{
+  "id": "025",
+  "shortname": "church-cmte",
+  "collection": "Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+  "alt_names": [
+    "The Church Committee"
+  ],
+  "date": "1975",
+  "description": "",
+  "important": "",
+  "source": "https://www.intelligence.senate.gov/resources/intelligence-related-commissions",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Book 1 - Foreign and Military Intelligence",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20I%20-%20Foreign%20and%20Military%20Intelligence"
+    },
+    {
+      "id": "002",
+      "doc_name": "Book 2 - Intelligence Activities and the Rights of Americans",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20II%20-%20Intelligence%20Activities%20and%20the%20Rights%20of%20Americans"
+    },
+    {
+      "id": "003",
+      "doc_name": "Book 3 - Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20III%20-%20Supplementary%20Detailed%20Staff%20Reports%20on%20Intelligence%20Activities%20and%20the%20Rights%20of%20Americans"
+    },
+    {
+      "id": "004",
+      "doc_name": "Book 4 - Supplementary Detailed Staff Reports on Foreign and Military Intelligence",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20IV%20-%20Supplementary%20Detailed%20Staff%20Reports%20on%20Foreign%20and%20Military%20Intelligence"
+    },
+    {
+      "id": "005",
+      "doc_name": "Book 5 - The Investigation of the Assassination of President John F. Kennedy: Performance of the Intelligence Agencies",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20V%20-%20The%20Investigation%20of%20the%20Assassination%20of%20President%20John%20F.%20Kennedy%20-%20Performance%20of%20the%20Intelligence%20Agencies"
+    },
+    {
+      "id": "006",
+      "doc_name": "Book 6 - Supplementary Reports on Intelligence Activities",
+      "source": "ChurchCommittee/Church%20Committee%20Book%20VI%20-%20Supplementary%20Reports%20on%20Intelligence%20Activities"
+    },
+    {
+      "id": "007",
+      "doc_name": "Interim Report - Alleged Assassination Plots Involving Foreign Leaders",
+      "source": "ChurchCommittee/Church%20Committee%20Interim%20Report%20-%20Alleged%20Assassination%20Plots%20Involving%20Foreign%20Leaders"
+    },
+    {
+      "id": "008",
+      "doc_name": "Staff Report - Covert Action in Chile",
+      "source": "Covert-Action-In-Chile-1963-1973/94chile"
+    },
+    {
+      "id": "009",
+      "doc_name": "Hearings Vol. 1 - Unauthorized Storage of Toxic Agents",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%201%20-%20Hearings%20on%20Unauthorized%20Storage%20of%20Toxic%20Agents"
+    },
+    {
+      "id": "010",
+      "doc_name": "Hearings Vol. 2 - Huston Plan",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%202%20-%20Hearings%20on%20the%20Huston%20Plan"
+    },
+    {
+      "id": "011",
+      "doc_name": "Hearings Vol. 3 - Internal Revenue Service",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%203%20-%20Hearings%20on%20the%20Internal%20Revenue%20Service"
+    },
+    {
+      "id": "012",
+      "doc_name": "Hearings Vol. 4 - Mail Opening",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%204%20-%20Hearings%20on%20Mail%20Opening"
+    },
+    {
+      "id": "013",
+      "doc_name": "Hearings Vol. 5 - National Security Agency and Fourth Amendment Rights",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%205%20-%20Hearings%20on%20the%20National%20Security%20Agency%20and%20Fourth%20Amendment%20Rights"
+    },
+    {
+      "id": "014",
+      "doc_name": "Hearings Vol. 6 - The Federal Bureau of Investigations",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%206%20-%20Hearings%20on%20the%20Federal%20Bureau%20of%20Investigation"
+    },
+    {
+      "id": "015",
+      "doc_name": "Hearings Vol. 7 - Covert Action",
+      "source": "ChurchCommittee/Church%20Committee%20Volume%207%20-%20Hearings%20on%20Covert%20Action"
+    },
+    {
+      "id": "016",
+      "doc_name": "Rules of Procedure",
+      "source": ""
+    },
+    {
+      "id": "017",
+      "doc_name": "Frederick A.O. Schwarz, Jr. Testimony - 'Getting to the Truth Through a Nonpartisan Commission of Inquiry' (2009)",
+      "source": ""
+    }
+  ]
+}

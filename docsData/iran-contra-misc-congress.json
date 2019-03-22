@@ -1,0 +1,29 @@
+{
+  "id": "011",
+  "shortname": "iran-contra-misc-congress",
+  "collection": "Iran-Contra, Other Related Congressional Hearings",
+  "alt_names": [],
+  "date": "1988",
+  "description": "",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Were Relevant Documents Withheld From the Congressional Committees Investigating the Iran-Contra Affair?",
+      "source": "WereRelevantDocumentsWIthheldFromTheCongressionalCommitteesInvestigatingTheIranContraAffair/Were%20Relevant%20Documents%20WIthheld%20From%20the%20Congressional%20Committees%20Investigating%20the%20Iran-Contra%20Affair%3F"
+    },
+    {
+      "id": "002",
+      "doc_name": "The Downing of a United States Plane in Nicaragua and United States Involvement in the Contra War",
+      "date": "1986-10-15",
+      "source": "1986Foa0064HasenfusShootdown/1986-foa-0064_Hasenfus-Shootdown"
+    },
+    {
+      "id": "003",
+      "doc_name": "Preliminary Inquiry Into the Sale of Arms to Iran and Possible Diversion of Funds to the Nicaraguan Resistance",
+      "date": "1987-02-02",
+      "source": "PreliminaryInquiryIntoTheSaleOfArmsToIranAndPossibleDiversionOfFundsToTheNicaraguanResistance_201804/Preliminary%20Inquiry%20Into%20the%20Sale%20of%20Arms%20to%20Iran%20and%20Possible%20Diversion%20of%20Funds%20to%20the%20Nicaraguan%20Resistance"
+    }
+  ]
+}

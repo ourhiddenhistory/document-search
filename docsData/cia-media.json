@@ -1,0 +1,18 @@
+{
+  "id": "033",
+  "shortname": "cia-media",
+  "collection": "The CIA and the Media, House Permanent Select Comm. on Intelligence (1977-78)",
+  "date": "1977",
+  "alt_names": [],
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/cia-and-the-media",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "The CIA and the Media, House Select Committee on Intelligence",
+      "date": "1977-12-27",
+      "source": "https://archive.org/stream/cia-and-the-media"
+    }
+  ]
+}

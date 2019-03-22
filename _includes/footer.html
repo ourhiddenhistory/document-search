@@ -1,0 +1,41 @@
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Documents List</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="doclist__body modal-body">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- .search-doc-app -->
+
+  <script>
+    var baseurl = '{{site.baseurl}}';
+  </script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js'></script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.1/jquery.twbsPagination.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.0/mark.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.20/jquery.zoom.js'></script>
+  <script src="{{site.baseurl}}/dist/elasticsearch.jquery.js"></script>
+  <script src='{{site.baseurl}}/dist/index.js??{{randomNumber}}'></script>
+  {% if page.name == 'documents-list.html' or page.name == 'index.html' %}
+    <script>
+      var docList = {{ site.data.DOCS_NOWRITE | jsonify }}
+    </script>
+  {% endif %}
+
+</body>
+
+</html>

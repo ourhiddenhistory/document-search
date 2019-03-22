@@ -1,0 +1,33 @@
+{
+  "id": "050",
+  "shortname": "multinationals-hearings",
+  "collection": "Multinational Corporations and US Foreign Policy, US Senate Hearings",
+  "alt_names": [],
+  "date": "1973",
+  "important": "",
+  "description": "Incomplete collection, but contains important hearings on ITT, Chile, Lockheed, and more.",
+  "source": "https://archive.org/details/MultinationalCorporationsAndUSForeignPolicyUSSenateHearings",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "The International Telephone and Telegraph Company (ITT) and Chile, 1970-71 (Hearings)",
+      "source": "https://archive.org/stream/MultinationalCorporationsAndUSForeignPolicyUSSenateHearings/1973_Multinationals_ITT-Chile-1"
+    },
+    {
+      "id": "002",
+      "doc_name": "The International Telephone and Telegraph Company (ITT) and Chile, 1970-71 (Appendix)",
+      "source": "https://archive.org/stream/MultinationalCorporationsAndUSForeignPolicyUSSenateHearings/1973_Multinationals_ITT-Chile-2"
+    },
+    {
+      "id": "003",
+      "doc_name": "Political Contributions to Foreign Governments",
+      "source": "https://archive.org/stream/MultinationalCorporationsAndUSForeignPolicyUSSenateHearings/1975_Multinationals_foreign-bribes"
+    },
+    {
+      "id": "004",
+      "doc_name": "Lockheed Aircraft Corporation",
+      "source": "https://archive.org/stream/MultinationalCorporationsAndUSForeignPolicyUSSenateHearings/1976_Multinationals_lockheed-japan-bribes"
+    }
+  ]
+}

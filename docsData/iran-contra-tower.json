@@ -1,0 +1,23 @@
+{
+  "id": "015",
+  "shortname": "iran-contra-tower",
+  "collection": "Tower Commission",
+  "alt_names": [],
+  "date": "1986",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/TowerCommission",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "President's Special Review Board",
+      "source": "TowerCommission/President%27s%20Special%20Review%20Board%20%28%22Tower%20Commission%22%29"
+    },
+    {
+      "id": "002",
+      "doc_name": "Tower Board NSC Function Hearing",
+      "source": "TowerCommission/Tower%20Board%20NSC%20Function%20Hearing#page/n0/mode/1up"
+    }
+  ]
+}

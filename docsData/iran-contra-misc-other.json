@@ -1,0 +1,32 @@
+{
+  "id": "012",
+  "shortname": "iran-contra-misc-other",
+  "collection": "Iran-Contra, Miscellaneous Non-Government Sources",
+  "alt_names": [],
+  "date": "1990",
+  "description": "",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "9/11 As Sequel to Iran-Contra: Armitage, Carlucci, and Friends",
+      "source": "120409Ryan911SequelIranContra/120409-Ryan-911-Sequel-Iran-Contra"
+    },
+    {
+      "id": "002",
+      "doc_name": "The Iran-Contra Connection - Secret Teams and Covert Operations in Reagan Era - Marshall, Scott, Hunter",
+      "source": "MarshallEtAlTheIranContraConnectionSecretTeamsAndCovertOperationsInReaganEra1987/Marshall%20et%20al%20-%20The%20Iran-Contra%20Connection%20-%20Secret%20Teams%20and%20Covert%20Operations%20in%20Reagan%20Era%20%281987%29"
+    },
+    {
+      "id": "003",
+      "doc_name": "The Hidden Government Group Linking JFK, Watergate, Iran-Contra And 9-11 by Peter Dale Scott",
+      "source": "pdfy-DIFyNBnaRkcHyt81/The%20Hidden%20Government%20Group%20Linking%20JFK%2C%20Watergate%2C%20Iran-Contra%20And%209-11"
+    },
+    {
+      "id": "004",
+      "doc_name": "The Crimes of Patriots: A True Tale of Dope, Dirty Money, and the CIA by Jonathan Kwitny",
+      "source": "KwitnyTheCrimesOfPatriotsATrueTaleOfDopeDirtyMoneyAndTheCIAIranContraScandal1987_201605/Kwitny%20-%20The%20Crimes%20of%20Patriots%20-%20A%20True%20Tale%20of%20Dope%2C%20Dirty%20Money%20and%20the%20CIA%20%28Iran-contra%20scandal%29%281987%29"
+    }
+  ]
+}

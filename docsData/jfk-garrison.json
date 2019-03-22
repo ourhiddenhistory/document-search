@@ -1,0 +1,734 @@
+{
+  "id": "066",
+  "shortname": "jfk-garrison",
+  "collection": "Jim Garrison Investigation of the JFK Assassination",
+  "alt_names": [],
+  "date": "1967",
+  "important": "",
+  "source": "https://archive.org/stream/GarrisonPapers",
+  "description": "",
+  "hide_files": true,
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "Additional Thornley material",
+      "source": "GarrisonPapers/Additional%20Thornley%20material"
+    },
+    {
+      "id": "Amos Heacock",
+      "source": "GarrisonPapers/Amos%20Heacock"
+    },
+    {
+      "id": "Andrews, Dean re",
+      "source": "GarrisonPapers/Andrews%2C%20Dean%20re"
+    },
+    {
+      "id": "Andrews, Dean",
+      "source": "GarrisonPapers/Andrews%2C%20Dean"
+    },
+    {
+      "id": "Arcacha, Sergio",
+      "source": "GarrisonPapers/Arcacha%2C%20Sergio"
+    },
+    {
+      "id": "Banister, Guy",
+      "source": "GarrisonPapers/Banister%2C%20Guy"
+    },
+    {
+      "id": "Bank of New Orleans 6 of 17",
+      "source": "GarrisonPapers/Bank%20of%20New%20Orleans%206%20of%2017"
+    },
+    {
+      "id": "Bannister, Guy",
+      "source": "GarrisonPapers/Bannister%2C%20Guy"
+    },
+    {
+      "id": "Beckham, T.E.",
+      "source": "GarrisonPapers/Beckham%2C%20T.E."
+    },
+    {
+      "id": "Binder containing notes and fragments for manuscript, \"The Warrior Chieftans\"",
+      "source": "GarrisonPapers/Binder%20containing%20notes%20and%20fragments%20for%20manuscript%2C%20%22The%20Warrior%20Chieftans%22"
+    },
+    {
+      "id": "Boatright, Philip",
+      "source": "GarrisonPapers/Boatright%2C%20Philip"
+    },
+    {
+      "id": "Brading, Eugene Hall",
+      "source": "GarrisonPapers/Brading%2C%20Eugene%20Hall"
+    },
+    {
+      "id": "Broshears, Reverend Raymond",
+      "source": "GarrisonPapers/Broshears%2C%20Reverend%20Raymond"
+    },
+    {
+      "id": "Broshears# 1234",
+      "source": "GarrisonPapers/Broshears%23%201234"
+    },
+    {
+      "id": "Bundy, Vernon",
+      "source": "GarrisonPapers/Bundy%2C%20Vernon"
+    },
+    {
+      "id": "Buznedo, Julien",
+      "source": "GarrisonPapers/Buznedo%2C%20Julien"
+    },
+    {
+      "id": "Cabell, General Charles P",
+      "source": "GarrisonPapers/Cabell%2C%20General%20Charles%20P"
+    },
+    {
+      "id": "Central Intelligence Agency",
+      "source": "GarrisonPapers/Central%20Intelligence%20Agency"
+    },
+    {
+      "id": "Chandler, David",
+      "source": "GarrisonPapers/Chandler%2C%20David"
+    },
+    {
+      "id": "Cheramie, Rose",
+      "source": "GarrisonPapers/Cheramie%2C%20Rose"
+    },
+    {
+      "id": "CIA",
+      "source": "GarrisonPapers/CIA"
+    },
+    {
+      "id": "Clay Shaw Notebooks",
+      "source": "GarrisonPapers/Clay%20Shaw%20Notebooks"
+    },
+    {
+      "id": "Clay Shaw-Associations",
+      "source": "GarrisonPapers/Clay%20Shaw-Associations"
+    },
+    {
+      "id": "Clinton Witnesses",
+      "source": "GarrisonPapers/Clinton%20Witnesses"
+    },
+    {
+      "id": "Commission Documents (Fensterwald Collation)",
+      "source": "GarrisonPapers/Commission%20Documents%20(Fensterwald%20Collation)"
+    },
+    {
+      "id": "Committee to Investigate Assassinations, Inc.",
+      "source": "GarrisonPapers/Committee%20to%20Investigate%20Assassinations%2C%20Inc."
+    },
+    {
+      "id": "Conspiracy to Kill JFK-- Its Meaning",
+      "source": "GarrisonPapers/Conspiracy%20to%20Kill%20JFK--%20Its%20Meaning"
+    },
+    {
+      "id": "Court Papers #2",
+      "source": "GarrisonPapers/Court%20Papers%20%232"
+    },
+    {
+      "id": "Court Papers",
+      "source": "GarrisonPapers/Court%20Papers"
+    },
+    {
+      "id": "Crisman File",
+      "source": "GarrisonPapers/Crisman%20File"
+    },
+    {
+      "id": "Crisman Photos",
+      "source": "GarrisonPapers/Crisman%20Photos"
+    },
+    {
+      "id": "Crisman, Fred Lee",
+      "source": "GarrisonPapers/Crisman%2C%20Fred%20Lee"
+    },
+    {
+      "id": "Crusade to Free Cuba 2",
+      "source": "GarrisonPapers/Crusade%20to%20Free%20Cuba%202"
+    },
+    {
+      "id": "Crusade to Free Cuba",
+      "source": "GarrisonPapers/Crusade%20to%20Free%20Cuba"
+    },
+    {
+      "id": "Cummings, Raymond",
+      "source": "GarrisonPapers/Cummings%2C%20Raymond"
+    },
+    {
+      "id": "Current Material",
+      "source": "GarrisonPapers/Current%20Material"
+    },
+    {
+      "id": "Dealey Plaza",
+      "source": "GarrisonPapers/Dealey%20Plaza"
+    },
+    {
+      "id": "Death of Ferrie",
+      "source": "GarrisonPapers/Death%20of%20Ferrie"
+    },
+    {
+      "id": "Deposition of Richard McGarrah Helms, E. Howard Hunt v. Liberty Lobby, Inc. 13 of 17",
+      "source": "GarrisonPapers/Deposition%20of%20Richard%20McGarrah%20Helms%2C%20E.%20Howard%20Hunt%20v.%20Liberty%20Lobby%2C%20Inc.%2013%20of%2017"
+    },
+    {
+      "id": "Drennan, Dr. Stanley L",
+      "source": "GarrisonPapers/Drennan%2C%20Dr.%20Stanley%20L"
+    },
+    {
+      "id": "Early script for movie JFK",
+      "source": "GarrisonPapers/Early%20script%20for%20movie%20JFK"
+    },
+    {
+      "id": "Edwards, Earl Wallas",
+      "source": "GarrisonPapers/Edwards%2C%20Earl%20Wallas"
+    },
+    {
+      "id": "Employees of Guy Bannister",
+      "source": "GarrisonPapers/Employees%20of%20Guy%20Bannister"
+    },
+    {
+      "id": "Fan Mail 10 of 17",
+      "source": "GarrisonPapers/Fan%20Mail%2010%20of%2017"
+    },
+    {
+      "id": "Ferrie, David William (Deceased)",
+      "source": "GarrisonPapers/Ferrie%2C%20David%20William%20(Deceased)"
+    },
+    {
+      "id": "Ferrie, David",
+      "source": "GarrisonPapers/Ferrie%2C%20David"
+    },
+    {
+      "id": "File containing two charts- \"Activity Correlations\" and \"Departures from Reilly Coffee Company\"",
+      "source": "GarrisonPapers/File%20containing%20two%20charts-%20%22Activity%20Correlations%22%20and%20%22Departures%20from%20Reilly%20Coffee%20Company%22"
+    },
+    {
+      "id": "Folder entitled \"End of Garrison Miscellaneous Files\" 16 of 17",
+      "source": "GarrisonPapers/Folder%20entitled%20%22End%20of%20Garrison%20Miscellaneous%20Files%22%2016%20of%2017"
+    },
+    {
+      "id": "Frazier, Jack-- Rider Coffee House",
+      "source": "GarrisonPapers/Frazier%2C%20Jack--%20Rider%20Coffee%20House"
+    },
+    {
+      "id": "G-1465 1975-I. R. S",
+      "source": "GarrisonPapers/G-1465%201975-I.%20R.%20S"
+    },
+    {
+      "id": "G-2001 Jim Garrison-Assassination File",
+      "source": "GarrisonPapers/G-2001%20Jim%20Garrison-Assassination%20File"
+    },
+    {
+      "id": "Garrison and Alcock",
+      "source": "GarrisonPapers/Garrison%20and%20Alcock"
+    },
+    {
+      "id": "Garrison-Miscellaneous Reports and Memoranda re Assassination Investigation 1 of 3",
+      "source": "GarrisonPapers/Garrison-Miscellaneous%20Reports%20and%20Memoranda%20re%20Assassination%20Investigation%201%20of%203"
+    },
+    {
+      "id": "Garrison-Miscellaneous Reports and Memoranda re Assassination Investigation 2 of 3",
+      "source": "GarrisonPapers/Garrison-Miscellaneous%20Reports%20and%20Memoranda%20re%20Assassination%20Investigation%202%20of%203"
+    },
+    {
+      "id": "Garrison-Miscellaneous Reports and Memoranda re Assassination Investigation 3 of 3",
+      "source": "GarrisonPapers/Garrison-Miscellaneous%20Reports%20and%20Memoranda%20re%20Assassination%20Investigation%203%20of%203"
+    },
+    {
+      "id": "Garrison-Miscellaneous",
+      "source": "GarrisonPapers/Garrison-Miscellaneous"
+    },
+    {
+      "id": "Garrison-Miscellanous material 1 of 17",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material%201%20of%2017"
+    },
+    {
+      "id": "Garrison-Miscellanous material 3 of 17",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material%203%20of%2017"
+    },
+    {
+      "id": "Garrison-Miscellanous material 4 of 17",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material%204%20of%2017"
+    },
+    {
+      "id": "Garrison-Miscellanous material 7 of 17",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material%207%20of%2017"
+    },
+    {
+      "id": "Garrison-Miscellanous material 15 of 17",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material%2015%20of%2017"
+    },
+    {
+      "id": "Garrison-Miscellanous material",
+      "source": "GarrisonPapers/Garrison-Miscellanous%20material"
+    },
+    {
+      "id": "Geraci, Philip",
+      "source": "GarrisonPapers/Geraci%2C%20Philip"
+    },
+    {
+      "id": "Giesbrecht, Richard E 2",
+      "source": "GarrisonPapers/Giesbrecht%2C%20Richard%20E%202"
+    },
+    {
+      "id": "Giesbrecht, Richard E",
+      "source": "GarrisonPapers/Giesbrecht%2C%20Richard%20E"
+    },
+    {
+      "id": "Girnus, Edward Julius",
+      "source": "GarrisonPapers/Girnus%2C%20Edward%20Julius"
+    },
+    {
+      "id": "Gordon Novel",
+      "source": "GarrisonPapers/Gordon%20Novel"
+    },
+    {
+      "id": "Individuals engaged in obstruction of D.A.'s Investigation of JFK Assassination",
+      "source": "GarrisonPapers/Individuals%20engaged%20in%20obstruction%20of%20D.A.'s%20Investigation%20of%20JFK%20Assassination"
+    },
+    {
+      "id": "67 17 of 17",
+      "source": "GarrisonPapers/Interview%20of%20William%20A.%20Morris%2C%207%2F12%2F67%2017%20of%2017"
+    },
+    {
+      "id": "Investigation of the Operation Security Involving the Transfer of Lee Harvey Oswald November 24, 1963 1 of 3",
+      "source": "GarrisonPapers/Investigation%20of%20the%20Operation%20Security%20Involving%20the%20Transfer%20of%20Lee%20Harvey%20Oswald%20November%2024%2C%201963%201%20of%203"
+    },
+    {
+      "id": "J.G",
+      "source": "GarrisonPapers/J.G"
+    },
+    {
+      "id": "Kroman, Dave",
+      "source": "GarrisonPapers/Kroman%2C%20Dave"
+    },
+    {
+      "id": "Lead File 1a",
+      "source": "GarrisonPapers/Lead%20File%201a"
+    },
+    {
+      "id": "Lead Files (1) revised aug 77",
+      "source": "GarrisonPapers/Lead%20Files%20(1)%20revised%20aug%2077"
+    },
+    {
+      "id": "Lead Files (4 Folders)",
+      "source": "GarrisonPapers/Lead%20Files%20(4%20Folders)"
+    },
+    {
+      "id": "Lead Files 3",
+      "source": "GarrisonPapers/Lead%20Files%203"
+    },
+    {
+      "id": "Lead Files",
+      "source": "GarrisonPapers/Lead%20Files"
+    },
+    {
+      "id": "Lee Harvey Oswald 2 of 3",
+      "source": "GarrisonPapers/Lee%20Harvey%20Oswald%202%20of%203"
+    },
+    {
+      "id": "ONI File",
+      "source": "GarrisonPapers/LHO%2FONI%20File"
+    },
+    {
+      "id": "MacDonald, Betty Mooney",
+      "source": "GarrisonPapers/MacDonald%2C%20Betty%20Mooney"
+    },
+    {
+      "id": "Mancuso, Marlene",
+      "source": "GarrisonPapers/Mancuso%2C%20Marlene"
+    },
+    {
+      "id": "Marguerite C. Oswald v. King Candy Company 9 of 17",
+      "source": "GarrisonPapers/Marguerite%20C.%20Oswald%20v.%20King%20Candy%20Company%209%20of%2017"
+    },
+    {
+      "id": "Martens, Layton",
+      "source": "GarrisonPapers/Martens%2C%20Layton"
+    },
+    {
+      "id": "Material on secret societies 14 of 17",
+      "source": "GarrisonPapers/Material%20on%20secret%20societies%2014%20of%2017"
+    },
+    {
+      "id": "Material re- Clay Shaw folder 1",
+      "source": "GarrisonPapers/Material%20re-%20Clay%20Shaw%20folder%201"
+    },
+    {
+      "id": "Material re- Clay Shaw folder 2",
+      "source": "GarrisonPapers/Material%20re-%20Clay%20Shaw%20folder%202"
+    },
+    {
+      "id": "Material re- Clay Shaw folder 3",
+      "source": "GarrisonPapers/Material%20re-%20Clay%20Shaw%20folder%203"
+    },
+    {
+      "id": "Materials pertaining to prosecution of Garrison in 1971",
+      "source": "GarrisonPapers/Materials%20pertaining%20to%20prosecution%20of%20Garrison%20in%201971"
+    },
+    {
+      "id": "Mercer, J.A",
+      "source": "GarrisonPapers/Mercer%2C%20J.A"
+    },
+    {
+      "id": "Mexico",
+      "source": "GarrisonPapers/Mexico"
+    },
+    {
+      "id": "Misc 1 of 7",
+      "source": "GarrisonPapers/Misc%201%20of%207"
+    },
+    {
+      "id": "Misc 2 of 7",
+      "source": "GarrisonPapers/Misc%202%20of%207"
+    },
+    {
+      "id": "Misc 3 of 7",
+      "source": "GarrisonPapers/Misc%203%20of%207"
+    },
+    {
+      "id": "Misc 4 of 7",
+      "source": "GarrisonPapers/Misc%204%20of%207"
+    },
+    {
+      "id": "Misc 5 of 7",
+      "source": "GarrisonPapers/Misc%205%20of%207"
+    },
+    {
+      "id": "Misc 6 of 7",
+      "source": "GarrisonPapers/Misc%206%20of%207"
+    },
+    {
+      "id": "Misc 7 of 7",
+      "source": "GarrisonPapers/Misc%207%20of%207"
+    },
+    {
+      "id": "Miscellaneous Investigative Reports and Memorandum (3 folders)",
+      "source": "GarrisonPapers/Miscellaneous%20Investigative%20Reports%20and%20Memorandum%20(3%20folders)"
+    },
+    {
+      "id": "Miscellaneous Investigative Reports and Memorandum 2",
+      "source": "GarrisonPapers/Miscellaneous%20Investigative%20Reports%20and%20Memorandum%202"
+    },
+    {
+      "id": "Miscellaneous Investigative Reports and Memorandum 11 of 17",
+      "source": "GarrisonPapers/Miscellaneous%20Investigative%20Reports%20and%20Memorandum%2011%20of%2017"
+    },
+    {
+      "id": "Miscellaneous Investigative Reports and Memorandum re- Clay Shaw, David Ferrie, Layton Martens 8 of 17",
+      "source": "GarrisonPapers/Miscellaneous%20Investigative%20Reports%20and%20Memorandum%20re-%20Clay%20Shaw%2C%20David%20Ferrie%2C%20Layton%20Martens%208%20of%2017"
+    },
+    {
+      "id": "Miscellaneous Investigative Reports and Memorandum",
+      "source": "GarrisonPapers/Miscellaneous%20Investigative%20Reports%20and%20Memorandum"
+    },
+    {
+      "id": "Miscellaneous News Clips",
+      "source": "GarrisonPapers/Miscellaneous%20News%20Clips"
+    },
+    {
+      "id": "Miscellanous material re- assassination. Includes newspaper clippings, photographs, reports, and memoranda 1 of 3",
+      "source": "GarrisonPapers/Miscellanous%20material%20re-%20assassination.%20Includes%20newspaper%20clippings%2C%20photographs%2C%20reports%2C%20and%20memoranda%201%20of%203"
+    },
+    {
+      "id": "Miscellanous material re- assassination. Includes newspaper clippings, photographs, reports, and memoranda 2 of 3",
+      "source": "GarrisonPapers/Miscellanous%20material%20re-%20assassination.%20Includes%20newspaper%20clippings%2C%20photographs%2C%20reports%2C%20and%20memoranda%202%20of%203"
+    },
+    {
+      "id": "Misfiled-original location unknown by researcher",
+      "source": "GarrisonPapers/Misfiled-original%20location%20unknown%20by%20researcher"
+    },
+    {
+      "id": "Mobile, Alabama",
+      "source": "GarrisonPapers/Mobile%2C%20Alabama"
+    },
+    {
+      "id": "Morgan, Griscom",
+      "source": "GarrisonPapers/Morgan%2C%20Griscom"
+    },
+    {
+      "id": "Mrs. Marguerite C. Oswald v. Liberty Insurance Company of Texas",
+      "source": "GarrisonPapers/Mrs.%20Marguerite%20C.%20Oswald%20v.%20Liberty%20Insurance%20Company%20of%20Texas"
+    },
+    {
+      "id": "Nagell, Richard (1 of 2)",
+      "source": "GarrisonPapers/Nagell%2C%20Richard%20(1%20of%202)"
+    },
+    {
+      "id": "Nagell, Richard (2 of 2)",
+      "source": "GarrisonPapers/Nagell%2C%20Richard%20(2%20of%202)"
+    },
+    {
+      "id": "Nagell, Richard Case",
+      "source": "GarrisonPapers/Nagell%2C%20Richard%20Case"
+    },
+    {
+      "id": "New Dalzell File",
+      "source": "GarrisonPapers/New%20Dalzell%20File"
+    },
+    {
+      "id": "New KT Leads",
+      "source": "GarrisonPapers/New%20KT%20Leads"
+    },
+    {
+      "id": "1968 12 of 17",
+      "source": "GarrisonPapers/New%20Orleans%20Conference%209%2F21%2F1968%2012%20of%2017"
+    },
+    {
+      "id": "Adams Manuscript",
+      "source": "GarrisonPapers/Newcomb%2FAdams%20Manuscript"
+    },
+    {
+      "id": "Norton, Donald P",
+      "source": "GarrisonPapers/Norton%2C%20Donald%20P"
+    },
+    {
+      "id": "Odd Sects",
+      "source": "GarrisonPapers/Odd%20Sects"
+    },
+    {
+      "id": "Old Wine in New Bottles 2 of 17",
+      "source": "GarrisonPapers/Old%20Wine%20in%20New%20Bottles%202%20of%2017"
+    },
+    {
+      "id": "Olsen, Harry",
+      "source": "GarrisonPapers/Olsen%2C%20Harry"
+    },
+    {
+      "id": "Osborne, Albert; aka Bowen, John Howard",
+      "source": "GarrisonPapers/Osborne%2C%20Albert%3B%20aka%20Bowen%2C%20John%20Howard"
+    },
+    {
+      "id": "Oswald-Lakefront",
+      "source": "GarrisonPapers/Oswald-Lakefront"
+    },
+    {
+      "id": "Oswald, Lee Harvey",
+      "source": "GarrisonPapers/Oswald%2C%20Lee%20Harvey"
+    },
+    {
+      "id": "Oswald's Notebook (Home Copy)",
+      "source": "GarrisonPapers/Oswald's%20Notebook%20(Home%20Copy)"
+    },
+    {
+      "id": "Oswald's Notebook",
+      "source": "GarrisonPapers/Oswald's%20Notebook"
+    },
+    {
+      "id": "Oswald's Property",
+      "source": "GarrisonPapers/Oswald's%20Property"
+    },
+    {
+      "id": "Paine, Ruth 01",
+      "source": "GarrisonPapers/Paine%2C%20Ruth%2001"
+    },
+    {
+      "id": "Paine, Ruth 02",
+      "source": "GarrisonPapers/Paine%2C%20Ruth%2002"
+    },
+    {
+      "id": "Patterson, Duncan",
+      "source": "GarrisonPapers/Patterson%2C%20Duncan"
+    },
+    {
+      "id": "Perrin, Robert",
+      "source": "GarrisonPapers/Perrin%2C%20Robert"
+    },
+    {
+      "id": "Phelan, James",
+      "source": "GarrisonPapers/Phelan%2C%20James"
+    },
+    {
+      "id": "Photographs 1",
+      "source": "GarrisonPapers/Photographs%201"
+    },
+    {
+      "id": "Photographs 3",
+      "source": "GarrisonPapers/Photographs%203"
+    },
+    {
+      "id": "Photographs 4",
+      "source": "GarrisonPapers/Photographs%204"
+    },
+    {
+      "id": "Photographs 5",
+      "source": "GarrisonPapers/Photographs%205"
+    },
+    {
+      "id": "Photographs of Oswald Shooting in Basement 3 of 3",
+      "source": "GarrisonPapers/Photographs%20of%20Oswald%20Shooting%20in%20Basement%203%20of%203"
+    },
+    {
+      "id": "Photographs-Persons Appearing with Lee Harvey Oswald in Dallas Police Department Identification \"Line-Up\"",
+      "source": "GarrisonPapers/Photographs-Persons%20Appearing%20with%20Lee%20Harvey%20Oswald%20in%20Dallas%20Police%20Department%20Identification%20%22Line-Up%22"
+    },
+    {
+      "id": "Trade Mart Floor Plans",
+      "source": "GarrisonPapers/Photographs-Trade%20Mart%20Aerial%20View%2FTrade%20Mart%20Floor%20Plans"
+    },
+    {
+      "id": "Porter, Marina Oswald",
+      "source": "GarrisonPapers/Porter%2C%20Marina%20Oswald"
+    },
+    {
+      "id": "Reissman, Leonard",
+      "source": "GarrisonPapers/Reissman%2C%20Leonard"
+    },
+    {
+      "id": "Research Materials",
+      "source": "GarrisonPapers/Research%20Materials"
+    },
+    {
+      "id": "Robert Kennedy-Grand Jury Transcript, Medicolegal Investigation (Coroner) & FBI Reports (1 Binder)",
+      "source": "GarrisonPapers/Robert%20Kennedy-Grand%20Jury%20Transcript%2C%20Medicolegal%20Investigation%20(Coroner)%20%26%20FBI%20Reports%20(1%20Binder)"
+    },
+    {
+      "id": "Rockwell, George Lincoln",
+      "source": "GarrisonPapers/Rockwell%2C%20George%20Lincoln"
+    },
+    {
+      "id": "Ruby, Jack",
+      "source": "GarrisonPapers/Ruby%2C%20Jack"
+    },
+    {
+      "id": "Russo, Perry 01",
+      "source": "GarrisonPapers/Russo%2C%20Perry%2001"
+    },
+    {
+      "id": "Russo, Perry 02",
+      "source": "GarrisonPapers/Russo%2C%20Perry%2002"
+    },
+    {
+      "id": "Salandria \"Model\"",
+      "source": "GarrisonPapers/Salandria%20%22Model%22"
+    },
+    {
+      "id": "Secret Service -N.O. Investigations",
+      "source": "GarrisonPapers/Secret%20Service%20-N.O.%20Investigations"
+    },
+    {
+      "id": "Senator, George",
+      "source": "GarrisonPapers/Senator%2C%20George"
+    },
+    {
+      "id": "Shaw & Canada",
+      "source": "GarrisonPapers/Shaw%20%26%20Canada"
+    },
+    {
+      "id": "Shaw & Cuba",
+      "source": "GarrisonPapers/Shaw%20%26%20Cuba"
+    },
+    {
+      "id": "Shaw 3",
+      "source": "GarrisonPapers/Shaw%203"
+    },
+    {
+      "id": "Shaw III-World Trade Center (Italy)",
+      "source": "GarrisonPapers/Shaw%20III-World%20Trade%20Center%20(Italy)"
+    },
+    {
+      "id": "Shaw Leads-2",
+      "source": "GarrisonPapers/Shaw%20Leads-2"
+    },
+    {
+      "id": "Shaw-Bernedez-Weiss Lead",
+      "source": "GarrisonPapers/Shaw-Bernedez-Weiss%20Lead"
+    },
+    {
+      "id": "Shaw, Clay L.",
+      "source": "GarrisonPapers/Shaw%2C%20Clay%20L."
+    },
+    {
+      "id": "Shaw",
+      "source": "GarrisonPapers/Shaw"
+    },
+    {
+      "id": "Smith Case-Loose Matter",
+      "source": "GarrisonPapers/Smith%20Case-Loose%20Matter"
+    },
+    {
+      "id": "Smith-Secondary",
+      "source": "GarrisonPapers/Smith-Secondary"
+    },
+    {
+      "id": "Smith-Tertiary",
+      "source": "GarrisonPapers/Smith-Tertiary"
+    },
+    {
+      "id": "Suggested Beckham Questions",
+      "source": "GarrisonPapers/Suggested%20Beckham%20Questions"
+    },
+    {
+      "id": "Texas A.G. Vol. 3",
+      "source": "GarrisonPapers/Texas%20A.G.%20Vol.%203"
+    },
+    {
+      "id": "Texas A.G. Vol. 6",
+      "source": "GarrisonPapers/Texas%20A.G.%20Vol.%206"
+    },
+    {
+      "id": "Texas A.G. Vol. 8",
+      "source": "GarrisonPapers/Texas%20A.G.%20Vol.%208"
+    },
+    {
+      "id": "Texas A.G. Volume 3",
+      "source": "GarrisonPapers/Texas%20A.G.%20Volume%203"
+    },
+    {
+      "id": "Texas Attorney General's Report-Volumes 4, 6, 7, 8",
+      "source": "GarrisonPapers/Texas%20Attorney%20General's%20Report-Volumes%204%2C%206%2C%207%2C%208"
+    },
+    {
+      "id": "Thornley, Kerry 02",
+      "source": "GarrisonPapers/Thornley%2C%20Kerry%2002"
+    },
+    {
+      "id": "Thornley, Kerry",
+      "source": "GarrisonPapers/Thornley%2C%20Kerry"
+    },
+    {
+      "id": "Thornley",
+      "source": "GarrisonPapers/Thornley"
+    },
+    {
+      "id": "Time, Place and Number Correlations (Ruby, Ferrie, Oswald and Shaw) 5 of 17",
+      "source": "GarrisonPapers/Time%2C%20Place%20and%20Number%20Correlations%20(Ruby%2C%20Ferrie%2C%20Oswald%20and%20Shaw)%205%20of%2017"
+    },
+    {
+      "id": "Torres, Miguel S",
+      "source": "GarrisonPapers/Torres%2C%20Miguel%20S"
+    },
+    {
+      "id": "Torres, Miguel",
+      "source": "GarrisonPapers/Torres%2C%20Miguel"
+    },
+    {
+      "id": "Various newspaper and magazine clippings of articles 1 of 5",
+      "source": "GarrisonPapers/Various%20newspaper%20and%20magazine%20clippings%20of%20articles%201%20of%205"
+    },
+    {
+      "id": "Various newspaper and magazine clippings of articles 2 of 5",
+      "source": "GarrisonPapers/Various%20newspaper%20and%20magazine%20clippings%20of%20articles%202%20of%205"
+    },
+    {
+      "id": "Various newspaper and magazine clippings of articles 3 of 5",
+      "source": "GarrisonPapers/Various%20newspaper%20and%20magazine%20clippings%20of%20articles%203%20of%205"
+    },
+    {
+      "id": "Various newspaper and magazine clippings of articles 4 of 5",
+      "source": "GarrisonPapers/Various%20newspaper%20and%20magazine%20clippings%20of%20articles%204%20of%205"
+    },
+    {
+      "id": "Various newspaper and magazine clippings of articles 5 of 5",
+      "source": "GarrisonPapers/Various%20newspaper%20and%20magazine%20clippings%20of%20articles%205%20of%205"
+    },
+    {
+      "id": "Ward, Johnson, Jr.",
+      "source": "GarrisonPapers/Ward%2C%20Johnson%2C%20Jr."
+    },
+    {
+      "id": "Whalen, Edward James",
+      "source": "GarrisonPapers/Whalen%2C%20Edward%20James"
+    },
+    {
+      "id": "Wilfred, Bill Williams, Jr",
+      "source": "GarrisonPapers/Wilfred%2C%20Bill%20Williams%2C%20Jr"
+    }
+  ]
+}

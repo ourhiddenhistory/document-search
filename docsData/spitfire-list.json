@@ -1,0 +1,108 @@
+{
+  "id": "054",
+  "shortname": "spitfire-list",
+  "collection": "Spitfire List Collection (Independent Research on Fascism)",
+  "alt_names": [],
+  "date": "1954",
+  "important": "80% Complete.",
+  "description": "Courtesy <a href='http://spitfirelist.com/'>spitfilelist.com</a>. For a brief description of each book, visit <a href='http://spitfirelist.com/books/introduction/'>http://spitfirelist.com/books/introduction</a>.",
+  "source": "http://spitfirelist.com/category/books/",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "<em>Treason’s Peace</em> (1947) Part 1 by Howard Watson Ambruster",
+      "source": "http://spitfirelist.com/books/ambruster_pt1.pdf"
+    },
+    {
+      "id": "002",
+      "doc_name": "<em>Treason’s Peace</em> (1947) Part 2 by Howard Watson Ambruster",
+      "source": "http://spitfirelist.com/books/ambruster_pt2.pdf"
+    },
+    {
+      "id": "003",
+      "doc_name": "<em>Germany’s Master Plan</em> Part 1 (1943) by Borkin and Welsh",
+      "source": "http://spitfirelist.com/books/borkin_pt1.pdf"
+    },
+    {
+      "id": "004",
+      "doc_name": "<em>Germany’s Master Plan</em> Part 2 (1943) by Borkin and Welsh",
+      "source": "http://spitfirelist.com/books/borkin_pt2.pdf"
+    },
+    {
+      "id": "005",
+      "doc_name": "<em>Cairo to Damascus</em> (1951) Part 1 by John Roy Carlson",
+      "source": "http://spitfirelist.com/books/carlson01.pdf"
+    },
+    {
+      "id": "006",
+      "doc_name": "<em>Cairo to Damascus</em> (1951) Part 2 by John Roy Carlson",
+      "source": "http://spitfirelist.com/books/carlson02.pdf"
+    },
+    {
+      "id": "007",
+      "doc_name": "<em>Falange</em> (1943) Part 1 by Alan Chase",
+      "source": "http://spitfirelist.com/books/chase1a.pdf"
+    },
+    {
+      "id": "008",
+      "doc_name": "<em>Falange</em> (1943) Part 2 by Alan Chase",
+      "source": "http://spitfirelist.com/books/chase2a.pdf"
+    },
+    {
+      "id": "009",
+      "doc_name": "<em>Armies of Spies</em> (1939) by Joseph Gollumb",
+      "source": "http://spitfirelist.com/books/gollomb.pdf"
+    },
+    {
+      "id": "010",
+      "doc_name": "<em>All Honorable Men</em> (1950) Part 1 by James Stewart Martin",
+      "source": "http://spitfirelist.com/books/honorable01.pdf"
+    },
+    {
+      "id": "011",
+      "doc_name": "<em>All Honorable Men</em> (1950) Part 2 by James Stewart Martin",
+      "source": "http://spitfirelist.com/books/honorable02.pdf"
+    },
+    {
+      "id": "012",
+      "doc_name": "<em>Germany Plots with the Kremlin</em> (1953) Part 1 by T.H. Tetens",
+      "source": "http://spitfirelist.com/books/tetens_pt1.pdf"
+    },
+    {
+      "id": "013",
+      "doc_name": "<em>Germany Plots with the Kremlin</em> (1953) Part 2 by T.H. Tetens",
+      "source": "http://spitfirelist.com/books/tetens_pt2.pdf"
+    },
+    {
+      "id": "014",
+      "doc_name": "<em>Under Cover</em> (1943) Part 1 by John Roy Carlson",
+      "source": "http://spitfirelist.com/books/under_cover1b.pdf"
+    },
+    {
+      "id": "015",
+      "doc_name": "<em>Under Cover</em> (1943) Part 2 by John Roy Carlson",
+      "source": "http://spitfirelist.com/books/under_cover2b.pdf"
+    },
+    {
+      "id": "016",
+      "doc_name": "<em>The Nazis Go Underground</em> by Curt Reiss",
+      "source": "http://spitfirelist.com/books/undergrnd.pdf"
+    },
+    {
+      "id": "017",
+      "doc_name": "<em>The Thousand-Year Conspiracy</em> (1943) Part 1 by Paul Winkler",
+      "source": "http://spitfirelist.com/books/winkler1a.pdf"
+    },
+    {
+      "id": "018",
+      "doc_name": "<em>The Thousand-Year Conspiracy</em> (1943) Part 2 by Paul Winkler",
+      "source": "http://spitfirelist.com/books/winkler1b.pdf"
+    },
+    {
+      "id": "019",
+      "doc_name": "<em>Martin Bormann: Nazi in Exile</em> (1981) by Paul Manning",
+      "source": "http://spitfirelist.com/manningpdf/manning.pdf"
+    }
+  ]
+}

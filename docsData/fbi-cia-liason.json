@@ -1,0 +1,538 @@
+{
+  "id": "089",
+  "shortname": "fbi-cia-liason",
+  "collection": "FBI Files on CIA Liaison",
+  "alt_names": [],
+  "date": "1971",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/FBI-CIA-Liaison",
+  "type": "archive-b",
+  "hide_files": true,
+  "files": [
+  {
+    "id": "0368692---62-HQ-80750---Section001(740146)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section001(740146).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section002",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section002.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section003",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section003.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section004",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section004.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section005",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section005.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section006",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section006.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section007",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section007.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section008",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section008.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section009",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section009.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section010",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section010.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section011",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section011.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section012",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section012.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section013",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section013.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section014",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section014.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section015",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section015.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section016",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section016.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section017",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section017.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section018",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section018.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section019",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section019.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section020",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section020.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section021",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section021.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section022",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section022.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section023",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section023.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section024(740148)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section024(740148).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section025",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section025.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section026",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section026.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section027",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section027.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section028",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section028.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section029",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section029.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section030",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section030.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section031",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section031.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section032",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section032.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section033",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section033.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section034(756035)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section034(756035).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section035",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section035.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section036",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section036.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section037",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section037.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section038",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section038.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section039",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section039.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section040",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section040.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section041",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section041.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section042",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section042.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section043",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section043.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section044",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section044.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section045",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section045.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section046",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section046.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section047(669675)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section047(669675).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section048",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section048.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section049",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section049.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section050",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section050.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section051",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section051.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section052",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section052.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section053",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section053.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section054",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section054.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section057",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section057.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section058",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section058.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section059",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section059.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section060(756117)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section060(756117).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section061(669662)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section061(669662).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section065(750854)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section065(750854).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section066(750855)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section066(750855).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section074(756123)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section074(756123).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section075(756056)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section075(756056).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section078",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section078.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section079(766351)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section079(766351).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section080(770838)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section080(770838).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section083(759437)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section083(759437).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section086(757966)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section086(757966).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section091",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section091.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section092(757979)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section092(757979).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section093(757980)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section093(757980).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section095(757763)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section095(757763).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section096(756096)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section096(756096).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section098",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section098.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section099(759439)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section099(759439).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section102(756011)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section102(756011).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section103(757871)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section103(757871).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section106(756015)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section106(756015).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section108(756019)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section108(756019).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section109(756026)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section109(756026).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section110(756049)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section110(756049).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section112(756057)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section112(756057).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section115",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section115.PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section117(741816)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section117(741816).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section118(757821)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section118(757821).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section122(750858)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section122(750858).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section124(757793)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section124(757793).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section125(750863)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section125(750863).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section126(757794)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section126(757794).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section127(750874)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section127(750874).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section129(750876)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section129(750876).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section130(757771)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section130(757771).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section131(759441)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section131(759441).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section132(740151)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section132(740151).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section133(750878)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section133(750878).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section134(750880)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section134(750880).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section135(750882)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section135(750882).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section136(757772)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section136(757772).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section137(758126)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section137(758126).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section139(759264)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section139(759264).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section140(759267)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section140(759267).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section141(758127)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section141(758127).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section142(758130)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section142(758130).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section143(740153)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section143(740153).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section144(758136)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section144(758136).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section145(757810)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section145(757810).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section146(757813)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section146(757813).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section147(759384)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section147(759384).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section148(750883)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section148(750883).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section149(750885)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section149(750885).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section150(759385)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section150(759385).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section151(759386)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section151(759386).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section152(759387)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section152(759387).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section153(762345)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section153(762345).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section154(759388)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section154(759388).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section155(759391)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section155(759391).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section156(750886)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section156(750886).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section158(766507)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section158(766507).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section160(759402)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section160(759402).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section161(759409)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section161(759409).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section162(762346)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section162(762346).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section163(750891)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section163(750891).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section166(750892)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section166(750892).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section167(759417)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section167(759417).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section168(762347)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section168(762347).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section169(759420)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section169(759420).PDF"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section170(759421)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section170(759421).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section171",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section171.pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section172(759427)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section172(759427).pdf"
+  },
+  {
+    "id": "0368692---62-HQ-80750---Section173(759433)",
+    "source": "FBI-CIA-Liaison/0368692---62-HQ-80750---Section173(759433).PDF"
+  },
+  {
+    "id": "CIA-FBI-StateDept-1",
+    "source": "FBI-CIA-Liaison/CIA-FBI-StateDept-1.pdf"
+  }
+]
+}

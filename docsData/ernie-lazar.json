@@ -1,0 +1,5441 @@
+{
+  "id": "110",
+  "shortname": "ernie-lazar",
+  "collection": "Ernie Lazar FOIA Collection",
+  "alt_names": [],
+  "date": "1960",
+  "description": "A variety of FOIA documents covering groups from across the political spectrum.",
+  "important": "In progress",
+  "source": "https://archive.org/details/lazarfoia",
+  "type": "archive-b",
+  "files": [
+  {
+    "id": "ACLU-HQ-28",
+    "source": "ACLU-HQ-28.PDF/ACLU-HQ-28"
+  },
+  {
+    "id": "ACLU-HQ-29",
+    "source": "ACLU-HQ-29.PDF/ACLU-HQ-29"
+  },
+  {
+    "id": "ACLU-HQ-30",
+    "source": "ACLU-HQ-30.PDF/ACLU-HQ-30"
+  },
+  {
+    "id": "ACLU-HQ-31",
+    "source": "ACLU-HQ-31.PDF/ACLU-HQ-31"
+  },
+  {
+    "id": "ACLU-HQ-32",
+    "source": "ACLU-HQ-32.PDF/ACLU-HQ-32"
+  },
+  {
+    "id": "ACLU-HQ-33",
+    "source": "ACLU-HQ-33.PDF/ACLU-HQ-33"
+  },
+  {
+    "id": "ACLU-HQ-34",
+    "source": "ACLU-HQ-34.PDF/ACLU-HQ-34"
+  },
+  {
+    "id": "ACLU-HQ-35",
+    "source": "ACLU-HQ-35.PDF/ACLU-HQ-35"
+  },
+  {
+    "id": "ACLU-HQ-36",
+    "source": "ACLU-HQ-36.PDF/ACLU-HQ-36"
+  },
+  {
+    "id": "ACLU-HQ-37",
+    "source": "ACLU-HQ-37.PDF/ACLU-HQ-37"
+  },
+  {
+    "id": "ACLU-HQ-38",
+    "source": "ACLU-HQ-38.PDF/ACLU-HQ-38"
+  },
+  {
+    "id": "Arab_Influence_in_U.S._Hate_Literature-Los_Angeles-1",
+    "source": "Arab_Influence_in_U.S._Hate_Literature-Los_Angeles-1/Arab_Influence_in_U.S._Hate_Literature-Los_Angeles-1"
+  },
+  {
+    "id": "Beauharnais, Joseph-Chicago-3",
+    "source": "BeauharnaisJosephChicago3_201712/Beauharnais, Joseph-Chicago-3"
+  },
+  {
+    "id": "Carto, Willis A.-San Francisco-1",
+    "source": "CartoWillisA.SanFrancisco1_201712/Carto, Willis A.-San Francisco-1"
+  },
+  {
+    "id": "Committee_One_Million_Caucasians-HQ-1",
+    "source": "Committee_One_Million_Caucasians-HQ-1.PDF/Committee_One_Million_Caucasians-HQ-1"
+  },
+  {
+    "id": "Federation_Constitutional_Govt-Dallas-1",
+    "source": "Federation_Constitutional_Govt-Dallas-1.PDF/Federation_Constitutional_Govt-Dallas-1"
+  },
+  {
+    "id": "Greater_L.A._Citizens_Council-Los_Angeles-1",
+    "source": "Greater_L.A._Citizens_Council-Los_Angeles-1/Greater_L.A._Citizens_Council-Los_Angeles-1"
+  },
+  {
+    "id": "Grede Papers re JBS",
+    "source": "Grede_Papers_re_JBS.PDF/Grede Papers re JBS"
+  },
+  {
+    "id": "JBS-Chicago-1",
+    "source": "JBS-Chicago-1/JBS-Chicago-1"
+  },
+  {
+    "id": "JBS_CRITICS_INSIDE_JBS-1",
+    "source": "JBS_CRITICS_INSIDE_JBS-1/JBS_CRITICS_INSIDE_JBS-1"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-10",
+    "source": "King_Jr._Martin_L.-HQ-10/King_Jr._Martin_L.-HQ-10"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-100",
+    "source": "King_Jr._Martin_L.-HQ-100/King_Jr._Martin_L.-HQ-100"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-101",
+    "source": "King_Jr._Martin_L.-HQ-101/King_Jr._Martin_L.-HQ-101"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-102",
+    "source": "King_Jr._Martin_L.-HQ-102/King_Jr._Martin_L.-HQ-102"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-103",
+    "source": "King_Jr._Martin_L.-HQ-103/King_Jr._Martin_L.-HQ-103"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-104",
+    "source": "King_Jr._Martin_L.-HQ-104/King_Jr._Martin_L.-HQ-104"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-105",
+    "source": "King_Jr._Martin_L.-HQ-105/King_Jr._Martin_L.-HQ-105"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-106",
+    "source": "King_Jr._Martin_L.-HQ-106/King_Jr._Martin_L.-HQ-106"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-11",
+    "source": "King_Jr._Martin_L.-HQ-11/King_Jr._Martin_L.-HQ-11"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-12",
+    "source": "King_Jr._Martin_L.-HQ-12/King_Jr._Martin_L.-HQ-12"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-13",
+    "source": "King_Jr._Martin_L.-HQ-13/King_Jr._Martin_L.-HQ-13"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-14",
+    "source": "King_Jr._Martin_L.-HQ-14/King_Jr._Martin_L.-HQ-14"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-15",
+    "source": "King_Jr._Martin_L.-HQ-15/King_Jr._Martin_L.-HQ-15"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-16",
+    "source": "King_Jr._Martin_L.-HQ-16/King_Jr._Martin_L.-HQ-16"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-17",
+    "source": "King_Jr._Martin_L.-HQ-17/King_Jr._Martin_L.-HQ-17"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-18",
+    "source": "King_Jr._Martin_L.-HQ-18/King_Jr._Martin_L.-HQ-18"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-19",
+    "source": "King_Jr._Martin_L.-HQ-19/King_Jr._Martin_L.-HQ-19"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-2",
+    "source": "King_Jr._Martin_L.-HQ-2/King_Jr._Martin_L.-HQ-2"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-20",
+    "source": "King_Jr._Martin_L.-HQ-20/King_Jr._Martin_L.-HQ-20"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-21",
+    "source": "King_Jr._Martin_L.-HQ-21/King_Jr._Martin_L.-HQ-21"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-22",
+    "source": "King_Jr._Martin_L.-HQ-22/King_Jr._Martin_L.-HQ-22"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-23",
+    "source": "King_Jr._Martin_L.-HQ-23/King_Jr._Martin_L.-HQ-23"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-24",
+    "source": "King_Jr._Martin_L.-HQ-24/King_Jr._Martin_L.-HQ-24"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-25",
+    "source": "King_Jr._Martin_L.-HQ-25/King_Jr._Martin_L.-HQ-25"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-26",
+    "source": "King_Jr._Martin_L.-HQ-26/King_Jr._Martin_L.-HQ-26"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-27",
+    "source": "King_Jr._Martin_L.-HQ-27/King_Jr._Martin_L.-HQ-27"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-28",
+    "source": "King_Jr._Martin_L.-HQ-28/King_Jr._Martin_L.-HQ-28"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-29",
+    "source": "King_Jr._Martin_L.-HQ-29/King_Jr._Martin_L.-HQ-29"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-3",
+    "source": "King_Jr._Martin_L.-HQ-3/King_Jr._Martin_L.-HQ-3"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-30",
+    "source": "King_Jr._Martin_L.-HQ-30/King_Jr._Martin_L.-HQ-30"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-31",
+    "source": "King_Jr._Martin_L.-HQ-31/King_Jr._Martin_L.-HQ-31"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-32",
+    "source": "King_Jr._Martin_L.-HQ-32/King_Jr._Martin_L.-HQ-32"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-33",
+    "source": "King_Jr._Martin_L.-HQ-33/King_Jr._Martin_L.-HQ-33"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-34",
+    "source": "King_Jr._Martin_L.-HQ-34/King_Jr._Martin_L.-HQ-34"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-35",
+    "source": "King_Jr._Martin_L.-HQ-35/King_Jr._Martin_L.-HQ-35"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-36",
+    "source": "King_Jr._Martin_L.-HQ-36/King_Jr._Martin_L.-HQ-36"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-37",
+    "source": "King_Jr._Martin_L.-HQ-37/King_Jr._Martin_L.-HQ-37"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-38",
+    "source": "King_Jr._Martin_L.-HQ-38/King_Jr._Martin_L.-HQ-38"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-39",
+    "source": "King_Jr._Martin_L.-HQ-39/King_Jr._Martin_L.-HQ-39"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-4",
+    "source": "King_Jr._Martin_L.-HQ-4/King_Jr._Martin_L.-HQ-4"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-40",
+    "source": "King_Jr._Martin_L.-HQ-40/King_Jr._Martin_L.-HQ-40"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-41",
+    "source": "King_Jr._Martin_L.-HQ-41/King_Jr._Martin_L.-HQ-41"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-42",
+    "source": "King_Jr._Martin_L.-HQ-42/King_Jr._Martin_L.-HQ-42"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-43",
+    "source": "King_Jr._Martin_L.-HQ-43/King_Jr._Martin_L.-HQ-43"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-44",
+    "source": "King_Jr._Martin_L.-HQ-44/King_Jr._Martin_L.-HQ-44"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-45",
+    "source": "King_Jr._Martin_L.-HQ-45/King_Jr._Martin_L.-HQ-45"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-46",
+    "source": "King_Jr._Martin_L.-HQ-46/King_Jr._Martin_L.-HQ-46"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-47",
+    "source": "King_Jr._Martin_L.-HQ-47/King_Jr._Martin_L.-HQ-47"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-48",
+    "source": "King_Jr._Martin_L.-HQ-48/King_Jr._Martin_L.-HQ-48"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-49",
+    "source": "King_Jr._Martin_L.-HQ-49/King_Jr._Martin_L.-HQ-49"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-5",
+    "source": "King_Jr._Martin_L.-HQ-5/King_Jr._Martin_L.-HQ-5"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-50",
+    "source": "King_Jr._Martin_L.-HQ-50/King_Jr._Martin_L.-HQ-50"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-51",
+    "source": "King_Jr._Martin_L.-HQ-51/King_Jr._Martin_L.-HQ-51"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-52",
+    "source": "King_Jr._Martin_L.-HQ-52/King_Jr._Martin_L.-HQ-52"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-53",
+    "source": "King_Jr._Martin_L.-HQ-53/King_Jr._Martin_L.-HQ-53"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-54",
+    "source": "King_Jr._Martin_L.-HQ-54/King_Jr._Martin_L.-HQ-54"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-55",
+    "source": "King_Jr._Martin_L.-HQ-55/King_Jr._Martin_L.-HQ-55"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-56",
+    "source": "King_Jr._Martin_L.-HQ-56/King_Jr._Martin_L.-HQ-56"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-57",
+    "source": "King_Jr._Martin_L.-HQ-57/King_Jr._Martin_L.-HQ-57"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-58",
+    "source": "King_Jr._Martin_L.-HQ-58/King_Jr._Martin_L.-HQ-58"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-59",
+    "source": "King_Jr._Martin_L.-HQ-59/King_Jr._Martin_L.-HQ-59"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-6",
+    "source": "King_Jr._Martin_L.-HQ-6/King_Jr._Martin_L.-HQ-6"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-60",
+    "source": "King_Jr._Martin_L.-HQ-60/King_Jr._Martin_L.-HQ-60"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-61",
+    "source": "King_Jr._Martin_L.-HQ-61/King_Jr._Martin_L.-HQ-61"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-62",
+    "source": "King_Jr._Martin_L.-HQ-62/King_Jr._Martin_L.-HQ-62"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-63",
+    "source": "King_Jr._Martin_L.-HQ-63/King_Jr._Martin_L.-HQ-63"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-64",
+    "source": "King_Jr._Martin_L.-HQ-64/King_Jr._Martin_L.-HQ-64"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-65",
+    "source": "King_Jr._Martin_L.-HQ-65/King_Jr._Martin_L.-HQ-65"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-66",
+    "source": "King_Jr._Martin_L.-HQ-66/King_Jr._Martin_L.-HQ-66"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-67",
+    "source": "King_Jr._Martin_L.-HQ-67/King_Jr._Martin_L.-HQ-67"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-68",
+    "source": "King_Jr._Martin_L.-HQ-68/King_Jr._Martin_L.-HQ-68"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-69",
+    "source": "King_Jr._Martin_L.-HQ-69/King_Jr._Martin_L.-HQ-69"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-7",
+    "source": "King_Jr._Martin_L.-HQ-7/King_Jr._Martin_L.-HQ-7"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-70",
+    "source": "King_Jr._Martin_L.-HQ-70/King_Jr._Martin_L.-HQ-70"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-71",
+    "source": "King_Jr._Martin_L.-HQ-71/King_Jr._Martin_L.-HQ-71"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-72",
+    "source": "King_Jr._Martin_L.-HQ-72/King_Jr._Martin_L.-HQ-72"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-73",
+    "source": "King_Jr._Martin_L.-HQ-73/King_Jr._Martin_L.-HQ-73"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-74",
+    "source": "King_Jr._Martin_L.-HQ-74/King_Jr._Martin_L.-HQ-74"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-75",
+    "source": "King_Jr._Martin_L.-HQ-75/King_Jr._Martin_L.-HQ-75"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-76",
+    "source": "King_Jr._Martin_L.-HQ-76/King_Jr._Martin_L.-HQ-76"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-77",
+    "source": "King_Jr._Martin_L.-HQ-77/King_Jr._Martin_L.-HQ-77"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-78",
+    "source": "King_Jr._Martin_L.-HQ-78/King_Jr._Martin_L.-HQ-78"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-79",
+    "source": "King_Jr._Martin_L.-HQ-79/King_Jr._Martin_L.-HQ-79"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-80",
+    "source": "King_Jr._Martin_L.-HQ-80/King_Jr._Martin_L.-HQ-80"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-81",
+    "source": "King_Jr._Martin_L.-HQ-81/King_Jr._Martin_L.-HQ-81"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-82",
+    "source": "King_Jr._Martin_L.-HQ-82/King_Jr._Martin_L.-HQ-82"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-83",
+    "source": "King_Jr._Martin_L.-HQ-83/King_Jr._Martin_L.-HQ-83"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-84",
+    "source": "King_Jr._Martin_L.-HQ-84/King_Jr._Martin_L.-HQ-84"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-85",
+    "source": "King_Jr._Martin_L.-HQ-85/King_Jr._Martin_L.-HQ-85"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-86",
+    "source": "King_Jr._Martin_L.-HQ-86/King_Jr._Martin_L.-HQ-86"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-87",
+    "source": "King_Jr._Martin_L.-HQ-87/King_Jr._Martin_L.-HQ-87"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-88",
+    "source": "King_Jr._Martin_L.-HQ-88/King_Jr._Martin_L.-HQ-88"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-89",
+    "source": "King_Jr._Martin_L.-HQ-89/King_Jr._Martin_L.-HQ-89"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-9",
+    "source": "King_Jr._Martin_L.-HQ-9/King_Jr._Martin_L.-HQ-9"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-90",
+    "source": "King_Jr._Martin_L.-HQ-90/King_Jr._Martin_L.-HQ-90"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-91",
+    "source": "King_Jr._Martin_L.-HQ-91/King_Jr._Martin_L.-HQ-91"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-92",
+    "source": "King_Jr._Martin_L.-HQ-92/King_Jr._Martin_L.-HQ-92"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-93",
+    "source": "King_Jr._Martin_L.-HQ-93/King_Jr._Martin_L.-HQ-93"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-94",
+    "source": "King_Jr._Martin_L.-HQ-94/King_Jr._Martin_L.-HQ-94"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-95",
+    "source": "King_Jr._Martin_L.-HQ-95/King_Jr._Martin_L.-HQ-95"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-96",
+    "source": "King_Jr._Martin_L.-HQ-96/King_Jr._Martin_L.-HQ-96"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-98",
+    "source": "King_Jr._Martin_L.-HQ-98/King_Jr._Martin_L.-HQ-98"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-99",
+    "source": "King_Jr._Martin_L.-HQ-99/King_Jr._Martin_L.-HQ-99"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A1",
+    "source": "King_Jr._Martin_L.-HQ-A1/King_Jr._Martin_L.-HQ-A1"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A10",
+    "source": "King_Jr._Martin_L.-HQ-A10/King_Jr._Martin_L.-HQ-A10"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A11",
+    "source": "King_Jr._Martin_L.-HQ-A11/King_Jr._Martin_L.-HQ-A11"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A13",
+    "source": "King_Jr._Martin_L.-HQ-A13/King_Jr._Martin_L.-HQ-A13"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A15",
+    "source": "King_Jr._Martin_L.-HQ-A15/King_Jr._Martin_L.-HQ-A15"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A2",
+    "source": "King_Jr._Martin_L.-HQ-A2/King_Jr._Martin_L.-HQ-A2"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A3",
+    "source": "King_Jr._Martin_L.-HQ-A3/King_Jr._Martin_L.-HQ-A3"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A4",
+    "source": "King_Jr._Martin_L.-HQ-A4/King_Jr._Martin_L.-HQ-A4"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A5",
+    "source": "King_Jr._Martin_L.-HQ-A5/King_Jr._Martin_L.-HQ-A5"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A6",
+    "source": "King_Jr._Martin_L.-HQ-A6/King_Jr._Martin_L.-HQ-A6"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A7",
+    "source": "King_Jr._Martin_L.-HQ-A7/King_Jr._Martin_L.-HQ-A7"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A8",
+    "source": "King_Jr._Martin_L.-HQ-A8/King_Jr._Martin_L.-HQ-A8"
+  },
+  {
+    "id": "King_Jr._Martin_L.-HQ-A9",
+    "source": "King_Jr._Martin_L.-HQ-A9/King_Jr._Martin_L.-HQ-A9"
+  },
+  {
+    "id": "Milteer_Joseph_A.-HQ-1",
+    "source": "Milteer_Joseph_A.-HQ-1/Milteer_Joseph_A.-HQ-1"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-2",
+    "source": "National_Alliance_aka_NYA-HQ-2/National_Alliance_aka_NYA-HQ-2"
+  },
+  {
+    "id": "San_Diego_Research_Library-SFO-01",
+    "source": "San_Diego_Research_Library-SFO-01/San_Diego_Research_Library-SFO-01"
+  },
+  {
+    "id": "Surreptitious_Entries-Black_Bag-HQ-1-30",
+    "source": "Surreptitious_Entries-Black_Bag-HQ-1-30/Surreptitious_Entries-Black_Bag-HQ-1-30"
+  },
+  {
+    "id": "Swift_Wesley_A.-SF-1",
+    "source": "Swift_Wesley_A.-SF-1.PDF/Swift_Wesley_A.-SF-1"
+  },
+  {
+    "id": "ABA-HQ-25",
+    "source": "foia_ABA-HQ-25/ABA-HQ-25"
+  },
+  {
+    "id": "ABA-HQ-27",
+    "source": "foia_ABA-HQ-27/ABA-HQ-27"
+  },
+  {
+    "id": "ABA-HQ-28",
+    "source": "foia_ABA-HQ-28/ABA-HQ-28"
+  },
+  {
+    "id": "ABA-HQ-29",
+    "source": "foia_ABA-HQ-29/ABA-HQ-29"
+  },
+  {
+    "id": "ABA-HQ-30",
+    "source": "foia_ABA-HQ-30/ABA-HQ-30"
+  },
+  {
+    "id": "ABA-HQ-31",
+    "source": "foia_ABA-HQ-31/ABA-HQ-31"
+  },
+  {
+    "id": "ABA-HQ-32",
+    "source": "foia_ABA-HQ-32/ABA-HQ-32"
+  },
+  {
+    "id": "ABA-HQ-33",
+    "source": "foia_ABA-HQ-33/ABA-HQ-33"
+  },
+  {
+    "id": "ABA-HQ-34",
+    "source": "foia_ABA-HQ-34/ABA-HQ-34"
+  },
+  {
+    "id": "ABA-HQ-35",
+    "source": "foia_ABA-HQ-35/ABA-HQ-35"
+  },
+  {
+    "id": "ABA-HQ-36",
+    "source": "foia_ABA-HQ-36/ABA-HQ-36"
+  },
+  {
+    "id": "ABA-HQ-37",
+    "source": "foia_ABA-HQ-37/ABA-HQ-37"
+  },
+  {
+    "id": "ABA-HQ-38",
+    "source": "foia_ABA-HQ-38/ABA-HQ-38"
+  },
+  {
+    "id": "ABA-HQ-39",
+    "source": "foia_ABA-HQ-39/ABA-HQ-39"
+  },
+  {
+    "id": "ABA-HQ-40",
+    "source": "foia_ABA-HQ-40/ABA-HQ-40"
+  },
+  {
+    "id": "ABA-HQ-41",
+    "source": "foia_ABA-HQ-41/ABA-HQ-41"
+  },
+  {
+    "id": "ABA-HQ-42",
+    "source": "foia_ABA-HQ-42/ABA-HQ-42"
+  },
+  {
+    "id": "ABA-HQ-43",
+    "source": "foia_ABA-HQ-43/ABA-HQ-43"
+  },
+  {
+    "id": "ACLU-HQ-19",
+    "source": "foia_ACLU-HQ-19/ACLU-HQ-19"
+  },
+  {
+    "id": "ACLU-HQ-20",
+    "source": "foia_ACLU-HQ-20/ACLU-HQ-20"
+  },
+  {
+    "id": "ACLU-HQ-21",
+    "source": "foia_ACLU-HQ-21/ACLU-HQ-21"
+  },
+  {
+    "id": "ACLU-HQ-22",
+    "source": "foia_ACLU-HQ-22/ACLU-HQ-22"
+  },
+  {
+    "id": "ACLU-HQ-23-25_39",
+    "source": "foia_ACLU-HQ-23-25_39/ACLU-HQ-23-25_39"
+  },
+  {
+    "id": "ACLU-HQ-40",
+    "source": "foia_ACLU-HQ-40/ACLU-HQ-40"
+  },
+  {
+    "id": "ACLU-HQ-41",
+    "source": "foia_ACLU-HQ-41/ACLU-HQ-41"
+  },
+  {
+    "id": "ACLU-HQ-42",
+    "source": "foia_ACLU-HQ-42/ACLU-HQ-42"
+  },
+  {
+    "id": "ACLU-HQ-43",
+    "source": "foia_ACLU-HQ-43/ACLU-HQ-43"
+  },
+  {
+    "id": "ACLU-Los_Angeles-10",
+    "source": "foia_ACLU-Los_Angeles-10/ACLU-Los_Angeles-10"
+  },
+  {
+    "id": "ACLU-Los_Angeles-11",
+    "source": "foia_ACLU-Los_Angeles-11/ACLU-Los_Angeles-11"
+  },
+  {
+    "id": "ACLU-Los_Angeles-12",
+    "source": "foia_ACLU-Los_Angeles-12/ACLU-Los_Angeles-12"
+  },
+  {
+    "id": "ACLU-Los_Angeles-13",
+    "source": "foia_ACLU-Los_Angeles-13/ACLU-Los_Angeles-13"
+  },
+  {
+    "id": "ACLU-Los_Angeles-14",
+    "source": "foia_ACLU-Los_Angeles-14/ACLU-Los_Angeles-14"
+  },
+  {
+    "id": "ACLU-Los_Angeles-15",
+    "source": "foia_ACLU-Los_Angeles-15/ACLU-Los_Angeles-15"
+  },
+  {
+    "id": "ACLU-Los_Angeles-16",
+    "source": "foia_ACLU-Los_Angeles-16/ACLU-Los_Angeles-16"
+  },
+  {
+    "id": "ACLU-Los_Angeles-17",
+    "source": "foia_ACLU-Los_Angeles-17/ACLU-Los_Angeles-17"
+  },
+  {
+    "id": "ACLU-Los_Angeles-18",
+    "source": "foia_ACLU-Los_Angeles-18/ACLU-Los_Angeles-18"
+  },
+  {
+    "id": "ACLU-Los_Angeles-19",
+    "source": "foia_ACLU-Los_Angeles-19/ACLU-Los_Angeles-19"
+  },
+  {
+    "id": "ACLU-Los_Angeles-20",
+    "source": "foia_ACLU-Los_Angeles-20/ACLU-Los_Angeles-20"
+  },
+  {
+    "id": "ACLU-Los_Angeles-21",
+    "source": "foia_ACLU-Los_Angeles-21/ACLU-Los_Angeles-21"
+  },
+  {
+    "id": "ACLU-Los_Angeles-22",
+    "source": "foia_ACLU-Los_Angeles-22/ACLU-Los_Angeles-22"
+  },
+  {
+    "id": "ACLU-Los_Angeles-23-1",
+    "source": "foia_ACLU-Los_Angeles-23-1/ACLU-Los_Angeles-23-1"
+  },
+  {
+    "id": "ACLU-Los_Angeles-23",
+    "source": "foia_ACLU-Los_Angeles-23/ACLU-Los_Angeles-23"
+  },
+  {
+    "id": "ACLU-Los_Angeles-24",
+    "source": "foia_ACLU-Los_Angeles-24/ACLU-Los_Angeles-24"
+  },
+  {
+    "id": "ACLU-Los_Angeles-25",
+    "source": "foia_ACLU-Los_Angeles-25/ACLU-Los_Angeles-25"
+  },
+  {
+    "id": "ACLU-Los_Angeles-26",
+    "source": "foia_ACLU-Los_Angeles-26/ACLU-Los_Angeles-26"
+  },
+  {
+    "id": "ACLU-Los_Angeles-27",
+    "source": "foia_ACLU-Los_Angeles-27/ACLU-Los_Angeles-27"
+  },
+  {
+    "id": "ACLU-Los_Angeles-4",
+    "source": "foia_ACLU-Los_Angeles-4/ACLU-Los_Angeles-4"
+  },
+  {
+    "id": "ACLU-Los_Angeles-5",
+    "source": "foia_ACLU-Los_Angeles-5/ACLU-Los_Angeles-5"
+  },
+  {
+    "id": "ACLU-Los_Angeles-6",
+    "source": "foia_ACLU-Los_Angeles-6/ACLU-Los_Angeles-6"
+  },
+  {
+    "id": "ACLU-Los_Angeles-8",
+    "source": "foia_ACLU-Los_Angeles-8/ACLU-Los_Angeles-8"
+  },
+  {
+    "id": "ACLU-Los_Angeles-9",
+    "source": "foia_ACLU-Los_Angeles-9/ACLU-Los_Angeles-9"
+  },
+  {
+    "id": "ACLU-NYC-10",
+    "source": "foia_ACLU-NYC-10/ACLU-NYC-10"
+  },
+  {
+    "id": "ACLU-NYC-9",
+    "source": "foia_ACLU-NYC-9/ACLU-NYC-9"
+  },
+  {
+    "id": "Abernathy_Ralph_D.-HQ-1_thru_2",
+    "source": "foia_Abernathy_Ralph_D.-HQ-1_thru_2/Abernathy_Ralph_D.-HQ-1_thru_2"
+  },
+  {
+    "id": "Abernathy_Ralph_D.-HQ-3_thru_4",
+    "source": "foia_Abernathy_Ralph_D.-HQ-3_thru_4/Abernathy_Ralph_D.-HQ-3_thru_4"
+  },
+  {
+    "id": "Abernathy_Ralph_D.-HQ-5",
+    "source": "foia_Abernathy_Ralph_D.-HQ-5/Abernathy_Ralph_D.-HQ-5"
+  },
+  {
+    "id": "Alinsky_Saul-HQ-1",
+    "source": "foia_Alinsky_Saul-HQ-1/Alinsky_Saul-HQ-1"
+  },
+  {
+    "id": "Alinsky_Saul-HQ-2",
+    "source": "foia_Alinsky_Saul-HQ-2/Alinsky_Saul-HQ-2"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-10",
+    "source": "foia_Allen_Wallace_H.-HQ-10/Allen_Wallace_H.-HQ-10"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-4",
+    "source": "foia_Allen_Wallace_H.-HQ-4/Allen_Wallace_H.-HQ-4"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-5",
+    "source": "foia_Allen_Wallace_H.-HQ-5/Allen_Wallace_H.-HQ-5"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-6",
+    "source": "foia_Allen_Wallace_H.-HQ-6/Allen_Wallace_H.-HQ-6"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-7",
+    "source": "foia_Allen_Wallace_H.-HQ-7/Allen_Wallace_H.-HQ-7"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-8",
+    "source": "foia_Allen_Wallace_H.-HQ-8/Allen_Wallace_H.-HQ-8"
+  },
+  {
+    "id": "Allen_Wallace_H.-HQ-9",
+    "source": "foia_Allen_Wallace_H.-HQ-9/Allen_Wallace_H.-HQ-9"
+  },
+  {
+    "id": "American_Bar_Assn-EBF750",
+    "source": "foia_American_Bar_Assn-EBF750/American_Bar_Assn-EBF750"
+  },
+  {
+    "id": "American_Bar_Assn-EBF751",
+    "source": "foia_American_Bar_Assn-EBF751/American_Bar_Assn-EBF751"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-14",
+    "source": "foia_American_Bar_Assn-HQ-14/American_Bar_Assn-HQ-14"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-15",
+    "source": "foia_American_Bar_Assn-HQ-15/American_Bar_Assn-HQ-15"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-16",
+    "source": "foia_American_Bar_Assn-HQ-16/American_Bar_Assn-HQ-16"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-17",
+    "source": "foia_American_Bar_Assn-HQ-17/American_Bar_Assn-HQ-17"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-18",
+    "source": "foia_American_Bar_Assn-HQ-18/American_Bar_Assn-HQ-18"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-20",
+    "source": "foia_American_Bar_Assn-HQ-20/American_Bar_Assn-HQ-20"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-21",
+    "source": "foia_American_Bar_Assn-HQ-21/American_Bar_Assn-HQ-21"
+  },
+  {
+    "id": "American_Bar_Assn-HQ-22",
+    "source": "foia_American_Bar_Assn-HQ-22/American_Bar_Assn-HQ-22"
+  },
+  {
+    "id": "American_Legion-Firing_Line-1",
+    "source": "foia_American_Legion-Firing_Line-1/American_Legion-Firing_Line-1"
+  },
+  {
+    "id": "American_Legion-Firing_Line-1A",
+    "source": "foia_American_Legion-Firing_Line-1A/American_Legion-Firing_Line-1A"
+  },
+  {
+    "id": "American_Legion-Firing_Line-2",
+    "source": "foia_American_Legion-Firing_Line-2/American_Legion-Firing_Line-2"
+  },
+  {
+    "id": "American_Legion-NAC-14",
+    "source": "foia_American_Legion-NAC-14/American_Legion-NAC-14"
+  },
+  {
+    "id": "American_Legion-NAC-15",
+    "source": "foia_American_Legion-NAC-15/American_Legion-NAC-15"
+  },
+  {
+    "id": "American_Legion-NAC-16",
+    "source": "foia_American_Legion-NAC-16/American_Legion-NAC-16"
+  },
+  {
+    "id": "American_Legion-NAC-17",
+    "source": "foia_American_Legion-NAC-17/American_Legion-NAC-17"
+  },
+  {
+    "id": "American_Legion-NAC-18",
+    "source": "foia_American_Legion-NAC-18/American_Legion-NAC-18"
+  },
+  {
+    "id": "American_Legion-NAC-19",
+    "source": "foia_American_Legion-NAC-19/American_Legion-NAC-19"
+  },
+  {
+    "id": "American_Legion-NAC-20",
+    "source": "foia_American_Legion-NAC-20/American_Legion-NAC-20"
+  },
+  {
+    "id": "American_Legion-NAC-21",
+    "source": "foia_American_Legion-NAC-21/American_Legion-NAC-21"
+  },
+  {
+    "id": "American_Legion-NAC-22",
+    "source": "foia_American_Legion-NAC-22/American_Legion-NAC-22"
+  },
+  {
+    "id": "American_Legion-NAC-23",
+    "source": "foia_American_Legion-NAC-23/American_Legion-NAC-23"
+  },
+  {
+    "id": "American_Legion-NAC-24",
+    "source": "foia_American_Legion-NAC-24/American_Legion-NAC-24"
+  },
+  {
+    "id": "American_National_Party-NYC-1",
+    "source": "foia_American_National_Party-NYC-1/American_National_Party-NYC-1"
+  },
+  {
+    "id": "American_National_Party-NYC-1A-1",
+    "source": "foia_American_National_Party-NYC-1A-1/American_National_Party-NYC-1A-1"
+  },
+  {
+    "id": "American_National_Party-NYC-1A-2",
+    "source": "foia_American_National_Party-NYC-1A-2/American_National_Party-NYC-1A-2"
+  },
+  {
+    "id": "American_National_Party-NYC-2",
+    "source": "foia_American_National_Party-NYC-2/American_National_Party-NYC-2"
+  },
+  {
+    "id": "American_Nationalist-Frank_Britton-HQ-1",
+    "source": "foia_American_Nationalist-Frank_Britton-HQ-1/American_Nationalist-Frank_Britton-HQ-1"
+  },
+  {
+    "id": "American_Nationalist-Frank_Britton-HQ-2",
+    "source": "foia_American_Nationalist-Frank_Britton-HQ-2/American_Nationalist-Frank_Britton-HQ-2"
+  },
+  {
+    "id": "American_Nationalist-Frank_Britton-HQ-3",
+    "source": "foia_American_Nationalist-Frank_Britton-HQ-3/American_Nationalist-Frank_Britton-HQ-3"
+  },
+  {
+    "id": "American_Nationalist-Frank_Britton-HQ-4",
+    "source": "foia_American_Nationalist-Frank_Britton-HQ-4/American_Nationalist-Frank_Britton-HQ-4"
+  },
+  {
+    "id": "American_Nationalist-Frank_Britton-HQ-5",
+    "source": "foia_American_Nationalist-Frank_Britton-HQ-5/American_Nationalist-Frank_Britton-HQ-5"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-1",
+    "source": "foia_American_Nazi_Party-NYC-1/American_Nazi_Party-NYC-1"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-10",
+    "source": "foia_American_Nazi_Party-NYC-10/American_Nazi_Party-NYC-10"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-11",
+    "source": "foia_American_Nazi_Party-NYC-11/American_Nazi_Party-NYC-11"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-2",
+    "source": "foia_American_Nazi_Party-NYC-2/American_Nazi_Party-NYC-2"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-3",
+    "source": "foia_American_Nazi_Party-NYC-3/American_Nazi_Party-NYC-3"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-4",
+    "source": "foia_American_Nazi_Party-NYC-4/American_Nazi_Party-NYC-4"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-5",
+    "source": "foia_American_Nazi_Party-NYC-5/American_Nazi_Party-NYC-5"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-6",
+    "source": "foia_American_Nazi_Party-NYC-6/American_Nazi_Party-NYC-6"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-7",
+    "source": "foia_American_Nazi_Party-NYC-7/American_Nazi_Party-NYC-7"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-8",
+    "source": "foia_American_Nazi_Party-NYC-8/American_Nazi_Party-NYC-8"
+  },
+  {
+    "id": "American_Nazi_Party-NYC-9",
+    "source": "foia_American_Nazi_Party-NYC-9/American_Nazi_Party-NYC-9"
+  },
+  {
+    "id": "American_Security_Council-1",
+    "source": "foia_American_Security_Council-1/American_Security_Council-1"
+  },
+  {
+    "id": "American_Security_Council-1A",
+    "source": "foia_American_Security_Council-1A/American_Security_Council-1A"
+  },
+  {
+    "id": "American_Security_Council-2",
+    "source": "foia_American_Security_Council-2/American_Security_Council-2"
+  },
+  {
+    "id": "American_Security_Council-3",
+    "source": "foia_American_Security_Council-3/American_Security_Council-3"
+  },
+  {
+    "id": "American_Security_Council-4",
+    "source": "foia_American_Security_Council-4/American_Security_Council-4"
+  },
+  {
+    "id": "American_Security_Council-5",
+    "source": "foia_American_Security_Council-5/American_Security_Council-5"
+  },
+  {
+    "id": "American_Security_Council-6",
+    "source": "foia_American_Security_Council-6/American_Security_Council-6"
+  },
+  {
+    "id": "American_Security_Council-7",
+    "source": "foia_American_Security_Council-7/American_Security_Council-7"
+  },
+  {
+    "id": "Anderson_Paul_G.-Chicago-1",
+    "source": "foia_Anderson_Paul_G.-Chicago-1/Anderson_Paul_G.-Chicago-1"
+  },
+  {
+    "id": "Anderson_Paul_G.-Chicago-2",
+    "source": "foia_Anderson_Paul_G.-Chicago-2/Anderson_Paul_G.-Chicago-2"
+  },
+  {
+    "id": "Anderson_Paul_G.-Chicago-3",
+    "source": "foia_Anderson_Paul_G.-Chicago-3/Anderson_Paul_G.-Chicago-3"
+  },
+  {
+    "id": "Anderson_Paul_G.-Chicago-4",
+    "source": "foia_Anderson_Paul_G.-Chicago-4/Anderson_Paul_G.-Chicago-4"
+  },
+  {
+    "id": "Anti-Castro_Activities_Los_Angeles-3",
+    "source": "foia_Anti-Castro_Activities_Los_Angeles-3/Anti-Castro_Activities_Los_Angeles-3"
+  },
+  {
+    "id": "Anti-Castro_Activities_Los_Angeles-4",
+    "source": "foia_Anti-Castro_Activities_Los_Angeles-4/Anti-Castro_Activities_Los_Angeles-4"
+  },
+  {
+    "id": "Aoki_Richard_M.-HQ-1",
+    "source": "foia_Aoki_Richard_M.-HQ-1/Aoki_Richard_M.-HQ-1"
+  },
+  {
+    "id": "Benson_Ezra_Taft_HQ-1",
+    "source": "foia_Benson_Ezra_Taft_HQ-1/Benson_Ezra_Taft_HQ-1"
+  },
+  {
+    "id": "Benson_Ezra_Taft_HQ-2",
+    "source": "foia_Benson_Ezra_Taft_HQ-2/Benson_Ezra_Taft_HQ-2"
+  },
+  {
+    "id": "Boggs_Thomas_Hale_HQ-1",
+    "source": "foia_Boggs_Thomas_Hale_HQ-1/Boggs_Thomas_Hale_HQ-1"
+  },
+  {
+    "id": "Bombing_of_Atlanta_Temple_1958-Chicago-1",
+    "source": "foia_Bombing_of_Atlanta_Temple_1958-Chicago-1/Bombing_of_Atlanta_Temple_1958-Chicago-1"
+  },
+  {
+    "id": "Bombing_of_Atlanta_Temple_1958-Chicago-2",
+    "source": "foia_Bombing_of_Atlanta_Temple_1958-Chicago-2/Bombing_of_Atlanta_Temple_1958-Chicago-2"
+  },
+  {
+    "id": "Bombings-Attempted_Bombings--Chicago-1",
+    "source": "foia_Bombings-Attempted_Bombings--Chicago-1/Bombings-Attempted_Bombings--Chicago-1"
+  },
+  {
+    "id": "Bombings-Attempted_Bombings--Chicago-2",
+    "source": "foia_Bombings-Attempted_Bombings--Chicago-2/Bombings-Attempted_Bombings--Chicago-2"
+  },
+  {
+    "id": "Bombings-Attempted_Bombings--Chicago-3",
+    "source": "foia_Bombings-Attempted_Bombings--Chicago-3/Bombings-Attempted_Bombings--Chicago-3"
+  },
+  {
+    "id": "Bombings-Attempted_Bombings--Chicago-4",
+    "source": "foia_Bombings-Attempted_Bombings--Chicago-4/Bombings-Attempted_Bombings--Chicago-4"
+  },
+  {
+    "id": "Brasol_Boris-HQ-1",
+    "source": "foia_Brasol_Boris-HQ-1/Brasol_Boris-HQ-1"
+  },
+  {
+    "id": "Brasol_Boris-HQ-2",
+    "source": "foia_Brasol_Boris-HQ-2/Brasol_Boris-HQ-2"
+  },
+  {
+    "id": "Bright_George_M.-HQ-1",
+    "source": "foia_Bright_George_M.-HQ-1/Bright_George_M.-HQ-1"
+  },
+  {
+    "id": "Bright_George_M.-HQ-2",
+    "source": "foia_Bright_George_M.-HQ-2/Bright_George_M.-HQ-2"
+  },
+  {
+    "id": "Bright_George_M.-HQ-3",
+    "source": "foia_Bright_George_M.-HQ-3/Bright_George_M.-HQ-3"
+  },
+  {
+    "id": "Brooks_Jerry_M.-HQ-1",
+    "source": "foia_Brooks_Jerry_M.-HQ-1/Brooks_Jerry_M.-HQ-1"
+  },
+  {
+    "id": "Brooks_Jerry_M.-NYC-1",
+    "source": "foia_Brooks_Jerry_M.-NYC-1/Brooks_Jerry_M.-NYC-1"
+  },
+  {
+    "id": "Brown_Edmund_G.-AEC_app",
+    "source": "foia_Brown_Edmund_G.-AEC_app/Brown_Edmund_G.-AEC_app"
+  },
+  {
+    "id": "Brown_Edmund_G.-HQ-1",
+    "source": "foia_Brown_Edmund_G.-HQ-1/Brown_Edmund_G.-HQ-1"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-1",
+    "source": "foia_Brown_Julia_C.-Cleveland-1/Brown_Julia_C.-Cleveland-1"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-11",
+    "source": "foia_Brown_Julia_C.-Cleveland-11/Brown_Julia_C.-Cleveland-11"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-12",
+    "source": "foia_Brown_Julia_C.-Cleveland-12/Brown_Julia_C.-Cleveland-12"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-2",
+    "source": "foia_Brown_Julia_C.-Cleveland-2/Brown_Julia_C.-Cleveland-2"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-3",
+    "source": "foia_Brown_Julia_C.-Cleveland-3/Brown_Julia_C.-Cleveland-3"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-4",
+    "source": "foia_Brown_Julia_C.-Cleveland-4/Brown_Julia_C.-Cleveland-4"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-4a",
+    "source": "foia_Brown_Julia_C.-Cleveland-4a/Brown_Julia_C.-Cleveland-4a"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-5",
+    "source": "foia_Brown_Julia_C.-Cleveland-5/Brown_Julia_C.-Cleveland-5"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland-5a",
+    "source": "foia_Brown_Julia_C.-Cleveland-5a/Brown_Julia_C.-Cleveland-5a"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland_1a",
+    "source": "foia_Brown_Julia_C.-Cleveland_1a/Brown_Julia_C.-Cleveland_1a"
+  },
+  {
+    "id": "Brown_Julia_C.-Cleveland_2a-3a",
+    "source": "foia_Brown_Julia_C.-Cleveland_2a-3a/Brown_Julia_C.-Cleveland_2a-3a"
+  },
+  {
+    "id": "Buckley_William_F.-HQ-1",
+    "source": "foia_Buckley_William_F.-HQ-1/Buckley_William_F.-HQ-1"
+  },
+  {
+    "id": "Buckley_William_F.-HQ-2",
+    "source": "foia_Buckley_William_F.-HQ-2/Buckley_William_F.-HQ-2"
+  },
+  {
+    "id": "Bundy_Edgar_C.-Church_League_America-Chicago-1",
+    "source": "foia_Bundy_Edgar_C.-Church_League_America-Chicago-1/Bundy_Edgar_C.-Church_League_America-Chicago-1"
+  },
+  {
+    "id": "Bundy_Edgar_C.-Church_League_America-HQ-3",
+    "source": "foia_Bundy_Edgar_C.-Church_League_America-HQ-3/Bundy_Edgar_C.-Church_League_America-HQ-3"
+  },
+  {
+    "id": "Bundy_Edgar_C.-Church_League_America-HQ-4",
+    "source": "foia_Bundy_Edgar_C.-Church_League_America-HQ-4/Bundy_Edgar_C.-Church_League_America-HQ-4"
+  },
+  {
+    "id": "Bundy_Edgar_C.-Church_League_America-HQ-5",
+    "source": "foia_Bundy_Edgar_C.-Church_League_America-HQ-5/Bundy_Edgar_C.-Church_League_America-HQ-5"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-2",
+    "source": "foia_CACC-Fred_Schwarz-HQ-2/CACC-Fred_Schwarz-HQ-2"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-4",
+    "source": "foia_CACC-Fred_Schwarz-HQ-4/CACC-Fred_Schwarz-HQ-4"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-5",
+    "source": "foia_CACC-Fred_Schwarz-HQ-5/CACC-Fred_Schwarz-HQ-5"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-6",
+    "source": "foia_CACC-Fred_Schwarz-HQ-6/CACC-Fred_Schwarz-HQ-6"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-7",
+    "source": "foia_CACC-Fred_Schwarz-HQ-7/CACC-Fred_Schwarz-HQ-7"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-HQ-8",
+    "source": "foia_CACC-Fred_Schwarz-HQ-8/CACC-Fred_Schwarz-HQ-8"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-Houston-1",
+    "source": "foia_CACC-Fred_Schwarz-Houston-1/CACC-Fred_Schwarz-Houston-1"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-Omaha-1",
+    "source": "foia_CACC-Fred_Schwarz-Omaha-1/CACC-Fred_Schwarz-Omaha-1"
+  },
+  {
+    "id": "CACC-Fred_Schwarz-San_Antonio-1",
+    "source": "foia_CACC-Fred_Schwarz-San_Antonio-1/CACC-Fred_Schwarz-San_Antonio-1"
+  },
+  {
+    "id": "CEL-Kamp-HQ-1",
+    "source": "foia_CEL-Kamp-HQ-1/CEL-Kamp-HQ-1"
+  },
+  {
+    "id": "CEL-Kamp-HQ-2",
+    "source": "foia_CEL-Kamp-HQ-2/CEL-Kamp-HQ-2"
+  },
+  {
+    "id": "CEL-Kamp-HQ-3",
+    "source": "foia_CEL-Kamp-HQ-3/CEL-Kamp-HQ-3"
+  },
+  {
+    "id": "CEL-Kamp-HQ-4",
+    "source": "foia_CEL-Kamp-HQ-4/CEL-Kamp-HQ-4"
+  },
+  {
+    "id": "CEL-Kamp-HQ-5",
+    "source": "foia_CEL-Kamp-HQ-5/CEL-Kamp-HQ-5"
+  },
+  {
+    "id": "CEL-Kamp-HQ-6",
+    "source": "foia_CEL-Kamp-HQ-6/CEL-Kamp-HQ-6"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._EBF-167",
+    "source": "foia_CEL-Kamp_Joseph_P._EBF-167/CEL-Kamp_Joseph_P._EBF-167"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._EBF-469",
+    "source": "foia_CEL-Kamp_Joseph_P._EBF-469/CEL-Kamp_Joseph_P._EBF-469"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._EBF-47",
+    "source": "foia_CEL-Kamp_Joseph_P._EBF-47/CEL-Kamp_Joseph_P._EBF-47"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-19",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-19/CEL-Kamp_Joseph_P._HQ-19"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-20",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-20/CEL-Kamp_Joseph_P._HQ-20"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-21",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-21/CEL-Kamp_Joseph_P._HQ-21"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-22",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-22/CEL-Kamp_Joseph_P._HQ-22"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-23",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-23/CEL-Kamp_Joseph_P._HQ-23"
+  },
+  {
+    "id": "CEL-Kamp_Joseph_P._HQ-24",
+    "source": "foia_CEL-Kamp_Joseph_P._HQ-24/CEL-Kamp_Joseph_P._HQ-24"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-1",
+    "source": "foia_COINTELPRO-White_Hate-HQ-1/COINTELPRO-White_Hate-HQ-1"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-2",
+    "source": "foia_COINTELPRO-White_Hate-HQ-2/COINTELPRO-White_Hate-HQ-2"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub-2",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub-2/COINTELPRO-White_Hate-HQ-sub-2"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub10",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub10/COINTELPRO-White_Hate-HQ-sub10"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub3",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub3/COINTELPRO-White_Hate-HQ-sub3"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub4-2",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub4-2/COINTELPRO-White_Hate-HQ-sub4-2"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub4-3",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub4-3/COINTELPRO-White_Hate-HQ-sub4-3"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub4",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub4/COINTELPRO-White_Hate-HQ-sub4"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub5",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub5/COINTELPRO-White_Hate-HQ-sub5"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub8-2",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub8-2/COINTELPRO-White_Hate-HQ-sub8-2"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub8-3",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub8-3/COINTELPRO-White_Hate-HQ-sub8-3"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub8-4",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub8-4/COINTELPRO-White_Hate-HQ-sub8-4"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub8",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub8/COINTELPRO-White_Hate-HQ-sub8"
+  },
+  {
+    "id": "COINTELPRO-White_Hate-HQ-sub9",
+    "source": "foia_COINTELPRO-White_Hate-HQ-sub9/COINTELPRO-White_Hate-HQ-sub9"
+  },
+  {
+    "id": "Canwell_Albert_F.-HQ-1",
+    "source": "foia_Canwell_Albert_F.-HQ-1/Canwell_Albert_F.-HQ-1"
+  },
+  {
+    "id": "Canwell_Albert_F.-Seattle-1",
+    "source": "foia_Canwell_Albert_F.-Seattle-1/Canwell_Albert_F.-Seattle-1"
+  },
+  {
+    "id": "Canwell_Albert_F.-Seattle-2",
+    "source": "foia_Canwell_Albert_F.-Seattle-2/Canwell_Albert_F.-Seattle-2"
+  },
+  {
+    "id": "Capital_Citizens_Council_HQ-1",
+    "source": "foia_Capital_Citizens_Council_HQ-1/Capital_Citizens_Council_HQ-1"
+  },
+  {
+    "id": "Carr_William_Guy-HQ-1",
+    "source": "foia_Carr_William_Guy-HQ-1/Carr_William_Guy-HQ-1"
+  },
+  {
+    "id": "Carr_William_Guy-Pawns_in_Game-HQ-1",
+    "source": "foia_Carr_William_Guy-Pawns_in_Game-HQ-1/Carr_William_Guy-Pawns_in_Game-HQ-1"
+  },
+  {
+    "id": "Central_Alabama_Citizens_Council-HQ-1",
+    "source": "foia_Central_Alabama_Citizens_Council-HQ-1/Central_Alabama_Citizens_Council-HQ-1"
+  },
+  {
+    "id": "Chavez_Cesar-UFW-HQ-1_thru_2",
+    "source": "foia_Chavez_Cesar-UFW-HQ-1_thru_2/Chavez_Cesar-UFW-HQ-1_thru_2"
+  },
+  {
+    "id": "Chavez_Cesar-UFW-HQ-3",
+    "source": "foia_Chavez_Cesar-UFW-HQ-3/Chavez_Cesar-UFW-HQ-3"
+  },
+  {
+    "id": "Chavez_Cesar-UFW-HQ-4_thru_5",
+    "source": "foia_Chavez_Cesar-UFW-HQ-4_thru_5/Chavez_Cesar-UFW-HQ-4_thru_5"
+  },
+  {
+    "id": "Chavez_Cesar-UFW-HQ-6_thru_7",
+    "source": "foia_Chavez_Cesar-UFW-HQ-6_thru_7/Chavez_Cesar-UFW-HQ-6_thru_7"
+  },
+  {
+    "id": "Childs_Jack-NYC-1",
+    "source": "foia_Childs_Jack-NYC-1/Childs_Jack-NYC-1"
+  },
+  {
+    "id": "Childs_Jack-NYC-13",
+    "source": "foia_Childs_Jack-NYC-13/Childs_Jack-NYC-13"
+  },
+  {
+    "id": "Childs_Jack-NYC-14",
+    "source": "foia_Childs_Jack-NYC-14/Childs_Jack-NYC-14"
+  },
+  {
+    "id": "Childs_Jack-NYC-15",
+    "source": "foia_Childs_Jack-NYC-15/Childs_Jack-NYC-15"
+  },
+  {
+    "id": "Childs_Jack-NYC-16",
+    "source": "foia_Childs_Jack-NYC-16/Childs_Jack-NYC-16"
+  },
+  {
+    "id": "Childs_Jack-NYC-16a-18a",
+    "source": "foia_Childs_Jack-NYC-16a-18a/Childs_Jack-NYC-16a-18a"
+  },
+  {
+    "id": "Childs_Jack-NYC-17",
+    "source": "foia_Childs_Jack-NYC-17/Childs_Jack-NYC-17"
+  },
+  {
+    "id": "Childs_Jack-NYC-23",
+    "source": "foia_Childs_Jack-NYC-23/Childs_Jack-NYC-23"
+  },
+  {
+    "id": "Childs_Jack-NYC-24",
+    "source": "foia_Childs_Jack-NYC-24/Childs_Jack-NYC-24"
+  },
+  {
+    "id": "Childs_Jack-NYC-25",
+    "source": "foia_Childs_Jack-NYC-25/Childs_Jack-NYC-25"
+  },
+  {
+    "id": "Childs_Jack-NYC-26",
+    "source": "foia_Childs_Jack-NYC-26/Childs_Jack-NYC-26"
+  },
+  {
+    "id": "Childs_Jack-NYC-27",
+    "source": "foia_Childs_Jack-NYC-27/Childs_Jack-NYC-27"
+  },
+  {
+    "id": "Childs_Jack-NYC-28",
+    "source": "foia_Childs_Jack-NYC-28/Childs_Jack-NYC-28"
+  },
+  {
+    "id": "Childs_Jack-NYC-29",
+    "source": "foia_Childs_Jack-NYC-29/Childs_Jack-NYC-29"
+  },
+  {
+    "id": "Childs_Jack-NYC-51",
+    "source": "foia_Childs_Jack-NYC-51/Childs_Jack-NYC-51"
+  },
+  {
+    "id": "Childs_Jack-NYC-55",
+    "source": "foia_Childs_Jack-NYC-55/Childs_Jack-NYC-55"
+  },
+  {
+    "id": "Childs_Jack-NYC-sub-A7-8",
+    "source": "foia_Childs_Jack-NYC-sub-A7-8/Childs_Jack-NYC-sub-A7-8"
+  },
+  {
+    "id": "Childs_Jack-NYC-sub2",
+    "source": "foia_Childs_Jack-NYC-sub2/Childs_Jack-NYC-sub2"
+  },
+  {
+    "id": "Childs_Morris-Chicago-1",
+    "source": "foia_Childs_Morris-Chicago-1/Childs_Morris-Chicago-1"
+  },
+  {
+    "id": "Childs_Morris-Chicago-2",
+    "source": "foia_Childs_Morris-Chicago-2/Childs_Morris-Chicago-2"
+  },
+  {
+    "id": "Childs_Morris-Chicago-20",
+    "source": "foia_Childs_Morris-Chicago-20/Childs_Morris-Chicago-20"
+  },
+  {
+    "id": "Childs_Morris-Chicago-21",
+    "source": "foia_Childs_Morris-Chicago-21/Childs_Morris-Chicago-21"
+  },
+  {
+    "id": "Childs_Morris-Chicago-22",
+    "source": "foia_Childs_Morris-Chicago-22/Childs_Morris-Chicago-22"
+  },
+  {
+    "id": "Childs_Morris-Chicago-23",
+    "source": "foia_Childs_Morris-Chicago-23/Childs_Morris-Chicago-23"
+  },
+  {
+    "id": "Childs_Morris-Chicago-24",
+    "source": "foia_Childs_Morris-Chicago-24/Childs_Morris-Chicago-24"
+  },
+  {
+    "id": "Childs_Morris-Chicago-25",
+    "source": "foia_Childs_Morris-Chicago-25/Childs_Morris-Chicago-25"
+  },
+  {
+    "id": "Childs_Morris-Chicago-3",
+    "source": "foia_Childs_Morris-Chicago-3/Childs_Morris-Chicago-3"
+  },
+  {
+    "id": "Childs_Morris-Chicago-4",
+    "source": "foia_Childs_Morris-Chicago-4/Childs_Morris-Chicago-4"
+  },
+  {
+    "id": "Childs_Morris-Chicago-5",
+    "source": "foia_Childs_Morris-Chicago-5/Childs_Morris-Chicago-5"
+  },
+  {
+    "id": "Christian_Crusade-Billy_James_Hargis-HQ-1",
+    "source": "foia_Christian_Crusade-Billy_James_Hargis-HQ-1/Christian_Crusade-Billy_James_Hargis-HQ-1"
+  },
+  {
+    "id": "Christian_Crusade-Billy_James_Hargis-HQ-2",
+    "source": "foia_Christian_Crusade-Billy_James_Hargis-HQ-2/Christian_Crusade-Billy_James_Hargis-HQ-2"
+  },
+  {
+    "id": "Christian_Knights_of_Invisible_Empire_HQ-1",
+    "source": "foia_Christian_Knights_of_Invisible_Empire_HQ-1/Christian_Knights_of_Invisible_Empire_HQ-1"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1A",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1A/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1A"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1B",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1B/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-1B"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2A",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2A/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-2A"
+  },
+  {
+    "id": "Christian_Patriots_Crusade-F._Allen_Mann-Chicago-3",
+    "source": "foia_Christian_Patriots_Crusade-F._Allen_Mann-Chicago-3/Christian_Patriots_Crusade-F._Allen_Mann-Chicago-3"
+  },
+  {
+    "id": "Church_League_of_America-HQ-1",
+    "source": "foia_Church_League_of_America-HQ-1/Church_League_of_America-HQ-1"
+  },
+  {
+    "id": "Church_League_of_America-HQ-2",
+    "source": "foia_Church_League_of_America-HQ-2/Church_League_of_America-HQ-2"
+  },
+  {
+    "id": "Church_League_of_America-HQ-3",
+    "source": "foia_Church_League_of_America-HQ-3/Church_League_of_America-HQ-3"
+  },
+  {
+    "id": "Church_League_of_America-HQ-4",
+    "source": "foia_Church_League_of_America-HQ-4/Church_League_of_America-HQ-4"
+  },
+  {
+    "id": "Church_League_of_America-HQ-5",
+    "source": "foia_Church_League_of_America-HQ-5/Church_League_of_America-HQ-5"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF187",
+    "source": "foia_Church_League_of_America-HQ-EBF187/Church_League_of_America-HQ-EBF187"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF204",
+    "source": "foia_Church_League_of_America-HQ-EBF204/Church_League_of_America-HQ-EBF204"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF22",
+    "source": "foia_Church_League_of_America-HQ-EBF22/Church_League_of_America-HQ-EBF22"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF35X",
+    "source": "foia_Church_League_of_America-HQ-EBF35X/Church_League_of_America-HQ-EBF35X"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF51",
+    "source": "foia_Church_League_of_America-HQ-EBF51/Church_League_of_America-HQ-EBF51"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF52",
+    "source": "foia_Church_League_of_America-HQ-EBF52/Church_League_of_America-HQ-EBF52"
+  },
+  {
+    "id": "Church_League_of_America-HQ-EBF68",
+    "source": "foia_Church_League_of_America-HQ-EBF68/Church_League_of_America-HQ-EBF68"
+  },
+  {
+    "id": "Cinema_Education_Guild-Los_Angeles-1A",
+    "source": "foia_Cinema_Education_Guild-Los_Angeles-1A/Cinema_Education_Guild-Los_Angeles-1A"
+  },
+  {
+    "id": "Circuit_Riders_Inc-HQ-3",
+    "source": "foia_Circuit_Riders_Inc-HQ-3/Circuit_Riders_Inc-HQ-3"
+  },
+  {
+    "id": "Circuit_Riders_Inc-HQ-4",
+    "source": "foia_Circuit_Riders_Inc-HQ-4/Circuit_Riders_Inc-HQ-4"
+  },
+  {
+    "id": "CitCouncils-Alabama-HQ-1",
+    "source": "foia_CitCouncils-Alabama-HQ-1.PDF/CitCouncils-Alabama-HQ-1"
+  },
+  {
+    "id": "CitCouncils-Alabama-HQ-2",
+    "source": "foia_CitCouncils-Alabama-HQ-2.PDF/CitCouncils-Alabama-HQ-2"
+  },
+  {
+    "id": "CitCouncils-Alabama-HQ-3",
+    "source": "foia_CitCouncils-Alabama-HQ-3.PDF/CitCouncils-Alabama-HQ-3"
+  },
+  {
+    "id": "CitCouncils-Atlanta",
+    "source": "foia_CitCouncils-Atlanta.PDF/CitCouncils-Atlanta"
+  },
+  {
+    "id": "CitCouncils-Baltimore",
+    "source": "foia_CitCouncils-Baltimore.PDF/CitCouncils-Baltimore"
+  },
+  {
+    "id": "CitCouncils-Birmingham",
+    "source": "foia_CitCouncils-Birmingham.PDF/CitCouncils-Birmingham"
+  },
+  {
+    "id": "CitCouncils-Charleston",
+    "source": "foia_CitCouncils-Charleston.PDF/CitCouncils-Charleston"
+  },
+  {
+    "id": "CitCouncils-Charlotte",
+    "source": "foia_CitCouncils-Charlotte.PDF/CitCouncils-Charlotte"
+  },
+  {
+    "id": "CitCouncils-Cincinnati",
+    "source": "foia_CitCouncils-Cincinnati.PDF/CitCouncils-Cincinnati"
+  },
+  {
+    "id": "CitCouncils-Dallas",
+    "source": "foia_CitCouncils-Dallas/CitCouncils-Dallas"
+  },
+  {
+    "id": "CitCouncils-Denver",
+    "source": "foia_CitCouncils-Denver/CitCouncils-Denver"
+  },
+  {
+    "id": "CitCouncils-Detroit",
+    "source": "foia_CitCouncils-Detroit.PDF/CitCouncils-Detroit"
+  },
+  {
+    "id": "CitCouncils-Houston",
+    "source": "foia_CitCouncils-Houston.PDF/CitCouncils-Houston"
+  },
+  {
+    "id": "CitCouncils-Jackson",
+    "source": "foia_CitCouncils-Jackson.PDF/CitCouncils-Jackson"
+  },
+  {
+    "id": "CitCouncils-Jacksonville",
+    "source": "foia_CitCouncils-Jacksonville.PDF/CitCouncils-Jacksonville"
+  },
+  {
+    "id": "CitCouncils-Knoxville",
+    "source": "foia_CitCouncils-Knoxville.PDF/CitCouncils-Knoxville"
+  },
+  {
+    "id": "CitCouncils-LA-MS-1",
+    "source": "foia_CitCouncils-LA-MS-1.PDF/CitCouncils-LA-MS-1"
+  },
+  {
+    "id": "CitCouncils-LA-MS-2",
+    "source": "foia_CitCouncils-LA-MS-2.PDF/CitCouncils-LA-MS-2"
+  },
+  {
+    "id": "CitCouncils-LA-MS-3",
+    "source": "foia_CitCouncils-LA-MS-3.PDF/CitCouncils-LA-MS-3"
+  },
+  {
+    "id": "CitCouncils-LA-MS-3A",
+    "source": "foia_CitCouncils-LA-MS-3A.PDF/CitCouncils-LA-MS-3A"
+  },
+  {
+    "id": "CitCouncils-Little_Rock",
+    "source": "foia_CitCouncils-Little_Rock.PDF/CitCouncils-Little_Rock"
+  },
+  {
+    "id": "CitCouncils-Los_Angeles",
+    "source": "foia_CitCouncils-Los_Angeles.PDF/CitCouncils-Los_Angeles"
+  },
+  {
+    "id": "CitCouncils-Louisville",
+    "source": "foia_CitCouncils-Louisville.PDF/CitCouncils-Louisville"
+  },
+  {
+    "id": "CitCouncils-Memphis",
+    "source": "foia_CitCouncils-Memphis/CitCouncils-Memphis"
+  },
+  {
+    "id": "CitCouncils-Miami",
+    "source": "foia_CitCouncils-Miami.PDF/CitCouncils-Miami"
+  },
+  {
+    "id": "CitCouncils-Mobile_AL-HQ-1",
+    "source": "foia_CitCouncils-Mobile_AL-HQ-1.PDF/CitCouncils-Mobile_AL-HQ-1"
+  },
+  {
+    "id": "CitCouncils-NYC",
+    "source": "foia_CitCouncils-NYC.PDF/CitCouncils-NYC"
+  },
+  {
+    "id": "CitCouncils-NewHaven",
+    "source": "foia_CitCouncils-NewHaven.PDF/CitCouncils-NewHaven"
+  },
+  {
+    "id": "CitCouncils-Norfolk",
+    "source": "foia_CitCouncils-Norfolk.PDF/CitCouncils-Norfolk"
+  },
+  {
+    "id": "CitCouncils-OKC",
+    "source": "foia_CitCouncils-OKC.PDF/CitCouncils-OKC"
+  },
+  {
+    "id": "CitCouncils-Richmond",
+    "source": "foia_CitCouncils-Richmond.PDF/CitCouncils-Richmond"
+  },
+  {
+    "id": "CitCouncils-SanAntonio",
+    "source": "foia_CitCouncils-SanAntonio.PDF/CitCouncils-SanAntonio"
+  },
+  {
+    "id": "CitCouncils-SanDiego",
+    "source": "foia_CitCouncils-SanDiego.PDF/CitCouncils-SanDiego"
+  },
+  {
+    "id": "CitCouncils-SanFrancisco",
+    "source": "foia_CitCouncils-SanFrancisco.PDF/CitCouncils-SanFrancisco"
+  },
+  {
+    "id": "CitCouncils-Savannah",
+    "source": "foia_CitCouncils-Savannah.PDF/CitCouncils-Savannah"
+  },
+  {
+    "id": "CitCouncils-StLouis",
+    "source": "foia_CitCouncils-StLouis.PDF/CitCouncils-StLouis"
+  },
+  {
+    "id": "CitCouncils-Tampa",
+    "source": "foia_CitCouncils-Tampa.PDF/CitCouncils-Tampa"
+  },
+  {
+    "id": "CitCouncils-WDC",
+    "source": "foia_CitCouncils-WDC.PDF/CitCouncils-WDC"
+  },
+  {
+    "id": "CitCouncils-West_Alabama-HQ-1",
+    "source": "foia_CitCouncils-West_Alabama-HQ-1/CitCouncils-West_Alabama-HQ-1"
+  },
+  {
+    "id": "Citizens_Council_Movement-Birmingham-1",
+    "source": "foia_Citizens_Council_Movement-Birmingham-1/Citizens_Council_Movement-Birmingham-1"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-1",
+    "source": "foia_Citizens_Council_Movement-HQ-1/Citizens_Council_Movement-HQ-1"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-10",
+    "source": "foia_Citizens_Council_Movement-HQ-10/Citizens_Council_Movement-HQ-10"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-1A",
+    "source": "foia_Citizens_Council_Movement-HQ-1A/Citizens_Council_Movement-HQ-1A"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-2",
+    "source": "foia_Citizens_Council_Movement-HQ-2/Citizens_Council_Movement-HQ-2"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-2A",
+    "source": "foia_Citizens_Council_Movement-HQ-2A/Citizens_Council_Movement-HQ-2A"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-3",
+    "source": "foia_Citizens_Council_Movement-HQ-3/Citizens_Council_Movement-HQ-3"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-3A",
+    "source": "foia_Citizens_Council_Movement-HQ-3A/Citizens_Council_Movement-HQ-3A"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-4",
+    "source": "foia_Citizens_Council_Movement-HQ-4/Citizens_Council_Movement-HQ-4"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-4A",
+    "source": "foia_Citizens_Council_Movement-HQ-4A/Citizens_Council_Movement-HQ-4A"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-5",
+    "source": "foia_Citizens_Council_Movement-HQ-5/Citizens_Council_Movement-HQ-5"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-6",
+    "source": "foia_Citizens_Council_Movement-HQ-6/Citizens_Council_Movement-HQ-6"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-7",
+    "source": "foia_Citizens_Council_Movement-HQ-7/Citizens_Council_Movement-HQ-7"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-8",
+    "source": "foia_Citizens_Council_Movement-HQ-8/Citizens_Council_Movement-HQ-8"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-9",
+    "source": "foia_Citizens_Council_Movement-HQ-9/Citizens_Council_Movement-HQ-9"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-EBF220",
+    "source": "foia_Citizens_Council_Movement-HQ-EBF220/Citizens_Council_Movement-HQ-EBF220"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-EBF325",
+    "source": "foia_Citizens_Council_Movement-HQ-EBF325/Citizens_Council_Movement-HQ-EBF325"
+  },
+  {
+    "id": "Citizens_Council_Movement-HQ-EBF5",
+    "source": "foia_Citizens_Council_Movement-HQ-EBF5/Citizens_Council_Movement-HQ-EBF5"
+  },
+  {
+    "id": "Citizens_Councils_of_America-HQ-1",
+    "source": "foia_Citizens_Councils_of_America-HQ-1/Citizens_Councils_of_America-HQ-1"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-1",
+    "source": "foia_Committee_For_Public_Justice-HQ-1/Committee_For_Public_Justice-HQ-1"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-2",
+    "source": "foia_Committee_For_Public_Justice-HQ-2/Committee_For_Public_Justice-HQ-2"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-3",
+    "source": "foia_Committee_For_Public_Justice-HQ-3/Committee_For_Public_Justice-HQ-3"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-5",
+    "source": "foia_Committee_For_Public_Justice-HQ-5/Committee_For_Public_Justice-HQ-5"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-EBF-60",
+    "source": "foia_Committee_For_Public_Justice-HQ-EBF-60/Committee_For_Public_Justice-HQ-EBF-60"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-EBF-8",
+    "source": "foia_Committee_For_Public_Justice-HQ-EBF-8/Committee_For_Public_Justice-HQ-EBF-8"
+  },
+  {
+    "id": "Committee_For_Public_Justice-HQ-EBF-81x",
+    "source": "foia_Committee_For_Public_Justice-HQ-EBF-81x/Committee_For_Public_Justice-HQ-EBF-81x"
+  },
+  {
+    "id": "Communism_on_Map-Operation_Abolition-Seattle-1",
+    "source": "foia_Communism_on_Map-Operation_Abolition-Seattle-1/Communism_on_Map-Operation_Abolition-Seattle-1"
+  },
+  {
+    "id": "Communism_on_Map-Operation_Abolition-Seattle-2",
+    "source": "foia_Communism_on_Map-Operation_Abolition-Seattle-2/Communism_on_Map-Operation_Abolition-Seattle-2"
+  },
+  {
+    "id": "Congress_of_Freedom-HQ-1",
+    "source": "foia_Congress_of_Freedom-HQ-1/Congress_of_Freedom-HQ-1"
+  },
+  {
+    "id": "Congress_of_Freedom-HQ-2",
+    "source": "foia_Congress_of_Freedom-HQ-2/Congress_of_Freedom-HQ-2"
+  },
+  {
+    "id": "Contacts_by_Soviets_With_Members_of_Congress-HQ-1",
+    "source": "foia_Contacts_by_Soviets_With_Members_of_Congress-HQ-1/Contacts_by_Soviets_With_Members_of_Congress-HQ-1"
+  },
+  {
+    "id": "Council_on_Foreign_Relations-HQ-1",
+    "source": "foia_Council_on_Foreign_Relations-HQ-1/Council_on_Foreign_Relations-HQ-1"
+  },
+  {
+    "id": "Covenant_Sword_Arm_of_Lord-HQ-1",
+    "source": "foia_Covenant_Sword_Arm_of_Lord-HQ-1/Covenant_Sword_Arm_of_Lord-HQ-1"
+  },
+  {
+    "id": "Cushing_Richard--Cardinal-HQ-1",
+    "source": "foia_Cushing_Richard--Cardinal-HQ-1/Cushing_Richard--Cardinal-HQ-1"
+  },
+  {
+    "id": "Cushing_Richard--Cardinal-HQ-2",
+    "source": "foia_Cushing_Richard--Cardinal-HQ-2/Cushing_Richard--Cardinal-HQ-2"
+  },
+  {
+    "id": "Cushing_Richard--Cardinal-HQ-3",
+    "source": "foia_Cushing_Richard--Cardinal-HQ-3/Cushing_Richard--Cardinal-HQ-3"
+  },
+  {
+    "id": "Cushing_Richard--Cardinal-HQ-4",
+    "source": "foia_Cushing_Richard--Cardinal-HQ-4/Cushing_Richard--Cardinal-HQ-4"
+  },
+  {
+    "id": "Cushing_Richard--Cardinal-HQ-5",
+    "source": "foia_Cushing_Richard--Cardinal-HQ-5/Cushing_Richard--Cardinal-HQ-5"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-1",
+    "source": "foia_Cvetic_Matt-HQ-1/Cvetic_Matt-HQ-1"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-2",
+    "source": "foia_Cvetic_Matt-HQ-2/Cvetic_Matt-HQ-2"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-3",
+    "source": "foia_Cvetic_Matt-HQ-3/Cvetic_Matt-HQ-3"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-4",
+    "source": "foia_Cvetic_Matt-HQ-4/Cvetic_Matt-HQ-4"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-5",
+    "source": "foia_Cvetic_Matt-HQ-5/Cvetic_Matt-HQ-5"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-6",
+    "source": "foia_Cvetic_Matt-HQ-6/Cvetic_Matt-HQ-6"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-7",
+    "source": "foia_Cvetic_Matt-HQ-7/Cvetic_Matt-HQ-7"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF131",
+    "source": "foia_Cvetic_Matt-HQ-EBF131/Cvetic_Matt-HQ-EBF131"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF140",
+    "source": "foia_Cvetic_Matt-HQ-EBF140/Cvetic_Matt-HQ-EBF140"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF184",
+    "source": "foia_Cvetic_Matt-HQ-EBF184/Cvetic_Matt-HQ-EBF184"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF242",
+    "source": "foia_Cvetic_Matt-HQ-EBF242/Cvetic_Matt-HQ-EBF242"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF260",
+    "source": "foia_Cvetic_Matt-HQ-EBF260/Cvetic_Matt-HQ-EBF260"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF274",
+    "source": "foia_Cvetic_Matt-HQ-EBF274/Cvetic_Matt-HQ-EBF274"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF281",
+    "source": "foia_Cvetic_Matt-HQ-EBF281/Cvetic_Matt-HQ-EBF281"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF306",
+    "source": "foia_Cvetic_Matt-HQ-EBF306/Cvetic_Matt-HQ-EBF306"
+  },
+  {
+    "id": "Cvetic_Matt-HQ-EBF394",
+    "source": "foia_Cvetic_Matt-HQ-EBF394/Cvetic_Matt-HQ-EBF394"
+  },
+  {
+    "id": "Cvetic_Matt-Los_Angeles-1",
+    "source": "foia_Cvetic_Matt-Los_Angeles-1/Cvetic_Matt-Los_Angeles-1"
+  },
+  {
+    "id": "Cvetic_Matt-Los_Angeles-2",
+    "source": "foia_Cvetic_Matt-Los_Angeles-2/Cvetic_Matt-Los_Angeles-2"
+  },
+  {
+    "id": "Cvetic_Matt-Pittsburgh-1A",
+    "source": "foia_Cvetic_Matt-Pittsburgh-1A/Cvetic_Matt-Pittsburgh-1A"
+  },
+  {
+    "id": "Cvetic_Matt-Pittsburgh-2A",
+    "source": "foia_Cvetic_Matt-Pittsburgh-2A/Cvetic_Matt-Pittsburgh-2A"
+  },
+  {
+    "id": "Cvetic_Matt-Pittsburgh-6",
+    "source": "foia_Cvetic_Matt-Pittsburgh-6/Cvetic_Matt-Pittsburgh-6"
+  },
+  {
+    "id": "Cvetic_Matt-Pittsburgh-7",
+    "source": "foia_Cvetic_Matt-Pittsburgh-7/Cvetic_Matt-Pittsburgh-7"
+  },
+  {
+    "id": "Cvetic_Matt-Pittsburgh-8",
+    "source": "foia_Cvetic_Matt-Pittsburgh-8/Cvetic_Matt-Pittsburgh-8"
+  },
+  {
+    "id": "Cvetic_Matt-WFO-1",
+    "source": "foia_Cvetic_Matt-WFO-1/Cvetic_Matt-WFO-1"
+  },
+  {
+    "id": "Dallas_Freedom_Forum-Dallas-1",
+    "source": "foia_Dallas_Freedom_Forum-Dallas-1/Dallas_Freedom_Forum-Dallas-1"
+  },
+  {
+    "id": "Dallas_Freedom_Forum-HQ-1",
+    "source": "foia_Dallas_Freedom_Forum-HQ-1/Dallas_Freedom_Forum-HQ-1"
+  },
+  {
+    "id": "Dallas_Freedom_Forum-HQ-EBF17",
+    "source": "foia_Dallas_Freedom_Forum-HQ-EBF17/Dallas_Freedom_Forum-HQ-EBF17"
+  },
+  {
+    "id": "Dan_Smoot_Report-HQ-1",
+    "source": "foia_Dan_Smoot_Report-HQ-1/Dan_Smoot_Report-HQ-1"
+  },
+  {
+    "id": "Dan_Smoot_Report-HQ-2",
+    "source": "foia_Dan_Smoot_Report-HQ-2/Dan_Smoot_Report-HQ-2"
+  },
+  {
+    "id": "Dan_Smoot_Report-HQ-3",
+    "source": "foia_Dan_Smoot_Report-HQ-3/Dan_Smoot_Report-HQ-3"
+  },
+  {
+    "id": "Dan_Smoot_Report-HQ-4",
+    "source": "foia_Dan_Smoot_Report-HQ-4/Dan_Smoot_Report-HQ-4"
+  },
+  {
+    "id": "Dan_Smoot_Report-HQ-5",
+    "source": "foia_Dan_Smoot_Report-HQ-5/Dan_Smoot_Report-HQ-5"
+  },
+  {
+    "id": "DeMerle_George_E.-1",
+    "source": "foia_DeMerle_George_E.-1/DeMerle_George_E.-1"
+  },
+  {
+    "id": "DePugh_Robert_B.-Minutemen-HQ-1",
+    "source": "foia_DePugh_Robert_B.-Minutemen-HQ-1/DePugh_Robert_B.-Minutemen-HQ-1"
+  },
+  {
+    "id": "DePugh_Robert_B.-Minutemen-HQ-2",
+    "source": "foia_DePugh_Robert_B.-Minutemen-HQ-2/DePugh_Robert_B.-Minutemen-HQ-2"
+  },
+  {
+    "id": "DePugh_Robert_B.-Minutemen-HQ-3",
+    "source": "foia_DePugh_Robert_B.-Minutemen-HQ-3/DePugh_Robert_B.-Minutemen-HQ-3"
+  },
+  {
+    "id": "Dean_Harry-CIA-1",
+    "source": "foia_Dean_Harry-CIA-1/Dean_Harry-CIA-1"
+  },
+  {
+    "id": "Dean_Harry-HQ-1",
+    "source": "foia_Dean_Harry-HQ-1/Dean_Harry-HQ-1"
+  },
+  {
+    "id": "Dean_Harry-Los_Angeles-1",
+    "source": "foia_Dean_Harry-Los_Angeles-1/Dean_Harry-Los_Angeles-1"
+  },
+  {
+    "id": "Democratic_Nationalist_Party-Max_Nelsen-Minneapolis-1",
+    "source": "foia_Democratic_Nationalist_Party-Max_Nelsen-Minneapolis-1/Democratic_Nationalist_Party-Max_Nelsen-Minneapolis-1"
+  },
+  {
+    "id": "Democratic_Nationalist_Party-Max_Nelsen-NYC-1",
+    "source": "foia_Democratic_Nationalist_Party-Max_Nelsen-NYC-1/Democratic_Nationalist_Party-Max_Nelsen-NYC-1"
+  },
+  {
+    "id": "Dennis_Delmar_D.-HQ-1",
+    "source": "foia_Dennis_Delmar_D.-HQ-1/Dennis_Delmar_D.-HQ-1"
+  },
+  {
+    "id": "Dennis_Delmar_D.-Jackson-1",
+    "source": "foia_Dennis_Delmar_D.-Jackson-1/Dennis_Delmar_D.-Jackson-1"
+  },
+  {
+    "id": "Drennan_Stanley_L._HQ-1",
+    "source": "foia_Drennan_Stanley_L._HQ-1/Drennan_Stanley_L._HQ-1"
+  },
+  {
+    "id": "Ducote_Jerry-HQ-1",
+    "source": "foia_Ducote_Jerry-HQ-1/Ducote_Jerry-HQ-1"
+  },
+  {
+    "id": "Ducote_Jerry-Sacto-1",
+    "source": "foia_Ducote_Jerry-Sacto-1/Ducote_Jerry-Sacto-1"
+  },
+  {
+    "id": "Duggan_Laurence_H._HQ-1",
+    "source": "foia_Duggan_Laurence_H._HQ-1/Duggan_Laurence_H._HQ-1"
+  },
+  {
+    "id": "Duggan_Laurence_H._NYC-1",
+    "source": "foia_Duggan_Laurence_H._NYC-1/Duggan_Laurence_H._NYC-1"
+  },
+  {
+    "id": "Eisenhower-AG_Brownell_letter",
+    "source": "foia_Eisenhower-AG_Brownell_letter/Eisenhower-AG_Brownell_letter"
+  },
+  {
+    "id": "Eisenhower_Dwight_D.-HQ-1",
+    "source": "foia_Eisenhower_Dwight_D.-HQ-1/Eisenhower_Dwight_D.-HQ-1"
+  },
+  {
+    "id": "Eisenhower_Dwight_D.-HQ-2",
+    "source": "foia_Eisenhower_Dwight_D.-HQ-2/Eisenhower_Dwight_D.-HQ-2"
+  },
+  {
+    "id": "Evers_Medger-HQ-1",
+    "source": "foia_Evers_Medger-HQ-1/Evers_Medger-HQ-1"
+  },
+  {
+    "id": "FBI_Book_Reviews-HQ-10",
+    "source": "foia_FBI_Book_Reviews-HQ-10/FBI_Book_Reviews-HQ-10"
+  },
+  {
+    "id": "FBI_Book_Reviews-HQ-11",
+    "source": "foia_FBI_Book_Reviews-HQ-11/FBI_Book_Reviews-HQ-11"
+  },
+  {
+    "id": "FBI_Books_Reviews-14",
+    "source": "foia_FBI_Books_Reviews-14/FBI_Books_Reviews-14"
+  },
+  {
+    "id": "FBI_Books_Reviews-15",
+    "source": "foia_FBI_Books_Reviews-15/FBI_Books_Reviews-15"
+  },
+  {
+    "id": "FBI_Books_Reviews-16",
+    "source": "foia_FBI_Books_Reviews-16/FBI_Books_Reviews-16"
+  },
+  {
+    "id": "FBI_Books_Reviews-17",
+    "source": "foia_FBI_Books_Reviews-17/FBI_Books_Reviews-17"
+  },
+  {
+    "id": "FBI_Confidential_Informants-HQ-1a",
+    "source": "foia_FBI_Confidential_Informants-HQ-1a/FBI_Confidential_Informants-HQ-1a"
+  },
+  {
+    "id": "FBI_Confidential_Informants-HQ-2",
+    "source": "foia_FBI_Confidential_Informants-HQ-2/FBI_Confidential_Informants-HQ-2"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-1",
+    "source": "foia_FBI_Investigation_Division_History-HQ-1/FBI_Investigation_Division_History-HQ-1"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-2",
+    "source": "foia_FBI_Investigation_Division_History-HQ-2/FBI_Investigation_Division_History-HQ-2"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-3",
+    "source": "foia_FBI_Investigation_Division_History-HQ-3/FBI_Investigation_Division_History-HQ-3"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-4",
+    "source": "foia_FBI_Investigation_Division_History-HQ-4/FBI_Investigation_Division_History-HQ-4"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-5",
+    "source": "foia_FBI_Investigation_Division_History-HQ-5/FBI_Investigation_Division_History-HQ-5"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-6",
+    "source": "foia_FBI_Investigation_Division_History-HQ-6/FBI_Investigation_Division_History-HQ-6"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-7",
+    "source": "foia_FBI_Investigation_Division_History-HQ-7/FBI_Investigation_Division_History-HQ-7"
+  },
+  {
+    "id": "FBI_Investigation_Division_History-HQ-8",
+    "source": "foia_FBI_Investigation_Division_History-HQ-8/FBI_Investigation_Division_History-HQ-8"
+  },
+  {
+    "id": "FBI_JUNE_mail_file",
+    "source": "foia_FBI_JUNE_mail_file/FBI_JUNE_mail_file"
+  },
+  {
+    "id": "FBI_MONOGRAPH-National_States_RIghts_Party_69p",
+    "source": "foia_FBI_MONOGRAPH-National_States_RIghts_Party_69p/FBI_MONOGRAPH-National_States_RIghts_Party_69p"
+  },
+  {
+    "id": "FBI_Monograph-American_Nazi_Party",
+    "source": "foia_FBI_Monograph-American_Nazi_Party/FBI_Monograph-American_Nazi_Party"
+  },
+  {
+    "id": "FBI_Monograph-Development_of_Racial_Infornants",
+    "source": "foia_FBI_Monograph-Development_of_Racial_Infornants/FBI_Monograph-Development_of_Racial_Infornants"
+  },
+  {
+    "id": "FBI_Monograph-FBI_In_Our_Open_Society",
+    "source": "foia_FBI_Monograph-FBI_In_Our_Open_Society/FBI_Monograph-FBI_In_Our_Open_Society"
+  },
+  {
+    "id": "FBI_Monograph-FBI_and_Civil_Rights",
+    "source": "foia_FBI_Monograph-FBI_and_Civil_Rights/FBI_Monograph-FBI_and_Civil_Rights"
+  },
+  {
+    "id": "FBI_Monograph-Fund_For_The_Republic_Inc.",
+    "source": "foia_FBI_Monograph-Fund_For_The_Republic_Inc./FBI_Monograph-Fund_For_The_Republic_Inc."
+  },
+  {
+    "id": "FBI_Monograph-Index_1947-1955",
+    "source": "foia_FBI_Monograph-Index_1947-1955/FBI_Monograph-Index_1947-1955"
+  },
+  {
+    "id": "FBI_Monograph-Pretexts_and_Cover_Techniques",
+    "source": "foia_FBI_Monograph-Pretexts_and_Cover_Techniques/FBI_Monograph-Pretexts_and_Cover_Techniques"
+  },
+  {
+    "id": "FBI_Monograph-Sex_Perverts_1950-1966",
+    "source": "foia_FBI_Monograph-Sex_Perverts_1950-1966/FBI_Monograph-Sex_Perverts_1950-1966"
+  },
+  {
+    "id": "FBI_Monograph-Smear_Campaign-1958_Cook_article",
+    "source": "foia_FBI_Monograph-Smear_Campaign-1958_Cook_article/FBI_Monograph-Smear_Campaign-1958_Cook_article"
+  },
+  {
+    "id": "FBI_Monograph-State_of_Domestic_White_Nationalist_Extremist_Movement_in_the_U.S.",
+    "source": "foia_FBI_Monograph-State_of_Domestic_White_Nationalist_Extremist_Movement_in_the_U.S./FBI_Monograph-State_of_Domestic_White_Nationalist_Extremist_Movement_in_the_U.S."
+  },
+  {
+    "id": "FBI_Monograph-Unusual_Investigative_Techniques",
+    "source": "foia_FBI_Monograph-Unusual_Investigative_Techniques/FBI_Monograph-Unusual_Investigative_Techniques"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-1",
+    "source": "foia_FBI_Security_Informant_Program-NYC-1/FBI_Security_Informant_Program-NYC-1"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-2",
+    "source": "foia_FBI_Security_Informant_Program-NYC-2/FBI_Security_Informant_Program-NYC-2"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-3",
+    "source": "foia_FBI_Security_Informant_Program-NYC-3/FBI_Security_Informant_Program-NYC-3"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-4",
+    "source": "foia_FBI_Security_Informant_Program-NYC-4/FBI_Security_Informant_Program-NYC-4"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-5",
+    "source": "foia_FBI_Security_Informant_Program-NYC-5/FBI_Security_Informant_Program-NYC-5"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-6",
+    "source": "foia_FBI_Security_Informant_Program-NYC-6/FBI_Security_Informant_Program-NYC-6"
+  },
+  {
+    "id": "FBI_Security_Informant_Program-NYC-7",
+    "source": "foia_FBI_Security_Informant_Program-NYC-7/FBI_Security_Informant_Program-NYC-7"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-1",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-1/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-1"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-2",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-2/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-2"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-3",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-3/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-3"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-4",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-4/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-4"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-5",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-5/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-5"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-6",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-6/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-6"
+  },
+  {
+    "id": "FBI_Security_Informant_Program_HQ_66-2542-3_HQ-7",
+    "source": "foia_FBI_Security_Informant_Program_HQ_66-2542-3_HQ-7/FBI_Security_Informant_Program_HQ_66-2542-3_HQ-7"
+  },
+  {
+    "id": "FBI_Security_Informants-HQ-1",
+    "source": "foia_FBI_Security_Informants-HQ-1/FBI_Security_Informants-HQ-1"
+  },
+  {
+    "id": "FBI_monograph-Funds_and_Foundations",
+    "source": "foia_FBI_monograph-Funds_and_Foundations/FBI_monograph-Funds_and_Foundations"
+  },
+  {
+    "id": "FBI_monograph-Klan_Organizations-Section_III_1958-1964",
+    "source": "foia_FBI_monograph-Klan_Organizations-Section_III_1958-1964/FBI_monograph-Klan_Organizations-Section_III_1958-1964"
+  },
+  {
+    "id": "FBI_newsletter-The_Extremist_Speaks",
+    "source": "foia_FBI_newsletter-The_Extremist_Speaks/FBI_newsletter-The_Extremist_Speaks"
+  },
+  {
+    "id": "FIERY_CROSS-1",
+    "source": "foia_FIERY_CROSS-1/FIERY_CROSS-1"
+  },
+  {
+    "id": "FIERY_CROSS-2",
+    "source": "foia_FIERY_CROSS-2/FIERY_CROSS-2"
+  },
+  {
+    "id": "FIERY_CROSS-3",
+    "source": "foia_FIERY_CROSS-3/FIERY_CROSS-3"
+  },
+  {
+    "id": "FIERY_CROSS-4",
+    "source": "foia_FIERY_CROSS-4/FIERY_CROSS-4"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-1",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-1/Fagan_Myron_C.-CEG-HQ-1"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-10",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-10/Fagan_Myron_C.-CEG-HQ-10"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-11",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-11/Fagan_Myron_C.-CEG-HQ-11"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-12",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-12/Fagan_Myron_C.-CEG-HQ-12"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-13",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-13/Fagan_Myron_C.-CEG-HQ-13"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-14",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-14/Fagan_Myron_C.-CEG-HQ-14"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-15",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-15/Fagan_Myron_C.-CEG-HQ-15"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-16",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-16/Fagan_Myron_C.-CEG-HQ-16"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-17",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-17/Fagan_Myron_C.-CEG-HQ-17"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-18",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-18/Fagan_Myron_C.-CEG-HQ-18"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-19",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-19/Fagan_Myron_C.-CEG-HQ-19"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-2",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-2/Fagan_Myron_C.-CEG-HQ-2"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-20",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-20/Fagan_Myron_C.-CEG-HQ-20"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-3",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-3/Fagan_Myron_C.-CEG-HQ-3"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-4",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-4/Fagan_Myron_C.-CEG-HQ-4"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-5",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-5/Fagan_Myron_C.-CEG-HQ-5"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-6",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-6/Fagan_Myron_C.-CEG-HQ-6"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-7",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-7/Fagan_Myron_C.-CEG-HQ-7"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-8",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-8/Fagan_Myron_C.-CEG-HQ-8"
+  },
+  {
+    "id": "Fagan_Myron_C.-CEG-HQ-9",
+    "source": "foia_Fagan_Myron_C.-CEG-HQ-9/Fagan_Myron_C.-CEG-HQ-9"
+  },
+  {
+    "id": "Faubus_Orval_E.-HQ-1",
+    "source": "foia_Faubus_Orval_E.-HQ-1/Faubus_Orval_E.-HQ-1"
+  },
+  {
+    "id": "Faubus_Orval_E.-HQ-2",
+    "source": "foia_Faubus_Orval_E.-HQ-2/Faubus_Orval_E.-HQ-2"
+  },
+  {
+    "id": "Faubus_Orval_E.-HQ-3",
+    "source": "foia_Faubus_Orval_E.-HQ-3/Faubus_Orval_E.-HQ-3"
+  },
+  {
+    "id": "Faubus_Orval_E.-HQ-4",
+    "source": "foia_Faubus_Orval_E.-HQ-4/Faubus_Orval_E.-HQ-4"
+  },
+  {
+    "id": "Fighting_American_Nationalists-NYC-2",
+    "source": "foia_Fighting_American_Nationalists-NYC-2/Fighting_American_Nationalists-NYC-2"
+  },
+  {
+    "id": "Fighting_American_Nationalists-NYC-3",
+    "source": "foia_Fighting_American_Nationalists-NYC-3/Fighting_American_Nationalists-NYC-3"
+  },
+  {
+    "id": "Florida_Bar_Assn_HQ-1",
+    "source": "foia_Florida_Bar_Assn_HQ-1/Florida_Bar_Assn_HQ-1"
+  },
+  {
+    "id": "Florida_Bar_Assn_HQ-2",
+    "source": "foia_Florida_Bar_Assn_HQ-2/Florida_Bar_Assn_HQ-2"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-1",
+    "source": "foia_Foreign_Policy_Assn-HQ-1/Foreign_Policy_Assn-HQ-1"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-2",
+    "source": "foia_Foreign_Policy_Assn-HQ-2/Foreign_Policy_Assn-HQ-2"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-3",
+    "source": "foia_Foreign_Policy_Assn-HQ-3/Foreign_Policy_Assn-HQ-3"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-4",
+    "source": "foia_Foreign_Policy_Assn-HQ-4/Foreign_Policy_Assn-HQ-4"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-5",
+    "source": "foia_Foreign_Policy_Assn-HQ-5/Foreign_Policy_Assn-HQ-5"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-6",
+    "source": "foia_Foreign_Policy_Assn-HQ-6/Foreign_Policy_Assn-HQ-6"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-7",
+    "source": "foia_Foreign_Policy_Assn-HQ-7/Foreign_Policy_Assn-HQ-7"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-EBF180",
+    "source": "foia_Foreign_Policy_Assn-HQ-EBF180/Foreign_Policy_Assn-HQ-EBF180"
+  },
+  {
+    "id": "Foreign_Policy_Assn-HQ-EBF84",
+    "source": "foia_Foreign_Policy_Assn-HQ-EBF84/Foreign_Policy_Assn-HQ-EBF84"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-HQ-1",
+    "source": "foia_Frankhouser_Roy_E.-HQ-1/Frankhouser_Roy_E.-HQ-1"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-HQ-2",
+    "source": "foia_Frankhouser_Roy_E.-HQ-2/Frankhouser_Roy_E.-HQ-2"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-HQ-3",
+    "source": "foia_Frankhouser_Roy_E.-HQ-3/Frankhouser_Roy_E.-HQ-3"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-HQ-4",
+    "source": "foia_Frankhouser_Roy_E.-HQ-4/Frankhouser_Roy_E.-HQ-4"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-1",
+    "source": "foia_Frankhouser_Roy_E.-Philly-1/Frankhouser_Roy_E.-Philly-1"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-11",
+    "source": "foia_Frankhouser_Roy_E.-Philly-11/Frankhouser_Roy_E.-Philly-11"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-12",
+    "source": "foia_Frankhouser_Roy_E.-Philly-12/Frankhouser_Roy_E.-Philly-12"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-13",
+    "source": "foia_Frankhouser_Roy_E.-Philly-13/Frankhouser_Roy_E.-Philly-13"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-14",
+    "source": "foia_Frankhouser_Roy_E.-Philly-14/Frankhouser_Roy_E.-Philly-14"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-15",
+    "source": "foia_Frankhouser_Roy_E.-Philly-15/Frankhouser_Roy_E.-Philly-15"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-16",
+    "source": "foia_Frankhouser_Roy_E.-Philly-16/Frankhouser_Roy_E.-Philly-16"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-17",
+    "source": "foia_Frankhouser_Roy_E.-Philly-17/Frankhouser_Roy_E.-Philly-17"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-18",
+    "source": "foia_Frankhouser_Roy_E.-Philly-18/Frankhouser_Roy_E.-Philly-18"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-2",
+    "source": "foia_Frankhouser_Roy_E.-Philly-2/Frankhouser_Roy_E.-Philly-2"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-4",
+    "source": "foia_Frankhouser_Roy_E.-Philly-4/Frankhouser_Roy_E.-Philly-4"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-5",
+    "source": "foia_Frankhouser_Roy_E.-Philly-5/Frankhouser_Roy_E.-Philly-5"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-6",
+    "source": "foia_Frankhouser_Roy_E.-Philly-6/Frankhouser_Roy_E.-Philly-6"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-7",
+    "source": "foia_Frankhouser_Roy_E.-Philly-7/Frankhouser_Roy_E.-Philly-7"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-8",
+    "source": "foia_Frankhouser_Roy_E.-Philly-8/Frankhouser_Roy_E.-Philly-8"
+  },
+  {
+    "id": "Frankhouser_Roy_E.-Philly-9",
+    "source": "foia_Frankhouser_Roy_E.-Philly-9/Frankhouser_Roy_E.-Philly-9"
+  },
+  {
+    "id": "Freedman_Benjamin_H.-HQ-1",
+    "source": "foia_Freedman_Benjamin_H.-HQ-1/Freedman_Benjamin_H.-HQ-1"
+  },
+  {
+    "id": "Freedman_Benjamin_H.-NYC-1",
+    "source": "foia_Freedman_Benjamin_H.-NYC-1/Freedman_Benjamin_H.-NYC-1"
+  },
+  {
+    "id": "Freedman_Benjamin_H.-NYC-2",
+    "source": "foia_Freedman_Benjamin_H.-NYC-2/Freedman_Benjamin_H.-NYC-2"
+  },
+  {
+    "id": "Galbadon_Guy_L.-HQ-1",
+    "source": "foia_Galbadon_Guy_L.-HQ-1/Galbadon_Guy_L.-HQ-1"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-1",
+    "source": "foia_Goff_Kenneth-Denver-1/Goff_Kenneth-Denver-1"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-1A",
+    "source": "foia_Goff_Kenneth-Denver-1A/Goff_Kenneth-Denver-1A"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-2",
+    "source": "foia_Goff_Kenneth-Denver-2/Goff_Kenneth-Denver-2"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-3",
+    "source": "foia_Goff_Kenneth-Denver-3/Goff_Kenneth-Denver-3"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-4",
+    "source": "foia_Goff_Kenneth-Denver-4/Goff_Kenneth-Denver-4"
+  },
+  {
+    "id": "Goff_Kenneth-Denver-5",
+    "source": "foia_Goff_Kenneth-Denver-5/Goff_Kenneth-Denver-5"
+  },
+  {
+    "id": "Goff_Kenneth-HQ-1",
+    "source": "foia_Goff_Kenneth-HQ-1/Goff_Kenneth-HQ-1"
+  },
+  {
+    "id": "Goff_Kenneth-HQ-2",
+    "source": "foia_Goff_Kenneth-HQ-2/Goff_Kenneth-HQ-2"
+  },
+  {
+    "id": "Goff_Kenneth-HQ-3",
+    "source": "foia_Goff_Kenneth-HQ-3/Goff_Kenneth-HQ-3"
+  },
+  {
+    "id": "Goff_Kenneth-HQ-4",
+    "source": "foia_Goff_Kenneth-HQ-4/Goff_Kenneth-HQ-4"
+  },
+  {
+    "id": "Goldberg_Arthur_J.-HQ-1",
+    "source": "foia_Goldberg_Arthur_J.-HQ-1/Goldberg_Arthur_J.-HQ-1"
+  },
+  {
+    "id": "Goldberg_Arthur_J.-HQ-2",
+    "source": "foia_Goldberg_Arthur_J.-HQ-2/Goldberg_Arthur_J.-HQ-2"
+  },
+  {
+    "id": "Goldmark_Sally-Seattle-1",
+    "source": "foia_Goldmark_Sally-Seattle-1/Goldmark_Sally-Seattle-1"
+  },
+  {
+    "id": "Goldmark_Sally-Seattle-2",
+    "source": "foia_Goldmark_Sally-Seattle-2/Goldmark_Sally-Seattle-2"
+  },
+  {
+    "id": "Goldmark_Sally-Seattle-3",
+    "source": "foia_Goldmark_Sally-Seattle-3/Goldmark_Sally-Seattle-3"
+  },
+  {
+    "id": "Goldmark_Sally-Seattle-4",
+    "source": "foia_Goldmark_Sally-Seattle-4/Goldmark_Sally-Seattle-4"
+  },
+  {
+    "id": "Grede_Papers_re_JBS",
+    "source": "foia_Grede_Papers_re_JBS.PDF/Grede_Papers_re_JBS"
+  },
+  {
+    "id": "Griffith_Sanford-HQ-1",
+    "source": "foia_Griffith_Sanford-HQ-1/Griffith_Sanford-HQ-1"
+  },
+  {
+    "id": "Griffith_Sanford-NYC-1",
+    "source": "foia_Griffith_Sanford-NYC-1/Griffith_Sanford-NYC-1"
+  },
+  {
+    "id": "Grubbs_Millard_D.-HQ-1",
+    "source": "foia_Grubbs_Millard_D.-HQ-1/Grubbs_Millard_D.-HQ-1"
+  },
+  {
+    "id": "Grubbs_Millard_D.-HQ-2",
+    "source": "foia_Grubbs_Millard_D.-HQ-2/Grubbs_Millard_D.-HQ-2"
+  },
+  {
+    "id": "Grubbs_Millard_D.-HQ-3",
+    "source": "foia_Grubbs_Millard_D.-HQ-3/Grubbs_Millard_D.-HQ-3"
+  },
+  {
+    "id": "Gumaer_David_E.-Phoenix-1",
+    "source": "foia_Gumaer_David_E.-Phoenix-1/Gumaer_David_E.-Phoenix-1"
+  },
+  {
+    "id": "Gumaer, David E. - Dallas-1",
+    "source": "foia_Gumaer_David_E._-_Dallas-1/Gumaer, David E. - Dallas-1"
+  },
+  {
+    "id": "Gumaer_d_E._Dallas-1",
+    "source": "foia_Gumaer_d_E._Dallas-1/Gumaer_d_E._Dallas-1"
+  },
+  {
+    "id": "Gumaer_d_E._HQ-1",
+    "source": "foia_Gumaer_d_E._HQ-1/Gumaer_d_E._HQ-1"
+  },
+  {
+    "id": "Hall_Gordon_D.-Boston-1",
+    "source": "foia_Hall_Gordon_D.-Boston-1/Hall_Gordon_D.-Boston-1"
+  },
+  {
+    "id": "Hall_Gordon_D.-Boston-2",
+    "source": "foia_Hall_Gordon_D.-Boston-2/Hall_Gordon_D.-Boston-2"
+  },
+  {
+    "id": "Hall_Gordon_D.-HQ-1",
+    "source": "foia_Hall_Gordon_D.-HQ-1/Hall_Gordon_D.-HQ-1"
+  },
+  {
+    "id": "Hammarskjold_Dag-HQ-1",
+    "source": "foia_Hammarskjold_Dag-HQ-1/Hammarskjold_Dag-HQ-1"
+  },
+  {
+    "id": "Hartle_Barbara-HQ-1A",
+    "source": "foia_Hartle_Barbara-HQ-1A/Hartle_Barbara-HQ-1A"
+  },
+  {
+    "id": "Hartle_Barbara-HQ-3",
+    "source": "foia_Hartle_Barbara-HQ-3/Hartle_Barbara-HQ-3"
+  },
+  {
+    "id": "Hartle_Barbara-HQ-8",
+    "source": "foia_Hartle_Barbara-HQ-8/Hartle_Barbara-HQ-8"
+  },
+  {
+    "id": "Hartle_Barbara-Seattle-2",
+    "source": "foia_Hartle_Barbara-Seattle-2/Hartle_Barbara-Seattle-2"
+  },
+  {
+    "id": "Hartle_Barbara-Seattle-5",
+    "source": "foia_Hartle_Barbara-Seattle-5/Hartle_Barbara-Seattle-5"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-1",
+    "source": "foia_Highlander_Folk_School-HQ-1/Highlander_Folk_School-HQ-1"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-2",
+    "source": "foia_Highlander_Folk_School-HQ-2/Highlander_Folk_School-HQ-2"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-3",
+    "source": "foia_Highlander_Folk_School-HQ-3/Highlander_Folk_School-HQ-3"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-4",
+    "source": "foia_Highlander_Folk_School-HQ-4/Highlander_Folk_School-HQ-4"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-5",
+    "source": "foia_Highlander_Folk_School-HQ-5/Highlander_Folk_School-HQ-5"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-6",
+    "source": "foia_Highlander_Folk_School-HQ-6/Highlander_Folk_School-HQ-6"
+  },
+  {
+    "id": "Highlander_Folk_School-HQ-7",
+    "source": "foia_Highlander_Folk_School-HQ-7/Highlander_Folk_School-HQ-7"
+  },
+  {
+    "id": "Holmes_Lola_Belle-HQ-1",
+    "source": "foia_Holmes_Lola_Belle-HQ-1/Holmes_Lola_Belle-HQ-1"
+  },
+  {
+    "id": "Holmes_Lola_Belle-HQ-1A",
+    "source": "foia_Holmes_Lola_Belle-HQ-1A/Holmes_Lola_Belle-HQ-1A"
+  },
+  {
+    "id": "Holmes_Lola_Belle-HQ-2",
+    "source": "foia_Holmes_Lola_Belle-HQ-2/Holmes_Lola_Belle-HQ-2"
+  },
+  {
+    "id": "Holmes_Lola_Belle-HQ-3",
+    "source": "foia_Holmes_Lola_Belle-HQ-3/Holmes_Lola_Belle-HQ-3"
+  },
+  {
+    "id": "Holmes_Lola_Belle-HQ-4",
+    "source": "foia_Holmes_Lola_Belle-HQ-4/Holmes_Lola_Belle-HQ-4"
+  },
+  {
+    "id": "Hoover_Institution-HQ_-1_thru_5",
+    "source": "foia_Hoover_Institution-HQ_-1_thru_5/Hoover_Institution-HQ_-1_thru_5"
+  },
+  {
+    "id": "Hunt_H.L.-HQ-1",
+    "source": "foia_Hunt_H.L.-HQ-1/Hunt_H.L.-HQ-1"
+  },
+  {
+    "id": "Hunt_H.L.-HQ-2",
+    "source": "foia_Hunt_H.L.-HQ-2/Hunt_H.L.-HQ-2"
+  },
+  {
+    "id": "I_Was_A_Communist_Spy_For_FBI-Radio-HQ-1",
+    "source": "foia_I_Was_A_Communist_Spy_For_FBI-Radio-HQ-1/I_Was_A_Communist_Spy_For_FBI-Radio-HQ-1"
+  },
+  {
+    "id": "JBS-Boston-1",
+    "source": "foia_JBS-Boston-1/JBS-Boston-1"
+  },
+  {
+    "id": "JBS-Boston-1A",
+    "source": "foia_JBS-Boston-1A/JBS-Boston-1A"
+  },
+  {
+    "id": "JBS-Boston-2",
+    "source": "foia_JBS-Boston-2/JBS-Boston-2"
+  },
+  {
+    "id": "JBS-Boston-3",
+    "source": "foia_JBS-Boston-3/JBS-Boston-3"
+  },
+  {
+    "id": "JBS-Boston-4",
+    "source": "foia_JBS-Boston-4/JBS-Boston-4"
+  },
+  {
+    "id": "JBS-Boston-5",
+    "source": "foia_JBS-Boston-5/JBS-Boston-5"
+  },
+  {
+    "id": "JBS-Butte-1",
+    "source": "foia_JBS-Butte-1/JBS-Butte-1"
+  },
+  {
+    "id": "JBS-Charlotte-1",
+    "source": "foia_JBS-Charlotte-1/JBS-Charlotte-1"
+  },
+  {
+    "id": "JBS-Charlotte-2",
+    "source": "foia_JBS-Charlotte-2/JBS-Charlotte-2"
+  },
+  {
+    "id": "JBS-Charlotte-3",
+    "source": "foia_JBS-Charlotte-3/JBS-Charlotte-3"
+  },
+  {
+    "id": "JBS-Charlotte-4",
+    "source": "foia_JBS-Charlotte-4/JBS-Charlotte-4"
+  },
+  {
+    "id": "JBS-Chicago-3",
+    "source": "foia_JBS-Chicago-3/JBS-Chicago-3"
+  },
+  {
+    "id": "JBS-Chicago-4",
+    "source": "foia_JBS-Chicago-4/JBS-Chicago-4"
+  },
+  {
+    "id": "JBS-Columbia-1",
+    "source": "foia_JBS-Columbia-1/JBS-Columbia-1"
+  },
+  {
+    "id": "JBS-Los_Angeles-1",
+    "source": "foia_JBS-Los_Angeles-1/JBS-Los_Angeles-1"
+  },
+  {
+    "id": "JBS-Los_Angeles-2",
+    "source": "foia_JBS-Los_Angeles-2/JBS-Los_Angeles-2"
+  },
+  {
+    "id": "JBS-Los_Angeles-3",
+    "source": "foia_JBS-Los_Angeles-3/JBS-Los_Angeles-3"
+  },
+  {
+    "id": "JBS-Los_Angeles-4",
+    "source": "foia_JBS-Los_Angeles-4/JBS-Los_Angeles-4"
+  },
+  {
+    "id": "JBS-Los_Angeles-5",
+    "source": "foia_JBS-Los_Angeles-5/JBS-Los_Angeles-5"
+  },
+  {
+    "id": "JBS-Los_Angeles-6",
+    "source": "foia_JBS-Los_Angeles-6/JBS-Los_Angeles-6"
+  },
+  {
+    "id": "JBS-Los_Angeles-7",
+    "source": "foia_JBS-Los_Angeles-7/JBS-Los_Angeles-7"
+  },
+  {
+    "id": "JBS-Los_Angeles-8",
+    "source": "foia_JBS-Los_Angeles-8/JBS-Los_Angeles-8"
+  },
+  {
+    "id": "JBS-Los_Angeles-9",
+    "source": "foia_JBS-Los_Angeles-9/JBS-Los_Angeles-9"
+  },
+  {
+    "id": "JBS-NYC-1",
+    "source": "foia_JBS-NYC-1/JBS-NYC-1"
+  },
+  {
+    "id": "JBS-NYC-2",
+    "source": "foia_JBS-NYC-2/JBS-NYC-2"
+  },
+  {
+    "id": "JBS-Omaha-1",
+    "source": "foia_JBS-Omaha-1/JBS-Omaha-1"
+  },
+  {
+    "id": "JBS-Phoenix-1",
+    "source": "foia_JBS-Phoenix-1/JBS-Phoenix-1"
+  },
+  {
+    "id": "JBS-Phoenix-2",
+    "source": "foia_JBS-Phoenix-2/JBS-Phoenix-2"
+  },
+  {
+    "id": "JBS-Richmond-1",
+    "source": "foia_JBS-Richmond-1/JBS-Richmond-1"
+  },
+  {
+    "id": "JBS-San_Antonio-1",
+    "source": "foia_JBS-San_Antonio-1/JBS-San_Antonio-1"
+  },
+  {
+    "id": "JBS-San_Diego-1",
+    "source": "foia_JBS-San_Diego-1/JBS-San_Diego-1"
+  },
+  {
+    "id": "JBS-San_Diego-2",
+    "source": "foia_JBS-San_Diego-2/JBS-San_Diego-2"
+  },
+  {
+    "id": "JBS-Seattle-1",
+    "source": "foia_JBS-Seattle-1/JBS-Seattle-1"
+  },
+  {
+    "id": "JBS-Seattle-2",
+    "source": "foia_JBS-Seattle-2/JBS-Seattle-2"
+  },
+  {
+    "id": "JBS-Seattle-3",
+    "source": "foia_JBS-Seattle-3/JBS-Seattle-3"
+  },
+  {
+    "id": "JBS-WFO-1",
+    "source": "foia_JBS-WFO-1/JBS-WFO-1"
+  },
+  {
+    "id": "JBS_REPORT_pdf_08-17-14",
+    "source": "foia_JBS_REPORT_08-17-14/JBS_REPORT_pdf_08-17-14"
+  },
+  {
+    "id": "JBS_Report--combined",
+    "source": "foia_JBS_Report--combined/JBS_Report--combined"
+  },
+  {
+    "id": "John_Birch_Society-HQ-37",
+    "source": "foia_John_Birch_Society-HQ-37/John_Birch_Society-HQ-37"
+  },
+  {
+    "id": "John_Birch_Society-HQ-38",
+    "source": "foia_John_Birch_Society-HQ-38/John_Birch_Society-HQ-38"
+  },
+  {
+    "id": "John_Birch_Society-HQ-39",
+    "source": "foia_John_Birch_Society-HQ-39/John_Birch_Society-HQ-39"
+  },
+  {
+    "id": "John_Birch_Society-Salt_Lake_City-1",
+    "source": "foia_John_Birch_Society-Salt_Lake_City-1/John_Birch_Society-Salt_Lake_City-1"
+  },
+  {
+    "id": "John_Birch_Society_Army-1",
+    "source": "foia_John_Birch_Society_Army-1/John_Birch_Society_Army-1"
+  },
+  {
+    "id": "John_Birch_Society_HQ-1",
+    "source": "foia_John_Birch_Society_HQ-1/John_Birch_Society_HQ-1"
+  },
+  {
+    "id": "John_Birch_Society_HQ-10",
+    "source": "foia_John_Birch_Society_HQ-10/John_Birch_Society_HQ-10"
+  },
+  {
+    "id": "John_Birch_Society_HQ-11",
+    "source": "foia_John_Birch_Society_HQ-11/John_Birch_Society_HQ-11"
+  },
+  {
+    "id": "John_Birch_Society_HQ-12",
+    "source": "foia_John_Birch_Society_HQ-12/John_Birch_Society_HQ-12"
+  },
+  {
+    "id": "John_Birch_Society_HQ-13",
+    "source": "foia_John_Birch_Society_HQ-13/John_Birch_Society_HQ-13"
+  },
+  {
+    "id": "John_Birch_Society_HQ-14",
+    "source": "foia_John_Birch_Society_HQ-14/John_Birch_Society_HQ-14"
+  },
+  {
+    "id": "John_Birch_Society_HQ-15",
+    "source": "foia_John_Birch_Society_HQ-15/John_Birch_Society_HQ-15"
+  },
+  {
+    "id": "John_Birch_Society_HQ-16",
+    "source": "foia_John_Birch_Society_HQ-16/John_Birch_Society_HQ-16"
+  },
+  {
+    "id": "John_Birch_Society_HQ-17",
+    "source": "foia_John_Birch_Society_HQ-17/John_Birch_Society_HQ-17"
+  },
+  {
+    "id": "John_Birch_Society_HQ-18",
+    "source": "foia_John_Birch_Society_HQ-18/John_Birch_Society_HQ-18"
+  },
+  {
+    "id": "John_Birch_Society_HQ-19",
+    "source": "foia_John_Birch_Society_HQ-19/John_Birch_Society_HQ-19"
+  },
+  {
+    "id": "John_Birch_Society_HQ-1A",
+    "source": "foia_John_Birch_Society_HQ-1A/John_Birch_Society_HQ-1A"
+  },
+  {
+    "id": "John_Birch_Society_HQ-2",
+    "source": "foia_John_Birch_Society_HQ-2/John_Birch_Society_HQ-2"
+  },
+  {
+    "id": "John_Birch_Society_HQ-20",
+    "source": "foia_John_Birch_Society_HQ-20/John_Birch_Society_HQ-20"
+  },
+  {
+    "id": "John_Birch_Society_HQ-21-1253",
+    "source": "foia_John_Birch_Society_HQ-21-1253/John_Birch_Society_HQ-21-1253"
+  },
+  {
+    "id": "John_Birch_Society_HQ-21",
+    "source": "foia_John_Birch_Society_HQ-21/John_Birch_Society_HQ-21"
+  },
+  {
+    "id": "John_Birch_Society_HQ-22",
+    "source": "foia_John_Birch_Society_HQ-22/John_Birch_Society_HQ-22"
+  },
+  {
+    "id": "John_Birch_Society_HQ-23",
+    "source": "foia_John_Birch_Society_HQ-23/John_Birch_Society_HQ-23"
+  },
+  {
+    "id": "John_Birch_Society_HQ-24",
+    "source": "foia_John_Birch_Society_HQ-24/John_Birch_Society_HQ-24"
+  },
+  {
+    "id": "John_Birch_Society_HQ-25",
+    "source": "foia_John_Birch_Society_HQ-25/John_Birch_Society_HQ-25"
+  },
+  {
+    "id": "John_Birch_Society_HQ-26",
+    "source": "foia_John_Birch_Society_HQ-26/John_Birch_Society_HQ-26"
+  },
+  {
+    "id": "John_Birch_Society_HQ-27",
+    "source": "foia_John_Birch_Society_HQ-27/John_Birch_Society_HQ-27"
+  },
+  {
+    "id": "John_Birch_Society_HQ-28",
+    "source": "foia_John_Birch_Society_HQ-28/John_Birch_Society_HQ-28"
+  },
+  {
+    "id": "John_Birch_Society_HQ-29",
+    "source": "foia_John_Birch_Society_HQ-29/John_Birch_Society_HQ-29"
+  },
+  {
+    "id": "John_Birch_Society_HQ-3",
+    "source": "foia_John_Birch_Society_HQ-3/John_Birch_Society_HQ-3"
+  },
+  {
+    "id": "John_Birch_Society_HQ-30",
+    "source": "foia_John_Birch_Society_HQ-30/John_Birch_Society_HQ-30"
+  },
+  {
+    "id": "John_Birch_Society_HQ-31",
+    "source": "foia_John_Birch_Society_HQ-31/John_Birch_Society_HQ-31"
+  },
+  {
+    "id": "John_Birch_Society_HQ-32",
+    "source": "foia_John_Birch_Society_HQ-32/John_Birch_Society_HQ-32"
+  },
+  {
+    "id": "John_Birch_Society_HQ-33",
+    "source": "foia_John_Birch_Society_HQ-33/John_Birch_Society_HQ-33"
+  },
+  {
+    "id": "John_Birch_Society_HQ-34",
+    "source": "foia_John_Birch_Society_HQ-34/John_Birch_Society_HQ-34"
+  },
+  {
+    "id": "John_Birch_Society_HQ-35",
+    "source": "foia_John_Birch_Society_HQ-35/John_Birch_Society_HQ-35"
+  },
+  {
+    "id": "John_Birch_Society_HQ-36",
+    "source": "foia_John_Birch_Society_HQ-36/John_Birch_Society_HQ-36"
+  },
+  {
+    "id": "John_Birch_Society_HQ-4",
+    "source": "foia_John_Birch_Society_HQ-4/John_Birch_Society_HQ-4"
+  },
+  {
+    "id": "John_Birch_Society_HQ-5",
+    "source": "foia_John_Birch_Society_HQ-5/John_Birch_Society_HQ-5"
+  },
+  {
+    "id": "John_Birch_Society_HQ-6",
+    "source": "foia_John_Birch_Society_HQ-6/John_Birch_Society_HQ-6"
+  },
+  {
+    "id": "John_Birch_Society_HQ-7",
+    "source": "foia_John_Birch_Society_HQ-7/John_Birch_Society_HQ-7"
+  },
+  {
+    "id": "John_Birch_Society_HQ-8",
+    "source": "foia_John_Birch_Society_HQ-8/John_Birch_Society_HQ-8"
+  },
+  {
+    "id": "John_Birch_Society_HQ-9",
+    "source": "foia_John_Birch_Society_HQ-9/John_Birch_Society_HQ-9"
+  },
+  {
+    "id": "John_Birch_Society_Legat-Bonn-1",
+    "source": "foia_John_Birch_Society_Legat-Bonn-1/John_Birch_Society_Legat-Bonn-1"
+  },
+  {
+    "id": "John_Birch_Society_Navy-1",
+    "source": "foia_John_Birch_Society_Navy-1/John_Birch_Society_Navy-1"
+  },
+  {
+    "id": "John_Birch_Society_New_Orleans-1",
+    "source": "foia_John_Birch_Society_New_Orleans-1/John_Birch_Society_New_Orleans-1"
+  },
+  {
+    "id": "KKK-Chicago-1",
+    "source": "foia_KKK-Chicago-1/KKK-Chicago-1"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-1",
+    "source": "foia_Kamp_Joseph_P.-HQ-1/Kamp_Joseph_P.-HQ-1"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-10",
+    "source": "foia_Kamp_Joseph_P.-HQ-10/Kamp_Joseph_P.-HQ-10"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-11",
+    "source": "foia_Kamp_Joseph_P.-HQ-11/Kamp_Joseph_P.-HQ-11"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-12",
+    "source": "foia_Kamp_Joseph_P.-HQ-12/Kamp_Joseph_P.-HQ-12"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-14",
+    "source": "foia_Kamp_Joseph_P.-HQ-14/Kamp_Joseph_P.-HQ-14"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-15",
+    "source": "foia_Kamp_Joseph_P.-HQ-15/Kamp_Joseph_P.-HQ-15"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-16",
+    "source": "foia_Kamp_Joseph_P.-HQ-16/Kamp_Joseph_P.-HQ-16"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-17",
+    "source": "foia_Kamp_Joseph_P.-HQ-17/Kamp_Joseph_P.-HQ-17"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-18",
+    "source": "foia_Kamp_Joseph_P.-HQ-18/Kamp_Joseph_P.-HQ-18"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-2",
+    "source": "foia_Kamp_Joseph_P.-HQ-2/Kamp_Joseph_P.-HQ-2"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-3",
+    "source": "foia_Kamp_Joseph_P.-HQ-3/Kamp_Joseph_P.-HQ-3"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-4",
+    "source": "foia_Kamp_Joseph_P.-HQ-4/Kamp_Joseph_P.-HQ-4"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-5",
+    "source": "foia_Kamp_Joseph_P.-HQ-5/Kamp_Joseph_P.-HQ-5"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-6",
+    "source": "foia_Kamp_Joseph_P.-HQ-6/Kamp_Joseph_P.-HQ-6"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-7",
+    "source": "foia_Kamp_Joseph_P.-HQ-7/Kamp_Joseph_P.-HQ-7"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-8",
+    "source": "foia_Kamp_Joseph_P.-HQ-8/Kamp_Joseph_P.-HQ-8"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-9",
+    "source": "foia_Kamp_Joseph_P.-HQ-9/Kamp_Joseph_P.-HQ-9"
+  },
+  {
+    "id": "Kamp_Joseph_P.-HQ-EBF636",
+    "source": "foia_Kamp_Joseph_P.-HQ-EBF636/Kamp_Joseph_P.-HQ-EBF636"
+  },
+  {
+    "id": "Kasper_John-HQ-1-1",
+    "source": "foia_Kasper_John-HQ-1-1/Kasper_John-HQ-1-1"
+  },
+  {
+    "id": "Kasper_John-HQ-1",
+    "source": "foia_Kasper_John-HQ-1/Kasper_John-HQ-1"
+  },
+  {
+    "id": "Kasper_John-HQ-10",
+    "source": "foia_Kasper_John-HQ-10/Kasper_John-HQ-10"
+  },
+  {
+    "id": "Kasper_John-HQ-11",
+    "source": "foia_Kasper_John-HQ-11/Kasper_John-HQ-11"
+  },
+  {
+    "id": "Kasper_John-HQ-12",
+    "source": "foia_Kasper_John-HQ-12/Kasper_John-HQ-12"
+  },
+  {
+    "id": "Kasper_John-HQ-13",
+    "source": "foia_Kasper_John-HQ-13/Kasper_John-HQ-13"
+  },
+  {
+    "id": "Kasper_John-HQ-14",
+    "source": "foia_Kasper_John-HQ-14/Kasper_John-HQ-14"
+  },
+  {
+    "id": "Kasper_John-HQ-15",
+    "source": "foia_Kasper_John-HQ-15/Kasper_John-HQ-15"
+  },
+  {
+    "id": "Kasper_John-HQ-16",
+    "source": "foia_Kasper_John-HQ-16/Kasper_John-HQ-16"
+  },
+  {
+    "id": "Kasper_John-HQ-17",
+    "source": "foia_Kasper_John-HQ-17/Kasper_John-HQ-17"
+  },
+  {
+    "id": "Kasper_John-HQ-2-2",
+    "source": "foia_Kasper_John-HQ-2-2/Kasper_John-HQ-2-2"
+  },
+  {
+    "id": "Kasper_John-HQ-2",
+    "source": "foia_Kasper_John-HQ-2/Kasper_John-HQ-2"
+  },
+  {
+    "id": "Kasper_John-HQ-3-3",
+    "source": "foia_Kasper_John-HQ-3-3/Kasper_John-HQ-3-3"
+  },
+  {
+    "id": "Kasper_John-HQ-3",
+    "source": "foia_Kasper_John-HQ-3/Kasper_John-HQ-3"
+  },
+  {
+    "id": "Kasper_John-HQ-4-4",
+    "source": "foia_Kasper_John-HQ-4-4/Kasper_John-HQ-4-4"
+  },
+  {
+    "id": "Kasper_John-HQ-4",
+    "source": "foia_Kasper_John-HQ-4/Kasper_John-HQ-4"
+  },
+  {
+    "id": "Kasper_John-HQ-5",
+    "source": "foia_Kasper_John-HQ-5/Kasper_John-HQ-5"
+  },
+  {
+    "id": "Kasper_John-HQ-6",
+    "source": "foia_Kasper_John-HQ-6/Kasper_John-HQ-6"
+  },
+  {
+    "id": "Kasper_John-HQ-7",
+    "source": "foia_Kasper_John-HQ-7/Kasper_John-HQ-7"
+  },
+  {
+    "id": "Kasper_John-HQ-8",
+    "source": "foia_Kasper_John-HQ-8/Kasper_John-HQ-8"
+  },
+  {
+    "id": "Kasper_John-HQ-9",
+    "source": "foia_Kasper_John-HQ-9/Kasper_John-HQ-9"
+  },
+  {
+    "id": "Kasper_John-HQ-EBF18",
+    "source": "foia_Kasper_John-HQ-EBF18/Kasper_John-HQ-EBF18"
+  },
+  {
+    "id": "Kasper_John-HQ-EBF321",
+    "source": "foia_Kasper_John-HQ-EBF321/Kasper_John-HQ-EBF321"
+  },
+  {
+    "id": "Kasper_John-HQ-EBF49",
+    "source": "foia_Kasper_John-HQ-EBF49/Kasper_John-HQ-EBF49"
+  },
+  {
+    "id": "Kasper_John-Knoxville-1",
+    "source": "foia_Kasper_John-Knoxville-1/Kasper_John-Knoxville-1"
+  },
+  {
+    "id": "Kasper_John-Knoxville-2",
+    "source": "foia_Kasper_John-Knoxville-2/Kasper_John-Knoxville-2"
+  },
+  {
+    "id": "Kasper_John-NYC-1",
+    "source": "foia_Kasper_John-NYC-1/Kasper_John-NYC-1"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-1",
+    "source": "foia_Kefauver_Estes-HQ-1/Kefauver_Estes-HQ-1"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-1A",
+    "source": "foia_Kefauver_Estes-HQ-1A/Kefauver_Estes-HQ-1A"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-2",
+    "source": "foia_Kefauver_Estes-HQ-2/Kefauver_Estes-HQ-2"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-3",
+    "source": "foia_Kefauver_Estes-HQ-3/Kefauver_Estes-HQ-3"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-4",
+    "source": "foia_Kefauver_Estes-HQ-4/Kefauver_Estes-HQ-4"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-5",
+    "source": "foia_Kefauver_Estes-HQ-5/Kefauver_Estes-HQ-5"
+  },
+  {
+    "id": "Kefauver_Estes-HQ-6",
+    "source": "foia_Kefauver_Estes-HQ-6/Kefauver_Estes-HQ-6"
+  },
+  {
+    "id": "Klaus_Samuel-HQ-1",
+    "source": "foia_Klaus_Samuel-HQ-1/Klaus_Samuel-HQ-1"
+  },
+  {
+    "id": "Koehl_Matt-Chicago-1",
+    "source": "foia_Koehl_Matt-Chicago-1/Koehl_Matt-Chicago-1"
+  },
+  {
+    "id": "Koehl_Matt-Chicago-2",
+    "source": "foia_Koehl_Matt-Chicago-2/Koehl_Matt-Chicago-2"
+  },
+  {
+    "id": "Koehl_Matt-Chicago-3",
+    "source": "foia_Koehl_Matt-Chicago-3/Koehl_Matt-Chicago-3"
+  },
+  {
+    "id": "Koehl_Matt-Chicago-4",
+    "source": "foia_Koehl_Matt-Chicago-4/Koehl_Matt-Chicago-4"
+  },
+  {
+    "id": "Koehl_Matt-Chicago-5",
+    "source": "foia_Koehl_Matt-Chicago-5/Koehl_Matt-Chicago-5"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-1",
+    "source": "foia_Kohlberg_Alfred-HQ-1/Kohlberg_Alfred-HQ-1"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-1A",
+    "source": "foia_Kohlberg_Alfred-HQ-1A/Kohlberg_Alfred-HQ-1A"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-2",
+    "source": "foia_Kohlberg_Alfred-HQ-2/Kohlberg_Alfred-HQ-2"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-3",
+    "source": "foia_Kohlberg_Alfred-HQ-3/Kohlberg_Alfred-HQ-3"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-4",
+    "source": "foia_Kohlberg_Alfred-HQ-4/Kohlberg_Alfred-HQ-4"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-EBF-31",
+    "source": "foia_Kohlberg_Alfred-HQ-EBF-31/Kohlberg_Alfred-HQ-EBF-31"
+  },
+  {
+    "id": "Kohlberg_Alfred-HQ-EBF-37",
+    "source": "foia_Kohlberg_Alfred-HQ-EBF-37/Kohlberg_Alfred-HQ-EBF-37"
+  },
+  {
+    "id": "Korean_Air_Flight_007-HQ-1",
+    "source": "foia_Korean_Air_Flight_007-HQ-1/Korean_Air_Flight_007-HQ-1"
+  },
+  {
+    "id": "Lasky_Victor_HQ-1",
+    "source": "foia_Lasky_Victor_HQ-1/Lasky_Victor_HQ-1"
+  },
+  {
+    "id": "Lasky_Victor_HQ-1A",
+    "source": "foia_Lasky_Victor_HQ-1A/Lasky_Victor_HQ-1A"
+  },
+  {
+    "id": "Lautner_John-HQ-1",
+    "source": "foia_Lautner_John-HQ-1/Lautner_John-HQ-1"
+  },
+  {
+    "id": "Lautner_John-NYC-1",
+    "source": "foia_Lautner_John-NYC-1/Lautner_John-NYC-1"
+  },
+  {
+    "id": "Lautner_John-NYC-2",
+    "source": "foia_Lautner_John-NYC-2/Lautner_John-NYC-2"
+  },
+  {
+    "id": "Lautner_John-NYC-2a",
+    "source": "foia_Lautner_John-NYC-2a/Lautner_John-NYC-2a"
+  },
+  {
+    "id": "Lautner_John-NYC-8",
+    "source": "foia_Lautner_John-NYC-8/Lautner_John-NYC-8"
+  },
+  {
+    "id": "Lautner_John-NYC-A2",
+    "source": "foia_Lautner_John-NYC-A2/Lautner_John-NYC-A2"
+  },
+  {
+    "id": "LeFevre_Robert_T._Denver",
+    "source": "foia_LeFevre_Robert_T._Denver/LeFevre_Robert_T._Denver"
+  },
+  {
+    "id": "League_of_Women_Voters_Los_Angeles-1",
+    "source": "foia_League_of_Women_Voters_Los_Angeles-1/League_of_Women_Voters_Los_Angeles-1"
+  },
+  {
+    "id": "Lingo_Albert_J.-HQ-1",
+    "source": "foia_Lingo_Albert_J.-HQ-1/Lingo_Albert_J.-HQ-1"
+  },
+  {
+    "id": "MIBURN-HQ-1_thru_9",
+    "source": "foia_MIBURN-HQ-1_thru_9/MIBURN-HQ-1_thru_9"
+  },
+  {
+    "id": "Madole_James-HQ-1",
+    "source": "foia_Madole_James-HQ-1/Madole_James-HQ-1"
+  },
+  {
+    "id": "Madole_James-HQ-2",
+    "source": "foia_Madole_James-HQ-2/Madole_James-HQ-2"
+  },
+  {
+    "id": "Madole_James-HQ-3",
+    "source": "foia_Madole_James-HQ-3/Madole_James-HQ-3"
+  },
+  {
+    "id": "Madole_James-San_Francisco-1",
+    "source": "foia_Madole_James-San_Francisco-1/Madole_James-San_Francisco-1"
+  },
+  {
+    "id": "Magnuson_Warren_G._HQ-1",
+    "source": "foia_Magnuson_Warren_G._HQ-1/Magnuson_Warren_G._HQ-1"
+  },
+  {
+    "id": "Marshall_Thurgood-HQ_1_thru_11",
+    "source": "foia_Marshall_Thurgood-HQ_1_thru_11/Marshall_Thurgood-HQ_1_thru_11"
+  },
+  {
+    "id": "McAllister_Andrew_B._HQ-1",
+    "source": "foia_McAllister_Andrew_B._HQ-1/McAllister_Andrew_B._HQ-1"
+  },
+  {
+    "id": "McBrearty_Ardie-HQ-1",
+    "source": "foia_McBrearty_Ardie-HQ-1/McBrearty_Ardie-HQ-1"
+  },
+  {
+    "id": "McBrearty_Ardie-HQ-2",
+    "source": "foia_McBrearty_Ardie-HQ-2/McBrearty_Ardie-HQ-2"
+  },
+  {
+    "id": "McCarthy_Joseph-Edward_Posniak-HQ-1",
+    "source": "foia_McCarthy_Joseph-Edward_Posniak-HQ-1/McCarthy_Joseph-Edward_Posniak-HQ-1"
+  },
+  {
+    "id": "McCarthy_Joseph-Edward_Posniak-HQ-2",
+    "source": "foia_McCarthy_Joseph-Edward_Posniak-HQ-2/McCarthy_Joseph-Edward_Posniak-HQ-2"
+  },
+  {
+    "id": "McCarthy_Joseph-HQ-1",
+    "source": "foia_McCarthy_Joseph-HQ-1/McCarthy_Joseph-HQ-1"
+  },
+  {
+    "id": "McCarthy_Joseph-HQ-1a",
+    "source": "foia_McCarthy_Joseph-HQ-1a/McCarthy_Joseph-HQ-1a"
+  },
+  {
+    "id": "McCarthy_Joseph-HQ-2",
+    "source": "foia_McCarthy_Joseph-HQ-2/McCarthy_Joseph-HQ-2"
+  },
+  {
+    "id": "McCarthy_Joseph-HQ-3",
+    "source": "foia_McCarthy_Joseph-HQ-3/McCarthy_Joseph-HQ-3"
+  },
+  {
+    "id": "McCarthy_Joseph-HQ-4",
+    "source": "foia_McCarthy_Joseph-HQ-4/McCarthy_Joseph-HQ-4"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-20",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-20/McGinley_Conde_J.-CEA-HQ-20"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-21",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-21/McGinley_Conde_J.-CEA-HQ-21"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-22",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-22/McGinley_Conde_J.-CEA-HQ-22"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-24",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-24/McGinley_Conde_J.-CEA-HQ-24"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-25",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-25/McGinley_Conde_J.-CEA-HQ-25"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-26",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-26/McGinley_Conde_J.-CEA-HQ-26"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-HQ-27",
+    "source": "foia_McGinley_Conde_J.-CEA-HQ-27/McGinley_Conde_J.-CEA-HQ-27"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-NYC-1",
+    "source": "foia_McGinley_Conde_J.-CEA-NYC-1/McGinley_Conde_J.-CEA-NYC-1"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-NYC-1A",
+    "source": "foia_McGinley_Conde_J.-CEA-NYC-1A/McGinley_Conde_J.-CEA-NYC-1A"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-NYC-2",
+    "source": "foia_McGinley_Conde_J.-CEA-NYC-2/McGinley_Conde_J.-CEA-NYC-2"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-NYC-2A",
+    "source": "foia_McGinley_Conde_J.-CEA-NYC-2A/McGinley_Conde_J.-CEA-NYC-2A"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-NYC-3",
+    "source": "foia_McGinley_Conde_J.-CEA-NYC-3/McGinley_Conde_J.-CEA-NYC-3"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-1-1",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-1-1/McGinley_Conde_J.-CEA-Newark-1-1"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-1-2",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-1-2/McGinley_Conde_J.-CEA-Newark-1-2"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-1-3",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-1-3/McGinley_Conde_J.-CEA-Newark-1-3"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-1",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-1/McGinley_Conde_J.-CEA-Newark-1"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-1A",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-1A/McGinley_Conde_J.-CEA-Newark-1A"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-2",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-2/McGinley_Conde_J.-CEA-Newark-2"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-3-1",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-3-1/McGinley_Conde_J.-CEA-Newark-3-1"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-3",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-3/McGinley_Conde_J.-CEA-Newark-3"
+  },
+  {
+    "id": "McGinley_Conde_J.-CEA-Newark-4",
+    "source": "foia_McGinley_Conde_J.-CEA-Newark-4/McGinley_Conde_J.-CEA-Newark-4"
+  },
+  {
+    "id": "McGraw-Hill_Publishing_Co.-HQ-1",
+    "source": "foia_McGraw-Hill_Publishing_Co.-HQ-1/McGraw-Hill_Publishing_Co.-HQ-1"
+  },
+  {
+    "id": "McGraw-Hill_Publishing_Co.-HQ-2",
+    "source": "foia_McGraw-Hill_Publishing_Co.-HQ-2/McGraw-Hill_Publishing_Co.-HQ-2"
+  },
+  {
+    "id": "Mertig_Kurt-HQ-1",
+    "source": "foia_Mertig_Kurt-HQ-1/Mertig_Kurt-HQ-1"
+  },
+  {
+    "id": "Mertig_Kurt-HQ-2",
+    "source": "foia_Mertig_Kurt-HQ-2/Mertig_Kurt-HQ-2"
+  },
+  {
+    "id": "Mertig_Kurt-HQ-3",
+    "source": "foia_Mertig_Kurt-HQ-3/Mertig_Kurt-HQ-3"
+  },
+  {
+    "id": "Mertig_Kurt-HQ-EBF133",
+    "source": "foia_Mertig_Kurt-HQ-EBF133/Mertig_Kurt-HQ-EBF133"
+  },
+  {
+    "id": "Mertig_Kurt-HQ-EBF135",
+    "source": "foia_Mertig_Kurt-HQ-EBF135/Mertig_Kurt-HQ-EBF135"
+  },
+  {
+    "id": "Miller_Manuel_S._HQ-1",
+    "source": "foia_Miller_Manuel_S._HQ-1/Miller_Manuel_S._HQ-1"
+  },
+  {
+    "id": "Minutemen-NYC-1",
+    "source": "foia_Minutemen-NYC-1/Minutemen-NYC-1"
+  },
+  {
+    "id": "Minutemen-NYC-10",
+    "source": "foia_Minutemen-NYC-10/Minutemen-NYC-10"
+  },
+  {
+    "id": "Minutemen-NYC-11",
+    "source": "foia_Minutemen-NYC-11/Minutemen-NYC-11"
+  },
+  {
+    "id": "Minutemen-NYC-12",
+    "source": "foia_Minutemen-NYC-12/Minutemen-NYC-12"
+  },
+  {
+    "id": "Minutemen-NYC-2",
+    "source": "foia_Minutemen-NYC-2/Minutemen-NYC-2"
+  },
+  {
+    "id": "Minutemen-NYC-3",
+    "source": "foia_Minutemen-NYC-3/Minutemen-NYC-3"
+  },
+  {
+    "id": "Minutemen-NYC-4",
+    "source": "foia_Minutemen-NYC-4/Minutemen-NYC-4"
+  },
+  {
+    "id": "Minutemen-NYC-5",
+    "source": "foia_Minutemen-NYC-5/Minutemen-NYC-5"
+  },
+  {
+    "id": "Minutemen-NYC-6",
+    "source": "foia_Minutemen-NYC-6/Minutemen-NYC-6"
+  },
+  {
+    "id": "Minutemen-NYC-7",
+    "source": "foia_Minutemen-NYC-7/Minutemen-NYC-7"
+  },
+  {
+    "id": "Minutemen-NYC-8",
+    "source": "foia_Minutemen-NYC-8/Minutemen-NYC-8"
+  },
+  {
+    "id": "Minutemen-NYC-9",
+    "source": "foia_Minutemen-NYC-9/Minutemen-NYC-9"
+  },
+  {
+    "id": "Montgomery_County_AL_Citizens_Council-HQ-1",
+    "source": "foia_Montgomery_County_AL_Citizens_Council-HQ-1/Montgomery_County_AL_Citizens_Council-HQ-1"
+  },
+  {
+    "id": "Montgomery_County_AL_Citizens_Council-HQ-1A",
+    "source": "foia_Montgomery_County_AL_Citizens_Council-HQ-1A/Montgomery_County_AL_Citizens_Council-HQ-1A"
+  },
+  {
+    "id": "Montgomery_County_AL_Citizens_Council-HQ-2",
+    "source": "foia_Montgomery_County_AL_Citizens_Council-HQ-2/Montgomery_County_AL_Citizens_Council-HQ-2"
+  },
+  {
+    "id": "Mower_Dennis_Patrick_HQ-1",
+    "source": "foia_Mower_Dennis_Patrick_HQ-1/Mower_Dennis_Patrick_HQ-1"
+  },
+  {
+    "id": "Mullins_Eustace_C.-HQ-1",
+    "source": "foia_Mullins_Eustace_C.-HQ-1/Mullins_Eustace_C.-HQ-1"
+  },
+  {
+    "id": "Mullins_Eustace_C.-HQ-2",
+    "source": "foia_Mullins_Eustace_C.-HQ-2/Mullins_Eustace_C.-HQ-2"
+  },
+  {
+    "id": "Mullins_Eustace_C.-HQ-3",
+    "source": "foia_Mullins_Eustace_C.-HQ-3/Mullins_Eustace_C.-HQ-3"
+  },
+  {
+    "id": "Mullins_Eustace_C.-HQ-4",
+    "source": "foia_Mullins_Eustace_C.-HQ-4/Mullins_Eustace_C.-HQ-4"
+  },
+  {
+    "id": "Mullins_Eustace_C.-NYC-1",
+    "source": "foia_Mullins_Eustace_C.-NYC-1/Mullins_Eustace_C.-NYC-1"
+  },
+  {
+    "id": "Mullins_Eustace_C.-Richmond-1",
+    "source": "foia_Mullins_Eustace_C.-Richmond-1/Mullins_Eustace_C.-Richmond-1"
+  },
+  {
+    "id": "NRP-HQ-1",
+    "source": "foia_NRP-HQ-1/NRP-HQ-1"
+  },
+  {
+    "id": "NRP-HQ-10",
+    "source": "foia_NRP-HQ-10/NRP-HQ-10"
+  },
+  {
+    "id": "NRP-HQ-11",
+    "source": "foia_NRP-HQ-11/NRP-HQ-11"
+  },
+  {
+    "id": "NRP-HQ-12",
+    "source": "foia_NRP-HQ-12/NRP-HQ-12"
+  },
+  {
+    "id": "NRP-HQ-13",
+    "source": "foia_NRP-HQ-13/NRP-HQ-13"
+  },
+  {
+    "id": "NRP-HQ-14",
+    "source": "foia_NRP-HQ-14/NRP-HQ-14"
+  },
+  {
+    "id": "NRP-HQ-15",
+    "source": "foia_NRP-HQ-15/NRP-HQ-15"
+  },
+  {
+    "id": "NRP-HQ-16",
+    "source": "foia_NRP-HQ-16/NRP-HQ-16"
+  },
+  {
+    "id": "NRP-HQ-17",
+    "source": "foia_NRP-HQ-17/NRP-HQ-17"
+  },
+  {
+    "id": "NRP-HQ-5",
+    "source": "foia_NRP-HQ-5/NRP-HQ-5"
+  },
+  {
+    "id": "NRP-HQ-6",
+    "source": "foia_NRP-HQ-6/NRP-HQ-6"
+  },
+  {
+    "id": "NRP-HQ-7",
+    "source": "foia_NRP-HQ-7/NRP-HQ-7"
+  },
+  {
+    "id": "NRP-HQ-8",
+    "source": "foia_NRP-HQ-8/NRP-HQ-8"
+  },
+  {
+    "id": "NRP-HQ-9",
+    "source": "foia_NRP-HQ-9/NRP-HQ-9"
+  },
+  {
+    "id": "NRP-HQ-EBF96",
+    "source": "foia_NRP-HQ-EBF96/NRP-HQ-EBF96"
+  },
+  {
+    "id": "NRP-NYC-1",
+    "source": "foia_NRP-NYC-1/NRP-NYC-1"
+  },
+  {
+    "id": "NRP-NYC-10",
+    "source": "foia_NRP-NYC-10/NRP-NYC-10"
+  },
+  {
+    "id": "NRP-NYC-11",
+    "source": "foia_NRP-NYC-11/NRP-NYC-11"
+  },
+  {
+    "id": "NRP-NYC-12",
+    "source": "foia_NRP-NYC-12/NRP-NYC-12"
+  },
+  {
+    "id": "NRP-NYC-13",
+    "source": "foia_NRP-NYC-13/NRP-NYC-13"
+  },
+  {
+    "id": "NRP-NYC-14",
+    "source": "foia_NRP-NYC-14/NRP-NYC-14"
+  },
+  {
+    "id": "NRP-NYC-15",
+    "source": "foia_NRP-NYC-15/NRP-NYC-15"
+  },
+  {
+    "id": "NRP-NYC-16",
+    "source": "foia_NRP-NYC-16/NRP-NYC-16"
+  },
+  {
+    "id": "NRP-NYC-17",
+    "source": "foia_NRP-NYC-17/NRP-NYC-17"
+  },
+  {
+    "id": "NRP-NYC-18",
+    "source": "foia_NRP-NYC-18/NRP-NYC-18"
+  },
+  {
+    "id": "NRP-NYC-19",
+    "source": "foia_NRP-NYC-19/NRP-NYC-19"
+  },
+  {
+    "id": "NRP-NYC-1B",
+    "source": "foia_NRP-NYC-1B/NRP-NYC-1B"
+  },
+  {
+    "id": "NRP-NYC-2",
+    "source": "foia_NRP-NYC-2/NRP-NYC-2"
+  },
+  {
+    "id": "NRP-NYC-20",
+    "source": "foia_NRP-NYC-20/NRP-NYC-20"
+  },
+  {
+    "id": "NRP-NYC-21",
+    "source": "foia_NRP-NYC-21/NRP-NYC-21"
+  },
+  {
+    "id": "NRP-NYC-22",
+    "source": "foia_NRP-NYC-22/NRP-NYC-22"
+  },
+  {
+    "id": "NRP-NYC-23",
+    "source": "foia_NRP-NYC-23/NRP-NYC-23"
+  },
+  {
+    "id": "NRP-NYC-24",
+    "source": "foia_NRP-NYC-24/NRP-NYC-24"
+  },
+  {
+    "id": "NRP-NYC-25",
+    "source": "foia_NRP-NYC-25/NRP-NYC-25"
+  },
+  {
+    "id": "NRP-NYC-3",
+    "source": "foia_NRP-NYC-3/NRP-NYC-3"
+  },
+  {
+    "id": "NRP-NYC-4",
+    "source": "foia_NRP-NYC-4/NRP-NYC-4"
+  },
+  {
+    "id": "NRP-NYC-5",
+    "source": "foia_NRP-NYC-5/NRP-NYC-5"
+  },
+  {
+    "id": "NRP-NYC-6",
+    "source": "foia_NRP-NYC-6/NRP-NYC-6"
+  },
+  {
+    "id": "NRP-NYC-7",
+    "source": "foia_NRP-NYC-7/NRP-NYC-7"
+  },
+  {
+    "id": "NRP-NYC-8",
+    "source": "foia_NRP-NYC-8/NRP-NYC-8"
+  },
+  {
+    "id": "NRP-NYC-9",
+    "source": "foia_NRP-NYC-9/NRP-NYC-9"
+  },
+  {
+    "id": "NSRP-Chicago-1",
+    "source": "foia_NSRP-Chicago-1/NSRP-Chicago-1"
+  },
+  {
+    "id": "NSRP-Chicago-10",
+    "source": "foia_NSRP-Chicago-10/NSRP-Chicago-10"
+  },
+  {
+    "id": "NSRP-Chicago-11",
+    "source": "foia_NSRP-Chicago-11/NSRP-Chicago-11"
+  },
+  {
+    "id": "NSRP-Chicago-12",
+    "source": "foia_NSRP-Chicago-12/NSRP-Chicago-12"
+  },
+  {
+    "id": "NSRP-Chicago-13",
+    "source": "foia_NSRP-Chicago-13/NSRP-Chicago-13"
+  },
+  {
+    "id": "NSRP-Chicago-14",
+    "source": "foia_NSRP-Chicago-14/NSRP-Chicago-14"
+  },
+  {
+    "id": "NSRP-Chicago-15",
+    "source": "foia_NSRP-Chicago-15/NSRP-Chicago-15"
+  },
+  {
+    "id": "NSRP-Chicago-16",
+    "source": "foia_NSRP-Chicago-16/NSRP-Chicago-16"
+  },
+  {
+    "id": "NSRP-Chicago-17",
+    "source": "foia_NSRP-Chicago-17/NSRP-Chicago-17"
+  },
+  {
+    "id": "NSRP-Chicago-18-19",
+    "source": "foia_NSRP-Chicago-18-19/NSRP-Chicago-18-19"
+  },
+  {
+    "id": "NSRP-Chicago-1A",
+    "source": "foia_NSRP-Chicago-1A/NSRP-Chicago-1A"
+  },
+  {
+    "id": "NSRP-Chicago-2",
+    "source": "foia_NSRP-Chicago-2/NSRP-Chicago-2"
+  },
+  {
+    "id": "NSRP-Chicago-2A",
+    "source": "foia_NSRP-Chicago-2A/NSRP-Chicago-2A"
+  },
+  {
+    "id": "NSRP-Chicago-3",
+    "source": "foia_NSRP-Chicago-3/NSRP-Chicago-3"
+  },
+  {
+    "id": "NSRP-Chicago-3A",
+    "source": "foia_NSRP-Chicago-3A/NSRP-Chicago-3A"
+  },
+  {
+    "id": "NSRP-Chicago-4",
+    "source": "foia_NSRP-Chicago-4/NSRP-Chicago-4"
+  },
+  {
+    "id": "NSRP-Chicago-4A",
+    "source": "foia_NSRP-Chicago-4A/NSRP-Chicago-4A"
+  },
+  {
+    "id": "NSRP-Chicago-5-1",
+    "source": "foia_NSRP-Chicago-5-1/NSRP-Chicago-5-1"
+  },
+  {
+    "id": "NSRP-Chicago-5-2",
+    "source": "foia_NSRP-Chicago-5-2/NSRP-Chicago-5-2"
+  },
+  {
+    "id": "NSRP-Chicago-5",
+    "source": "foia_NSRP-Chicago-5/NSRP-Chicago-5"
+  },
+  {
+    "id": "NSRP-Chicago-5A",
+    "source": "foia_NSRP-Chicago-5A/NSRP-Chicago-5A"
+  },
+  {
+    "id": "NSRP-Chicago-6",
+    "source": "foia_NSRP-Chicago-6/NSRP-Chicago-6"
+  },
+  {
+    "id": "NSRP-Chicago-6A",
+    "source": "foia_NSRP-Chicago-6A/NSRP-Chicago-6A"
+  },
+  {
+    "id": "NSRP-Chicago-7",
+    "source": "foia_NSRP-Chicago-7/NSRP-Chicago-7"
+  },
+  {
+    "id": "NSRP-Chicago-8",
+    "source": "foia_NSRP-Chicago-8/NSRP-Chicago-8"
+  },
+  {
+    "id": "NSRP-Chicago-9",
+    "source": "foia_NSRP-Chicago-9/NSRP-Chicago-9"
+  },
+  {
+    "id": "NSRP-NYC-10",
+    "source": "foia_NSRP-NYC-10/NSRP-NYC-10"
+  },
+  {
+    "id": "NSRP-NYC-11",
+    "source": "foia_NSRP-NYC-11/NSRP-NYC-11"
+  },
+  {
+    "id": "NSRP-NYC-4",
+    "source": "foia_NSRP-NYC-4/NSRP-NYC-4"
+  },
+  {
+    "id": "NSRP-NYC-5",
+    "source": "foia_NSRP-NYC-5/NSRP-NYC-5"
+  },
+  {
+    "id": "NSRP-NYC-6",
+    "source": "foia_NSRP-NYC-6/NSRP-NYC-6"
+  },
+  {
+    "id": "NSRP-NYC-7",
+    "source": "foia_NSRP-NYC-7/NSRP-NYC-7"
+  },
+  {
+    "id": "NSRP-NYC-8",
+    "source": "foia_NSRP-NYC-8/NSRP-NYC-8"
+  },
+  {
+    "id": "NSRP-NYC-9",
+    "source": "foia_NSRP-NYC-9/NSRP-NYC-9"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-1",
+    "source": "foia_National_Alliance_aka_NYA-HQ-1/National_Alliance_aka_NYA-HQ-1"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-10",
+    "source": "foia_National_Alliance_aka_NYA-HQ-10/National_Alliance_aka_NYA-HQ-10"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-11",
+    "source": "foia_National_Alliance_aka_NYA-HQ-11/National_Alliance_aka_NYA-HQ-11"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-12",
+    "source": "foia_National_Alliance_aka_NYA-HQ-12/National_Alliance_aka_NYA-HQ-12"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-13",
+    "source": "foia_National_Alliance_aka_NYA-HQ-13/National_Alliance_aka_NYA-HQ-13"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-2",
+    "source": "foia_National_Alliance_aka_NYA-HQ-2/National_Alliance_aka_NYA-HQ-2"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-3",
+    "source": "foia_National_Alliance_aka_NYA-HQ-3/National_Alliance_aka_NYA-HQ-3"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-4",
+    "source": "foia_National_Alliance_aka_NYA-HQ-4/National_Alliance_aka_NYA-HQ-4"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-5",
+    "source": "foia_National_Alliance_aka_NYA-HQ-5/National_Alliance_aka_NYA-HQ-5"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-6",
+    "source": "foia_National_Alliance_aka_NYA-HQ-6/National_Alliance_aka_NYA-HQ-6"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-7",
+    "source": "foia_National_Alliance_aka_NYA-HQ-7/National_Alliance_aka_NYA-HQ-7"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-8",
+    "source": "foia_National_Alliance_aka_NYA-HQ-8/National_Alliance_aka_NYA-HQ-8"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-HQ-9",
+    "source": "foia_National_Alliance_aka_NYA-HQ-9/National_Alliance_aka_NYA-HQ-9"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-NYC-1",
+    "source": "foia_National_Alliance_aka_NYA-NYC-1/National_Alliance_aka_NYA-NYC-1"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-NYC-2",
+    "source": "foia_National_Alliance_aka_NYA-NYC-2/National_Alliance_aka_NYA-NYC-2"
+  },
+  {
+    "id": "National_Alliance_aka_NYA-NYC-3",
+    "source": "foia_National_Alliance_aka_NYA-NYC-3/National_Alliance_aka_NYA-NYC-3"
+  },
+  {
+    "id": "National_Assn_Advancement_White_People-HQ-1",
+    "source": "foia_National_Assn_Advancement_White_People-HQ-1/National_Assn_Advancement_White_People-HQ-1"
+  },
+  {
+    "id": "National_Assn_For_Advancement_White_People-St_Louis-1",
+    "source": "foia_National_Assn_For_Advancement_White_People-St_Louis-1/National_Assn_For_Advancement_White_People-St_Louis-1"
+  },
+  {
+    "id": "National_Citizens_Protective_Assn-HQ-1",
+    "source": "foia_National_Citizens_Protective_Assn-HQ-1/National_Citizens_Protective_Assn-HQ-1"
+  },
+  {
+    "id": "National_Citizens_Protective_Assn-Philly-1",
+    "source": "foia_National_Citizens_Protective_Assn-Philly-1/National_Citizens_Protective_Assn-Philly-1"
+  },
+  {
+    "id": "National_Citizens_Protective_Assn-St._Louis-1",
+    "source": "foia_National_Citizens_Protective_Assn-St._Louis-1/National_Citizens_Protective_Assn-St._Louis-1"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-1",
+    "source": "foia_National_Council_of_Churches-HQ-1/National_Council_of_Churches-HQ-1"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-10",
+    "source": "foia_National_Council_of_Churches-HQ-10/National_Council_of_Churches-HQ-10"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-11",
+    "source": "foia_National_Council_of_Churches-HQ-11/National_Council_of_Churches-HQ-11"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-12",
+    "source": "foia_National_Council_of_Churches-HQ-12/National_Council_of_Churches-HQ-12"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-13",
+    "source": "foia_National_Council_of_Churches-HQ-13/National_Council_of_Churches-HQ-13"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-14",
+    "source": "foia_National_Council_of_Churches-HQ-14/National_Council_of_Churches-HQ-14"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-15",
+    "source": "foia_National_Council_of_Churches-HQ-15/National_Council_of_Churches-HQ-15"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-16",
+    "source": "foia_National_Council_of_Churches-HQ-16/National_Council_of_Churches-HQ-16"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-17",
+    "source": "foia_National_Council_of_Churches-HQ-17/National_Council_of_Churches-HQ-17"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-18",
+    "source": "foia_National_Council_of_Churches-HQ-18/National_Council_of_Churches-HQ-18"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-19",
+    "source": "foia_National_Council_of_Churches-HQ-19/National_Council_of_Churches-HQ-19"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-1A",
+    "source": "foia_National_Council_of_Churches-HQ-1A/National_Council_of_Churches-HQ-1A"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-2",
+    "source": "foia_National_Council_of_Churches-HQ-2/National_Council_of_Churches-HQ-2"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-20",
+    "source": "foia_National_Council_of_Churches-HQ-20/National_Council_of_Churches-HQ-20"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-21",
+    "source": "foia_National_Council_of_Churches-HQ-21/National_Council_of_Churches-HQ-21"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-22",
+    "source": "foia_National_Council_of_Churches-HQ-22/National_Council_of_Churches-HQ-22"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-23",
+    "source": "foia_National_Council_of_Churches-HQ-23/National_Council_of_Churches-HQ-23"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-24",
+    "source": "foia_National_Council_of_Churches-HQ-24/National_Council_of_Churches-HQ-24"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-25",
+    "source": "foia_National_Council_of_Churches-HQ-25/National_Council_of_Churches-HQ-25"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-26",
+    "source": "foia_National_Council_of_Churches-HQ-26/National_Council_of_Churches-HQ-26"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-27",
+    "source": "foia_National_Council_of_Churches-HQ-27/National_Council_of_Churches-HQ-27"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-28",
+    "source": "foia_National_Council_of_Churches-HQ-28/National_Council_of_Churches-HQ-28"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-29",
+    "source": "foia_National_Council_of_Churches-HQ-29/National_Council_of_Churches-HQ-29"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-3",
+    "source": "foia_National_Council_of_Churches-HQ-3/National_Council_of_Churches-HQ-3"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-30",
+    "source": "foia_National_Council_of_Churches-HQ-30/National_Council_of_Churches-HQ-30"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-4",
+    "source": "foia_National_Council_of_Churches-HQ-4/National_Council_of_Churches-HQ-4"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-5",
+    "source": "foia_National_Council_of_Churches-HQ-5/National_Council_of_Churches-HQ-5"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-6",
+    "source": "foia_National_Council_of_Churches-HQ-6/National_Council_of_Churches-HQ-6"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-7",
+    "source": "foia_National_Council_of_Churches-HQ-7/National_Council_of_Churches-HQ-7"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-8",
+    "source": "foia_National_Council_of_Churches-HQ-8/National_Council_of_Churches-HQ-8"
+  },
+  {
+    "id": "National_Council_of_Churches-HQ-9",
+    "source": "foia_National_Council_of_Churches-HQ-9/National_Council_of_Churches-HQ-9"
+  },
+  {
+    "id": "National_Goals_Inc-John_Rees-Newark-1",
+    "source": "foia_National_Goals_Inc-John_Rees-Newark-1/National_Goals_Inc-John_Rees-Newark-1"
+  },
+  {
+    "id": "National_Goals_Inc-John_Rees-Newark-2",
+    "source": "foia_National_Goals_Inc-John_Rees-Newark-2/National_Goals_Inc-John_Rees-Newark-2"
+  },
+  {
+    "id": "National_Indignation_Convention-Dallas-1",
+    "source": "foia_National_Indignation_Convention-Dallas-1/National_Indignation_Convention-Dallas-1"
+  },
+  {
+    "id": "National_Indignation_Convention-Dallas-2",
+    "source": "foia_National_Indignation_Convention-Dallas-2/National_Indignation_Convention-Dallas-2"
+  },
+  {
+    "id": "National_Indignation_Convention-HQ-1",
+    "source": "foia_National_Indignation_Convention-HQ-1/National_Indignation_Convention-HQ-1"
+  },
+  {
+    "id": "National_Indignation_Convention-San_Antonio-1",
+    "source": "foia_National_Indignation_Convention-San_Antonio-1/National_Indignation_Convention-San_Antonio-1"
+  },
+  {
+    "id": "National_Knights_KKK-1",
+    "source": "foia_National_Knights_KKK-1/National_Knights_KKK-1"
+  },
+  {
+    "id": "National_Knights_KKK-10",
+    "source": "foia_National_Knights_KKK-10/National_Knights_KKK-10"
+  },
+  {
+    "id": "National_Knights_KKK-11",
+    "source": "foia_National_Knights_KKK-11/National_Knights_KKK-11"
+  },
+  {
+    "id": "National_Knights_KKK-12",
+    "source": "foia_National_Knights_KKK-12/National_Knights_KKK-12"
+  },
+  {
+    "id": "National_Knights_KKK-13",
+    "source": "foia_National_Knights_KKK-13/National_Knights_KKK-13"
+  },
+  {
+    "id": "National_Knights_KKK-14",
+    "source": "foia_National_Knights_KKK-14/National_Knights_KKK-14"
+  },
+  {
+    "id": "National_Knights_KKK-15",
+    "source": "foia_National_Knights_KKK-15/National_Knights_KKK-15"
+  },
+  {
+    "id": "National_Knights_KKK-16",
+    "source": "foia_National_Knights_KKK-16/National_Knights_KKK-16"
+  },
+  {
+    "id": "National_Knights_KKK-17",
+    "source": "foia_National_Knights_KKK-17/National_Knights_KKK-17"
+  },
+  {
+    "id": "National_Knights_KKK-18",
+    "source": "foia_National_Knights_KKK-18/National_Knights_KKK-18"
+  },
+  {
+    "id": "National_Knights_KKK-19",
+    "source": "foia_National_Knights_KKK-19/National_Knights_KKK-19"
+  },
+  {
+    "id": "National_Knights_KKK-2",
+    "source": "foia_National_Knights_KKK-2/National_Knights_KKK-2"
+  },
+  {
+    "id": "National_Knights_KKK-20",
+    "source": "foia_National_Knights_KKK-20/National_Knights_KKK-20"
+  },
+  {
+    "id": "National_Knights_KKK-21",
+    "source": "foia_National_Knights_KKK-21/National_Knights_KKK-21"
+  },
+  {
+    "id": "National_Knights_KKK-22",
+    "source": "foia_National_Knights_KKK-22/National_Knights_KKK-22"
+  },
+  {
+    "id": "National_Knights_KKK-23",
+    "source": "foia_National_Knights_KKK-23/National_Knights_KKK-23"
+  },
+  {
+    "id": "National_Knights_KKK-24",
+    "source": "foia_National_Knights_KKK-24/National_Knights_KKK-24"
+  },
+  {
+    "id": "National_Knights_KKK-25",
+    "source": "foia_National_Knights_KKK-25/National_Knights_KKK-25"
+  },
+  {
+    "id": "National_Knights_KKK-26",
+    "source": "foia_National_Knights_KKK-26/National_Knights_KKK-26"
+  },
+  {
+    "id": "National_Knights_KKK-27",
+    "source": "foia_National_Knights_KKK-27/National_Knights_KKK-27"
+  },
+  {
+    "id": "National_Knights_KKK-28",
+    "source": "foia_National_Knights_KKK-28/National_Knights_KKK-28"
+  },
+  {
+    "id": "National_Knights_KKK-29",
+    "source": "foia_National_Knights_KKK-29/National_Knights_KKK-29"
+  },
+  {
+    "id": "National_Knights_KKK-3",
+    "source": "foia_National_Knights_KKK-3/National_Knights_KKK-3"
+  },
+  {
+    "id": "National_Knights_KKK-30",
+    "source": "foia_National_Knights_KKK-30/National_Knights_KKK-30"
+  },
+  {
+    "id": "National_Knights_KKK-31",
+    "source": "foia_National_Knights_KKK-31/National_Knights_KKK-31"
+  },
+  {
+    "id": "National_Knights_KKK-32",
+    "source": "foia_National_Knights_KKK-32/National_Knights_KKK-32"
+  },
+  {
+    "id": "National_Knights_KKK-4",
+    "source": "foia_National_Knights_KKK-4/National_Knights_KKK-4"
+  },
+  {
+    "id": "National_Knights_KKK-5",
+    "source": "foia_National_Knights_KKK-5/National_Knights_KKK-5"
+  },
+  {
+    "id": "National_Knights_KKK-6",
+    "source": "foia_National_Knights_KKK-6/National_Knights_KKK-6"
+  },
+  {
+    "id": "National_Knights_KKK-7",
+    "source": "foia_National_Knights_KKK-7/National_Knights_KKK-7"
+  },
+  {
+    "id": "National_Knights_KKK-8",
+    "source": "foia_National_Knights_KKK-8/National_Knights_KKK-8"
+  },
+  {
+    "id": "National_Knights_KKK-9",
+    "source": "foia_National_Knights_KKK-9/National_Knights_KKK-9"
+  },
+  {
+    "id": "National_Renaissance_Party-HQ-1-1",
+    "source": "foia_National_Renaissance_Party-HQ-1-1/National_Renaissance_Party-HQ-1-1"
+  },
+  {
+    "id": "National_Rifle_Association-HQ-1",
+    "source": "foia_National_Rifle_Association-HQ-1/National_Rifle_Association-HQ-1"
+  },
+  {
+    "id": "Nationalist_Conservative_Party-Wernecke-Chicago-1",
+    "source": "foia_Nationalist_Conservative_Party-Wernecke-Chicago-1/Nationalist_Conservative_Party-Wernecke-Chicago-1"
+  },
+  {
+    "id": "Nationalist_Conservative_Party-Wernecke-NYC-1",
+    "source": "foia_Nationalist_Conservative_Party-Wernecke-NYC-1/Nationalist_Conservative_Party-Wernecke-NYC-1"
+  },
+  {
+    "id": "Nationalist_Party-West_Hooker_NYC_-1",
+    "source": "foia_Nationalist_Party-West_Hooker_NYC_-1/Nationalist_Party-West_Hooker_NYC_-1"
+  },
+  {
+    "id": "Nationalist_Party-West_Hooker_NYC_-2",
+    "source": "foia_Nationalist_Party-West_Hooker_NYC_-2/Nationalist_Party-West_Hooker_NYC_-2"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-1",
+    "source": "foia_Nelsen_Max-Chicago-1/Nelsen_Max-Chicago-1"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-1A",
+    "source": "foia_Nelsen_Max-Chicago-1A/Nelsen_Max-Chicago-1A"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-1B",
+    "source": "foia_Nelsen_Max-Chicago-1B/Nelsen_Max-Chicago-1B"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-2",
+    "source": "foia_Nelsen_Max-Chicago-2/Nelsen_Max-Chicago-2"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-3",
+    "source": "foia_Nelsen_Max-Chicago-3/Nelsen_Max-Chicago-3"
+  },
+  {
+    "id": "Nelsen_Max-Chicago-4",
+    "source": "foia_Nelsen_Max-Chicago-4/Nelsen_Max-Chicago-4"
+  },
+  {
+    "id": "Nelsen_Max-HQ-1",
+    "source": "foia_Nelsen_Max-HQ-1/Nelsen_Max-HQ-1"
+  },
+  {
+    "id": "Nelsen_Max-HQ-2",
+    "source": "foia_Nelsen_Max-HQ-2/Nelsen_Max-HQ-2"
+  },
+  {
+    "id": "North_Alabama_Citizens_Councils-HQ-1",
+    "source": "foia_North_Alabama_Citizens_Councils-HQ-1/North_Alabama_Citizens_Councils-HQ-1"
+  },
+  {
+    "id": "North_Alabama_Citizens_Councils-HQ-1A",
+    "source": "foia_North_Alabama_Citizens_Councils-HQ-1A/North_Alabama_Citizens_Councils-HQ-1A"
+  },
+  {
+    "id": "Office_of_Naval_Intelligence-HQ-75_4310",
+    "source": "foia_Office_of_Naval_Intelligence-HQ-75_4310/Office_of_Naval_Intelligence-HQ-75_4310"
+  },
+  {
+    "id": "Office_of_Naval_Intelligence-HQ-76",
+    "source": "foia_Office_of_Naval_Intelligence-HQ-76/Office_of_Naval_Intelligence-HQ-76"
+  },
+  {
+    "id": "Office_of_Naval_Intelligence-HQ-77",
+    "source": "foia_Office_of_Naval_Intelligence-HQ-77/Office_of_Naval_Intelligence-HQ-77"
+  },
+  {
+    "id": "Office_of_Naval_Intelligence-HQ-78",
+    "source": "foia_Office_of_Naval_Intelligence-HQ-78/Office_of_Naval_Intelligence-HQ-78"
+  },
+  {
+    "id": "Office_of_Naval_Intelligence-HQ-79",
+    "source": "foia_Office_of_Naval_Intelligence-HQ-79/Office_of_Naval_Intelligence-HQ-79"
+  },
+  {
+    "id": "Order_The-HQ-1",
+    "source": "foia_Order_The-HQ-1/Order_The-HQ-1"
+  },
+  {
+    "id": "Original_Knights_of_KKK-HQ-1",
+    "source": "foia_Original_Knights_of_KKK-HQ-1/Original_Knights_of_KKK-HQ-1"
+  },
+  {
+    "id": "Original_Knights_of_KKK-HQ-2",
+    "source": "foia_Original_Knights_of_KKK-HQ-2/Original_Knights_of_KKK-HQ-2"
+  },
+  {
+    "id": "Original_Knights_of_KKK-HQ-3",
+    "source": "foia_Original_Knights_of_KKK-HQ-3/Original_Knights_of_KKK-HQ-3"
+  },
+  {
+    "id": "Original_Knights_of_KKK-HQ-4",
+    "source": "foia_Original_Knights_of_KKK-HQ-4/Original_Knights_of_KKK-HQ-4"
+  },
+  {
+    "id": "Otepka_Otto-1_thru_11",
+    "source": "foia_Otepka_Otto-1_thru_11/Otepka_Otto-1_thru_11"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-1",
+    "source": "foia_Overstreet_Harry_A.-HQ-1/Overstreet_Harry_A.-HQ-1"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-1A",
+    "source": "foia_Overstreet_Harry_A.-HQ-1A/Overstreet_Harry_A.-HQ-1A"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-2",
+    "source": "foia_Overstreet_Harry_A.-HQ-2/Overstreet_Harry_A.-HQ-2"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-3",
+    "source": "foia_Overstreet_Harry_A.-HQ-3/Overstreet_Harry_A.-HQ-3"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-4",
+    "source": "foia_Overstreet_Harry_A.-HQ-4/Overstreet_Harry_A.-HQ-4"
+  },
+  {
+    "id": "Overstreet_Harry_A.-HQ-5",
+    "source": "foia_Overstreet_Harry_A.-HQ-5/Overstreet_Harry_A.-HQ-5"
+  },
+  {
+    "id": "Paramilitary_Orgs_in_California_1965_84p",
+    "source": "foia_Paramilitary_Orgs_in_California_1965_84p/Paramilitary_Orgs_in_California_1965_84p"
+  },
+  {
+    "id": "Patriotic_Party-HQ-1",
+    "source": "foia_Patriotic_Party-HQ-1/Patriotic_Party-HQ-1"
+  },
+  {
+    "id": "Patriotic_Party-HQ-2",
+    "source": "foia_Patriotic_Party-HQ-2/Patriotic_Party-HQ-2"
+  },
+  {
+    "id": "Patriotic_Party-HQ-3",
+    "source": "foia_Patriotic_Party-HQ-3/Patriotic_Party-HQ-3"
+  },
+  {
+    "id": "Patriotic_Party-HQ-4",
+    "source": "foia_Patriotic_Party-HQ-4/Patriotic_Party-HQ-4"
+  },
+  {
+    "id": "Patriotic_Party-HQ-5",
+    "source": "foia_Patriotic_Party-HQ-5/Patriotic_Party-HQ-5"
+  },
+  {
+    "id": "Pegler_Westbrook-HQ-1_thru_2",
+    "source": "foia_Pegler_Westbrook-HQ-1_thru_2/Pegler_Westbrook-HQ-1_thru_2"
+  },
+  {
+    "id": "Penha_Armand-HQ-1-1",
+    "source": "foia_Penha_Armand-HQ-1-1/Penha_Armand-HQ-1-1"
+  },
+  {
+    "id": "Penha_Armand-HQ-1-2",
+    "source": "foia_Penha_Armand-HQ-1-2/Penha_Armand-HQ-1-2"
+  },
+  {
+    "id": "Penha_Armand-HQ-1-3",
+    "source": "foia_Penha_Armand-HQ-1-3/Penha_Armand-HQ-1-3"
+  },
+  {
+    "id": "Penha_Armand-HQ-1-4",
+    "source": "foia_Penha_Armand-HQ-1-4/Penha_Armand-HQ-1-4"
+  },
+  {
+    "id": "Penha_Armand-HQ-1-5",
+    "source": "foia_Penha_Armand-HQ-1-5/Penha_Armand-HQ-1-5"
+  },
+  {
+    "id": "Penha_Armand-HQ-1",
+    "source": "foia_Penha_Armand-HQ-1/Penha_Armand-HQ-1"
+  },
+  {
+    "id": "Penha_Armand-HQ-1A",
+    "source": "foia_Penha_Armand-HQ-1A/Penha_Armand-HQ-1A"
+  },
+  {
+    "id": "Penha_Armand-HQ-2",
+    "source": "foia_Penha_Armand-HQ-2/Penha_Armand-HQ-2"
+  },
+  {
+    "id": "Penha_Armand-HQ-3",
+    "source": "foia_Penha_Armand-HQ-3/Penha_Armand-HQ-3"
+  },
+  {
+    "id": "Penha_Armand-HQ-4",
+    "source": "foia_Penha_Armand-HQ-4/Penha_Armand-HQ-4"
+  },
+  {
+    "id": "Penha_Armand-HQ-5",
+    "source": "foia_Penha_Armand-HQ-5/Penha_Armand-HQ-5"
+  },
+  {
+    "id": "Perez_Leander-HQ-1",
+    "source": "foia_Perez_Leander-HQ-1/Perez_Leander-HQ-1"
+  },
+  {
+    "id": "Phillips_Howard_J._HQ-1",
+    "source": "foia_Phillips_Howard_J._HQ-1/Phillips_Howard_J._HQ-1"
+  },
+  {
+    "id": "Phillips_Howard_J._HQ-2",
+    "source": "foia_Phillips_Howard_J._HQ-2/Phillips_Howard_J._HQ-2"
+  },
+  {
+    "id": "Phillips_Howard_J._WFO-1",
+    "source": "foia_Phillips_Howard_J._WFO-1/Phillips_Howard_J._WFO-1"
+  },
+  {
+    "id": "Pierce_William_L.-HQ-1",
+    "source": "foia_Pierce_William_L.-HQ-1/Pierce_William_L.-HQ-1"
+  },
+  {
+    "id": "Pierce_William_L.-HQ-2",
+    "source": "foia_Pierce_William_L.-HQ-2/Pierce_William_L.-HQ-2"
+  },
+  {
+    "id": "Pierce_William_L.-HQ-3",
+    "source": "foia_Pierce_William_L.-HQ-3/Pierce_William_L.-HQ-3"
+  },
+  {
+    "id": "Pierce_William_L.-WFO-1",
+    "source": "foia_Pierce_William_L.-WFO-1/Pierce_William_L.-WFO-1"
+  },
+  {
+    "id": "Political_Reporter-Harry_W._Pyle-HQ-1",
+    "source": "foia_Political_Reporter-Harry_W._Pyle-HQ-1/Political_Reporter-Harry_W._Pyle-HQ-1"
+  },
+  {
+    "id": "Political_Reporter-Harry_W._Pyle-HQ-2",
+    "source": "foia_Political_Reporter-Harry_W._Pyle-HQ-2/Political_Reporter-Harry_W._Pyle-HQ-2"
+  },
+  {
+    "id": "Powers_Francis_Gary_HQ-1",
+    "source": "foia_Powers_Francis_Gary_HQ-1/Powers_Francis_Gary_HQ-1"
+  },
+  {
+    "id": "Pro-Southerners-HQ-1",
+    "source": "foia_Pro-Southerners-HQ-1/Pro-Southerners-HQ-1"
+  },
+  {
+    "id": "Pro-Southerners-HQ-2",
+    "source": "foia_Pro-Southerners-HQ-2/Pro-Southerners-HQ-2"
+  },
+  {
+    "id": "Prussion_Karl-HQ-1",
+    "source": "foia_Prussion_Karl-HQ-1/Prussion_Karl-HQ-1"
+  },
+  {
+    "id": "Prussion_Karl-HQ-1A",
+    "source": "foia_Prussion_Karl-HQ-1A/Prussion_Karl-HQ-1A"
+  },
+  {
+    "id": "Prussion_Karl-HQ-2",
+    "source": "foia_Prussion_Karl-HQ-2/Prussion_Karl-HQ-2"
+  },
+  {
+    "id": "Prussion_Karl-HQ-3",
+    "source": "foia_Prussion_Karl-HQ-3/Prussion_Karl-HQ-3"
+  },
+  {
+    "id": "Prussion_Karl-HQ-4",
+    "source": "foia_Prussion_Karl-HQ-4/Prussion_Karl-HQ-4"
+  },
+  {
+    "id": "Prussion_Karl-HQ-5",
+    "source": "foia_Prussion_Karl-HQ-5/Prussion_Karl-HQ-5"
+  },
+  {
+    "id": "Prussion_Karl-HQ-6",
+    "source": "foia_Prussion_Karl-HQ-6/Prussion_Karl-HQ-6"
+  },
+  {
+    "id": "Prussion_Karl-HQ-EBF172",
+    "source": "foia_Prussion_Karl-HQ-EBF172/Prussion_Karl-HQ-EBF172"
+  },
+  {
+    "id": "Prussion_Karl-Los_Angeles-1",
+    "source": "foia_Prussion_Karl-Los_Angeles-1/Prussion_Karl-Los_Angeles-1"
+  },
+  {
+    "id": "Prussion_Karl-San_Diego-1",
+    "source": "foia_Prussion_Karl-San_Diego-1/Prussion_Karl-San_Diego-1"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-1",
+    "source": "foia_Prussion_Karl-San_Francisco-1/Prussion_Karl-San_Francisco-1"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-2",
+    "source": "foia_Prussion_Karl-San_Francisco-2/Prussion_Karl-San_Francisco-2"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-3-1",
+    "source": "foia_Prussion_Karl-San_Francisco-3-1/Prussion_Karl-San_Francisco-3-1"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-3-2",
+    "source": "foia_Prussion_Karl-San_Francisco-3-2/Prussion_Karl-San_Francisco-3-2"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-3-3",
+    "source": "foia_Prussion_Karl-San_Francisco-3-3/Prussion_Karl-San_Francisco-3-3"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-3-4",
+    "source": "foia_Prussion_Karl-San_Francisco-3-4/Prussion_Karl-San_Francisco-3-4"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-3",
+    "source": "foia_Prussion_Karl-San_Francisco-3/Prussion_Karl-San_Francisco-3"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-4-1",
+    "source": "foia_Prussion_Karl-San_Francisco-4-1/Prussion_Karl-San_Francisco-4-1"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-5",
+    "source": "foia_Prussion_Karl-San_Francisco-5/Prussion_Karl-San_Francisco-5"
+  },
+  {
+    "id": "Prussion_Karl-San_Francisco-6",
+    "source": "foia_Prussion_Karl-San_Francisco-6/Prussion_Karl-San_Francisco-6"
+  },
+  {
+    "id": "Pyne_Joe-HQ-1",
+    "source": "foia_Pyne_Joe-HQ-1/Pyne_Joe-HQ-1"
+  },
+  {
+    "id": "Randolph_A._Phillip-HQ-1",
+    "source": "foia_Randolph_A._Phillip-HQ-1/Randolph_A._Phillip-HQ-1"
+  },
+  {
+    "id": "Randolph_A._Phillip-HQ-2",
+    "source": "foia_Randolph_A._Phillip-HQ-2/Randolph_A._Phillip-HQ-2"
+  },
+  {
+    "id": "Realpolitical_Institute-Chicago-1",
+    "source": "foia_Realpolitical_Institute-Chicago-1/Realpolitical_Institute-Chicago-1"
+  },
+  {
+    "id": "Realpolitical_Institute-Chicago-1A",
+    "source": "foia_Realpolitical_Institute-Chicago-1A/Realpolitical_Institute-Chicago-1A"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-1",
+    "source": "foia_Rehnquist_William_H.-HQ-1/Rehnquist_William_H.-HQ-1"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-2",
+    "source": "foia_Rehnquist_William_H.-HQ-2/Rehnquist_William_H.-HQ-2"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-3",
+    "source": "foia_Rehnquist_William_H.-HQ-3/Rehnquist_William_H.-HQ-3"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-4",
+    "source": "foia_Rehnquist_William_H.-HQ-4/Rehnquist_William_H.-HQ-4"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-5",
+    "source": "foia_Rehnquist_William_H.-HQ-5/Rehnquist_William_H.-HQ-5"
+  },
+  {
+    "id": "Rehnquist_William_H.-HQ-6",
+    "source": "foia_Rehnquist_William_H.-HQ-6/Rehnquist_William_H.-HQ-6"
+  },
+  {
+    "id": "Rhee_Syngman-HQ-1",
+    "source": "foia_Rhee_Syngman-HQ-1/Rhee_Syngman-HQ-1"
+  },
+  {
+    "id": "Rockwell_George_L.-HQ-1",
+    "source": "foia_Rockwell_George_L.-HQ-1/Rockwell_George_L.-HQ-1"
+  },
+  {
+    "id": "Rockwell_George_L.-HQ-2",
+    "source": "foia_Rockwell_George_L.-HQ-2/Rockwell_George_L.-HQ-2"
+  },
+  {
+    "id": "Rockwell_George_L.-HQ-3",
+    "source": "foia_Rockwell_George_L.-HQ-3/Rockwell_George_L.-HQ-3"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-1",
+    "source": "foia_Rosenberg_Anna_M.-HQ-1/Rosenberg_Anna_M.-HQ-1"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-10",
+    "source": "foia_Rosenberg_Anna_M.-HQ-10/Rosenberg_Anna_M.-HQ-10"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-11",
+    "source": "foia_Rosenberg_Anna_M.-HQ-11/Rosenberg_Anna_M.-HQ-11"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-12",
+    "source": "foia_Rosenberg_Anna_M.-HQ-12/Rosenberg_Anna_M.-HQ-12"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-13",
+    "source": "foia_Rosenberg_Anna_M.-HQ-13/Rosenberg_Anna_M.-HQ-13"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-2",
+    "source": "foia_Rosenberg_Anna_M.-HQ-2/Rosenberg_Anna_M.-HQ-2"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-3",
+    "source": "foia_Rosenberg_Anna_M.-HQ-3/Rosenberg_Anna_M.-HQ-3"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-4",
+    "source": "foia_Rosenberg_Anna_M.-HQ-4/Rosenberg_Anna_M.-HQ-4"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-5",
+    "source": "foia_Rosenberg_Anna_M.-HQ-5/Rosenberg_Anna_M.-HQ-5"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-6",
+    "source": "foia_Rosenberg_Anna_M.-HQ-6/Rosenberg_Anna_M.-HQ-6"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-7",
+    "source": "foia_Rosenberg_Anna_M.-HQ-7/Rosenberg_Anna_M.-HQ-7"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-8",
+    "source": "foia_Rosenberg_Anna_M.-HQ-8/Rosenberg_Anna_M.-HQ-8"
+  },
+  {
+    "id": "Rosenberg_Anna_M.-HQ-9",
+    "source": "foia_Rosenberg_Anna_M.-HQ-9/Rosenberg_Anna_M.-HQ-9"
+  },
+  {
+    "id": "Rosenberg_Anna_M._NYC-1",
+    "source": "foia_Rosenberg_Anna_M._NYC-1/Rosenberg_Anna_M._NYC-1"
+  },
+  {
+    "id": "Rosenberg_Anna_M._NYC-2",
+    "source": "foia_Rosenberg_Anna_M._NYC-2/Rosenberg_Anna_M._NYC-2"
+  },
+  {
+    "id": "Rosenberg_Anna_M._NYC-3",
+    "source": "foia_Rosenberg_Anna_M._NYC-3/Rosenberg_Anna_M._NYC-3"
+  },
+  {
+    "id": "Rousselot_John_H._HQ-1",
+    "source": "foia_Rousselot_John_H._HQ-1/Rousselot_John_H._HQ-1"
+  },
+  {
+    "id": "Rousselot_John_H._HQ-2",
+    "source": "foia_Rousselot_John_H._HQ-2/Rousselot_John_H._HQ-2"
+  },
+  {
+    "id": "Rousselot_John_H._HQ-3",
+    "source": "foia_Rousselot_John_H._HQ-3/Rousselot_John_H._HQ-3"
+  },
+  {
+    "id": "Rousselot_John_H._Los_Angeles-1",
+    "source": "foia_Rousselot_John_H._Los_Angeles-1/Rousselot_John_H._Los_Angeles-1"
+  },
+  {
+    "id": "Rousselot_John_H._WFO-1",
+    "source": "foia_Rousselot_John_H._WFO-1/Rousselot_John_H._WFO-1"
+  },
+  {
+    "id": "Rudden_Joseph_P-HQ-1",
+    "source": "foia_Rudden_Joseph_P-HQ-1/Rudden_Joseph_P-HQ-1"
+  },
+  {
+    "id": "Russell_Richard_B._HQ-1",
+    "source": "foia_Russell_Richard_B._HQ-1/Russell_Richard_B._HQ-1"
+  },
+  {
+    "id": "Rustin_Bayard-HQ-7",
+    "source": "foia_Rustin_Bayard-HQ-7/Rustin_Bayard-HQ-7"
+  },
+  {
+    "id": "San_Diego_Research_Library_SFO-1",
+    "source": "foia_San_Diego_Research_Library_SFO-1/San_Diego_Research_Library_SFO-1"
+  },
+  {
+    "id": "Schwarz_Fred-HQ-1",
+    "source": "foia_Schwarz_Fred-HQ-1/Schwarz_Fred-HQ-1"
+  },
+  {
+    "id": "Schwarz_Fred-HQ-2",
+    "source": "foia_Schwarz_Fred-HQ-2/Schwarz_Fred-HQ-2"
+  },
+  {
+    "id": "Schwarz_Fred-HQ-3",
+    "source": "foia_Schwarz_Fred-HQ-3/Schwarz_Fred-HQ-3"
+  },
+  {
+    "id": "Schwarz_Fred-HQ-4",
+    "source": "foia_Schwarz_Fred-HQ-4/Schwarz_Fred-HQ-4"
+  },
+  {
+    "id": "Schwarz_Fred-HQ-5",
+    "source": "foia_Schwarz_Fred-HQ-5/Schwarz_Fred-HQ-5"
+  },
+  {
+    "id": "Seaboard_WCC-Boston-1",
+    "source": "foia_Seaboard_WCC-Boston-1/Seaboard_WCC-Boston-1"
+  },
+  {
+    "id": "Seaboard_WCC-NYC-1",
+    "source": "foia_Seaboard_WCC-NYC-1/Seaboard_WCC-NYC-1"
+  },
+  {
+    "id": "Seaboard_WCC-NYC-2",
+    "source": "foia_Seaboard_WCC-NYC-2/Seaboard_WCC-NYC-2"
+  },
+  {
+    "id": "Seaboard_WCC-NYC-3",
+    "source": "foia_Seaboard_WCC-NYC-3/Seaboard_WCC-NYC-3"
+  },
+  {
+    "id": "Seaboard_WCC-NYC-4",
+    "source": "foia_Seaboard_WCC-NYC-4/Seaboard_WCC-NYC-4"
+  },
+  {
+    "id": "Selma_March-HQ-1_thru_3",
+    "source": "foia_Selma_March-HQ-1_thru_3/Selma_March-HQ-1_thru_3"
+  },
+  {
+    "id": "Shelton_Robert_M.-HQ-3",
+    "source": "foia_Shelton_Robert_M.-HQ-3/Shelton_Robert_M.-HQ-3"
+  },
+  {
+    "id": "Shelton_Robert_M.-HQ-6",
+    "source": "foia_Shelton_Robert_M.-HQ-6/Shelton_Robert_M.-HQ-6"
+  },
+  {
+    "id": "Smith_Gerald_L.K.-HQ-01_thru_05",
+    "source": "foia_Smith_Gerald_L.K.-HQ-01_thru_05/Smith_Gerald_L.K.-HQ-01_thru_05"
+  },
+  {
+    "id": "Smith_Gerald_L.K.-HQ-06_thru_10",
+    "source": "foia_Smith_Gerald_L.K.-HQ-06_thru_10/Smith_Gerald_L.K.-HQ-06_thru_10"
+  },
+  {
+    "id": "Smith_Gerald_L.K.-HQ-11_thru18",
+    "source": "foia_Smith_Gerald_L.K.-HQ-11_thru18/Smith_Gerald_L.K.-HQ-11_thru18"
+  },
+  {
+    "id": "Smith_Gerald_L.K.-HQ-1_thru10",
+    "source": "foia_Smith_Gerald_L.K.-HQ-1_thru10/Smith_Gerald_L.K.-HQ-1_thru10"
+  },
+  {
+    "id": "Socialist_Party-NYC-3",
+    "source": "foia_Socialist_Party-NYC-3/Socialist_Party-NYC-3"
+  },
+  {
+    "id": "Socialist_Party-NYC-4",
+    "source": "foia_Socialist_Party-NYC-4/Socialist_Party-NYC-4"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-1",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-1/Society_of_Former_Special_Agents_of_FBI-HQ-1"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-10",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-10/Society_of_Former_Special_Agents_of_FBI-HQ-10"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-11",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-11/Society_of_Former_Special_Agents_of_FBI-HQ-11"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-12",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-12/Society_of_Former_Special_Agents_of_FBI-HQ-12"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-2",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-2/Society_of_Former_Special_Agents_of_FBI-HQ-2"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-3",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-3/Society_of_Former_Special_Agents_of_FBI-HQ-3"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-4",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-4/Society_of_Former_Special_Agents_of_FBI-HQ-4"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-5",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-5/Society_of_Former_Special_Agents_of_FBI-HQ-5"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-6",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-6/Society_of_Former_Special_Agents_of_FBI-HQ-6"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-7",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-7/Society_of_Former_Special_Agents_of_FBI-HQ-7"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-8",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-8/Society_of_Former_Special_Agents_of_FBI-HQ-8"
+  },
+  {
+    "id": "Society_of_Former_Special_Agents_of_FBI-HQ-9",
+    "source": "foia_Society_of_Former_Special_Agents_of_FBI-HQ-9/Society_of_Former_Special_Agents_of_FBI-HQ-9"
+  },
+  {
+    "id": "Sokolsky_George_E.-HQ-1-4",
+    "source": "foia_Sokolsky_George_E.-HQ-1-4/Sokolsky_George_E.-HQ-1-4"
+  },
+  {
+    "id": "Sourwine_Julien_G._HQ-1",
+    "source": "foia_Sourwine_Julien_G._HQ-1/Sourwine_Julien_G._HQ-1"
+  },
+  {
+    "id": "Southern_California_Freedom_Councils-HQ-1",
+    "source": "foia_Southern_California_Freedom_Councils-HQ-1/Southern_California_Freedom_Councils-HQ-1"
+  },
+  {
+    "id": "State_Dept_Security-Consular_Affairs-HQ-35",
+    "source": "foia_State_Dept_Security-Consular_Affairs-HQ-35/State_Dept_Security-Consular_Affairs-HQ-35"
+  },
+  {
+    "id": "State_Dept_Security-Consular_Affairs-HQ-4A",
+    "source": "foia_State_Dept_Security-Consular_Affairs-HQ-4A/State_Dept_Security-Consular_Affairs-HQ-4A"
+  },
+  {
+    "id": "State_Dept_Security-Consular_Affairs-HQ-5A",
+    "source": "foia_State_Dept_Security-Consular_Affairs-HQ-5A/State_Dept_Security-Consular_Affairs-HQ-5A"
+  },
+  {
+    "id": "Stepankowsky_Vladimir_HQ-1",
+    "source": "foia_Stepankowsky_Vladimir_HQ-1/Stepankowsky_Vladimir_HQ-1"
+  },
+  {
+    "id": "Stokes_Carl-HQ-1",
+    "source": "foia_Stokes_Carl-HQ-1/Stokes_Carl-HQ-1"
+  },
+  {
+    "id": "Stoner_J.B.-Atlanta-1",
+    "source": "foia_Stoner_J.B.-Atlanta-1/Stoner_J.B.-Atlanta-1"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-1",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-1/Stormer_John-None_Dare_Call_It_Treason-1"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-2",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-2/Stormer_John-None_Dare_Call_It_Treason-2"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-3",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-3/Stormer_John-None_Dare_Call_It_Treason-3"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-4",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-4/Stormer_John-None_Dare_Call_It_Treason-4"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-5",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-5/Stormer_John-None_Dare_Call_It_Treason-5"
+  },
+  {
+    "id": "Stormer_John-None_Dare_Call_It_Treason-6",
+    "source": "foia_Stormer_John-None_Dare_Call_It_Treason-6/Stormer_John-None_Dare_Call_It_Treason-6"
+  },
+  {
+    "id": "Subversive_Extremist_Black_Nationalist_Orgs-HQ-1",
+    "source": "foia_Subversive_Extremist_Black_Nationalist_Orgs-HQ-1/Subversive_Extremist_Black_Nationalist_Orgs-HQ-1"
+  },
+  {
+    "id": "Sullivan_William_C._Freedom_is_the_Exception_lectures_at_Harvard_Univ",
+    "source": "foia_Sullivan_William_C._Freedom_is_the_Exception_lectures_at_Harvard_Univ/Sullivan_William_C._Freedom_is_the_Exception_lectures_at_Harvard_Univ"
+  },
+  {
+    "id": "Surreptitious_Entries-Black_Bag-HQ-1-30",
+    "source": "foia_Surreptitious_Entries-Black_Bag-HQ-1-30/Surreptitious_Entries-Black_Bag-HQ-1-30"
+  },
+  {
+    "id": "Swift_Wesley_A.-HQ-1",
+    "source": "foia_Swift_Wesley_A.-HQ-1/Swift_Wesley_A.-HQ-1"
+  },
+  {
+    "id": "Tax_Exempt_Foundations-HQ-1",
+    "source": "foia_Tax_Exempt_Foundations-HQ-1/Tax_Exempt_Foundations-HQ-1"
+  },
+  {
+    "id": "Tax_Exempt_Foundations-HQ-2",
+    "source": "foia_Tax_Exempt_Foundations-HQ-2/Tax_Exempt_Foundations-HQ-2"
+  },
+  {
+    "id": "Tax_Exempt_Foundations-HQ-3",
+    "source": "foia_Tax_Exempt_Foundations-HQ-3/Tax_Exempt_Foundations-HQ-3"
+  },
+  {
+    "id": "Thomas_Norman-Correlation_Summary_262p",
+    "source": "foia_Thomas_Norman-Correlation_Summary_262p/Thomas_Norman-Correlation_Summary_262p"
+  },
+  {
+    "id": "Thomas_Norman_M.-HQ-1",
+    "source": "foia_Thomas_Norman_M.-HQ-1/Thomas_Norman_M.-HQ-1"
+  },
+  {
+    "id": "Thomas_Norman_M.-HQ-14",
+    "source": "foia_Thomas_Norman_M.-HQ-14/Thomas_Norman_M.-HQ-14"
+  },
+  {
+    "id": "Thomas_Norman_M.-HQ-1A",
+    "source": "foia_Thomas_Norman_M.-HQ-1A/Thomas_Norman_M.-HQ-1A"
+  },
+  {
+    "id": "Thomas_Norman_M.-HQ-2",
+    "source": "foia_Thomas_Norman_M.-HQ-2/Thomas_Norman_M.-HQ-2"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-1",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-1/Thompson_Howard_O.-San_Francisco-1"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-10",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-10/Thompson_Howard_O.-San_Francisco-10"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-2",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-2/Thompson_Howard_O.-San_Francisco-2"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-3",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-3/Thompson_Howard_O.-San_Francisco-3"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-4",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-4/Thompson_Howard_O.-San_Francisco-4"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-5",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-5/Thompson_Howard_O.-San_Francisco-5"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-6",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-6/Thompson_Howard_O.-San_Francisco-6"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-7",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-7/Thompson_Howard_O.-San_Francisco-7"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-8",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-8/Thompson_Howard_O.-San_Francisco-8"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-9",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-9/Thompson_Howard_O.-San_Francisco-9"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-A10",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-A10/Thompson_Howard_O.-San_Francisco-A10"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-A7",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-A7/Thompson_Howard_O.-San_Francisco-A7"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-A8",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-A8/Thompson_Howard_O.-San_Francisco-A8"
+  },
+  {
+    "id": "Thompson_Howard_O.-San_Francisco-A9",
+    "source": "foia_Thompson_Howard_O.-San_Francisco-A9/Thompson_Howard_O.-San_Francisco-A9"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-HQ-1",
+    "source": "foia_Thompson_Jr._H._Keith-HQ-1/Thompson_Jr._H._Keith-HQ-1"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-HQ-2",
+    "source": "foia_Thompson_Jr._H._Keith-HQ-2/Thompson_Jr._H._Keith-HQ-2"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-HQ-3",
+    "source": "foia_Thompson_Jr._H._Keith-HQ-3/Thompson_Jr._H._Keith-HQ-3"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-NYC-1",
+    "source": "foia_Thompson_Jr._H._Keith-NYC-1/Thompson_Jr._H._Keith-NYC-1"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-NYC-2",
+    "source": "foia_Thompson_Jr._H._Keith-NYC-2/Thompson_Jr._H._Keith-NYC-2"
+  },
+  {
+    "id": "Thompson_Jr._H._Keith-WFO-1",
+    "source": "foia_Thompson_Jr._H._Keith-WFO-1/Thompson_Jr._H._Keith-WFO-1"
+  },
+  {
+    "id": "Trudeau_Arthur_G.-HQ-1",
+    "source": "foia_Trudeau_Arthur_G.-HQ-1/Trudeau_Arthur_G.-HQ-1"
+  },
+  {
+    "id": "Trudeau_Arthur_G.-HQ-1A",
+    "source": "foia_Trudeau_Arthur_G.-HQ-1A/Trudeau_Arthur_G.-HQ-1A"
+  },
+  {
+    "id": "Trudeau_Arthur_G.-HQ-2",
+    "source": "foia_Trudeau_Arthur_G.-HQ-2/Trudeau_Arthur_G.-HQ-2"
+  },
+  {
+    "id": "Trudeau_Elliott-HQ-1",
+    "source": "foia_Trudeau_Elliott-HQ-1/Trudeau_Elliott-HQ-1"
+  },
+  {
+    "id": "University_of_Cincinnati-HQ-1",
+    "source": "foia_University_of_Cincinnati-HQ-1/University_of_Cincinnati-HQ-1"
+  },
+  {
+    "id": "University_of_Cincinnati-HQ-2",
+    "source": "foia_University_of_Cincinnati-HQ-2/University_of_Cincinnati-HQ-2"
+  },
+  {
+    "id": "Van_Deman_Ralph_H.-HQ-1",
+    "source": "foia_Van_Deman_Ralph_H.-HQ-1/Van_Deman_Ralph_H.-HQ-1"
+  },
+  {
+    "id": "Van_Deman_Ralph_H.-HQ-2",
+    "source": "foia_Van_Deman_Ralph_H.-HQ-2/Van_Deman_Ralph_H.-HQ-2"
+  },
+  {
+    "id": "Wackenhut_Corp.-HQ-1",
+    "source": "foia_Wackenhut_Corp.-HQ-1/Wackenhut_Corp.-HQ-1"
+  },
+  {
+    "id": "Wackenhut_Corp.-HQ-2",
+    "source": "foia_Wackenhut_Corp.-HQ-2/Wackenhut_Corp.-HQ-2"
+  },
+  {
+    "id": "Wackenhut_Corp.-Tampa-1",
+    "source": "foia_Wackenhut_Corp.-Tampa-1/Wackenhut_Corp.-Tampa-1"
+  },
+  {
+    "id": "Wackenhut_Corp.-Tampa-2",
+    "source": "foia_Wackenhut_Corp.-Tampa-2/Wackenhut_Corp.-Tampa-2"
+  },
+  {
+    "id": "Walker_Edwin_A.-HQ-1",
+    "source": "foia_Walker_Edwin_A.-HQ-1/Walker_Edwin_A.-HQ-1"
+  },
+  {
+    "id": "Walker_Edwin_A.-HQ-2",
+    "source": "foia_Walker_Edwin_A.-HQ-2/Walker_Edwin_A.-HQ-2"
+  },
+  {
+    "id": "Walker_Edwin_A.-HQ_Correlation_Summaries",
+    "source": "foia_Walker_Edwin_A.-HQ_Correlation_Summaries/Walker_Edwin_A.-HQ_Correlation_Summaries"
+  },
+  {
+    "id": "Walker_Edwin_A.-Los_Angeles-1",
+    "source": "foia_Walker_Edwin_A.-Los_Angeles-1/Walker_Edwin_A.-Los_Angeles-1"
+  },
+  {
+    "id": "Walker_Edwin_A.-Philadelphia-1",
+    "source": "foia_Walker_Edwin_A.-Philadelphia-1/Walker_Edwin_A.-Philadelphia-1"
+  },
+  {
+    "id": "Wayne_John-HQ-1",
+    "source": "foia_Wayne_John-HQ-1/Wayne_John-HQ-1"
+  },
+  {
+    "id": "Welch_Robert-Associates_and_Appointments-1958",
+    "source": "foia_Welch_Robert-Associates_and_Appointments-1958/Welch_Robert-Associates_and_Appointments-1958"
+  },
+  {
+    "id": "Welch_Robert-The_Word_Is_Treason-1958",
+    "source": "foia_Welch_Robert-The_Word_Is_Treason-1958.PDF/Welch_Robert-The_Word_Is_Treason-1958"
+  },
+  {
+    "id": "Welch_Robert_H.W.-1",
+    "source": "foia_Welch_Robert_H.W.-1/Welch_Robert_H.W.-1"
+  },
+  {
+    "id": "Welch_Robert_The_Politician_manuscript",
+    "source": "foia_Welch_Robert_The_Politician_manuscript.PDF/Welch_Robert_The_Politician_manuscript"
+  },
+  {
+    "id": "Werencke_William_B.-Chicago-1",
+    "source": "foia_Wernecke_William_B.-Chicago-1/Werencke_William_B.-Chicago-1"
+  },
+  {
+    "id": "Werencke_William_B.-Chicago-2",
+    "source": "foia_Wernecke_William_B.-Chicago-2/Werencke_William_B.-Chicago-2"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-1",
+    "source": "foia_Wernecke_William_B.-HQ-1/Werencke_William_B.-HQ-1"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-2",
+    "source": "foia_Wernecke_William_B.-HQ-2/Werencke_William_B.-HQ-2"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-3",
+    "source": "foia_Wernecke_William_B.-HQ-3/Werencke_William_B.-HQ-3"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-4",
+    "source": "foia_Wernecke_William_B.-HQ-4/Werencke_William_B.-HQ-4"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-5",
+    "source": "foia_Wernecke_William_B.-HQ-5/Werencke_William_B.-HQ-5"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-6",
+    "source": "foia_Wernecke_William_B.-HQ-6/Werencke_William_B.-HQ-6"
+  },
+  {
+    "id": "Werencke_William_B.-HQ-7",
+    "source": "foia_Wernecke_William_B.-HQ-7/Werencke_William_B.-HQ-7"
+  },
+  {
+    "id": "West_Donald_L.-HQ-1",
+    "source": "foia_West_Donald_L.-HQ-1/West_Donald_L.-HQ-1"
+  },
+  {
+    "id": "West_Donald_L.-HQ-10",
+    "source": "foia_West_Donald_L.-HQ-10/West_Donald_L.-HQ-10"
+  },
+  {
+    "id": "West_Donald_L.-HQ-2",
+    "source": "foia_West_Donald_L.-HQ-2/West_Donald_L.-HQ-2"
+  },
+  {
+    "id": "West_Donald_L.-HQ-3",
+    "source": "foia_West_Donald_L.-HQ-3/West_Donald_L.-HQ-3"
+  },
+  {
+    "id": "West_Donald_L.-HQ-4",
+    "source": "foia_West_Donald_L.-HQ-4/West_Donald_L.-HQ-4"
+  },
+  {
+    "id": "West_Donald_L.-HQ-5",
+    "source": "foia_West_Donald_L.-HQ-5/West_Donald_L.-HQ-5"
+  },
+  {
+    "id": "West_Donald_L.-HQ-6",
+    "source": "foia_West_Donald_L.-HQ-6/West_Donald_L.-HQ-6"
+  },
+  {
+    "id": "West_Donald_L.-HQ-7",
+    "source": "foia_West_Donald_L.-HQ-7/West_Donald_L.-HQ-7"
+  },
+  {
+    "id": "West_Donald_L.-HQ-8",
+    "source": "foia_West_Donald_L.-HQ-8/West_Donald_L.-HQ-8"
+  },
+  {
+    "id": "West_Donald_L.-HQ-9",
+    "source": "foia_West_Donald_L.-HQ-9/West_Donald_L.-HQ-9"
+  },
+  {
+    "id": "West_Donald_L.-HQ-EBF235",
+    "source": "foia_West_Donald_L.-HQ-EBF235/West_Donald_L.-HQ-EBF235"
+  },
+  {
+    "id": "West_Donald_L.-Pittsburgh-1",
+    "source": "foia_West_Donald_L.-Pittsburgh-1/West_Donald_L.-Pittsburgh-1"
+  },
+  {
+    "id": "West_Donald_L.-Pittsburgh-2",
+    "source": "foia_West_Donald_L.-Pittsburgh-2/West_Donald_L.-Pittsburgh-2"
+  },
+  {
+    "id": "West_Donald_L.-Pittsburgh-3",
+    "source": "foia_West_Donald_L.-Pittsburgh-3/West_Donald_L.-Pittsburgh-3"
+  },
+  {
+    "id": "West_Point-1_thru_2",
+    "source": "foia_West_Point-1_thru_2/West_Point-1_thru_2"
+  },
+  {
+    "id": "Western_Minutemen-W.H.Harold--Seattle-1",
+    "source": "foia_Western_Minutemen-W.H.Harold--Seattle-1/Western_Minutemen-W.H.Harold--Seattle-1"
+  },
+  {
+    "id": "Weyrich_Paul_M._HQ-1",
+    "source": "foia_Weyrich_Paul_M._HQ-1/Weyrich_Paul_M._HQ-1"
+  },
+  {
+    "id": "White_Circle_League_of_America-Chicago-1",
+    "source": "foia_White_Circle_League_of_America-Chicago-1/White_Circle_League_of_America-Chicago-1"
+  },
+  {
+    "id": "White_Circle_League_of_America-Chicago-2",
+    "source": "foia_White_Circle_League_of_America-Chicago-2/White_Circle_League_of_America-Chicago-2"
+  },
+  {
+    "id": "White_Youth_Corps-Chicago-1",
+    "source": "foia_White_Youth_Corps-Chicago-1/White_Youth_Corps-Chicago-1"
+  },
+  {
+    "id": "Whitehead_Don--The_FBI_Story-HQ-1",
+    "source": "foia_Whitehead_Don--The_FBI_Story-HQ-1/Whitehead_Don--The_FBI_Story-HQ-1"
+  },
+  {
+    "id": "Wilkins_Roy-HQ-1_thru_11",
+    "source": "foia_Wilkins_Roy-HQ-1_thru_11/Wilkins_Roy-HQ-1_thru_11"
+  },
+  {
+    "id": "Winston_Robert_A-HQ-1",
+    "source": "foia_Winston_Robert_A-HQ-1/Winston_Robert_A-HQ-1"
+  },
+  {
+    "id": "Winston_Robert_A-NYC-1",
+    "source": "foia_Winston_Robert_A-NYC-1/Winston_Robert_A-NYC-1"
+  },
+  {
+    "id": "Wolfe_Bertram_D.-HQ-1",
+    "source": "foia_Wolfe_Bertram_D.-HQ-1/Wolfe_Bertram_D.-HQ-1"
+  },
+  {
+    "id": "Wolfe_Bertram_D.-HQ-2",
+    "source": "foia_Wolfe_Bertram_D.-HQ-2/Wolfe_Bertram_D.-HQ-2"
+  },
+  {
+    "id": "Wolfe_Bertram_D.-HQ-EBF32",
+    "source": "foia_Wolfe_Bertram_D.-HQ-EBF32/Wolfe_Bertram_D.-HQ-EBF32"
+  },
+  {
+    "id": "Womens_Voice-Lyrl_C._Van_Hyning-Chicago-1",
+    "source": "foia_Womens_Voice-Lyrl_C._Van_Hyning-Chicago-1/Womens_Voice-Lyrl_C._Van_Hyning-Chicago-1"
+  },
+  {
+    "id": "Womens_Voice-Lyrl_C._Van_Hyning-Chicago-2",
+    "source": "foia_Womens_Voice-Lyrl_C._Van_Hyning-Chicago-2/Womens_Voice-Lyrl_C._Van_Hyning-Chicago-2"
+  },
+  {
+    "id": "Yockey_Francis_P.-Chicago-1",
+    "source": "foia_Yockey_Francis_P.-Chicago-1/Yockey_Francis_P.-Chicago-1"
+  },
+  {
+    "id": "Yockey_Francis_P.-HQ-1",
+    "source": "foia_Yockey_Francis_P.-HQ-1/Yockey_Francis_P.-HQ-1"
+  },
+  {
+    "id": "Yockey_Francis_P.-HQ-1A",
+    "source": "foia_Yockey_Francis_P.-HQ-1A/Yockey_Francis_P.-HQ-1A"
+  },
+  {
+    "id": "Yockey_Francis_P.-HQ-2",
+    "source": "foia_Yockey_Francis_P.-HQ-2/Yockey_Francis_P.-HQ-2"
+  },
+  {
+    "id": "Yockey_Francis_P.-HQ-3",
+    "source": "foia_Yockey_Francis_P.-HQ-3/Yockey_Francis_P.-HQ-3"
+  },
+  {
+    "id": "Zinn_Howard-HQ_1_thru_3",
+    "source": "foia_Zinn_Howard-HQ_1_thru_3/Zinn_Howard-HQ_1_thru_3"
+  }
+]
+}

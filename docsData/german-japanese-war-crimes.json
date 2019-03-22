@@ -1,0 +1,609 @@
+{
+  "id": "044",
+  "shortname": "german-japanese-war-crimes",
+  "collection": "German and Japanese War Crimes",
+  "alt_names": [],
+  "date": "1946",
+  "important": "",
+  "description": "Includes Nuremberg Trials and other war crimes investigations. <a href='https://www.loc.gov/rr/frd/Military_Law/Nuremberg_trials.html'>Library of Congress Collection</a>.",
+  "source": "https://www.loc.gov/rr/frd/Military_Law/Nuremberg_trials.html",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "Jackson-report_more",
+      "doc_name": "Jackson report more",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Jackson-report_more.pdf"
+    },
+    {
+      "id": "jackson-rpt-military-trials",
+      "doc_name": "jackson rpt military trials",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/jackson-rpt-military-trials.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-1",
+      "doc_name": "Law Reports Vol 1",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-1.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-2",
+      "doc_name": "Law Reports Vol 2",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-2.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-3",
+      "doc_name": "Law Reports Vol 3",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-3.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-4",
+      "doc_name": "Law Reports Vol 4",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-4.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-5",
+      "doc_name": "Law Reports Vol 5",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-5.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-6",
+      "doc_name": "Law Reports Vol 6",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-6.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-7",
+      "doc_name": "Law Reports Vol 7",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-7.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-8",
+      "doc_name": "Law Reports Vol 8",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-8.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-9",
+      "doc_name": "Law Reports Vol 9",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-9.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-10",
+      "doc_name": "Law Reports Vol 10",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-10.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-11",
+      "doc_name": "Law Reports Vol 11",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-11.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-12",
+      "doc_name": "Law Reports Vol 12",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-12.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-13",
+      "doc_name": "Law Reports Vol 13",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-13.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-14",
+      "doc_name": "Law Reports Vol 14",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-14.pdf"
+    },
+    {
+      "id": "Law-Reports_Vol-15",
+      "doc_name": "Law Reports Vol 15",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Law-Reports_Vol-15.pdf"
+    },
+    {
+      "id": "Malmedy_hearings-1",
+      "doc_name": "Malmedy hearings 1",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Malmedy_hearings-1.pdf"
+    },
+    {
+      "id": "Malmedy_hearings-2",
+      "doc_name": "Malmedy hearings 2",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Malmedy_hearings-2.pdf"
+    },
+    {
+      "id": "Malmedy_report",
+      "doc_name": "Malmedy report",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Malmedy_report.pdf"
+    },
+    {
+      "id": "NaziWarCrimes_Japanese-Records",
+      "doc_name": "NaziWarCrimes Japanese Records",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NaziWarCrimes_Japanese-Records.pdf"
+    },
+    {
+      "id": "NT_final-report",
+      "doc_name": "NT final report",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_final-report.pdf"
+    },
+    {
+      "id": "NT_Indictments",
+      "doc_name": "NT Indictments",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Indictments.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-I",
+      "doc_name": "NT Nazi Vol I",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-I.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-II",
+      "doc_name": "NT Nazi Vol II",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-II.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-III",
+      "doc_name": "NT Nazi Vol III",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-III.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-IV",
+      "doc_name": "NT Nazi Vol IV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-IV.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-V",
+      "doc_name": "NT Nazi Vol V",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-V.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-VI",
+      "doc_name": "NT Nazi Vol VI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-VI.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-VII",
+      "doc_name": "NT Nazi Vol VII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-VII.pdf"
+    },
+    {
+      "id": "NT_Nazi_Vol-VIII",
+      "doc_name": "NT Nazi Vol VIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-VIII.pdf"
+    },
+    {
+      "id": "NT_Nazi-opinion-judgment",
+      "doc_name": "NT Nazi opinion judgment",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi-opinion-judgment.pdf"
+    },
+    {
+      "id": "NT_Nazi-Suppl-A",
+      "doc_name": "NT Nazi Suppl A",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi-Suppl-A.pdf"
+    },
+    {
+      "id": "NT_Nazi-Suppl-B",
+      "doc_name": "NT Nazi Suppl B",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi-Suppl-B.pdf"
+    },
+    {
+      "id": "NT_Vol-I",
+      "doc_name": "NT Vol I",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-I.pdf"
+    },
+    {
+      "id": "NT_Vol-II",
+      "doc_name": "NT Vol II",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-II.pdf"
+    },
+    {
+      "id": "NT_Vol-III",
+      "doc_name": "NT Vol III",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-III.pdf"
+    },
+    {
+      "id": "NT_Vol-IV",
+      "doc_name": "NT Vol IV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-IV.pdf"
+    },
+    {
+      "id": "NT_Vol-IX",
+      "doc_name": "NT Vol IX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-IX.pdf"
+    },
+    {
+      "id": "NT_Vol-V",
+      "doc_name": "NT Vol V",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-V.pdf"
+    },
+    {
+      "id": "NT_Vol-VI",
+      "doc_name": "NT Vol VI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-VI.pdf"
+    },
+    {
+      "id": "NT_Vol-VII",
+      "doc_name": "NT Vol VII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-VII.pdf"
+    },
+    {
+      "id": "NT_Vol-VIII",
+      "doc_name": "NT Vol VIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-VIII.pdf"
+    },
+    {
+      "id": "NT_Vol-X",
+      "doc_name": "NT Vol X",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-X.pdf"
+    },
+    {
+      "id": "NT_Vol-XI",
+      "doc_name": "NT Vol XI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XI.pdf"
+    },
+    {
+      "id": "NT_Vol-XII",
+      "doc_name": "NT Vol XII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XII.pdf"
+    },
+    {
+      "id": "NT_Vol-XIII",
+      "doc_name": "NT Vol XIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XIII.pdf"
+    },
+    {
+      "id": "NT_Vol-XIV",
+      "doc_name": "NT Vol XIV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XIV.pdf"
+    },
+    {
+      "id": "NT_Vol-XIX",
+      "doc_name": "NT Vol XIX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XIX.pdf"
+    },
+    {
+      "id": "NT_Vol-XL",
+      "doc_name": "NT Vol XL",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XL.pdf"
+    },
+    {
+      "id": "NT_Vol-XLI",
+      "doc_name": "NT Vol XLI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XLI.pdf"
+    },
+    {
+      "id": "NT_Vol-XLII",
+      "doc_name": "NT Vol XLII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XLII.pdf"
+    },
+    {
+      "id": "NT_Vol-XV",
+      "doc_name": "NT Vol XV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XV.pdf"
+    },
+    {
+      "id": "NT_Vol-XVI",
+      "doc_name": "NT Vol XVI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XVI.pdf"
+    },
+    {
+      "id": "NT_Vol-XVII",
+      "doc_name": "NT Vol XVII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XVII.pdf"
+    },
+    {
+      "id": "NT_Vol-XVIII",
+      "doc_name": "NT Vol XVIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XVIII.pdf"
+    },
+    {
+      "id": "NT_Vol-XX",
+      "doc_name": "NT Vol XX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XX.pdf"
+    },
+    {
+      "id": "NT_Vol-XXI",
+      "doc_name": "NT Vol XXI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXI.pdf"
+    },
+    {
+      "id": "NT_Vol-XXII",
+      "doc_name": "NT Vol XXII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXIII",
+      "doc_name": "NT Vol XXIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXIII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXIV",
+      "doc_name": "NT Vol XXIV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXIV.pdf"
+    },
+    {
+      "id": "NT_Vol-XXIX",
+      "doc_name": "NT Vol XXIX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXIX.pdf"
+    },
+    {
+      "id": "NT_Vol-XXV",
+      "doc_name": "NT Vol XXV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXV.pdf"
+    },
+    {
+      "id": "NT_Vol-XXVI",
+      "doc_name": "NT Vol XXVI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXVI.pdf"
+    },
+    {
+      "id": "NT_Vol-XXVII",
+      "doc_name": "NT Vol XXVII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXVII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXVIII",
+      "doc_name": "NT Vol XXVIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXVIII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXX",
+      "doc_name": "NT Vol XXX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXX.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXI",
+      "doc_name": "NT Vol XXXI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXI.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXII",
+      "doc_name": "NT Vol XXXII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXIII",
+      "doc_name": "NT Vol XXXIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXIII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXIV",
+      "doc_name": "NT Vol XXXIV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXIV.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXIX",
+      "doc_name": "NT Vol XXXIX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXIX.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXV",
+      "doc_name": "NT Vol XXXV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXV.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXVI",
+      "doc_name": "NT Vol XXXVI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXVI.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXVII",
+      "doc_name": "NT Vol XXXVII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXVII.pdf"
+    },
+    {
+      "id": "NT_Vol-XXXVIII",
+      "doc_name": "NT Vol XXXVIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-XXXVIII.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-I",
+      "doc_name": "NT war criminals Vol I",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-I.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-II",
+      "doc_name": "NT war criminals Vol II",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-II.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-III",
+      "doc_name": "NT war criminals Vol III",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-III.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-IV",
+      "doc_name": "NT war criminals Vol IV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-IV.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-IX",
+      "doc_name": "NT war criminals Vol IX",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-IX.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-V",
+      "doc_name": "NT war criminals Vol V",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-V.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-VI",
+      "doc_name": "NT war criminals Vol VI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-VI.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-VII",
+      "doc_name": "NT war criminals Vol VII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-VII.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-VIII",
+      "doc_name": "NT war criminals Vol VIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-VIII.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-X",
+      "doc_name": "NT war criminals Vol X",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-X.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-XI",
+      "doc_name": "NT war criminals Vol XI",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-XI.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-XII",
+      "doc_name": "NT war criminals Vol XII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-XII.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-XIII",
+      "doc_name": "NT war criminals Vol XIII",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-XIII.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-XIV",
+      "doc_name": "NT war criminals Vol XIV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-XIV.pdf"
+    },
+    {
+      "id": "NT_war-criminals_Vol-XV",
+      "doc_name": "NT war criminals Vol XV",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/NT_war-criminals_Vol-XV.pdf"
+    },
+    {
+      "id": "Yamashita-summary",
+      "doc_name": "Yamashita summary",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Yamashita-summary.pdf"
+    },
+    {
+      "id": "Yamashita",
+      "doc_name": "Yamashita",
+      "source": "https://www.loc.gov/rr/frd/Military_Law/pdf/Yamashita.pdf"
+    },
+    {
+      "id": "001",
+      "doc_name": "Materials on the Trial of Former Servicemen of the Japanese Army Charged with Manufacturing and Employing Bacteriological Weapons",
+      "source": "https://archive.org/stream/MaterialsOnTheTrialOfFormerServicemen/Materials_on_the_Trial_of_Former_Service"
+    },
+    {
+      "id": "887_roll_01",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 01",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_01"
+    },
+    {
+      "id": "887_roll_02",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 02",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_02"
+    },
+    {
+      "id": "887_roll_03",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 03",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_03"
+    },
+    {
+      "id": "887_roll_04",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 04",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_04"
+    },
+    {
+      "id": "887_roll_05",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 05",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_05"
+    },
+    {
+      "id": "887_roll_06",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 06",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_06"
+    },
+    {
+      "id": "887_roll_07",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 07",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_07"
+    },
+    {
+      "id": "887_roll_08",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 08",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_08"
+    },
+    {
+      "id": "887_roll_09",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 09",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_09"
+    },
+    {
+      "id": "887_roll_10",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 10",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_10"
+    },
+    {
+      "id": "887_roll_11",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 11",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_11"
+    },
+    {
+      "id": "887_roll_12",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 12",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_12"
+    },
+    {
+      "id": "887_roll_13",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 13",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_13"
+    },
+    {
+      "id": "887_roll_14",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 14",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_14"
+    },
+    {
+      "id": "887_roll_15",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 15",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_15"
+    },
+    {
+      "id": "887_roll_16",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 16",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_16"
+    },
+    {
+      "id": "887_roll_17",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 17",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_17"
+    },
+    {
+      "id": "887_roll_36",
+      "doc_name": "Trials of Nazi \"Doctors\" 887 roll 36",
+      "date": 1947,
+      "type": "archive-b",
+      "source": "DoctorsTrialTranscripts/887_roll_36"
+    }
+  ]
+}

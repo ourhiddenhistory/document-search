@@ -1,0 +1,327 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+
+  <!-- cache busting -->
+  {% assign min = 00 %}
+  {% assign max = 100 %}
+  {% assign diff = max | minus: min %}
+  {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+  <title>Our Hidden History</title>
+  <link rel='stylesheet prefetch'
+        href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css'>
+  <link rel='stylesheet prefetch'
+        href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
+  <link rel='stylesheet prefetch'
+        href='{{site.baseurl}}/dist/style.css?{{randomNumber}}'>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@ourhiddenhistry">
+  <meta property="fb:admins" content=""/>
+  <meta property="og:title" content="Our Hidden History" />
+  <meta property="og:type"   content="website" />
+  <meta property="og:url" content="https://ourhiddenhistory.org{{site.baseurl}}{{page.url}}" />
+  <meta property="og:image" content="https://ourhiddenhistory.org/doc-search/dist/img/ourhiddenhistory-twitter.png" />
+  <meta property="og:description"
+    content="A Database of Cold War and Post-Cold War History" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="Our Hidden History" />
+  <style>
+  .post  {
+    font-size: 22px;
+    font-family: 'Muli', sans-serif;
+  }
+
+  .post a:link,
+  .post a:visited {
+    text-decoration: underline;
+  }
+
+  .post a:link,
+  .post a:visited,
+  .post .primary {
+    color: #420707;
+  }
+
+  h1,h2,h4,h5,h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    line-height: 160%;
+    margin: 0 170px;
+    margin-bottom: 35px;
+  }
+
+  h1 {
+    font-size: 54px;
+  }
+
+  h1.title {
+    margin-top: 35px;
+    position: relative;
+    line-height: 160%;
+    margin: 0;
+    margin-bottom: 35px;
+  }
+
+  h1.title > a.imprint {
+    display: block;
+    position: absolute;
+    bottom: -170px;
+    //bottom: -295px;
+    left: 0;
+    width: 140px;
+    height: 140px;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    color: #420707;
+    text-decoration: none;
+    img {
+      width: 120px;
+    }
+  }
+
+  div.tools {
+    position: relative;
+    border: 1px solid lightgray;
+    margin-bottom: 22px;
+    font-size: 18px;
+    margin-left: 170px;
+  }
+
+  div.tools__inner.tools__inner--open {
+    height: 100px;
+    transition: height 300ms;
+  }
+
+  div.tools > div.toolsbutton {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: -21px;
+    padding: 4px 8px;
+    color: gray;
+    background-color: white;
+    content: '';
+    cursor: pointer;
+    z-index: 2;
+  }
+
+  div.tools__inner {
+    display: flex;
+    justify-content: left;
+    align-content: center;
+    height: 0;
+    overflow: hidden;
+  }
+
+  div.social {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: red;
+  }
+
+  p.byline {
+    font-style: italic;
+  }
+
+  div.embed,
+  p {
+    line-height: 160%;
+    margin: 0 170px;
+    margin-bottom: 35px;
+  }
+
+  h3,
+  figure.figure--left,
+  figure.figure--right {
+    max-width: 450px;
+    display: inline-block;
+  }
+  h3,
+  figure {
+    margin-bottom: 15px;
+    background-color: darkgray;
+    color: white;
+    padding: 40px;
+    p,h2 {
+      margin: 0;
+    }
+  }
+
+  h3,
+  figure.figure--right {
+    float: right;
+    margin-left: 30px;
+    border-bottom-right-radius: 35px 35px;
+  }
+
+  figure.figure--left {
+    float: left;
+    margin-right: 30px;
+    border-bottom-left-radius: 35px 35px;
+  }
+
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nowrap {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 991.98px) {
+    p {
+      margin: 0;
+      margin-bottom: 35px;
+      font-size: 18px;
+    }
+    h1 {
+      font-size: 40px;
+      line-height: 150%;
+    }
+    h1,h2,h4,h5,h6 {
+      margin: 0;
+      margin-bottom: 35px;
+    }
+    h1.title {
+     margin-bottom: 50px;
+    }
+    h1.title > a.imprint {
+      margin: 0 auto;
+      display: block;
+      position: relative;
+      top: 0px;
+      height: auto;
+    }
+    div.tools {
+      margin-left: 0;
+    }
+    h3,
+    figure.figure--right {
+      margin-left: 0;
+    }
+    div.embed {
+      margin: 0;
+    }
+  }
+  </style>
+</head>
+
+<div class="{{ page.app }}">
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="/doc-search/index.php">
+      Our Hidden History
+    </a>
+    <button class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item">
+          <a class="nav-link btn btn-md btn-info" href="{{ site.baseurl }}/documents-list.html">Documents List</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/index.php"><i class="fa fa-search" aria-hidden="true"></i> Search</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/posts.html">Posts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/code.html">Code</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/links.html">Links</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/">OurHiddenHistory.org</a>
+        </li>
+        <!--
+        <li class="nav-item">
+          <a class="nav-link" href="/methodology.html">Methodology</a>
+        </li>
+        -->
+      </ul>
+
+      <div class="btn btn-sm disabled docsearch__indexed-cnt"></div>
+      <!--
+      <button type="button"
+              class="btn btn-primary pull-right"
+              data-toggle="modal"
+              data-target="#exampleModalLong">
+        Document List
+      </button>
+      -->
+    </div>
+
+  </nav>
+
+  <div class="container post">
+
+    <h1 class="title">
+      {{ page.title }}
+      <a href="/" class="imprint">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" />
+        Our Hidden History
+      </a>
+    </h1>
+    <div class="tools">
+      <div class="toolsbutton">share &amp; search</div>
+    </div>
+
+    <p class="byline">
+      <strong>{{ page.author }}</strong> &mdash; <span class="nowrap">{{ page.date | date: "%B %d, %Y" }}</span>
+    </p>
+
+    {% if page.youtube %}
+
+      <h5>video embed</h5>
+
+      <div class="embed">
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <p></p>
+
+    {% endif %}
+
+    {% if page.archiveMp3 %}
+
+      <h5>.mp3 from archive.org</h5>
+      <div class="embed">
+        <iframe src="https://archive.org/embed/{{ page.archiveMp3 }}" width="100%" height="40px" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <p></p>
+
+    {% endif %}

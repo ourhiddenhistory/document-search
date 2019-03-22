@@ -1,0 +1,553 @@
+{
+  "id": "101",
+  "shortname": "cointelpro",
+  "collection": "COINTELPRO",
+  "alt_names": [],
+  "date": "1968",
+  "description": "COINTELPRO Documents",
+  "important": "",
+  "type": "archive-b",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "105-HQ-99938",
+      "source": "105-HQ-99938"
+    },
+    {
+      "id": "Americas-secret-police-network1",
+      "source": "americas-secret-police-network/Americas-secret-police-network1"
+    },
+    {
+      "id": "COINTELPRO - Hoodwink",
+      "source": "COINTELPROHoodwink/COINTELPRO - Hoodwink"
+    },
+    {
+      "id": "Counterintelligence - Border Coverage Program (BOCOV)",
+      "source":
+        "CounterintelligenceBorderCoverageProgramBOCOV/Counterintelligence - Border Coverage Program (BOCOV)"
+    },
+    {
+      "id": "Counterintelligence-Documentary-Look",
+      "source":
+        "Counterintelligence-Documentary-Look-1980/Counterintelligence-Documentary-Look"
+    },
+    {
+      "id": "100-HQ-448006-01",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-01"
+    },
+    {
+      "id": "100-HQ-448006-02",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-02"
+    },
+    {
+      "id": "100-HQ-448006-03",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-03"
+    },
+    {
+      "id": "100-HQ-448006-04",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-04"
+    },
+    {
+      "id": "100-HQ-448006-05",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-05"
+    },
+    {
+      "id": "100-HQ-448006-06",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-06"
+    },
+    {
+      "id": "100-HQ-448006-07",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-07"
+    },
+    {
+      "id": "100-HQ-448006-08",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-08"
+    },
+    {
+      "id": "100-HQ-448006-09",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-09"
+    },
+    {
+      "id": "100-HQ-448006-10",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-10"
+    },
+    {
+      "id": "100-HQ-448006-11",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-11"
+    },
+    {
+      "id": "100-HQ-448006-12",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-12"
+    },
+    {
+      "id": "100-HQ-448006-13",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-13"
+    },
+    {
+      "id": "100-HQ-448006-14",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-14"
+    },
+    {
+      "id": "100-HQ-448006-15",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-15"
+    },
+    {
+      "id": "100-HQ-448006-16",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-16"
+    },
+    {
+      "id": "100-HQ-448006-17",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-17"
+    },
+    {
+      "id": "100-HQ-448006-18",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-18"
+    },
+    {
+      "id": "100-HQ-448006-19",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-19"
+    },
+    {
+      "id": "100-HQ-448006-20",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-20"
+    },
+    {
+      "id": "100-HQ-448006-21",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-21"
+    },
+    {
+      "id": "100-HQ-448006-22",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-22"
+    },
+    {
+      "id": "100-HQ-448006-23",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-23"
+    },
+    {
+      "id": "100-HQ-448006-24",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-24"
+    },
+    {
+      "id": "100-HQ-448006-25",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-25"
+    },
+    {
+      "id": "100-HQ-448006-26",
+      "source": "FBI-COINTELPRO-BLACK/100-HQ-448006-26"
+    },
+    {
+      "id": "100-HQ-449698-01",
+      "source": "FBI-COINTELPRO-NewLeft/100-HQ-449698-01"
+    },
+    {
+      "id": "100-HQ-449698-02",
+      "source": "FBI-COINTELPRO-NewLeft/100-HQ-449698-02"
+    },
+    {
+      "id": "100-HQ-449698-03",
+      "source": "FBI-COINTELPRO-NewLeft/100-HQ-449698-03"
+    },
+    {
+      "id": "100-HQ-449698-04",
+      "source": "FBI-COINTELPRO-NewLeft/100-HQ-449698-04"
+    },
+    {
+      "id": "100-HQ-449698-SubfileA",
+      "source": "FBI-COINTELPRO-NewLeft/100-HQ-449698-SubfileA"
+    },
+    {
+      "id": "52-HQ-94527-01",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-01"
+    },
+    {
+      "id": "52-HQ-94527-02",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-02"
+    },
+    {
+      "id": "52-HQ-94527-03",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-03"
+    },
+    {
+      "id": "52-HQ-94527-04",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-04"
+    },
+    {
+      "id": "52-HQ-94527-05",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-05"
+    },
+    {
+      "id": "52-HQ-94527-06",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-06"
+    },
+    {
+      "id": "52-HQ-94527-07",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-07"
+    },
+    {
+      "id": "52-HQ-94527-08",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-08"
+    },
+    {
+      "id": "52-HQ-94527-09",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-09"
+    },
+    {
+      "id": "52-HQ-94527-10",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-10"
+    },
+    {
+      "id": "52-HQ-94527-11",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-11"
+    },
+    {
+      "id": "52-HQ-94527-12",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-12"
+    },
+    {
+      "id": "52-HQ-94527-13",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-13"
+    },
+    {
+      "id": "52-HQ-94527-14",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-14"
+    },
+    {
+      "id": "52-HQ-94527-15",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-15"
+    },
+    {
+      "id": "52-HQ-94527-16",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-16"
+    },
+    {
+      "id": "52-HQ-94527-17",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-17"
+    },
+    {
+      "id": "52-HQ-94527-18",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-18"
+    },
+    {
+      "id": "52-HQ-94527-19",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-19"
+    },
+    {
+      "id": "52-HQ-94527-20",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-20"
+    },
+    {
+      "id": "52-HQ-94527-21",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-21"
+    },
+    {
+      "id": "52-HQ-94527-22",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-22"
+    },
+    {
+      "id": "52-HQ-94527-23",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-23"
+    },
+    {
+      "id": "52-HQ-94527-24",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-24"
+    },
+    {
+      "id": "52-HQ-94527-25",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-25"
+    },
+    {
+      "id": "52-HQ-94527-26",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-26"
+    },
+    {
+      "id": "52-HQ-94527-27",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-27"
+    },
+    {
+      "id": "52-HQ-94527-28",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-28"
+    },
+    {
+      "id": "52-HQ-94527-29",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-29"
+    },
+    {
+      "id": "52-HQ-94527-30",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-30"
+    },
+    {
+      "id": "52-HQ-94527-31",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-31"
+    },
+    {
+      "id": "52-HQ-94527-32",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-32"
+    },
+    {
+      "id": "52-HQ-94527-33",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-33"
+    },
+    {
+      "id": "52-HQ-94527-34",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-34"
+    },
+    {
+      "id": "52-HQ-94527-35",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-35"
+    },
+    {
+      "id": "52-HQ-94527-36",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-36"
+    },
+    {
+      "id": "52-HQ-94527-37",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-37"
+    },
+    {
+      "id": "52-HQ-94527-38",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-38"
+    },
+    {
+      "id": "52-HQ-94527-41",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-41"
+    },
+    {
+      "id": "52-HQ-94527-73",
+      "source": "FBI-MEDBURG-COINTELPRO/52-HQ-94527-73"
+    },
+    {
+      "id": "RNA",
+      "source": "RNA"
+    },
+    {
+      "id": "Smith-FBI-Plot-Black-Movement",
+      "source": "FBI-Plot-Black-Movement/Smith-FBI-Plot-Black-Movement"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-1",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-1"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-2",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-2"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub-2",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub-2"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub10",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub10"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub3",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub3"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub4-2",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub4-2"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub4-3",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub4-3"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub4",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub4"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub5",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub5"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub8-2",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub8-2"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub8-3",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub8-3"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub8-4",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub8-4"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub8",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub8"
+    },
+    {
+      "id": "COINTELPRO-White Hate-HQ-sub9",
+      "source": "WhiteHate/COINTELPRO-White Hate-HQ-sub9"
+    },
+    [
+      {
+        "id": "EBF 3931",
+        "source": "100-HQ-448092/EBF 3931/EBF 3931"
+      },
+      {
+        "id": "EBF 3982",
+        "source": "100-HQ-448092/EBF 3982/EBF 3982"
+      },
+      {
+        "id": "EBF 3997",
+        "source": "100-HQ-448092/EBF 3997/EBF 3997"
+      },
+      {
+        "id": "EBF 4107",
+        "source": "100-HQ-448092/EBF 4107/EBF 4107"
+      },
+      {
+        "id": "EBF 4158",
+        "source": "100-HQ-448092/EBF 4158/EBF 4158"
+      },
+      {
+        "id": "EBF 4213",
+        "source": "100-HQ-448092/EBF 4213/EBF 4213"
+      },
+      {
+        "id": "Enc (unlabeled)",
+        "source": "100-HQ-448092/Enc (unlabeled)/Enc (unlabeled)"
+      },
+      {
+        "id": "Enc 2728",
+        "source": "100-HQ-448092/Enc 2728/Enc 2728"
+      },
+      {
+        "id": "Enc 3246",
+        "source": "100-HQ-448092/Enc 3246/Enc 3246"
+      },
+      {
+        "id": "ENC 3402",
+        "source": "100-HQ-448092/Enc 3402/ENC 3402"
+      },
+      {
+        "id": "Enc 4084",
+        "source": "100-HQ-448092/Enc 4084/Enc 4084"
+      },
+      {
+        "id": "ENC 4229",
+        "source": "100-HQ-448092/Enc 4229/ENC 4229"
+      },
+      {
+        "id": "Section 50 Part 2",
+        "source": "100-HQ-448092/Section 050 Part 2/Section 50 Part 2"
+      },
+      {
+        "id": "SECTION 051",
+        "source": "100-HQ-448092/Section 051/SECTION 051"
+      },
+      {
+        "id": "SECTION 052",
+        "source": "100-HQ-448092/Section 052/SECTION 052"
+      },
+      {
+        "id": "SECTION 053",
+        "source": "100-HQ-448092/Section 053/SECTION 053"
+      },
+      {
+        "id": "SECTION 054",
+        "source": "100-HQ-448092/Section 054/SECTION 054"
+      },
+      {
+        "id": "SECTION 055",
+        "source": "100-HQ-448092/Section 055/SECTION 055"
+      },
+      {
+        "id": "SECTION 056",
+        "source": "100-HQ-448092/Section 056/SECTION 056"
+      },
+      {
+        "id": "SECTION 057",
+        "source": "100-HQ-448092/Section 057/SECTION 057"
+      },
+      {
+        "id": "SECTION 058",
+        "source": "100-HQ-448092/Section 058/SECTION 058"
+      },
+      {
+        "id": "SECTION 059",
+        "source": "100-HQ-448092/Section 059/SECTION 059"
+      },
+      {
+        "id": "SECTION 060",
+        "source": "100-HQ-448092/Section 060/SECTION 060"
+      },
+      {
+        "id": "SECTION 061",
+        "source": "100-HQ-448092/Section 061/SECTION 061"
+      },
+      {
+        "id": "Section 62",
+        "source": "100-HQ-448092/Section 062/Section 62"
+      },
+      {
+        "id": "Section 70",
+        "source": "100-HQ-448092/Section 070/Section 70"
+      },
+      {
+        "id": "Section 71",
+        "source": "100-HQ-448092/Section 071/Section 71"
+      },
+      {
+        "id": "Section 72",
+        "source": "100-HQ-448092/Section 072/Section 72"
+      },
+      {
+        "id": "SECTION 073",
+        "source": "100-HQ-448092/Section 073/SECTION 073"
+      },
+      {
+        "id": "SECTION 074",
+        "source": "100-HQ-448092/Section 074/SECTION 074"
+      },
+      {
+        "id": "SECTION 075",
+        "source": "100-HQ-448092/Section 075/SECTION 075"
+      },
+      {
+        "id": "Section 63",
+        "source": "100-HQ-448092/Section 63/Section 63"
+      },
+      {
+        "id": "Section 64",
+        "source": "100-HQ-448092/Section 64/Section 64"
+      },
+      {
+        "id": "Section 65",
+        "source": "100-HQ-448092/Section 65/Section 65"
+      },
+      {
+        "id": "Section 66",
+        "source": "100-HQ-448092/Section 66/Section 66"
+      },
+      {
+        "id": "Section 67",
+        "source": "100-HQ-448092/Section 67/Section 67"
+      },
+      {
+        "id": "Section 68",
+        "source": "100-HQ-448092/Section 68/Section 68"
+      },
+      {
+        "id": "Section 69",
+        "source": "100-HQ-448092/Section 69/Section 69"
+      },
+      {
+        "id": "SERIAL 3732",
+        "source": "100-HQ-448092/Serial 3732/SERIAL 3732"
+      },
+      {
+        "id": "Sub A Section 01",
+        "source": "100-HQ-448092/Sub A Section 01/Sub A Section 01"
+      },
+      {
+        "id": "Sub A Section 02",
+        "source": "100-HQ-448092/Sub A Section 02/Sub A Section 02"
+      },
+      {
+        "id": "Section 01",
+        "source": "100-HQ-451697/Section 01/Section 01"
+      }
+    ]
+  ]
+}

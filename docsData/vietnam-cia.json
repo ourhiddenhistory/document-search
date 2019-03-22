@@ -1,0 +1,264 @@
+{
+  "id": "048",
+  "shortname": "vietnam-cia",
+  "collection": "CIA Role in Vietnam",
+  "alt_names": [],
+  "date": "1968",
+  "important": "",
+  "description": "Many documents are from the <a href='http://www.douglasvalentine.com/'>Doug Valentine</a> Collection at <a href='http://cryptocomb.org/'>cryptocomb.org</a>. Several CIA produced histories of the war are also included.",
+  "source": "http://www.cryptocomb.org/Phoenix%20Program%20Document%20Library.html",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "1 Brickham Attack Nov 66",
+      "source": "http://www.cryptocomb.org/1%20Brickham%20Attack%20Nov%2066.pdf"
+    },
+    {
+      "id": "002",
+      "doc_name": "2 Brickham Concept May 67",
+      "source": "http://www.cryptocomb.org/2%20Brickham%20Concept%20May%2067.pdf"
+    },
+    {
+      "id": "003",
+      "doc_name": "3 Brickham Observations May 67",
+      "source": "http://www.cryptocomb.org/3%20Brickham%20Observations%20May%2067.pdf"
+    },
+    {
+      "id": "004",
+      "doc_name": "4 Brickham Proposal June 67",
+      "source": "http://www.cryptocomb.org/4%20Brickham%20Proposal%20June%2067.pdf"
+    },
+    {
+      "id": "005",
+      "doc_name": "5 MACV 381-41 9 July 67",
+      "source": "http://www.cryptocomb.org/5%20MACV%20381-41%209%20July%2067.pdf"
+    },
+    {
+      "id": "006",
+      "doc_name": "6 Lathram Action Program July 67",
+      "source": "http://www.cryptocomb.org/6%20Lathram%20Action%20Program%20July%2067.pdf"
+    },
+    {
+      "id": "007",
+      "doc_name": "7 Carver ICEX Aug 67",
+      "source": "http://www.cryptocomb.org/7%20Carver%20ICEX%20Aug%2067.pdf"
+    },
+    {
+      "id": "008",
+      "doc_name": "8 Parker Takeoff Aug 67",
+      "source": "http://www.cryptocomb.org/8%20Parker%20Takeoff%20Aug%2067.pdf"
+    },
+    {
+      "id": "009",
+      "doc_name": "9 Rusk to Komer ICEX Side Jan 68",
+      "source": "http://www.cryptocomb.org/9%20Rusk%20to%20Komer%20ICEX%20Side%20Jan%2068.pdf"
+    },
+    {
+      "id": "010",
+      "doc_name": "10 Bunker Lower House Phoenix Jun 69",
+      "source": "http://www.cryptocomb.org/10%20Bunker%20Lower%20House%20Phoenix%20Jun%2069.pdf"
+    },
+    {
+      "id": "011",
+      "doc_name": "11 Dang Van Minh Directive March 68",
+      "source": "http://www.cryptocomb.org/11%20Dang%20Van%20Minh%20Directive%20March%2068.pdf"
+    },
+    {
+      "id": "012",
+      "doc_name": "12 Billard to Kissinger Phoenix 21 June 69",
+      "source": "http://www.cryptocomb.org/12%20Billard%20to%20Kissinger%20Phoenix%2021%20June%2069.pdf"
+    },
+    {
+      "id": "013",
+      "doc_name": "13 JCS to ISA Phoenix 26 June 69",
+      "source": "http://www.cryptocomb.org/13%20JCS%20to%20ISA%20Phoenix%2026%20June%2069.pdf"
+    },
+    {
+      "id": "014",
+      "doc_name": "14 Laird to ISA Phoenix 8 July 69",
+      "source": "http://www.cryptocomb.org/14%20Laird%20to%20ISA%20Phoenix%208%20July%2069.pdf"
+    },
+    {
+      "id": "015",
+      "doc_name": "15 Moor to Kissinger Phoenix 11 Jul 69",
+      "source": "http://www.cryptocomb.org/15%20Moor%20to%20Kissinger%20Phoenix%2011%20Jul%2069.pdf"
+    },
+    {
+      "id": "016",
+      "doc_name": "16 Phoenix Staff 1 Aug 69",
+      "source": "http://www.cryptocomb.org/16%20Phoenix%20Staff%201%20Aug%2069.pdf"
+    },
+    {
+      "id": "017",
+      "doc_name": "17 a Chair JCS PRU-Phoenix Dec 69",
+      "source": "http://www.cryptocomb.org/17%20a%20Chair%20JCS%20PRU-Phoenix%20Dec%2069.pdf"
+    },
+    {
+      "id": "018",
+      "doc_name": "17 b Memo for Sec Defense re Phoenix PRU",
+      "source": "http://www.cryptocomb.org/17%20b%20Memo%20for%20Sec%20Defense%20re%20Phoenix%20PRU.pdf"
+    },
+    {
+      "id": "019",
+      "doc_name": "18 Phoenix Compromise Discredit 70",
+      "source": "http://www.cryptocomb.org/18%20Phoenix%20Compromise%20Discredit%2070.pdf"
+    },
+    {
+      "id": "020",
+      "doc_name": "19 Komer Fiasco 30 July 70",
+      "source": "http://www.cryptocomb.org/19%20Komer%20Fiasco%2030%20July%2070.pdf"
+    },
+    {
+      "id": "021",
+      "doc_name": "19a Komer last page",
+      "source": "http://www.cryptocomb.org/19a%20Komer%20last%20page.pdf"
+    },
+    {
+      "id": "022",
+      "doc_name": "20 Clay to Sec Def re Phoenix 15 Aug 70",
+      "source": "http://www.cryptocomb.org/20%20Clay%20to%20Sec%20Def%20re%20Phoenix%2015%20Aug%2070.pdf"
+    },
+    {
+      "id": "023",
+      "doc_name": "21 Phoenix as Internal Security Dec 70",
+      "source": "http://www.cryptocomb.org/21%20Phoenix%20as%20Internal%20Security%20Dec%2070.pdf"
+    },
+    {
+      "id": "024",
+      "doc_name": "22  Phoenix Attitudes Scotton Dec 70",
+      "source": "http://www.cryptocomb.org/22%20%20Phoenix%20Attitudes%20Scotton%20Dec%2070.pdf"
+    },
+    {
+      "id": "025",
+      "doc_name": "23 Captured VCI docs re Phoenix Aug-Dec 70",
+      "source": "http://www.cryptocomb.org/23%20Captured%20VCI%20docs%20re%20Phoenix%20Aug-Dec%2070.pdf"
+    },
+    {
+      "id": "026",
+      "doc_name": "24 CPHPO Roster",
+      "source": "http://www.cryptocomb.org/24%20CPHPO%20Roster.pdf"
+    },
+    {
+      "id": "027",
+      "doc_name": "25 Phoenix PsyOps Policy July 71",
+      "source": "http://www.cryptocomb.org/25%20Phoenix%20PsyOps%20Policy%20July%2071.pdf"
+    },
+    {
+      "id": "028",
+      "doc_name": "26 National Security Laws July 71",
+      "source": "http://www.cryptocomb.org/26%20National%20Security%20Laws%20July%2071.pdf"
+    },
+    {
+      "id": "029",
+      "doc_name": "27   McCoid EoY Phoenix Report Aug 71",
+      "source": "http://www.cryptocomb.org/27%20%20%20McCoid%20EoY%20Phoenix%20Report%20Aug%2071.pdf"
+    },
+    {
+      "id": "030",
+      "doc_name": "28 Geneva Phoenix11  Aug 71",
+      "source": "http://www.cryptocomb.org/28%20Geneva%20Phoenix11%20%20Aug%2071.pdf"
+    },
+    {
+      "id": "031",
+      "doc_name": "29 PSC Aug 71",
+      "source": "http://www.cryptocomb.org/29%20PSC%20Aug%2071.pdf"
+    },
+    {
+      "id": "032",
+      "doc_name": "30 An Tri Procedures 28 Oct 71",
+      "source": "http://www.cryptocomb.org/30%20An%20Tri%20Procedures%2028%20Oct%2071.pdf"
+    },
+    {
+      "id": "033",
+      "doc_name": "31 An Tri Reform Dec 71",
+      "source": "http://www.cryptocomb.org/31%20An%20Tri%20Reform%20Dec%2071.pdf"
+    },
+    {
+      "id": "034",
+      "doc_name": "32 Phoenix Review Sept 72",
+      "source": "http://www.cryptocomb.org/32%20Phoenix%20Review%20Sept%2072.pdf"
+    },
+    {
+      "id": "035",
+      "doc_name": "33 An Tri Sept 72",
+      "source": "http://www.cryptocomb.org/33%20An%20Tri%20Sept%2072.pdf"
+    },
+    {
+      "id": "036",
+      "doc_name": "34 Phoenix Stats Sept 72",
+      "source": "http://www.cryptocomb.org/34%20Phoenix%20Stats%20Sept%2072.pdf"
+    },
+    {
+      "id": "037",
+      "doc_name": "34 Thayer Phoenix Oct 72 drugs",
+      "source": "http://www.cryptocomb.org/34%20Thayer%20Phoenix%20Oct%2072%20drugs.pdf"
+    },
+    {
+      "id": "038",
+      "doc_name": "35 J3 DOCSA Phoenix July 73",
+      "source": "http://www.cryptocomb.org/35%20J3%20DOCSA%20Phoenix%20July%2073.pdf"
+    },
+    {
+      "id": "039",
+      "doc_name": "36 Phoenix Congress brief 73",
+      "source": "http://www.cryptocomb.org/36%20Phoenix%20Congress%20brief%2073.pdf"
+    },
+    {
+      "id": "040",
+      "doc_name": "37 Future Applicability of Phoenix Program",
+      "source": "http://www.cryptocomb.org/37%20Future%20Applicability%20of%20Phoenix%20Program.pdf"
+    },
+    {
+      "id": "041",
+      "doc_name": "38 Phoenix report Oct 74",
+      "source": "http://www.cryptocomb.org/38%20Phoenix%20report%20Oct%2074.pdf"
+    },
+    {
+      "id": "042",
+      "doc_name": "CIA and Rural Pacification in South Vietnam (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/CIA%20and%20Rural%20Pacification",
+      "type": "archive"
+    },
+    {
+      "id": "043",
+      "doc_name": "CIA and The Generals (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/CIA%20and%20the%20Generals",
+      "type": "archive"
+    },
+    {
+      "id": "044",
+      "doc_name": "CIA and the House of Ngo (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/CIA%20and%20the%20House%20of%20Ngo",
+      "type": "archive"
+    },
+    {
+      "id": "045",
+      "doc_name": "Good Questions, Wrong Answers: CIA's Estimates of Arms Traffic Through Sihanoukville, Cambodia, During the Vietnam War (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/Good%20Questions%2C%20Wrong%20Answers",
+      "type": "archive"
+    },
+    {
+      "id": "046",
+      "doc_name": "PIC Interior diagram",
+      "source": "http://www.cryptocomb.org/PIC%20Interior%20diagram.pdf"
+    },
+    {
+      "id": "047",
+      "doc_name": "Slater MO of VCI 1970",
+      "source": "http://www.cryptocomb.org/Slater%20MO%20of%20VCI%201970.pdf"
+    },
+    {
+      "id": "048",
+      "doc_name": "The Way We Do Things: Black Entry Operations Into North Vietnam (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/The%20Way%20We%20Do%20Things",
+      "type": "archive"
+    },
+    {
+      "id": "049",
+      "doc_name": "Undercover Armies: CIA and Surrogate Warfare in Laos (CIA Document)",
+      "source": "https://archive.org/stream/The_CIAs_Vietnam_War_Histories/CIA%20Vietnam%20War%20Histories/Undercover%20Armies",
+      "type": "archive"
+    }
+  ]
+}

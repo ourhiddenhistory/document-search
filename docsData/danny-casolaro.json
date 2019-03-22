@@ -1,0 +1,623 @@
+{
+  "id": "019",
+  "shortname": "danny-casolaro",
+  "collection": "Files of Danny Casolaro",
+  "alt_names": [],
+  "date": "1990",
+  "source": "https://archive.org/search.php?query=danny%20casolaro",
+  "description": "",
+  "important": "Documents after 'North Carolina Hazardous Waste - Reports' have not been put into the the searchable database yet.",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "BCCI and Misc",
+      "source": "https://archive.org/stream/casolaro-notebooks/BcciAndMisc"
+    },
+    {
+      "id": "002",
+      "doc_name": "Bickel All Source Air",
+      "source": "https://archive.org/stream/casolaro-notebooks/BickelAllSourceAir"
+    },
+    {
+      "id": "003",
+      "doc_name": "Bickel Book Proposals",
+      "source": "https://archive.org/stream/casolaro-notebooks/BickelBookProposalsPapersOtherAuthors"
+    },
+    {
+      "id": "004",
+      "doc_name": "Bickel Book Proposals Papers Other Authors",
+      "source": "https://archive.org/stream/casolaro-notebooks/BickelBookProposals"
+    },
+    {
+      "id": "005",
+      "doc_name": "Bickel Correspondence",
+      "source": "https://archive.org/stream/casolaro-notebooks/BickelReports2"
+    },
+    {
+      "id": "006",
+      "doc_name": "Bickel Document Registry Part 4",
+      "source": "https://archive.org/stream/casolaro-notebooks/BobBickel-documentsRegistriesPart3"
+    },
+    {
+      "id": "007",
+      "doc_name": "Bickel Misc Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/BickelMiscDocs.pdf"
+    },
+    {
+      "id": "008",
+      "doc_name": "Bickel Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/BickelReports.pdf"
+    },
+    {
+      "id": "009",
+      "doc_name": "Bickel Reports 2",
+      "source": "https://archive.org/download/casolaro-notebooks/BickelReports2.pdf"
+    },
+    {
+      "id": "010",
+      "doc_name": "Bob Bickel - Documents Registries",
+      "source": "https://archive.org/download/casolaro-notebooks/BobBickel-documentsRegistries.pdf"
+    },
+    {
+      "id": "011",
+      "doc_name": "Bob Bickel - Documents Registries Part 3",
+      "source": "https://archive.org/download/casolaro-notebooks/BobBickel-documentsRegistriesPart3.pdf"
+    },
+    {
+      "id": "012",
+      "doc_name": "Book Proposals - Papers - Other Authors",
+      "source": "https://archive.org/download/casolaro-notebooks/BookProposals-Papers-OtherAuthors.pdf"
+    },
+    {
+      "id": "013",
+      "doc_name": "Book Proposals",
+      "source": "https://archive.org/download/casolaro-notebooks/BookProposals.pdf"
+    },
+    {
+      "id": "014",
+      "doc_name": "Brenneke Papers",
+      "source": "https://archive.org/download/casolaro-notebooks/BrennekePapers.pdf"
+    },
+    {
+      "id": "015",
+      "doc_name": "Burma I",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaI.pdf"
+    },
+    {
+      "id": "016",
+      "doc_name": "Burma Opposition Committee For Restore",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaOppositionCommitteeForRestore.pdf"
+    },
+    {
+      "id": "017",
+      "doc_name": "Burma Opposition DAB",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaOppositionDab.pdf"
+    },
+    {
+      "id": "018",
+      "doc_name": "Burma Opposition Kochia Pr",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaOppositionKochiaPr.pdf"
+    },
+    {
+      "id": "019",
+      "doc_name": "Burma Opposition NDF National Coalition",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaOppositionNdfnationalCoalition.pdf"
+    },
+    {
+      "id": "020",
+      "doc_name": "Burma Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/BurmaReports.pdf"
+    },
+    {
+      "id": "021",
+      "doc_name": "Chapter X - Organized Crime and ADL",
+      "source": "https://archive.org/download/casolaro-notebooks/ChapterX-OrganizedCrimeAndAdl.pdf"
+    },
+    {
+      "id": "022",
+      "doc_name": "CIA - Frank Terpil Renegades",
+      "source": "https://archive.org/download/casolaro-notebooks/CiaFrankTerpilRenegades.pdf"
+    },
+    {
+      "id": "023",
+      "doc_name": "CIA - General",
+      "source": "https://archive.org/download/casolaro-notebooks/CiaGeneral.pdf"
+    },
+    {
+      "id": "024",
+      "doc_name": "Congressional Hearing Transcripts",
+      "source": "https://archive.org/download/casolaro-notebooks/CongressionalHearingTranscripts.pdf"
+    },
+    {
+      "id": "025",
+      "doc_name": "Correspondence",
+      "source": "https://archive.org/download/casolaro-notebooks/Correspondence.pdf"
+    },
+    {
+      "id": "026",
+      "doc_name": "Correspondence for Gov",
+      "source": "https://archive.org/download/casolaro-notebooks/CorrespondenceForGov.pdf"
+    },
+    {
+      "id": "027",
+      "doc_name": "Correspondence More",
+      "source": "https://archive.org/download/casolaro-notebooks/CorrespondenceMore.pdf"
+    },
+    {
+      "id": "028",
+      "doc_name": "Covert Action Information Bulletin",
+      "source": "https://archive.org/download/casolaro-notebooks/CovertAction.pdf"
+    },
+    {
+      "id": "029",
+      "doc_name": "Danny - Octopus: Proposals and Drafts",
+      "source": "https://archive.org/download/casolaro-notebooks/Danny-Octopus-ProposalsAndDrafts.pdf"
+    },
+    {
+      "id": "030",
+      "doc_name": "Danny - Project Proposals Drafts",
+      "source": "https://archive.org/download/casolaro-notebooks/Danny-ProjectProposalsDrafts.pdf"
+    },
+    {
+      "id": "031",
+      "doc_name": "Danny - Fiction",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyFiction.pdf"
+    },
+    {
+      "id": "032",
+      "doc_name": "Danny - Receipts",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyReceipts.pdf"
+    },
+    {
+      "id": "033",
+      "doc_name": "Danny - Resume",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyResume.pdf"
+    },
+    {
+      "id": "034",
+      "doc_name": "Danny - Resume Clippings",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyResumeClippings.pdf"
+    },
+    {
+      "id": "035",
+      "doc_name": "Danny - Robbins Office",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyRobbinsOffice.pdf"
+    },
+    {
+      "id": "036",
+      "doc_name": "Danny - Robert Fairbanks",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyRobertFairbanks.pdf"
+    },
+    {
+      "id": "037",
+      "doc_name": "Danny - Written Notes",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyScrawledNotes.pdf"
+    },
+    {
+      "id": "038",
+      "doc_name": "Danny - Written",
+      "source": "https://archive.org/download/casolaro-notebooks/DannyWritten.pdf"
+    },
+    {
+      "id": "039",
+      "doc_name": "Drug Enforcement Agency - Drugs and Enforcement",
+      "source": "https://archive.org/download/casolaro-notebooks/DeaDrugsAndEnforcement.pdf"
+    },
+    {
+      "id": "040",
+      "doc_name": "Deposition of Peter Videnieks",
+      "source": "https://archive.org/download/casolaro-notebooks/DepositionPeterVidenieks.pdf"
+    },
+    {
+      "id": "041",
+      "doc_name": "Depositions I",
+      "source": "https://archive.org/download/casolaro-notebooks/DepositionsI.pdf"
+    },
+    {
+      "id": "042",
+      "doc_name": "Depositions II",
+      "source": "https://archive.org/download/casolaro-notebooks/DepositionsIi.pdf"
+    },
+    {
+      "id": "043",
+      "doc_name": "Depositions III",
+      "source": "https://archive.org/download/casolaro-notebooks/DepositionsIii.pdf"
+    },
+    {
+      "id": "044",
+      "doc_name": "Department of Defense Publications 1",
+      "source": "https://archive.org/download/casolaro-notebooks/DodPublications.pdf"
+    },
+    {
+      "id": "045",
+      "doc_name": "Department of Defense Publications 2",
+      "source": "https://archive.org/download/casolaro-notebooks/DodPubs2.pdf"
+    },
+    {
+      "id": "046",
+      "doc_name": "Drugs - Far East",
+      "source": "https://archive.org/download/casolaro-notebooks/Drugs-FarEast.pdf"
+    },
+    {
+      "id": "047",
+      "doc_name": "Folder 1 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%201%20Acc5516.pdf"
+    },
+    {
+      "id": "048",
+      "doc_name": "Folder 10 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%2010%20Acc5516.pdf"
+    },
+    {
+      "id": "049",
+      "doc_name": "Folder 11 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%2011%20Acc5516.pdf"
+    },
+    {
+      "id": "050",
+      "doc_name": "Folder 2 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%202%20Acc5516.pdf"
+    },
+    {
+      "id": "051",
+      "doc_name": "Folder 3 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%203%20Acc5516.pdf"
+    },
+    {
+      "id": "052",
+      "doc_name": "Folder 4 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%204%20Acc5516.pdf"
+    },
+    {
+      "id": "053",
+      "doc_name": "Folder 5 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%205%20Acc5516.pdf"
+    },
+    {
+      "id": "054",
+      "doc_name": "Folder 6 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%206%20Acc5516.pdf"
+    },
+    {
+      "id": "055",
+      "doc_name": "Folder 7 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%207%20Acc5516.pdf"
+    },
+    {
+      "id": "056",
+      "doc_name": "Folder 8 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%208%20Acc5516.pdf"
+    },
+    {
+      "id": "057",
+      "doc_name": "Folder 9 Acc5516",
+      "source": "https://archive.org/download/casolaro-notebooks/Folder%209%20Acc5516.pdf"
+    },
+    {
+      "id": "058",
+      "doc_name": "Government Accountability Office Report - Justice Can Improve Its Contract Review Committees Contribution To Better Contracting, 1984",
+      "source": "https://archive.org/download/casolaro-notebooks/GaoReport-JusticeCanImproveItsContractReviewCommitteesContributionToBetterContracting1984.pdf"
+    },
+    {
+      "id": "059",
+      "doc_name": "Government Accountability Office Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/GaoReports.pdf"
+    },
+    {
+      "id": "060",
+      "doc_name": "Gates",
+      "source": "https://archive.org/download/casolaro-notebooks/Gates.pdf"
+    },
+    {
+      "id": "061",
+      "doc_name": "Golden Triangle - Drugs",
+      "source": "https://archive.org/download/casolaro-notebooks/GoldenTriangle-Drugs.pdf"
+    },
+    {
+      "id": "062",
+      "doc_name": "INSLAW Declarations",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-Declarations.pdf"
+    },
+    {
+      "id": "063",
+      "doc_name": "INSLAW Findings of Fact",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-FindingsOfFact.pdf"
+    },
+    {
+      "id": "064",
+      "doc_name": "INSLAW Hamilton Affidavit",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-HamiltonAffidavit.pdf"
+    },
+    {
+      "id": "065",
+      "doc_name": "INSLAW Internal Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-InternalReports.pdf"
+    },
+    {
+      "id": "066",
+      "doc_name": "INSLAW Misc. Business Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-Misc.BusinessDocs.pdf"
+    },
+    {
+      "id": "067",
+      "doc_name": "INSLAW Press Releases",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-PressReleases.pdf"
+    },
+    {
+      "id": "068",
+      "doc_name": "INSLAW Promotional Material",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-PromotionalMaterial.pdf"
+    },
+    {
+      "id": "069",
+      "doc_name": "INSLAW Videniek's Deposition, 3-26-87",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-Videnieks-Deposition-3-26-87.pdf"
+    },
+    {
+      "id": "070",
+      "doc_name": "INSLAW Videniek's Declaration",
+      "source": "https://archive.org/download/casolaro-notebooks/Inslaw-VidenieksDeclaration.pdf"
+    },
+    {
+      "id": "071",
+      "doc_name": "INSLAW Affair in Brief - Supporting Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawAffairInBriefsupportingDocs.pdf"
+    },
+    {
+      "id": "072",
+      "doc_name": "INSLAW Depositions",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawDepositions.pdf"
+    },
+    {
+      "id": "073",
+      "doc_name": "INSLAW I",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawI.pdf"
+    },
+    {
+      "id": "074",
+      "doc_name": "INSLAW II",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawIi.pdf"
+    },
+    {
+      "id": "075",
+      "doc_name": "INSLAW Misc",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawMisc.pdf"
+    },
+    {
+      "id": "076",
+      "doc_name": "INSLAW Speeches and Presentations",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawSpeechesAndPresentations.pdf"
+    },
+    {
+      "id": "077",
+      "doc_name": "INSLAW Videniek's Depositions, 1987",
+      "source": "https://archive.org/download/casolaro-notebooks/InslawVidenieksDepositions1987.pdf"
+    },
+    {
+      "id": "078",
+      "doc_name": "Intelligence Misc",
+      "source": "https://archive.org/download/casolaro-notebooks/IntelligenceMisc.pdf"
+    },
+    {
+      "id": "079",
+      "doc_name": "Investigative Leads Journal",
+      "source": "https://archive.org/download/casolaro-notebooks/InvestigativeLeadsjournal.pdf"
+    },
+    {
+      "id": "080",
+      "doc_name": "Laos",
+      "source": "https://archive.org/download/casolaro-notebooks/Laos.pdf"
+    },
+    {
+      "id": "081",
+      "doc_name": "Maps",
+      "source": "https://archive.org/download/casolaro-notebooks/Maps.pdf"
+    },
+    {
+      "id": "082",
+      "doc_name": "Meridian v. Gates",
+      "source": "https://archive.org/download/casolaro-notebooks/MeridianV.Gates.pdf"
+    },
+    {
+      "id": "083",
+      "doc_name": "Misc. INSLAW Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.-InslawDocs.pdf"
+    },
+    {
+      "id": "084",
+      "doc_name": "Misc. 1",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.1.pdf"
+    },
+    {
+      "id": "085",
+      "doc_name": "Misc. 2",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.2.pdf"
+    },
+    {
+      "id": "086",
+      "doc_name": "Misc. 3",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.3.pdf"
+    },
+    {
+      "id": "087",
+      "doc_name": "Misc. 4",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.4.pdf"
+    },
+    {
+      "id": "088",
+      "doc_name": "Misc. 5",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.5.pdf"
+    },
+    {
+      "id": "089",
+      "doc_name": "Misc. Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.Docs.pdf"
+    },
+    {
+      "id": "090",
+      "doc_name": "Misc. Publications",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.Publications.pdf"
+    },
+    {
+      "id": "091",
+      "doc_name": "Misc. Titles",
+      "source": "https://archive.org/download/casolaro-notebooks/Misc.Titles.pdf"
+    },
+    {
+      "id": "092",
+      "doc_name": "Newsweek",
+      "source": "https://archive.org/download/casolaro-notebooks/Newsweek.pdf"
+    },
+    {
+      "id": "093",
+      "doc_name": "National Institutes of Health Program Advisory Documents",
+      "source": "https://archive.org/download/casolaro-notebooks/NihProgramAdvisoryDocuments.pdf"
+    },
+    {
+      "id": "094",
+      "doc_name": "North Carolina Hazardous Waste - Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/NorthCarolinaHazardousWaste-Reports.pdf"
+    },
+    {
+      "id": "095",
+      "doc_name": "North Carolina Hazardous Waste Commission Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/NorthCarolineHazardousWasteCommissionDocs.pdf"
+    },
+    {
+      "id": "096",
+      "doc_name": "Octopus Promis Docs",
+      "source": "https://archive.org/download/casolaro-notebooks/OctopuspromisDocs.pdf"
+    },
+    {
+      "id": "097",
+      "doc_name": "Other Authors: Book Proposals, Articles",
+      "source": "https://archive.org/download/casolaro-notebooks/OtherAuthors-BookProposals-Articles.pdf"
+    },
+    {
+      "id": "098",
+      "doc_name": "People v. John P. Nichols",
+      "source": "https://archive.org/download/casolaro-notebooks/PeopleV.JohnPNichols.pdf"
+    },
+    {
+      "id": "099",
+      "doc_name": "Phillips Publishing Company",
+      "source": "https://archive.org/download/casolaro-notebooks/PhillipsPublishingCompany.pdf"
+    },
+    {
+      "id": "100",
+      "doc_name": "Press Time",
+      "source": "https://archive.org/download/casolaro-notebooks/Press-Time.pdf"
+    },
+    {
+      "id": "101",
+      "doc_name": "Press Time 2",
+      "source": "https://archive.org/download/casolaro-notebooks/Press-Time2.pdf"
+    },
+    {
+      "id": "102",
+      "doc_name": "Promis: Clippings Background",
+      "source": "https://archive.org/download/casolaro-notebooks/Promis-ClippingsBackground.pdf"
+    },
+    {
+      "id": "103",
+      "doc_name": "Promis Background",
+      "source": "https://archive.org/download/casolaro-notebooks/PromisBackground.pdf"
+    },
+    {
+      "id": "104",
+      "doc_name": "Promis Software: Background",
+      "source": "https://archive.org/download/casolaro-notebooks/PromisSoftwareBackground.pdf"
+    },
+    {
+      "id": "105",
+      "doc_name": "Promis Software: Background 2",
+      "source": "https://archive.org/download/casolaro-notebooks/PromisSoftwareBackground2.pdf"
+    },
+    {
+      "id": "106",
+      "doc_name": "Promotional Material",
+      "source": "https://archive.org/download/casolaro-notebooks/PromotionalMaterial.pdf"
+    },
+    {
+      "id": "107",
+      "doc_name": "Publications",
+      "source": "https://archive.org/download/casolaro-notebooks/Publications.pdf"
+    },
+    {
+      "id": "108",
+      "doc_name": "Pursuit",
+      "source": "https://archive.org/download/casolaro-notebooks/Pursuit.pdf"
+    },
+    {
+      "id": "109",
+      "doc_name": "Reports: Misc. Topics - Cabazon Terrorism, etc",
+      "source": "https://archive.org/download/casolaro-notebooks/Reports-Misc.Topics-CabazonTerrorismEtc.pdf"
+    },
+    {
+      "id": "110",
+      "doc_name": "Reports and Publications",
+      "source": "https://archive.org/download/casolaro-notebooks/ReportsPublications.pdf"
+    },
+    {
+      "id": "111",
+      "doc_name": "The Robbins Office circa 1991",
+      "source": "https://archive.org/download/casolaro-notebooks/TheRobibinsOfficeCirca1991.pdf"
+    },
+    {
+      "id": "112",
+      "doc_name": "Unlabelled",
+      "source": "https://archive.org/download/casolaro-notebooks/Unlabelled.pdf"
+    },
+    {
+      "id": "113",
+      "doc_name": "USA v. Michael Riconosciuto",
+      "source": "https://archive.org/download/casolaro-notebooks/UsaVMichaelRiconosciuto.pdf"
+    },
+    {
+      "id": "114",
+      "doc_name": "Wackenhut Annual Reports",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-AnnualReports.pdf"
+    },
+    {
+      "id": "115",
+      "doc_name": "Wackenhut Biographical",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Biographical.pdf"
+    },
+    {
+      "id": "116",
+      "doc_name": "Wackenhut: Company Reports Annual Quarterly",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-CompanyReportsannualQuarterly.pdf"
+    },
+    {
+      "id": "117",
+      "doc_name": "Wackenhut Contracts",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Contracts.pdf"
+    },
+    {
+      "id": "118",
+      "doc_name": "Wackenhut Correspondence",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Correspondence.pdf"
+    },
+    {
+      "id": "119",
+      "doc_name": "Wackenhut Correspondence 2",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Correspondence2.pdf"
+    },
+    {
+      "id": "120",
+      "doc_name": "Wackenhut Misc Docs From Related Companies",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Misc.DocsFromRelatedCompanies.pdf"
+    },
+    {
+      "id": "121",
+      "doc_name": "Wackenhut Newsletters",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Newsletters.pdf"
+    },
+    {
+      "id": "122",
+      "doc_name": "Wackenhut Profiles",
+      "source": "https://archive.org/download/casolaro-notebooks/Wackenhut-Profiles.pdf"
+    }
+  ]
+}

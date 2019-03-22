@@ -1,0 +1,112 @@
+{
+  "id": "017",
+  "shortname": "intel-hearings",
+  "collection": "Selected Senate Nomination Hearings",
+  "alt_names": [],
+  "date": "1978",
+  "description": "",
+  "important": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Carluci, 1978",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1978-CARLUCCI.pdf"
+    },
+    {
+      "id": "002",
+      "doc_name": "Bobby Inman, Deputy Director of Central Intelligence, 1981",
+      "source": ""
+    },
+    {
+      "id": "003",
+      "doc_name": "William Casey, Director of Central Intelligence, 1981",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1981-CASEY.pdf"
+    },
+    {
+      "id": "004",
+      "doc_name": "McMahon, Deputy Director of Central Intelligence, 1982",
+      "source": ""
+    },
+    {
+      "id": "005",
+      "doc_name": "Robert Gates, 1986",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1986-GATES.pdf"
+    },
+    {
+      "id": "006",
+      "doc_name": "Robert Gates, 1987",
+      "source": ""
+    },
+    {
+      "id": "007",
+      "doc_name": "Webster, 1987",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1987-WEBSTER.pdf"
+    },
+    {
+      "id": "008",
+      "doc_name": "Kerr, 1989",
+      "source": ""
+    },
+    {
+      "id": "009",
+      "doc_name": "Hitz, Inspector General CIA, 1990",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1990-HITZ-FOR-IG.pdf"
+    },
+    {
+      "id": "010",
+      "doc_name": "Robert Gates, vol. 1 part 1, 1991",
+      "source": ""
+    },
+    {
+      "id": "011",
+      "doc_name": "Robert Gates, vol. 1 part 2, 1991",
+      "source": ""
+    },
+    {
+      "id": "012",
+      "doc_name": "Robert Gates, vol. 2, 1991",
+      "source": ""
+    },
+    {
+      "id": "013",
+      "doc_name": "Robert Gates, vol. 3, 1991",
+      "source": ""
+    },
+    {
+      "id": "014",
+      "doc_name": "Studeman, Deputy Director of Central Intelligence, 1992",
+      "source": ""
+    },
+    {
+      "id": "015",
+      "doc_name": "Woolsey, 1993",
+      "source": ""
+    },
+    {
+      "id": "016",
+      "doc_name": "Deutsch, 1995",
+      "source": ""
+    },
+    {
+      "id": "017",
+      "doc_name": "Tenent, 1995",
+      "source": "https://archive.org/download/CIADirectorsNominationHearings/1995-TENENT.pdf"
+    },
+    {
+      "id": "018",
+      "doc_name": "Lake, 1997",
+      "source": ""
+    },
+    {
+      "id": "019",
+      "doc_name": "Gordon, Deputy Director of Central Intelligence, 1997",
+      "source": ""
+    },
+    {
+      "id": "020",
+      "doc_name": "Goss, 2004",
+      "source": ""
+    }
+  ]
+}

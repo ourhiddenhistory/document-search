@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Assassination Archives and Research Center",
+    "href": "http://aarclibrary.org/",
+    "description": "Documents about the Assassinations of the 1960s and other cold war topics."
+  },
+  {
+    "name": "Government Attic",
+    "href": "http://www.governmentattic.org/",
+    "description": "An eclectic collection of released government (and other) documents."
+  },
+  {
+    "name": "Internet Archive",
+    "href": "https://example.org/",
+    "description": "Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 325 billion archived web pages."
+  },
+  {
+    "name": "Mary Ferrell Foundation",
+    "href": "https://www.maryferrell.org",
+    "description": "Best source for JFK, MLK, RFK and other assassination materials."
+  },
+  {
+    "name": "MuckRock",
+    "href": "https://www.muckrock.com/",
+    "description": "MuckRock is a collaborative news site that gives you the tools to hold the government accountable."
+  },
+  {
+    "name": "National Security Archive",
+    "href": "https://nsarchive.gwu.edu",
+    "description": "30+ Years of Freedom of Information Action."
+  },
+  {
+    "name": "Ratical",
+    "href": "https://www.ratical.org/",
+    "description": "Rat haus reality: exercising our intelligence with clarity &amp; coherence."
+  },
+  {
+    "name": "Wikileaks: Public Library of US Diplomacy",
+    "href": "https://wikileaks.org/plusd/",
+    "description": "Kissinger, Carter, Bush, Obama era State Department Cables."
+  }
+]

@@ -1,0 +1,1493 @@
+{
+  "id": "078",
+  "shortname": "johnson-library",
+  "collection": "President Lyndon Baines Johnson Library Oral Histories",
+  "alt_names": [],
+  "date": "1964",
+  "important": "",
+  "source": "http://www.lbjlibrary.net/collections/oral-histories/",
+  "description": "Due to the naming conventions of the urls, direct links to the original pdfs are not available at this time.",
+  "type": "",
+  "files": [
+    {
+      "id": "ABELL01",
+      "doc_name": "Abell 01",
+      "-source": "ABELL01.PDF"
+    },
+    {
+      "id": "ABELL02",
+      "doc_name": "Abell 02",
+      "-source": "ABELL02.PDF"
+    },
+    {
+      "id": "ABELL03",
+      "doc_name": "Abell 03",
+      "-source": "ABELL03.PDF"
+    },
+    {
+      "id": "ABRAM01",
+      "doc_name": "Abram 01",
+      "-source": "ABRAM01.PDF"
+    },
+    {
+      "id": "ABRAM02",
+      "doc_name": "Abram 02",
+      "-source": "ABRAM02.PDF"
+    },
+    {
+      "id": "AIKEN01",
+      "doc_name": "Aiken 01",
+      "-source": "AIKEN01.PDF"
+    },
+    {
+      "id": "ALBER-C1",
+      "doc_name": "Alber C 1",
+      "-source": "ALBER-C1.PDF"
+    },
+    {
+      "id": "ALBER-C2",
+      "doc_name": "Alber C 2",
+      "-source": "ALBER-C2.PDF"
+    },
+    {
+      "id": "ALBER-C3",
+      "doc_name": "Alber C 3",
+      "-source": "ALBER-C3.PDF"
+    },
+    {
+      "id": "ALBER-C4",
+      "doc_name": "Alber C 4",
+      "-source": "ALBER-C4.PDF"
+    },
+    {
+      "id": "Albright1",
+      "doc_name": "Albright 1",
+      "-source": "Albright1.pdf"
+    },
+    {
+      "id": "Albright2",
+      "doc_name": "Albright 2",
+      "-source": "Albright2.pdf"
+    },
+    {
+      "id": "Alsop1",
+      "doc_name": "Alsop 1",
+      "-source": "Alsop1.pdf"
+    },
+    {
+      "id": "BALL-G1",
+      "doc_name": "Ball G 1",
+      "-source": "BALL-G1.PDF"
+    },
+    {
+      "id": "BALL-G2",
+      "doc_name": "Ball G 2",
+      "-source": "BALL-G2.PDF"
+    },
+    {
+      "id": "Bayh",
+      "doc_name": "Bayh",
+      "-source": "Bayh.PDF"
+    },
+    {
+      "id": "Bentsen-L",
+      "doc_name": "Bentsen L",
+      "-source": "Bentsen-L.PDF"
+    },
+    {
+      "id": "boggs-h1",
+      "doc_name": "Boggs H 1",
+      "-source": "boggs-h1.pdf"
+    },
+    {
+      "id": "boggs-h2",
+      "doc_name": "Boggs H 2",
+      "-source": "boggs-h2.pdf"
+    },
+    {
+      "id": "Braestrup",
+      "doc_name": "Braestrup",
+      "-source": "Braestrup.PDF"
+    },
+    {
+      "id": "Bundy 1 web",
+      "doc_name": "Bundy 1 Web",
+      "-source": "Bundy 1 web.pdf"
+    },
+    {
+      "id": "Bundy 2 web",
+      "doc_name": "Bundy 2 Web",
+      "-source": "Bundy 2 web.pdf"
+    },
+    {
+      "id": "Bundy 3 web",
+      "doc_name": "Bundy 3 Web",
+      "-source": "Bundy 3 web.pdf"
+    },
+    {
+      "id": "Bundy Dallek 1 web",
+      "doc_name": "Bundy Dallek 1 Web",
+      "-source": "Bundy Dallek 1 web.pdf"
+    },
+    {
+      "id": "Bundy Dallek 2 web",
+      "doc_name": "Bundy Dallek 2 Web",
+      "-source": "Bundy Dallek 2 web.pdf"
+    },
+    {
+      "id": "bunker1",
+      "doc_name": "Bunker 1",
+      "-source": "bunker1.pdf"
+    },
+    {
+      "id": "bunker2",
+      "doc_name": "Bunker 2",
+      "-source": "bunker2.pdf"
+    },
+    {
+      "id": "bunker3",
+      "doc_name": "Bunker 3",
+      "-source": "bunker3.pdf"
+    },
+    {
+      "id": "BUSBY1",
+      "doc_name": "Busby 1",
+      "-source": "BUSBY1.PDF"
+    },
+    {
+      "id": "BUSBY2",
+      "doc_name": "Busby 2",
+      "-source": "BUSBY2.PDF"
+    },
+    {
+      "id": "BUSBY3",
+      "doc_name": "Busby 3",
+      "-source": "BUSBY3.PDF"
+    },
+    {
+      "id": "BUSBY4",
+      "doc_name": "Busby 4",
+      "-source": "BUSBY4.PDF"
+    },
+    {
+      "id": "BUSBY5",
+      "doc_name": "Busby 5",
+      "-source": "BUSBY5.PDF"
+    },
+    {
+      "id": "BUSBY6",
+      "doc_name": "Busby 6",
+      "-source": "BUSBY6.PDF"
+    },
+    {
+      "id": "BUSBY7",
+      "doc_name": "Busby 7",
+      "-source": "BUSBY7.PDF"
+    },
+    {
+      "id": "BUSBY8",
+      "doc_name": "Busby 8",
+      "-source": "BUSBY8.PDF"
+    },
+    {
+      "id": "Cain-J",
+      "doc_name": "Cain J",
+      "-source": "Cain-J.PDF"
+    },
+    {
+      "id": "carpenter_1_web",
+      "doc_name": "Carpenter 1 Web",
+      "-source": "carpenter_1_web.pdf"
+    },
+    {
+      "id": "carpenter_2_web",
+      "doc_name": "Carpenter 2 Web",
+      "-source": "carpenter_2_web.pdf"
+    },
+    {
+      "id": "carpenter_3_web",
+      "doc_name": "Carpenter 3 Web",
+      "-source": "carpenter_3_web.pdf"
+    },
+    {
+      "id": "carpenter_4_web",
+      "doc_name": "Carpenter 4 Web",
+      "-source": "carpenter_4_web.pdf"
+    },
+    {
+      "id": "carpenter_5_web",
+      "doc_name": "Carpenter 5 Web",
+      "-source": "carpenter_5_web.pdf"
+    },
+    {
+      "id": "carpenter_special",
+      "doc_name": "Carpenter Special",
+      "-source": "carpenter_special.pdf"
+    },
+    {
+      "id": "CATER01",
+      "doc_name": "Cater 01",
+      "-source": "CATER01.PDF"
+    },
+    {
+      "id": "CATER02",
+      "doc_name": "Cater 02",
+      "-source": "CATER02.PDF"
+    },
+    {
+      "id": "CATER03",
+      "doc_name": "Cater 03",
+      "-source": "CATER03.PDF"
+    },
+    {
+      "id": "CATER04",
+      "doc_name": "Cater 04",
+      "-source": "CATER04.PDF"
+    },
+    {
+      "id": "chancellor",
+      "doc_name": "Chancellor",
+      "-source": "chancellor.pdf"
+    },
+    {
+      "id": "Chiarodo1",
+      "doc_name": "Chiarodo 1",
+      "-source": "Chiarodo1.PDF"
+    },
+    {
+      "id": "Chiarodo2",
+      "doc_name": "Chiarodo 2",
+      "-source": "Chiarodo2.PDF"
+    },
+    {
+      "id": "Chiarodo3",
+      "doc_name": "Chiarodo 3",
+      "-source": "Chiarodo3.pdf"
+    },
+    {
+      "id": "Chudars",
+      "doc_name": "Chudars",
+      "-source": "Chudars.PDF"
+    },
+    {
+      "id": "CLARK-R1",
+      "doc_name": "Clark R 1",
+      "-source": "CLARK-R1.PDF"
+    },
+    {
+      "id": "clark-r2",
+      "doc_name": "Clark R 2",
+      "-source": "clark-r2.pdf"
+    },
+    {
+      "id": "clark-r3",
+      "doc_name": "Clark R 3",
+      "-source": "clark-r3.pdf"
+    },
+    {
+      "id": "clark-r4",
+      "doc_name": "Clark R 4",
+      "-source": "clark-r4.pdf"
+    },
+    {
+      "id": "clark-r5",
+      "doc_name": "Clark R 5",
+      "-source": "clark-r5.pdf"
+    },
+    {
+      "id": "Clark-T",
+      "doc_name": "Clark T",
+      "-source": "Clark-T.PDF"
+    },
+    {
+      "id": "Clements-E1",
+      "doc_name": "Clements E 1",
+      "-source": "Clements-E1.pdf"
+    },
+    {
+      "id": "Clements-E2",
+      "doc_name": "Clements E 2",
+      "-source": "Clements-E2.pdf"
+    },
+    {
+      "id": "cliffor1",
+      "doc_name": "Cliffor 1",
+      "-source": "cliffor1.pdf"
+    },
+    {
+      "id": "cliffor2",
+      "doc_name": "Cliffor 2",
+      "-source": "cliffor2.pdf"
+    },
+    {
+      "id": "cliffor3",
+      "doc_name": "Cliffor 3",
+      "-source": "cliffor3.pdf"
+    },
+    {
+      "id": "cliffor4",
+      "doc_name": "Cliffor 4",
+      "-source": "cliffor4.pdf"
+    },
+    {
+      "id": "cliffor5",
+      "doc_name": "Cliffor 5",
+      "-source": "cliffor5.pdf"
+    },
+    {
+      "id": "cliffor6",
+      "doc_name": "Cliffor 6",
+      "-source": "cliffor6.pdf"
+    },
+    {
+      "id": "cliffor7",
+      "doc_name": "Cliffor 7",
+      "-source": "cliffor7.pdf"
+    },
+    {
+      "id": "Colby-01",
+      "doc_name": "Colby 01",
+      "-source": "Colby-01.pdf"
+    },
+    {
+      "id": "Colby-02",
+      "doc_name": "Colby 02",
+      "-source": "Colby-02.pdf"
+    },
+    {
+      "id": "connally SI web",
+      "doc_name": "Connally Si Web",
+      "-source": "connally SI web.pdf"
+    },
+    {
+      "id": "connally web 1",
+      "doc_name": "Connally Web 1",
+      "-source": "connally web 1.pdf"
+    },
+    {
+      "id": "CTJ 1",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 1",
+      "-source": "CTJ 1.pdf"
+    },
+    {
+      "id": "CTJ 2",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 2",
+      "-source": "CTJ 2.pdf"
+    },
+    {
+      "id": "CTJ 3",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 3",
+      "-source": "CTJ 3.pdf"
+    },
+    {
+      "id": "CTJ 4",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 4",
+      "-source": "CTJ 4.pdf"
+    },
+    {
+      "id": "CTJ 5",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 5",
+      "-source": "CTJ 5.pdf"
+    },
+    {
+      "id": "CTJ 6",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 6",
+      "-source": "CTJ 6.pdf"
+    },
+    {
+      "id": "CTJ 7",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 7",
+      "-source": "CTJ 7.pdf"
+    },
+    {
+      "id": "CTJ 8",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 8",
+      "-source": "CTJ 8.pdf"
+    },
+    {
+      "id": "CTJ 9",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 9",
+      "-source": "CTJ 9.pdf"
+    },
+    {
+      "id": "CTJ 10",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 10",
+      "-source": "CTJ 10.pdf"
+    },
+    {
+      "id": "CTJ 11",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 11",
+      "-source": "CTJ 11.pdf"
+    },
+    {
+      "id": "CTJ 12",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 12",
+      "-source": "CTJ 12.pdf"
+    },
+    {
+      "id": "CTJ 13",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 13",
+      "-source": "CTJ 13.pdf"
+    },
+    {
+      "id": "CTJ 14",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 14",
+      "-source": "CTJ 14.pdf"
+    },
+    {
+      "id": "CTJ 15",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 15",
+      "-source": "CTJ 15.pdf"
+    },
+    {
+      "id": "CTJ 16",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 16",
+      "-source": "CTJ 16.pdf"
+    },
+    {
+      "id": "CTJ 17",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 17",
+      "-source": "CTJ 17.pdf"
+    },
+    {
+      "id": "CTJ 18",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 18",
+      "-source": "CTJ 18.pdf"
+    },
+    {
+      "id": "CTJ 19",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 19",
+      "-source": "CTJ 19.pdf"
+    },
+    {
+      "id": "CTJ 20",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 20",
+      "-source": "CTJ 20.pdf"
+    },
+    {
+      "id": "CTJ 21",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 21",
+      "-source": "CTJ 21.pdf"
+    },
+    {
+      "id": "CTJ 22",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 22",
+      "-source": "CTJ 22.pdf"
+    },
+    {
+      "id": "CTJ 23",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 23",
+      "-source": "CTJ 23.pdf"
+    },
+    {
+      "id": "CTJ 24",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 24",
+      "-source": "CTJ 24.pdf"
+    },
+    {
+      "id": "CTJ 25",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 25",
+      "-source": "CTJ 25.pdf"
+    },
+    {
+      "id": "CTJ 26",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 26",
+      "-source": "CTJ 26.pdf"
+    },
+    {
+      "id": "CTJ 27",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 27",
+      "-source": "CTJ 27.pdf"
+    },
+    {
+      "id": "CTJ 28",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 28",
+      "-source": "CTJ 28.pdf"
+    },
+    {
+      "id": "CTJ 29",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 29",
+      "-source": "CTJ 29.pdf"
+    },
+    {
+      "id": "CTJ 30",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 30",
+      "-source": "CTJ 30.pdf"
+    },
+    {
+      "id": "CTJ 31",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 31",
+      "-source": "CTJ 31.pdf"
+    },
+    {
+      "id": "CTJ 32",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 32",
+      "-source": "CTJ 32.pdf"
+    },
+    {
+      "id": "CTJ 33",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 33",
+      "-source": "CTJ 33.pdf"
+    },
+    {
+      "id": "CTJ 34",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 34",
+      "-source": "CTJ 34.pdf"
+    },
+    {
+      "id": "CTJ 35",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 35",
+      "-source": "CTJ 35.pdf"
+    },
+    {
+      "id": "CTJ 36",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 36",
+      "-source": "CTJ 36.pdf"
+    },
+    {
+      "id": "CTJ 37",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 37",
+      "-source": "CTJ 37.pdf"
+    },
+    {
+      "id": "CTJ 38",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 38",
+      "-source": "CTJ 38.pdf"
+    },
+    {
+      "id": "CTJ 39",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 39",
+      "-source": "CTJ 39.pdf"
+    },
+    {
+      "id": "CTJ 40",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 40",
+      "-source": "CTJ 40.pdf"
+    },
+    {
+      "id": "CTJ 41",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 41",
+      "-source": "CTJ 41.pdf"
+    },
+    {
+      "id": "CTJ 42",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 42",
+      "-source": "CTJ 42.pdf"
+    },
+    {
+      "id": "CTJ 43",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 43",
+      "-source": "CTJ 43.pdf"
+    },
+    {
+      "id": "CTJ 44",
+      "doc_name": "Claudia Alta Taylor 'Lady Bird' Johnson 44",
+      "-source": "CTJ 44.pdf"
+    },
+    {
+      "id": "Davis-G",
+      "doc_name": "Davis G",
+      "-source": "Davis-G.PDF"
+    },
+    {
+      "id": "Deloach1-san",
+      "doc_name": "Deloach 1 San",
+      "-source": "Deloach1-san.PDF"
+    },
+    {
+      "id": "dirksen1",
+      "doc_name": "Dirksen 1",
+      "-source": "dirksen1.pdf"
+    },
+    {
+      "id": "dirksen2",
+      "doc_name": "Dirksen 2",
+      "-source": "dirksen2.pdf"
+    },
+    {
+      "id": "dirksen3",
+      "doc_name": "Dirksen 3",
+      "-source": "dirksen3.pdf"
+    },
+    {
+      "id": "Eastland",
+      "doc_name": "Eastland",
+      "-source": "Eastland.pdf"
+    },
+    {
+      "id": "evers1",
+      "doc_name": "Evers 1",
+      "-source": "evers1.pdf"
+    },
+    {
+      "id": "farmer1",
+      "doc_name": "Farmer 1",
+      "-source": "farmer1.pdf"
+    },
+    {
+      "id": "farmer2",
+      "doc_name": "Farmer 2",
+      "-source": "farmer2.pdf"
+    },
+    {
+      "id": "Fisher1",
+      "doc_name": "Fisher 1",
+      "-source": "Fisher1.PDF"
+    },
+    {
+      "id": "Fisher2",
+      "doc_name": "Fisher 2",
+      "-source": "Fisher2.PDF"
+    },
+    {
+      "id": "FORTAS01",
+      "doc_name": "Fortas 01",
+      "-source": "FORTAS01.PDF"
+    },
+    {
+      "id": "Foster1",
+      "doc_name": "Foster 1",
+      "-source": "Foster1.PDF"
+    },
+    {
+      "id": "Foster2",
+      "doc_name": "Foster 2",
+      "-source": "Foster2.PDF"
+    },
+    {
+      "id": "Foster3",
+      "doc_name": "Foster 3",
+      "-source": "Foster3.PDF"
+    },
+    {
+      "id": "FRANCIS1",
+      "doc_name": "Francis 1",
+      "-source": "FRANCIS1.PDF"
+    },
+    {
+      "id": "FRANCIS2",
+      "doc_name": "Francis 2",
+      "-source": "FRANCIS2.PDF"
+    },
+    {
+      "id": "FRANCIS3",
+      "doc_name": "Francis 3",
+      "-source": "FRANCIS3.PDF"
+    },
+    {
+      "id": "FRANCIS4",
+      "doc_name": "Francis 4",
+      "-source": "FRANCIS4.PDF"
+    },
+    {
+      "id": "Frantz1",
+      "doc_name": "Frantz 1",
+      "-source": "Frantz1.PDF"
+    },
+    {
+      "id": "Frantz2",
+      "doc_name": "Frantz 2",
+      "-source": "Frantz2.PDF"
+    },
+    {
+      "id": "freeman web 1",
+      "doc_name": "Freeman Web 1",
+      "-source": "freeman web 1.pdf"
+    },
+    {
+      "id": "freeman web 2",
+      "doc_name": "Freeman Web 2",
+      "-source": "freeman web 2.pdf"
+    },
+    {
+      "id": "freeman web 3",
+      "doc_name": "Freeman Web 3",
+      "-source": "freeman web 3.pdf"
+    },
+    {
+      "id": "freeman web 4",
+      "doc_name": "Freeman Web 4",
+      "-source": "freeman web 4.pdf"
+    },
+    {
+      "id": "GilpatricR",
+      "doc_name": "Gilpatricr",
+      "-source": "GilpatricR.PDF"
+    },
+    {
+      "id": "Goldberg",
+      "doc_name": "Goldberg",
+      "-source": "Goldberg.PDF"
+    },
+    {
+      "id": "Gordon",
+      "doc_name": "Gordon",
+      "-source": "Gordon.pdf"
+    },
+    {
+      "id": "Graham-B",
+      "doc_name": "Graham B",
+      "-source": "Graham-B.PDF"
+    },
+    {
+      "id": "Hebert",
+      "doc_name": "Hebert",
+      "-source": "Hebert.pdf"
+    },
+    {
+      "id": "Henry01",
+      "doc_name": "Henry 01",
+      "-source": "Henry01.PDF"
+    },
+    {
+      "id": "higginbo",
+      "doc_name": "Higginbo",
+      "-source": "higginbo.pdf"
+    },
+    {
+      "id": "hornig1",
+      "doc_name": "Hornig 1",
+      "-source": "hornig1.PDF"
+    },
+    {
+      "id": "hughes-s",
+      "doc_name": "Hughes S",
+      "-source": "hughes-s.pdf"
+    },
+    {
+      "id": "HUMPHR01",
+      "doc_name": "Humphr 01",
+      "-source": "HUMPHR01.PDF"
+    },
+    {
+      "id": "HUMPHR02",
+      "doc_name": "Humphr 02",
+      "-source": "HUMPHR02.PDF"
+    },
+    {
+      "id": "HUMPHR03",
+      "doc_name": "Humphr 03",
+      "-source": "HUMPHR03.PDF"
+    },
+    {
+      "id": "IKARD-F",
+      "doc_name": "Ikard F",
+      "-source": "IKARD-F.PDF"
+    },
+    {
+      "id": "jordan web special interview",
+      "doc_name": "Jordan Web Special Interview",
+      "-source": "jordan web special interview.pdf"
+    },
+    {
+      "id": "Jordan-b",
+      "doc_name": "Jordan B",
+      "-source": "Jordan-b.PDF"
+    },
+    {
+      "id": "KATZENB1",
+      "doc_name": "Katzenb 1",
+      "-source": "KATZENB1.PDF"
+    },
+    {
+      "id": "KATZENB2",
+      "doc_name": "Katzenb 2",
+      "-source": "KATZENB2.PDF"
+    },
+    {
+      "id": "KATZENB3",
+      "doc_name": "Katzenb 3",
+      "-source": "KATZENB3.PDF"
+    },
+    {
+      "id": "Krim1",
+      "doc_name": "Krim 1",
+      "-source": "Krim1.pdf"
+    },
+    {
+      "id": "Krim2",
+      "doc_name": "Krim 2",
+      "-source": "Krim2.pdf"
+    },
+    {
+      "id": "Krim3",
+      "doc_name": "Krim 3",
+      "-source": "Krim3.pdf"
+    },
+    {
+      "id": "Krim3Addendum",
+      "doc_name": "Krim 3 Addendum",
+      "-source": "Krim3Addendum.pdf"
+    },
+    {
+      "id": "Krim4",
+      "doc_name": "Krim 4",
+      "-source": "Krim4.pdf"
+    },
+    {
+      "id": "Krim5",
+      "doc_name": "Krim 5",
+      "-source": "Krim5.pdf"
+    },
+    {
+      "id": "Krim6",
+      "doc_name": "Krim 6",
+      "-source": "Krim6.pdf"
+    },
+    {
+      "id": "Kuchel",
+      "doc_name": "Kuchel",
+      "-source": "Kuchel.pdf"
+    },
+    {
+      "id": "Leinsdorf1",
+      "doc_name": "Leinsdorf 1",
+      "-source": "Leinsdorf1.pdf"
+    },
+    {
+      "id": "levinson web 1",
+      "doc_name": "Levinson Web 1",
+      "-source": "levinson web 1.pdf"
+    },
+    {
+      "id": "levinson web 2",
+      "doc_name": "Levinson Web 2",
+      "-source": "levinson web 2.pdf"
+    },
+    {
+      "id": "levinson web 3",
+      "doc_name": "Levinson Web 3",
+      "-source": "levinson web 3.pdf"
+    },
+    {
+      "id": "levinson web 4",
+      "doc_name": "Levinson Web 4",
+      "-source": "levinson web 4.pdf"
+    },
+    {
+      "id": "levinson web 5",
+      "doc_name": "Levinson Web 5",
+      "-source": "levinson web 5.pdf"
+    },
+    {
+      "id": "levinson web 6",
+      "doc_name": "Levinson Web 6",
+      "-source": "levinson web 6.pdf"
+    },
+    {
+      "id": "levinson web 7",
+      "doc_name": "Levinson Web 7",
+      "-source": "levinson web 7.pdf"
+    },
+    {
+      "id": "MANN",
+      "doc_name": "Mann",
+      "-source": "MANN.PDF"
+    },
+    {
+      "id": "marsha-b",
+      "doc_name": "Marsha B",
+      "-source": "marsha-b.pdf"
+    },
+    {
+      "id": "marshall",
+      "doc_name": "Marshall",
+      "-source": "marshall.pdf"
+    },
+    {
+      "id": "MARTIN",
+      "doc_name": "Martin",
+      "-source": "MARTIN.PDF"
+    },
+    {
+      "id": "MartinL2",
+      "doc_name": "Martinl 2",
+      "-source": "MartinL2.PDF"
+    },
+    {
+      "id": "Mashman1",
+      "doc_name": "Mashman 1",
+      "-source": "Mashman1.PDF"
+    },
+    {
+      "id": "McNamara-SP1",
+      "doc_name": "Mcnamara Sp 1",
+      "-source": "McNamara-SP1.PDF"
+    },
+    {
+      "id": "McNamara1",
+      "doc_name": "Mcnamara 1",
+      "-source": "McNamara1.PDF"
+    },
+    {
+      "id": "mcpher01",
+      "doc_name": "Mcpher 01",
+      "-source": "mcpher01.pdf"
+    },
+    {
+      "id": "mcpher02",
+      "doc_name": "Mcpher 02",
+      "-source": "mcpher02.pdf"
+    },
+    {
+      "id": "mcpher03",
+      "doc_name": "Mcpher 03",
+      "-source": "mcpher03.pdf"
+    },
+    {
+      "id": "mcpher04",
+      "doc_name": "Mcpher 04",
+      "-source": "mcpher04.pdf"
+    },
+    {
+      "id": "mcpher05",
+      "doc_name": "Mcpher 05",
+      "-source": "mcpher05.pdf"
+    },
+    {
+      "id": "MCPHER06",
+      "doc_name": "Mcpher 06",
+      "-source": "MCPHER06.PDF"
+    },
+    {
+      "id": "MCPHER07",
+      "doc_name": "Mcpher 07",
+      "-source": "MCPHER07.PDF"
+    },
+    {
+      "id": "MCPHER08",
+      "doc_name": "Mcpher 08",
+      "-source": "MCPHER08.PDF"
+    },
+    {
+      "id": "MCPHER09",
+      "doc_name": "Mcpher 09",
+      "-source": "MCPHER09.PDF"
+    },
+    {
+      "id": "MCPHER10",
+      "doc_name": "Mcpher 10",
+      "-source": "MCPHER10.PDF"
+    },
+    {
+      "id": "mills1",
+      "doc_name": "Mills 1",
+      "-source": "mills1.pdf"
+    },
+    {
+      "id": "mills2",
+      "doc_name": "Mills 2",
+      "-source": "mills2.pdf"
+    },
+    {
+      "id": "mills3",
+      "doc_name": "Mills 3",
+      "-source": "mills3.pdf"
+    },
+    {
+      "id": "mitchell",
+      "doc_name": "Mitchell",
+      "-source": "mitchell.pdf"
+    },
+    {
+      "id": "OBRIEN01",
+      "doc_name": "Obrien 01",
+      "-source": "OBRIEN01.PDF"
+    },
+    {
+      "id": "OBRIEN02",
+      "doc_name": "Obrien 02",
+      "-source": "OBRIEN02.PDF"
+    },
+    {
+      "id": "OBRIEN03",
+      "doc_name": "Obrien 03",
+      "-source": "OBRIEN03.PDF"
+    },
+    {
+      "id": "OBRIEN04",
+      "doc_name": "Obrien 04",
+      "-source": "OBRIEN04.PDF"
+    },
+    {
+      "id": "OBRIEN05",
+      "doc_name": "Obrien 05",
+      "-source": "OBRIEN05.PDF"
+    },
+    {
+      "id": "OBRIEN06",
+      "doc_name": "Obrien 06",
+      "-source": "OBRIEN06.PDF"
+    },
+    {
+      "id": "Obrien07",
+      "doc_name": "Obrien 07",
+      "-source": "Obrien07.pdf"
+    },
+    {
+      "id": "OBRIEN08",
+      "doc_name": "Obrien 08",
+      "-source": "OBRIEN08.PDF"
+    },
+    {
+      "id": "OBRIEN09",
+      "doc_name": "Obrien 09",
+      "-source": "OBRIEN09.PDF"
+    },
+    {
+      "id": "OBRIEN10",
+      "doc_name": "Obrien 10",
+      "-source": "OBRIEN10.PDF"
+    },
+    {
+      "id": "OBRIEN11",
+      "doc_name": "Obrien 11",
+      "-source": "OBRIEN11.PDF"
+    },
+    {
+      "id": "OBRIEN12",
+      "doc_name": "Obrien 12",
+      "-source": "OBRIEN12.PDF"
+    },
+    {
+      "id": "OBRIEN13",
+      "doc_name": "Obrien 13",
+      "-source": "OBRIEN13.PDF"
+    },
+    {
+      "id": "OBRIEN14",
+      "doc_name": "Obrien 14",
+      "-source": "OBRIEN14.PDF"
+    },
+    {
+      "id": "OBRIEN15",
+      "doc_name": "Obrien 15",
+      "-source": "OBRIEN15.PDF"
+    },
+    {
+      "id": "OBRIEN16",
+      "doc_name": "Obrien 16",
+      "-source": "OBRIEN16.PDF"
+    },
+    {
+      "id": "OBRIEN17",
+      "doc_name": "Obrien 17",
+      "-source": "OBRIEN17.PDF"
+    },
+    {
+      "id": "OBRIEN18",
+      "doc_name": "Obrien 18",
+      "-source": "OBRIEN18.PDF"
+    },
+    {
+      "id": "OBRIEN19",
+      "doc_name": "Obrien 19",
+      "-source": "OBRIEN19.PDF"
+    },
+    {
+      "id": "OBRIEN20",
+      "doc_name": "Obrien 20",
+      "-source": "OBRIEN20.PDF"
+    },
+    {
+      "id": "OBRIEN21",
+      "doc_name": "Obrien 21",
+      "-source": "OBRIEN21.PDF"
+    },
+    {
+      "id": "OBRIEN22",
+      "doc_name": "Obrien 22",
+      "-source": "OBRIEN22.PDF"
+    },
+    {
+      "id": "OBRIEN23",
+      "doc_name": "Obrien 23",
+      "-source": "OBRIEN23.PDF"
+    },
+    {
+      "id": "OBRIEN24",
+      "doc_name": "Obrien 24",
+      "-source": "OBRIEN24.PDF"
+    },
+    {
+      "id": "OBRIEN25",
+      "doc_name": "Obrien 25",
+      "-source": "OBRIEN25.PDF"
+    },
+    {
+      "id": "OBRIEN26",
+      "doc_name": "Obrien 26",
+      "-source": "OBRIEN26.PDF"
+    },
+    {
+      "id": "OBRIEN27",
+      "doc_name": "Obrien 27",
+      "-source": "OBRIEN27.PDF"
+    },
+    {
+      "id": "OBRIEN28",
+      "doc_name": "Obrien 28",
+      "-source": "OBRIEN28.PDF"
+    },
+    {
+      "id": "OBRIEN29",
+      "doc_name": "Obrien 29",
+      "-source": "OBRIEN29.PDF"
+    },
+    {
+      "id": "OBRIEN30",
+      "doc_name": "Obrien 30",
+      "-source": "OBRIEN30.PDF"
+    },
+    {
+      "id": "OBRIEN31",
+      "doc_name": "Obrien 31",
+      "-source": "OBRIEN31.PDF"
+    },
+    {
+      "id": "OBRIEN32",
+      "doc_name": "Obrien 32",
+      "-source": "OBRIEN32.PDF"
+    },
+    {
+      "id": "Pearson-D",
+      "doc_name": "Pearson D",
+      "-source": "Pearson-D.PDF"
+    },
+    {
+      "id": "RANDOLPH",
+      "doc_name": "Randolph",
+      "-source": "RANDOLPH.PDF"
+    },
+    {
+      "id": "read-b1",
+      "doc_name": "Read B 1",
+      "-source": "read-b1.pdf"
+    },
+    {
+      "id": "read-b2",
+      "doc_name": "Read B 2",
+      "-source": "read-b2.pdf"
+    },
+    {
+      "id": "reedy web 1a",
+      "doc_name": "Reedy Web 1 A",
+      "-source": "reedy web 1a.pdf"
+    },
+    {
+      "id": "reedy web 1b",
+      "doc_name": "Reedy Web 1 B",
+      "-source": "reedy web 1b.pdf"
+    },
+    {
+      "id": "reedy web 1c",
+      "doc_name": "Reedy Web 1 C",
+      "-source": "reedy web 1c.pdf"
+    },
+    {
+      "id": "reedy web 2",
+      "doc_name": "Reedy Web 2",
+      "-source": "reedy web 2.pdf"
+    },
+    {
+      "id": "reedy web 3",
+      "doc_name": "Reedy Web 3",
+      "-source": "reedy web 3.pdf"
+    },
+    {
+      "id": "reedy web 4",
+      "doc_name": "Reedy Web 4",
+      "-source": "reedy web 4.pdf"
+    },
+    {
+      "id": "reedy web 5",
+      "doc_name": "Reedy Web 5",
+      "-source": "reedy web 5.pdf"
+    },
+    {
+      "id": "reedy web 6",
+      "doc_name": "Reedy Web 6",
+      "-source": "reedy web 6.pdf"
+    },
+    {
+      "id": "reedy web 7",
+      "doc_name": "Reedy Web 7",
+      "-source": "reedy web 7.pdf"
+    },
+    {
+      "id": "reedy web 8",
+      "doc_name": "Reedy Web 8",
+      "-source": "reedy web 8.pdf"
+    },
+    {
+      "id": "reedy web 9",
+      "doc_name": "Reedy Web 9",
+      "-source": "reedy web 9.pdf"
+    },
+    {
+      "id": "reedy web 10",
+      "doc_name": "Reedy Web 10",
+      "-source": "reedy web 10.pdf"
+    },
+    {
+      "id": "reedy web 11",
+      "doc_name": "Reedy Web 11",
+      "-source": "reedy web 11.pdf"
+    },
+    {
+      "id": "reedy web 12",
+      "doc_name": "Reedy Web 12",
+      "-source": "reedy web 12.pdf"
+    },
+    {
+      "id": "reedy web 13",
+      "doc_name": "Reedy Web 13",
+      "-source": "reedy web 13.pdf"
+    },
+    {
+      "id": "reedy web 14",
+      "doc_name": "Reedy Web 14",
+      "-source": "reedy web 14.pdf"
+    },
+    {
+      "id": "reedy web 15",
+      "doc_name": "Reedy Web 15",
+      "-source": "reedy web 15.pdf"
+    },
+    {
+      "id": "reedy web 16",
+      "doc_name": "Reedy Web 16",
+      "-source": "reedy web 16.pdf"
+    },
+    {
+      "id": "reedy web 17",
+      "doc_name": "Reedy Web 17",
+      "-source": "reedy web 17.pdf"
+    },
+    {
+      "id": "reedy web 18",
+      "doc_name": "Reedy Web 18",
+      "-source": "reedy web 18.pdf"
+    },
+    {
+      "id": "reedy web 19",
+      "doc_name": "Reedy Web 19",
+      "-source": "reedy web 19.pdf"
+    },
+    {
+      "id": "reedy web 20",
+      "doc_name": "Reedy Web 20",
+      "-source": "reedy web 20.pdf"
+    },
+    {
+      "id": "reedy web 21",
+      "doc_name": "Reedy Web 21",
+      "-source": "reedy web 21.pdf"
+    },
+    {
+      "id": "reedy web 22",
+      "doc_name": "Reedy Web 22",
+      "-source": "reedy web 22.pdf"
+    },
+    {
+      "id": "reedy web 23",
+      "doc_name": "Reedy Web 23",
+      "-source": "reedy web 23.pdf"
+    },
+    {
+      "id": "reedy web 24",
+      "doc_name": "Reedy Web 24",
+      "-source": "reedy web 24.pdf"
+    },
+    {
+      "id": "reedy web 25",
+      "doc_name": "Reedy Web 25",
+      "-source": "reedy web 25.pdf"
+    },
+    {
+      "id": "reedy web 26",
+      "doc_name": "Reedy Web 26",
+      "-source": "reedy web 26.pdf"
+    },
+    {
+      "id": "reedy web 27",
+      "doc_name": "Reedy Web 27",
+      "-source": "reedy web 27.pdf"
+    },
+    {
+      "id": "rosenblatt web",
+      "doc_name": "Rosenblatt Web",
+      "-source": "rosenblatt web.pdf"
+    },
+    {
+      "id": "rostow web",
+      "doc_name": "Rostow Web",
+      "-source": "rostow web.pdf"
+    },
+    {
+      "id": "rostow1",
+      "doc_name": "Rostow 1",
+      "-source": "rostow1.pdf"
+    },
+    {
+      "id": "rusk01",
+      "doc_name": "Rusk 01",
+      "-source": "rusk01.pdf"
+    },
+    {
+      "id": "rusk02",
+      "doc_name": "Rusk 02",
+      "-source": "rusk02.pdf"
+    },
+    {
+      "id": "rusk03",
+      "doc_name": "Rusk 03",
+      "-source": "rusk03.pdf"
+    },
+    {
+      "id": "rusk04",
+      "doc_name": "Rusk 04",
+      "-source": "rusk04.pdf"
+    },
+    {
+      "id": "schneider",
+      "doc_name": "Schneider",
+      "-source": "schneider.pdf"
+    },
+    {
+      "id": "scott web 1",
+      "doc_name": "Scott Web 1",
+      "-source": "scott web 1.pdf"
+    },
+    {
+      "id": "scott web 2",
+      "doc_name": "Scott Web 2",
+      "-source": "scott web 2.pdf"
+    },
+    {
+      "id": "SMITH-B1",
+      "doc_name": "Smith B 1",
+      "-source": "SMITH-B1.PDF"
+    },
+    {
+      "id": "SMITH-B2",
+      "doc_name": "Smith B 2",
+      "-source": "SMITH-B2.PDF"
+    },
+    {
+      "id": "territo web",
+      "doc_name": "Territo Web",
+      "-source": "territo web.pdf"
+    },
+    {
+      "id": "thomas web",
+      "doc_name": "Thomas Web",
+      "-source": "thomas web.pdf"
+    },
+    {
+      "id": "Thomas-L",
+      "doc_name": "Thomas L",
+      "-source": "Thomas-L.PDF"
+    },
+    {
+      "id": "TOWER01",
+      "doc_name": "Tower 01",
+      "-source": "TOWER01.PDF"
+    },
+    {
+      "id": "TOWER02",
+      "doc_name": "Tower 02",
+      "-source": "TOWER02.PDF"
+    },
+    {
+      "id": "TOWER03",
+      "doc_name": "Tower 03",
+      "-source": "TOWER03.PDF"
+    },
+    {
+      "id": "UDALL01",
+      "doc_name": "Udall 01",
+      "-source": "UDALL01.PDF"
+    },
+    {
+      "id": "UDALL02",
+      "doc_name": "Udall 02",
+      "-source": "UDALL02.PDF"
+    },
+    {
+      "id": "UDALL03",
+      "doc_name": "Udall 03",
+      "-source": "UDALL03.PDF"
+    },
+    {
+      "id": "UDALL04",
+      "doc_name": "Udall 04",
+      "-source": "UDALL04.PDF"
+    },
+    {
+      "id": "UDALL05",
+      "doc_name": "Udall 05",
+      "-source": "UDALL05.PDF"
+    },
+    {
+      "id": "vance1",
+      "doc_name": "Vance 1",
+      "-source": "vance1.pdf"
+    },
+    {
+      "id": "vance2",
+      "doc_name": "Vance 2",
+      "-source": "vance2.pdf"
+    },
+    {
+      "id": "vance3",
+      "doc_name": "Vance 3",
+      "-source": "vance3.pdf"
+    },
+    {
+      "id": "warren-e",
+      "doc_name": "Warren E",
+      "-source": "warren-e.pdf"
+    },
+    {
+      "id": "wasserman-l",
+      "doc_name": "Wasserman L",
+      "-source": "wasserman-l.pdf"
+    },
+    {
+      "id": "webb",
+      "doc_name": "Webb",
+      "-source": "webb.pdf"
+    },
+    {
+      "id": "white1",
+      "doc_name": "White 1",
+      "-source": "white1.pdf"
+    },
+    {
+      "id": "white2",
+      "doc_name": "White 2",
+      "-source": "white2.pdf"
+    },
+    {
+      "id": "white3",
+      "doc_name": "White 3",
+      "-source": "white3.pdf"
+    },
+    {
+      "id": "wilkins",
+      "doc_name": "Wilkins",
+      "-source": "wilkins.pdf"
+    },
+    {
+      "id": "young-A",
+      "doc_name": "Young A",
+      "-source": "young-A.pdf"
+    },
+    {
+      "id": "young-w",
+      "doc_name": "Young W",
+      "-source": "young-w.pdf"
+    }
+  ]
+}

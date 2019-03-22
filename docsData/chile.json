@@ -1,0 +1,506 @@
+{
+  "id": "091",
+  "shortname": "chile",
+  "collection": "Chile, United States Government Documents",
+  "alt_names": [],
+  "date": "1974",
+  "description": "",
+  "important": "",
+  "source": "https://archive.org/details/Chile-United-States-Government-Documents",
+  "type": "archive-b",
+  "hide_files": true,
+  "files": [
+    {
+      "id": "1970-09-05-22-State",
+      "source": "Chile-United-States-Government-Documents/1970-09-05-22-State.pdf"
+    },
+    {
+      "id": "1970-09-09-NSC",
+      "source": "Chile-United-States-Government-Documents/1970-09-09-NSC.pdf"
+    },
+    {
+      "id": "1970-09-12-Telcon-Helms",
+      "source": "Chile-United-States-Government-Documents/1970-09-12-Telcon-Helms.pdf"
+    },
+    {
+      "id": "1970-09-12-Telcon-Nixon",
+      "source": "Chile-United-States-Government-Documents/1970-09-12-Telcon-Nixon.pdf"
+    },
+    {
+      "id": "1970-09-12-Telcon-Rogers",
+      "source": "Chile-United-States-Government-Documents/1970-09-12-Telcon-Rogers.pdf"
+    },
+    {
+      "id": "1970-09-14-NSC",
+      "source": "Chile-United-States-Government-Documents/1970-09-14-NSC.pdf"
+    },
+    {
+      "id": "1970-09-15-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-09-15-CIA.pdf"
+    },
+    {
+      "id": "1970-09-15-Nixon",
+      "source": "Chile-United-States-Government-Documents/1970-09-15-Nixon.pdf"
+    },
+    {
+      "id": "1970-09-16-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-09-16-CIA.pdf"
+    },
+    {
+      "id": "1970-09-17-White-House",
+      "source": "Chile-United-States-Government-Documents/1970-09-17-White-House.pdf"
+    },
+    {
+      "id": "1970-10-15-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-10-15-CIA.pdf"
+    },
+    {
+      "id": "1970-10-16-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-10-16-CIA.pdf"
+    },
+    {
+      "id": "1970-10-18-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-10-18-CIA.pdf"
+    },
+    {
+      "id": "1970-11-05-White-House",
+      "source": "Chile-United-States-Government-Documents/1970-11-05-White-House.pdf"
+    },
+    {
+      "id": "1970-11-06-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-11-06-CIA.pdf"
+    },
+    {
+      "id": "1970-11-06-White-House",
+      "source": "Chile-United-States-Government-Documents/1970-11-06-White-House.pdf"
+    },
+    {
+      "id": "1970-11-09-NSC",
+      "source": "Chile-United-States-Government-Documents/1970-11-09-NSC.pdf"
+    },
+    {
+      "id": "1970-11-18-CIA",
+      "source": "Chile-United-States-Government-Documents/1970-11-18-CIA.pdf"
+    },
+    {
+      "id": "1970-11-25-State",
+      "source": "Chile-United-States-Government-Documents/1970-11-25-State.pdf"
+    },
+    {
+      "id": "1970-12-04-State",
+      "source": "Chile-United-States-Government-Documents/1970-12-04-State.pdf"
+    },
+    {
+      "id": "1972-10-25-FBI-01",
+      "source": "Chile-United-States-Government-Documents/1972-10-25-FBI-01.pdf"
+    },
+    {
+      "id": "1972-10-25-FBI-02",
+      "source": "Chile-United-States-Government-Documents/1972-10-25-FBI-02.pdf"
+    },
+    {
+      "id": "1972-11-28-FBI",
+      "source": "Chile-United-States-Government-Documents/1972-11-28-FBI.pdf"
+    },
+    {
+      "id": "1972-12-14-FBI",
+      "source": "Chile-United-States-Government-Documents/1972-12-14-FBI.pdf"
+    },
+    {
+      "id": "1973-07-04-Telcon",
+      "source": "Chile-United-States-Government-Documents/1973-07-04-Telcon.pdf"
+    },
+    {
+      "id": "1973-08-DIA",
+      "source": "Chile-United-States-Government-Documents/1973-08-DIA.pdf"
+    },
+    {
+      "id": "1973-09-08-CIA-Briefing",
+      "source": "Chile-United-States-Government-Documents/1973-09-08-CIA-Briefing.pdf"
+    },
+    {
+      "id": "1973-09-08-Coup-Plan",
+      "source": "Chile-United-States-Government-Documents/1973-09-08-Coup-Plan.pdf"
+    },
+    {
+      "id": "1973-09-08-DIA",
+      "source": "Chile-United-States-Government-Documents/1973-09-08-DIA.pdf"
+    },
+    {
+      "id": "1973-09-10-CIA",
+      "source": "Chile-United-States-Government-Documents/1973-09-10-CIA.pdf"
+    },
+    {
+      "id": "1973-09-11-CIA-Briefing",
+      "source": "Chile-United-States-Government-Documents/1973-09-11-CIA-Briefing.pdf"
+    },
+    {
+      "id": "1973-09-11-CIA-Request",
+      "source": "Chile-United-States-Government-Documents/1973-09-11-CIA-Request.pdf"
+    },
+    {
+      "id": "1973-09-13-NSC",
+      "source": "Chile-United-States-Government-Documents/1973-09-13-NSC.pdf"
+    },
+    {
+      "id": "1973-09-16-Telcon",
+      "source": "Chile-United-States-Government-Documents/1973-09-16-Telcon.pdf"
+    },
+    {
+      "id": "1973-09-23-CIA",
+      "source": "Chile-United-States-Government-Documents/1973-09-23-CIA.pdf"
+    },
+    {
+      "id": "1973-09-28-State",
+      "source": "Chile-United-States-Government-Documents/1973-09-28-State.pdf"
+    },
+    {
+      "id": "1973-10-01-DOD",
+      "source": "Chile-United-States-Government-Documents/1973-10-01-DOD.pdf"
+    },
+    {
+      "id": "1973-10-01-State",
+      "source": "Chile-United-States-Government-Documents/1973-10-01-State.pdf"
+    },
+    {
+      "id": "1973-10-06-State",
+      "source": "Chile-United-States-Government-Documents/1973-10-06-State.pdf"
+    },
+    {
+      "id": "1973-10-09-State",
+      "source": "Chile-United-States-Government-Documents/1973-10-09-State.pdf"
+    },
+    {
+      "id": "1973-10-12-CIA",
+      "source": "Chile-United-States-Government-Documents/1973-10-12-CIA.pdf"
+    },
+    {
+      "id": "1973-10-30-Chile",
+      "source": "Chile-United-States-Government-Documents/1973-10-30-Chile.pdf"
+    },
+    {
+      "id": "1973-11-03-NSC",
+      "source": "Chile-United-States-Government-Documents/1973-11-03-NSC.pdf"
+    },
+    {
+      "id": "1973-11-16-State",
+      "source": "Chile-United-States-Government-Documents/1973-11-16-State.pdf"
+    },
+    {
+      "id": "1974-02-11-State",
+      "source": "Chile-United-States-Government-Documents/1974-02-11-State.pdf"
+    },
+    {
+      "id": "1974-04-12-State",
+      "source": "Chile-United-States-Government-Documents/1974-04-12-State.pdf"
+    },
+    {
+      "id": "1974-10-25-CIA",
+      "source": "Chile-United-States-Government-Documents/1974-10-25-CIA.pdf"
+    },
+    {
+      "id": "1974-12-05-State",
+      "source": "Chile-United-States-Government-Documents/1974-12-05-State.pdf"
+    },
+    {
+      "id": "1974-12-20-State",
+      "source": "Chile-United-States-Government-Documents/1974-12-20-State.pdf"
+    },
+    {
+      "id": "1974-12-23-State",
+      "source": "Chile-United-States-Government-Documents/1974-12-23-State.pdf"
+    },
+    {
+      "id": "1975-01-14-DOD",
+      "source": "Chile-United-States-Government-Documents/1975-01-14-DOD.pdf"
+    },
+    {
+      "id": "1975-04-15-DOD",
+      "source": "Chile-United-States-Government-Documents/1975-04-15-DOD.pdf"
+    },
+    {
+      "id": "1975-06-06-FBI-2",
+      "source": "Chile-United-States-Government-Documents/1975-06-06-FBI-2.pdf"
+    },
+    {
+      "id": "1975-06-06-FBI",
+      "source": "Chile-United-States-Government-Documents/1975-06-06-FBI.pdf"
+    },
+    {
+      "id": "1975-07-01-NSC",
+      "source": "Chile-United-States-Government-Documents/1975-07-01-NSC.pdf"
+    },
+    {
+      "id": "1975-07-10-CIA",
+      "source": "Chile-United-States-Government-Documents/1975-07-10-CIA.pdf"
+    },
+    {
+      "id": "1975-07-25-CIA",
+      "source": "Chile-United-States-Government-Documents/1975-07-25-CIA.pdf"
+    },
+    {
+      "id": "1975-08-08-NSC",
+      "source": "Chile-United-States-Government-Documents/1975-08-08-NSC.pdf"
+    },
+    {
+      "id": "1975-08-23-CIA",
+      "source": "Chile-United-States-Government-Documents/1975-08-23-CIA.pdf"
+    },
+    {
+      "id": "1975-08-CIA",
+      "source": "Chile-United-States-Government-Documents/1975-08-CIA.pdf"
+    },
+    {
+      "id": "1975-09-25-State",
+      "source": "Chile-United-States-Government-Documents/1975-09-25-State.pdf"
+    },
+    {
+      "id": "1975-10-06-White-House",
+      "source": "Chile-United-States-Government-Documents/1975-10-06-White-House.pdf"
+    },
+    {
+      "id": "1975-DOD",
+      "source": "Chile-United-States-Government-Documents/1975-DOD.pdf"
+    },
+    {
+      "id": "1976-02-16-State",
+      "source": "Chile-United-States-Government-Documents/1976-02-16-State.pdf"
+    },
+    {
+      "id": "1976-03-16-State",
+      "source": "Chile-United-States-Government-Documents/1976-03-16-State.pdf"
+    },
+    {
+      "id": "1976-03-26-State-01",
+      "source": "Chile-United-States-Government-Documents/1976-03-26-State-01.pdf"
+    },
+    {
+      "id": "1976-03-26-State-02",
+      "source": "Chile-United-States-Government-Documents/1976-03-26-State-02.pdf"
+    },
+    {
+      "id": "1976-03-30-State",
+      "source": "Chile-United-States-Government-Documents/1976-03-30-State.pdf"
+    },
+    {
+      "id": "1976-05-FAU",
+      "source": "Chile-United-States-Government-Documents/1976-05-FAU.pdf"
+    },
+    {
+      "id": "1976-05-Uruguay",
+      "source": "Chile-United-States-Government-Documents/1976-05-Uruguay.pdf"
+    },
+    {
+      "id": "1976-06-08-State",
+      "source": "Chile-United-States-Government-Documents/1976-06-08-State.pdf"
+    },
+    {
+      "id": "1976-08-23-CIA",
+      "source": "Chile-United-States-Government-Documents/1976-08-23-CIA.pdf"
+    },
+    {
+      "id": "1976-08-24-State",
+      "source": "Chile-United-States-Government-Documents/1976-08-24-State.pdf"
+    },
+    {
+      "id": "1976-08-25-State",
+      "source": "Chile-United-States-Government-Documents/1976-08-25-State.pdf"
+    },
+    {
+      "id": "1976-08-State",
+      "source": "Chile-United-States-Government-Documents/1976-08-State.pdf"
+    },
+    {
+      "id": "1976-09-01-State",
+      "source": "Chile-United-States-Government-Documents/1976-09-01-State.pdf"
+    },
+    {
+      "id": "1976-09-22-CIA",
+      "source": "Chile-United-States-Government-Documents/1976-09-22-CIA.pdf"
+    },
+    {
+      "id": "1976-09-22-DIA",
+      "source": "Chile-United-States-Government-Documents/1976-09-22-DIA.pdf"
+    },
+    {
+      "id": "1976-09-28-FBI",
+      "source": "Chile-United-States-Government-Documents/1976-09-28-FBI.pdf"
+    },
+    {
+      "id": "1976-09-28-OCOAS",
+      "source": "Chile-United-States-Government-Documents/1976-09-28-OCOAS.pdf"
+    },
+    {
+      "id": "1976-09-29-CIA",
+      "source": "Chile-United-States-Government-Documents/1976-09-29-CIA.pdf"
+    },
+    {
+      "id": "1976-10-01-DIA",
+      "source": "Chile-United-States-Government-Documents/1976-10-01-DIA.pdf"
+    },
+    {
+      "id": "1976-10-06-CIA",
+      "source": "Chile-United-States-Government-Documents/1976-10-06-CIA.pdf"
+    },
+    {
+      "id": "1976-10-15-State",
+      "source": "Chile-United-States-Government-Documents/1976-10-15-State.pdf"
+    },
+    {
+      "id": "1977-05-24-CIA",
+      "source": "Chile-United-States-Government-Documents/1977-05-24-CIA.pdf"
+    },
+    {
+      "id": "1977-07-15-CIA",
+      "source": "Chile-United-States-Government-Documents/1977-07-15-CIA.pdf"
+    },
+    {
+      "id": "1977-08-31-State-FBI",
+      "source": "Chile-United-States-Government-Documents/1977-08-31-State-FBI.pdf"
+    },
+    {
+      "id": "1977-10-07-CIA",
+      "source": "Chile-United-States-Government-Documents/1977-10-07-CIA.pdf"
+    },
+    {
+      "id": "1977-11-15-CIA",
+      "source": "Chile-United-States-Government-Documents/1977-11-15-CIA.pdf"
+    },
+    {
+      "id": "1978-01-16-CIA",
+      "source": "Chile-United-States-Government-Documents/1978-01-16-CIA.pdf"
+    },
+    {
+      "id": "1978-02-08-CIA",
+      "source": "Chile-United-States-Government-Documents/1978-02-08-CIA.pdf"
+    },
+    {
+      "id": "1978-03-28-State",
+      "source": "Chile-United-States-Government-Documents/1978-03-28-State.pdf"
+    },
+    {
+      "id": "1978-04-26-State",
+      "source": "Chile-United-States-Government-Documents/1978-04-26-State.pdf"
+    },
+    {
+      "id": "1978-05-CIA",
+      "source": "Chile-United-States-Government-Documents/1978-05-CIA.pdf"
+    },
+    {
+      "id": "1978-07-13-State",
+      "source": "Chile-United-States-Government-Documents/1978-07-13-State.pdf"
+    },
+    {
+      "id": "1978-07-Argentina",
+      "source": "Chile-United-States-Government-Documents/1978-07-Argentina.pdf"
+    },
+    {
+      "id": "1978-08-01-State",
+      "source": "Chile-United-States-Government-Documents/1978-08-01-State.pdf"
+    },
+    {
+      "id": "1978-12-27-State",
+      "source": "Chile-United-States-Government-Documents/1978-12-27-State.pdf"
+    },
+    {
+      "id": "1979-08-01-CIA",
+      "source": "Chile-United-States-Government-Documents/1979-08-01-CIA.pdf"
+    },
+    {
+      "id": "1979-11-05-CIA",
+      "source": "Chile-United-States-Government-Documents/1979-11-05-CIA.pdf"
+    },
+    {
+      "id": "1979-State",
+      "source": "Chile-United-States-Government-Documents/1979-State.pdf"
+    },
+    {
+      "id": "1982-01-21-FBI",
+      "source": "Chile-United-States-Government-Documents/1982-01-21-FBI.pdf"
+    },
+    {
+      "id": "1987-04-20-State",
+      "source": "Chile-United-States-Government-Documents/1987-04-20-State.pdf"
+    },
+    {
+      "id": "1987-04-28-State",
+      "source": "Chile-United-States-Government-Documents/1987-04-28-State.pdf"
+    },
+    {
+      "id": "1987-05-01-CIA",
+      "source": "Chile-United-States-Government-Documents/1987-05-01-CIA.pdf"
+    },
+    {
+      "id": "1987-05-14-State",
+      "source": "Chile-United-States-Government-Documents/1987-05-14-State.pdf"
+    },
+    {
+      "id": "1987-10-06-State-C05883532",
+      "source": "Chile-United-States-Government-Documents/1987-10-06-State-C05883532.pdf"
+    },
+    {
+      "id": "1987-10-White-House",
+      "source": "Chile-United-States-Government-Documents/1987-10-White-House.pdf"
+    },
+    {
+      "id": "1987-Campana-Greer-Margolas-Mitchell",
+      "source": "Chile-United-States-Government-Documents/1987-Campana-Greer-Margolas-Mitchell.pdf"
+    },
+    {
+      "id": "1988-08-03-State",
+      "source": "Chile-United-States-Government-Documents/1988-08-03-State.pdf"
+    },
+    {
+      "id": "1988-08-12-State",
+      "source": "Chile-United-States-Government-Documents/1988-08-12-State.pdf"
+    },
+    {
+      "id": "1988-10-04-DIA",
+      "source": "Chile-United-States-Government-Documents/1988-10-04-DIA.pdf"
+    },
+    {
+      "id": "1988-10-06-DIA",
+      "source": "Chile-United-States-Government-Documents/1988-10-06-DIA.pdf"
+    },
+    {
+      "id": "1988-10-06-State",
+      "source": "Chile-United-States-Government-Documents/1988-10-06-State.pdf"
+    },
+    {
+      "id": "1988-10-07-State",
+      "source": "Chile-United-States-Government-Documents/1988-10-07-State.pdf"
+    },
+    {
+      "id": "1988-11-18-CIA-Informant",
+      "source": "Chile-United-States-Government-Documents/1988-11-18-CIA-Informant.pdf"
+    },
+    {
+      "id": "1989-01-01-DIA",
+      "source": "Chile-United-States-Government-Documents/1989-01-01-DIA.pdf"
+    },
+    {
+      "id": "1989-02-10-State",
+      "source": "Chile-United-States-Government-Documents/1989-02-10-State.pdf"
+    },
+    {
+      "id": "1991-05-21-CIA",
+      "source": "Chile-United-States-Government-Documents/1991-05-21-CIA.pdf"
+    },
+    {
+      "id": "1991-12-12-CIA",
+      "source": "Chile-United-States-Government-Documents/1991-12-12-CIA.pdf"
+    },
+    {
+      "id": "1991-12-12b-CIA",
+      "source": "Chile-United-States-Government-Documents/1991-12-12b-CIA.pdf"
+    },
+    {
+      "id": "2000-09-18-CIA",
+      "source": "Chile-United-States-Government-Documents/2000-09-18-CIA.pdf"
+    },
+    {
+      "id": "Report on Argentina disappeared",
+      "source": "Chile-United-States-Government-Documents/Report on Argentina disappeared.pdf"
+    }
+  ]
+}

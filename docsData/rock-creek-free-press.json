@@ -1,0 +1,204 @@
+{
+  "id": "069",
+  "shortname": "rock-creek-free-press",
+  "collection": "Rock Creek Free Press",
+  "alt_names": [],
+  "date": "2005",
+  "source": "https://archive.org/details/RockCreekFreePress",
+  "description": "",
+  "type": "custom-rcfp",
+  "files": [
+    {
+      "id": "BroadsheetNo3",
+      "doc_name": "BroadsheetNo3"
+    },
+    {
+      "id": "CreekV2No1-Web",
+      "doc_name": "CreekV2No1 Web"
+    },
+    {
+      "id": "CreekV2No2--Web",
+      "doc_name": "CreekV2No2  Web"
+    },
+    {
+      "id": "CreekV2No3-Web",
+      "doc_name": "CreekV2No3 Web"
+    },
+    {
+      "id": "CreekV2No4-Web",
+      "doc_name": "CreekV2No4 Web"
+    },
+    {
+      "id": "CreekV2No5-Web",
+      "doc_name": "CreekV2No5 Web"
+    },
+    {
+      "id": "CreekV2No6-Web",
+      "doc_name": "CreekV2No6 Web"
+    },
+    {
+      "id": "CreekV2No7-Web",
+      "doc_name": "CreekV2No7 Web"
+    },
+    {
+      "id": "CreekV2No8-Web",
+      "doc_name": "CreekV2No8 Web"
+    },
+    {
+      "id": "CreekV2No9-Web",
+      "doc_name": "CreekV2No9 Web"
+    },
+    {
+      "id": "CreekV2No10-Web",
+      "doc_name": "CreekV2No10 Web"
+    },
+    {
+      "id": "CreekV2No11-Web",
+      "doc_name": "CreekV2No11 Web"
+    },
+    {
+      "id": "CreekV2No12-Web",
+      "doc_name": "CreekV2No12 Web"
+    },
+    {
+      "id": "CreekV3No1-Web",
+      "doc_name": "CreekV3No1 Web"
+    },
+    {
+      "id": "CreekV3No2-Web",
+      "doc_name": "CreekV3No2 Web"
+    },
+    {
+      "id": "CreekV3No3-Web",
+      "doc_name": "CreekV3No3 Web"
+    },
+    {
+      "id": "CreekV3No4-Web",
+      "doc_name": "CreekV3No4 Web"
+    },
+    {
+      "id": "CreekV3No5-Web",
+      "doc_name": "CreekV3No5 Web"
+    },
+    {
+      "id": "CreekV3No6-Web",
+      "doc_name": "CreekV3No6 Web"
+    },
+    {
+      "id": "CreekV3No7-Web",
+      "doc_name": "CreekV3No7 Web"
+    },
+    {
+      "id": "CreekV3No8-Web",
+      "doc_name": "CreekV3No8 Web"
+    },
+    {
+      "id": "CreekV3No9-Web",
+      "doc_name": "CreekV3No9 Web"
+    },
+    {
+      "id": "CreekV3No10-Web",
+      "doc_name": "CreekV3No10 Web"
+    },
+    {
+      "id": "CreekV3No11-Web",
+      "doc_name": "CreekV3No11 Web"
+    },
+    {
+      "id": "CreekV3No12-Web",
+      "doc_name": "CreekV3No12 Web"
+    },
+    {
+      "id": "CreekV4No1-Web",
+      "doc_name": "CreekV4No1 Web"
+    },
+    {
+      "id": "CreekV4No2-Web",
+      "doc_name": "CreekV4No2 Web"
+    },
+    {
+      "id": "CreekV4No3-Web",
+      "doc_name": "CreekV4No3 Web"
+    },
+    {
+      "id": "CreekV4No4-Web",
+      "doc_name": "CreekV4No4 Web"
+    },
+    {
+      "id": "CreekV4No5-Web",
+      "doc_name": "CreekV4No5 Web"
+    },
+    {
+      "id": "CreekV4No6-Web",
+      "doc_name": "CreekV4No6 Web"
+    },
+    {
+      "id": "CreekV4No7-Web",
+      "doc_name": "CreekV4No7 Web"
+    },
+    {
+      "id": "CreekV4No8-Web",
+      "doc_name": "CreekV4No8 Web"
+    },
+    {
+      "id": "CreekV4No9-Web",
+      "doc_name": "CreekV4No9 Web"
+    },
+    {
+      "id": "CreekV4No10-Web",
+      "doc_name": "CreekV4No10 Web"
+    },
+    {
+      "id": "CreekV4No11-Web",
+      "doc_name": "CreekV4No11 Web"
+    },
+    {
+      "id": "CreekV4No12-Web",
+      "doc_name": "CreekV4No12 Web"
+    },
+    {
+      "id": "CreekV5No1-Web",
+      "doc_name": "CreekV5No1 Web"
+    },
+    {
+      "id": "CreekV5No2-Web",
+      "doc_name": "CreekV5No2 Web"
+    },
+    {
+      "id": "CreekV5No3-Web",
+      "doc_name": "CreekV5No3 Web"
+    },
+    {
+      "id": "CreekV5No4-Web",
+      "doc_name": "CreekV5No4 Web"
+    },
+    {
+      "id": "CreekV5No5-Web",
+      "doc_name": "CreekV5No5 Web"
+    },
+    {
+      "id": "CreekV5No6-Web",
+      "doc_name": "CreekV5No6 Web"
+    },
+    {
+      "id": "CreekV5No7-Web",
+      "doc_name": "CreekV5No7 Web"
+    },
+    {
+      "id": "CreekV5No8-Web",
+      "doc_name": "CreekV5No8 Web"
+    },
+    {
+      "id": "CreekV5No9-Web",
+      "doc_name": "CreekV5No9 Web"
+    },
+    {
+      "id": "RCMPJan2007-all",
+      "doc_name": "RCMPJan2007 all"
+    },
+    {
+      "id": "RockCreekFreePressNo4",
+      "doc_name": "RockCreekFreePressNo4"
+    }
+  ]
+}

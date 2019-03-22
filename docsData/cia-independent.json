@@ -1,0 +1,24 @@
+{
+  "id": "049",
+  "shortname": "cia-independent",
+  "collection": "CIA - Non-government Sources",
+  "alt_names": [],
+  "date": "1974",
+  "important": "",
+  "description": "",
+  "source": "",
+  "type": "archive",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "CIA &amp; The Cult of Intelligence by Victor Marchetti &amp; John Marks",
+      "source": "http://visionary-knowledge.com/CIA/The%20CIA%20and%20the%20cult%20of%20%20Intellience.pdf"
+    },
+    {
+      "id": "002",
+      "doc_name": "The Invisible Government by David Wise &amp; Thomas B. Ross",
+      "source": "https://archive.org/stream/HourOfTheTime11012013TheInvisibleGovernmentDavidWise/Hour_Of_The_Time_11012013-The_Invisible-Government-David_Wise",
+      "type": "archive"
+    }
+  ]
+}

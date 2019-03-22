@@ -1,0 +1,39 @@
+{
+  "id": "072",
+  "shortname": "911",
+  "collection": "September 11th, 2001",
+  "alt_names": [],
+  "date": "2001",
+  "description": "Various sources",
+  "important": "",
+  "source": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "9-11-deep-state-violence-and-the-hope-of-internet-politics",
+      "doc_name": "'9/11, Deep State Violence, and the Hope of Internet Politics' by Peter Dale Scott",
+      "source": false
+    },
+    {
+      "id": "911_American_Empire",
+      "doc_name": "'9/11 and the American Empire: Intellectuals Speak Out' edited by David Ray Griffin and Peter Dale Scott",
+      "source": false
+    },
+    {
+      "id": "911_Toronto_Report",
+      "doc_name": "'The 9/11 Toronto Report' edited by James Gourley'",
+      "source": false
+    },
+    {
+      "id": "317436",
+      "doc_name": "'9/11 Synthetic Terrorism: Made in USA' by Webster Griffin Tarpley",
+      "type": "archive-b",
+      "source": "WebsterGriffinTarpley911SyntheticTerrorismMadeInUSA2004"
+    },
+    {
+      "id": "Crossing_the_Rubicon-Decline_of_the_American_Empire_at_the_end_of_the_Age_of_Oil",
+      "doc_name": "'Crossing the Rubicon' by Michael Ruppert",
+      "source": false
+    }
+  ]
+}

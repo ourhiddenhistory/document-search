@@ -1,0 +1,28 @@
+{
+  "id": "046",
+  "shortname": "korea",
+  "collection": "The Korean War",
+  "alt_names": [],
+  "date": "1951",
+  "important": "",
+  "description": "ISC Report courtesy of <a href='https://twitter.com/jeff_kaye'>Jeffrey Kaye</a>",
+  "source": "",
+  "type": "pdf",
+  "files": [
+    {
+      "id": "001",
+      "doc_name": "Report of the ISC on Bacterial Warfare in Korea and China",
+      "source": "https://assets.documentcloud.org/documents/4334133/ISC-Full-Report-Pub-Copy.pdf"
+    },
+    {
+      "id": "002",
+      "doc_name": "Hidden History of the Korean War by I.F. Stone",
+      "source": "http://sttpml.org/wp-content/uploads/2015/08/The-hidden-history-of-the-Korean-War-1950-1951-A-Nonconformist-history-of-our-times-I.-F-Stone.pdf"
+    },
+    {
+      "id": "003",
+      "doc_name": "Depositions of Nineteen Captured U.S. Airmen Their Participation in Germ Warfare in Korea",
+      "source": ""
+    }
+  ]
+}
