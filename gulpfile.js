@@ -106,7 +106,7 @@ gulp.task('buildCIABASEindex', function () {
 });
 
 gulp.task('copySiteToWebRoot', () =>
-  gulp.src(['_site/*'])
+  gulp.src(['_site/**/*'])
     .pipe(gulp.dest(`${SITE_DIR}/`)));
 
 gulp.task('watch', () => {
