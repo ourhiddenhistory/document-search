@@ -48,6 +48,10 @@ gulp.task('copy', () =>
     'node_modules/requirejs/require.js',
     'node_modules/elasticsearch-browser/elasticsearch.jquery.js',
     'node_modules/lunr/lunr.js',
+    // vue test
+    'node_modules/vue/dist/vue.js',
+    'node_modules/vuex/dist/vuex.js',
+    'src/js/vue-test.js',
   ]).pipe(gulp.dest(DIST_DIR)));
 
 gulp.task('copyImgs', () =>
