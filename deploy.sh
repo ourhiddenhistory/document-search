@@ -12,6 +12,8 @@ fi
 
 gulp build
 
+ls ./_posts/
+
 bundle exec jekyll build --verbose --config ${CONFIG_FILE}
 
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
