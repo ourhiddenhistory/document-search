@@ -12,9 +12,9 @@ fi
 
 gulp build
 
-bundle exec jekyll build --config ${CONFIG_FILE}
+bundle exec jekyll build --verbose --config ${CONFIG_FILE}
 
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 
-rsync -acr --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
+rsync -acrv --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
    ./_site/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search
