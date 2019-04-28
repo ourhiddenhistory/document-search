@@ -35,15 +35,13 @@ Overall, the record shows that, though the arc of history may bend towards justi
 
 An examination of declassified government documents only adds to the controversy. They reveal Luis Kutner's many hidden interactions with the FBI, the CIA, and the mafia underworld.[^10] The record of his association with various far-right figures is also included. They even reveal the violent efforts of a terrorist group he defended under the guise of “human rights.”
 
-
 ## **Committing Conscientious Objectors**
 
 Kutner's earliest documented attempt to collude with the FBI came in 1944. He had been called upon to defend indigent draft resisters in federal court. Unfortunately, he seemed to place what he perceived to be the needs of the U.S. war effort above the interests of his clients.
 
 During the course of a trial, Kutner approached the judge with a somewhat “novel” idea. He proposed that the judge place his client, one of the numerous Black Muslims who was refusing the draft for religious reasons, into a mental hospital.[^11] Kutner reasoned that being committed rather than being incarcerated would prevent the man from being seen as “martyr.” Kutner said:
 
-
-    These so-called “Mohammedans” are seeking martyrdom. Many have been sent to prison, and that pleases them. They consider themselves martyrs. They should be examined for sanity. The prestige of their movement would be destroyed if they went to asylums instead of prisons.
+> These so-called “Mohammedans” are seeking martyrdom. Many have been sent to prison, and that pleases them. They consider themselves martyrs. They should be examined for sanity. The prestige of their movement would be destroyed if they went to asylums instead of prisons.
 
 The judge took Kutner’s advice and the case made the newspapers.
 
@@ -53,11 +51,9 @@ Apart from what looks like a lawyer working against the wishes of his clients, K
 
 One such organization is the Center on Conscience and War. It formed in 1940 and still works to protect conscientious objectors today. Maria Santelli, the Executive Director of the Center, judged Kutner's actions this way:
 
-
-    [Kutner] is bringing in his own personal bias in his representation... [the defendants were] ready to go to jail as thousands of others had. That was their witness. So that was their act of conscience as they saw it. He circumvented that. The lawyer circumvented that witness.[^14]
+> [Kutner] is bringing in his own personal bias in his representation... [the defendants were] ready to go to jail as thousands of others had. That was their witness. So that was their act of conscience as they saw it. He circumvented that. The lawyer circumvented that witness.[^14]
 
 This may have been the first time Luis Kutner prioritized his political views over human rights, but as we'll see later, it would not be the last.
-
 
 ## **"On the Fringes of the Chicago Mob"**
 
@@ -79,7 +75,6 @@ It is perhaps important to note that Kutner wasn't just representing others in f
 
 At some point in the ensuing years, Kutner became an FBI informant. Listed by the Bureau as symbol informant CG 5973-C,[^23] Kutner reported on the activities[^24] of Chicago mob “fixer” Gus Alex and his lawyer, Sidney Korshak. Korshak would later famously become a focus of a New York Times investigation lead by Seymour Hersh.[^25]
 
-
 ## **CIA, the Mafia, and the Plots to Kill Castro**
 
 Kutner first became involved in international intrigues[^26] in 1960 when he acted as an emissary for two major mafia figures to the FBI. Kutner carried an offer to eliminate Cuban leader Fidel Castro to the FBI.
@@ -89,18 +84,17 @@ The two mob bosses were Norman Rothman and Sam Mannarino. Mannarino ran the rack
 An FBI memo[^28] describes the events of May 9th, 1960. Seeking a lighter sentence for his client, Kutner walked into the office of the Assistant U.S. Attorney and advised officials there of the following:
 
 
-    [Rothman] has been a close personal friend of Fulgencio Batista, and and is one of the few persons trusted by Batista... in fact he, Rothman, during the time Batista was in power, was in charge of all gambling in Cuba. Having known Batista as well as he claims and being aware of his current activities and also revolutionary activities he is in a position to know what may happen in Cuba in the future. _As a matter of fact, he claims to be able to "deliver Castro to the United States cause or cause Castro to be wiped out"_ [emphasis added]._ _Rothman likewise claims an acquaintanceship with Castro.
+> [Rothman] has been a close personal friend of Fulgencio Batista, and and is one of the few persons trusted by Batista... in fact he, Rothman, during the time Batista was in power, was in charge of all gambling in Cuba. Having known Batista as well as he claims and being aware of his current activities and also revolutionary activities he is in a position to know what may happen in Cuba in the future. _As a matter of fact, he claims to be able to "deliver Castro to the United States cause or cause Castro to be wiped out"_. Rothman likewise claims an acquaintanceship with Castro. (Emphasis added)
 
-The response of the FBI was to ask Kutner's cooperation to "determine specifically what information Norman Rothman might have, which might be of interest to the Bureau _or any other Government agency_ [emphasis added]."
+The response of the FBI was to ask Kutner's cooperation to "determine specifically what information Norman Rothman might have, which might be of interest to the Bureau _or any other Government agency_." (Emphasis added)
 
 In 1975, when the Church Committee made the first official exposures of combined CIA/mafia efforts to assassinate Fidel Castro,[^29] they pinpointed the first plotting as starting in August of 1960—just a few months following Rothman's offer.
 
 But while the Church Committee's story begins with the relationship between the CIA, Howard Hughes, attorney Robert Maheu, and Las Vegas gangster Johnny Roselli, a 1975 New York News investigation[^30] starts somewhat earlier. It appears to fill in the intervening months and places Rothman at the center of the early plotting.
 
-
-    "Rothman was in touch with several CIA agents," a former agent said. "They had many meetings concerning assassination plots against Castro." \
- \
-Rothman in turn discussed the matter with his peers... among those who took part in these parleys, reliable sources said, were Santo Trafficante of Tampa, and Sam Mannarino of Pittsburgh... the mob and CIA finally gave [the contract] to [Johnny] Roselli, reputed boss of Las Vegas, federal sources said. And Roselli agreed to recruit a death squad to hunt Castro.
+> "Rothman was in touch with several CIA agents," a former agent said. "They had many meetings concerning assassination plots against Castro."
+>
+> Rothman in turn discussed the matter with his peers... among those who took part in these parleys, reliable sources said, were Santo Trafficante of Tampa, and Sam Mannarino of Pittsburgh... the mob and CIA finally gave [the contract] to [Johnny] Roselli, reputed boss of Las Vegas, federal sources said. And Roselli agreed to recruit a death squad to hunt Castro.
 
 From the timeline, it appears that the offer Kutner carried was accepted.
 
@@ -114,15 +108,13 @@ Sometime in the early 1960s, Kutner became Guatemala's Consul General for the ci
 
 Whether Kutner continued his mediation between his mafia clients and the CIA during the period is unknown. But by 1963, Kutner felt self-assured enough to approach the Central Intelligence Agency for clandestine funding.
 
-
 ## **A CIA Staffed Newspaper**
 
 In 1963, Kutner embarked on a publishing venture—a newspaper called the _Yugoslav Herald_. The paper would be aimed at the Midwest's large Southern Slav population.
 
 A memo between the CIA and their liaison with the FBI[^37] notes a remarkable fact: Kutner had requested CIA financial support for the paper. In return, Kutner offered the CIA a hand in choosing the newspaper's managing editor.
 
-
-    Mr. Kutner stated that the post of managing editor would be held open and that he was confident a candidate could be found for this job in consultation with this agency.
+> Mr. Kutner stated that the post of managing editor would be held open and that he was confident a candidate could be found for this job in consultation with this agency.
 
 The CIA told the FBI that they “planned no contact” with Kutner, and intended no “follow up action” on the matter. It stated that it was relaying this information solely because of the FBI's interest in both Kutner and the editor of Kutner's new paper, one Andrew Kondich.
 
@@ -138,7 +130,6 @@ The nature of Kutner’s _Yugoslav Herald_ is as difficult to decipher as Kutner
 
 Perhaps the _Yugoslav Herald_ collapsed under the weight of its numerous contradictions—it printed only one issue before folding. According to an FBI informant, Kunter received a call[^45] from "a representative of a U.S. government agency" which precipitated a violent falling out[^46] between Kondich and Kutner. What followed an FBI investigation during which Kondich was fired from his job at _Abendpost_. The FBI then began looking into Kondich's alleged attempts to infiltrate and disrupt[^47] Chicago's Eastern European far-right community.
 
-
 ## **Old Associates—Jack Ruby and Luis Kutner**
 
 After Jack Ruby murdered Lee Harvey Oswald in the presence of over 70 Dallas police officers, the U.S. press turned to Kutner for information on his old associate. Kutner's statements appeared in several newspaper articles. For the most part, his statements centered around his interactions with Ruby and the Kefauver commission as discussed above, but he also filled in some blanks on Ruby's ties with the Chicago mob. This included, according to Kutner, links to the lieutenants of Teamsters President Jimmy Hoffa.
@@ -147,17 +138,15 @@ All of Kutner's information would be largely ignored by the Warren Commission wh
 
 In a 1978 interview[^48] on a Canadian television show, Kutner pointed to a conspiracy by giving his opinion that Ruby would not have killed Oswald without being pressed into it:
 
-
-    I say it again and I say this with positive conviction that Jack Ruby, or Sparky Rubenstein, was totally incapable of that kind of an aggressive decision and doing it so openly and so deliberately. \
- \
-Q: YOU KNEW JACK RUBY. WHY DID HE KILL OSWALD? \
- \
-I would say enormous pressure, had to be enormous pressure. But if he did this job they would stand by him and get him out of this mess. That is a reasonable considered and informed conclusion, I could be in many schools of thought but he was not the man to do it on him own initiative.
+> I say it again and I say this with positive conviction that Jack Ruby, or Sparky Rubenstein, was totally incapable of that kind of an aggressive decision and doing it so openly and so deliberately.
+>
+> Q: YOU KNEW JACK RUBY. WHY DID HE KILL OSWALD?
+>
+> I would say enormous pressure, had to be enormous pressure. But if he did this job they would stand by him and get him out of this mess. That is a reasonable considered and informed conclusion, I could be in many schools of thought but he was not the man to do it on him own initiative.
 
 Authors Peter Dale Scott and William W. Turner have both touched on the fact that Kutner made an appearance at an Information Council of the America's (INCA) “National Citizen's Congress” event in 1969. INCA was a far-right anti-communist group who could count among its supporters’ Nicaraguan dictator Anastasio Somoza[^49] and Guatemalan general and one of the plotters of the 1954 coup, General Miguel Ydigoras Fuentes.[^50] INCA was founded by Ed Butler—the man who famously participated in a radio debate with the Lee Harvey Oswald just months before the assassination in Dallas.
 
 These far-right activists billed Kutner as a "moderate" and put up to debate radical New Left lawyer William Kunstler. INCA's National Producer at that time was one Lee Edwards, a far-right promoter who Kutner would work with closely within the coming years.
-
 
 ## **"The Worst African Ever Born"**
 
@@ -177,21 +166,19 @@ Though the Johnson administration seemed happy to stick with Mobutu, the America
 
 Kutner made the media rounds, defending Tshombe's record:
 
-
-    ...Tshombe at all times has been a friend of human rights, and he has always made an attempt to preserve the integrity of all persons in preaching the human dignity which the United Nations and the Universal Declaration of Human Rights seems to provide for.[^57]
+> ...Tshombe at all times has been a friend of human rights, and he has always made an attempt to preserve the integrity of all persons in preaching the human dignity which the United Nations and the Universal Declaration of Human Rights seems to provide for.[^57]
 
 Tshombe's record was considerably less perfect than Kutner described. As noted before, Lumumba's torture and murder—along with those of his aides, Maurice Mpolo and Joseph Okito—was carried out in Tshombe's puppet state.[^58] To lead his army, Tshombe turned to French Colonel Roger Trinquier, a veteran of France's brutal Algerian counter-insurgency war and “a ruthless enthusiast of torture.”[^59] Tshombe's white mercenaries habitually shot their prisoners.[^60] Some of these mercenaries summed up their attitudes towards the Africans in a 1965 ABC television interview:[^61]
 
+> Moloney: Well, one last night told me that he had burned two villages because two of his men had been killed in an attack. How would you defend this? \
 
-    Moloney: Well, one last night told me that he had burned two villages because two of his men had been killed in an attack. How would you defend this? \
- \
-Major Hoare: Yes. Well, now it's a question of how we define atrocities.... The burning of villages, this is punishment, and I'm entirely in favor, when it is required of punishing the rebels in this manner.... \
- \
-ABC's Peters: Wally, how do you feel when you're out there fighting? How do you feel about killing anyone? \
- \
-Harper (a South African mercenary): The first time I felt a bit squeamish, but after that it was like, well I'd done a lot of cattle farming you know, and killing a lot of beasts, it's just like, you know, cattle farming, and just seeing dead beasts all over the place. It didn't worry me at all."
+> Major Hoare: Yes. Well, now it's a question of how we define atrocities.... The burning of villages, this is punishment, and I'm entirely in favor, when it is required of punishing the rebels in this manner....
 
-Maybe it was Kutner's involvement with Tshombe that warmed him to hired killers. Professor Kyle Burke, author of _Revolutionaries for the Right_, found some 1976 correspondence showing that Kutner planned to form a nonprofit with far-right mercenary and _Soldier of Fortune _magazine founder Robert K. Brown. The so-called "World Veterans for Human Rights" mission would be to "take the sting out of the connotation of 'mercenaries’."[^62]
+ > ABC's Peters: Wally, how do you feel when you're out there fighting? How do you feel about killing anyone?
+
+ > Harper (a South African mercenary): The first time I felt a bit squeamish, but after that it was like, well I'd done a lot of cattle farming you know, and killing a lot of beasts, it's just like, you know, cattle farming, and just seeing dead beasts all over the place. It didn't worry me at all."
+
+Maybe it was Kutner's involvement with Tshombe that warmed him to hired killers. Professor Kyle Burke, author of _Revolutionaries for the Right_, found some 1976 correspondence showing that Kutner planned to form a nonprofit with far-right mercenary and _Soldier of Fortune_ magazine founder Robert K. Brown. The so-called "World Veterans for Human Rights" mission would be to "take the sting out of the connotation of 'mercenaries'."[^62]
 
 While Kutner was playing the human rights lawyer in public, he became involved in a bizarre plot, in private, to spring Tshombe from prison. The plot would come to light because it ultimately lead to the murder of a wealthy California socialite.
 
@@ -207,7 +194,6 @@ Probably needless to say, the wild scheme involving a Chicago lawyer and someone
 
 “The Fox” was convicted of her murder in late 1970. Her jawbone and teeth were finally found in the Swiss hills in 1973.
 
-
 ## **A World-wide Human Rights Organization—Funded by CIA**
 
 As mentioned above, Kutner made another pass at Agency sponsorship in the middle of the Tshombe affair. He contacted two CIA officers about turning World Habeas Corpus into something considerably more solid than a legal concept. The two officials were a Domestic Contact Division officer named R.K. Oakley and the CIA's General Counsel, Lawrence Houston.
@@ -218,8 +204,7 @@ Kutner attempted to entice CIA with a proposal which celebrated the tough stand 
 
 The CIA saw the propaganda value in such an organization, but Oakley told Kutner that the organization would probably harm the project more than help it.
 
-
-    [Domestic Contact Division] Oakley did not absolutely rule out contact because it appears Kutner might have something worthwhile if he will somehow eliminate his conspiratorial urge...
+> [Domestic Contact Division] Oakley did not absolutely rule out contact because it appears Kutner might have something worthwhile if he will somehow eliminate his conspiratorial urge...
 
 Kutner, for his part, repeated that CIA-backing would be "very helpful."
 
@@ -229,7 +214,6 @@ But Kutner played things without much finesse. Kutner was found to be telling ac
 
 For this strange name dropping of the CIA, his lunch with the CIA's top lawyer was canceled. With a gentle warning about his "indiscretions," his request for funding was finally—though politely—brushed off.[^69]
 
-
 ## **The "Ranting and Raving" of Fred Hampton**
 
 In December of 1969, Luis Kutner sought out a talk[^70] of Black Panther Leader Fred Hampton. Hampton was speaking alongside Reverend George Riddick[^71] of the Southern Christian Leadership Council before a small audience of mostly elderly peace activists. Kutner reported the content of Hampton's address—and seemingly the names of as many attendees as he could—to the FBI.
@@ -238,10 +222,9 @@ Kutner reported that Hampton had stated that the Panthers were armed, and quoted
 
 The document shows that Kutner advised the FBI that he...
 
-
-    ...has taken a personal interest in the BPP because of its "ranting and raving" and this personal interest on the part of KUTNER has reached the point where he would like to take legal action to silence the BPP… \
- \
-KUTNER included [sic] by stating that he believed speakers like HAMPTON were psychotic, and it is only when they are faced with court action that they stop their "ranting and raving."
+> ...has taken a personal interest in the BPP because of its "ranting and raving" and this personal interest on the part of KUTNER has reached the point where he would like to take legal action to silence the BPP…
+>
+> KUTNER included [sic] by stating that he believed speakers like HAMPTON were psychotic, and it is only when they are faced with court action that they stop their "ranting and raving."
 
 Just four days after Kutner made his report, Hampton would be murdered[^72] by the Chicago Police Department in a raid on his home. A blue-ribbon commission[^73] found that Hampton had been given a near-lethal dose of secobarbital—most certainly by one of the many informants the FBI had placed inside the organization.
 
@@ -250,7 +233,6 @@ Chicago Police officers fired nearly 100 bullets into Hampton's apartment. All o
 The assassination, which the FBI helped to plan,[^75] also took the life of BPP member Mark Clark. Seven more Panthers, none of whom fired a shot according to a federal grand jury[^76] (and many themselves wounded), were arrested and charged with "attempted murder, armed violence, and a variety of weapons charges."
 
 Kutner's taking exception to the rhetorical "Nixon must die" comments is especially interesting. As we'll soon see, he himself worked with groups which both preached violence and carried it out—including the attempted assassination of at least one world leader.
-
 
 ## **Human Rights, Terrorism, and Assassination**
 
@@ -286,8 +268,7 @@ The memo contains a letter, which describes how Kutner approached one Robert Fle
 
 This was the milieu to whom Kutner approached with his remarkable offer: the overthrow of Taiwan's Kuomintang government.
 
-
-    [Kutner] indicated he represented a group willing to [illegible] a handsome return to anyone investing $20,000,000 which they require to overthrow the Taiwan government.
+> [Kutner] indicated he represented a group willing to [illegible] a handsome return to anyone investing $20,000,000 which they require to overthrow the Taiwan government.
 
 Fleming "hastily declined" the offer, though he did engage Kutner for further information on another of Kutner's "projects" in Africa. Though the memo is unfortunately partially illegible, Kutner's other offer in some way involved the Ghanaian government of Dr. Kofi Abrefa Busia. Busia (who would himself be overthrown) had been an official in the military coup government which had overthrown Ghana's socialist leader, Kwame Nkrumah.
 
@@ -301,15 +282,13 @@ With Kutner looking on, Kahane reportedly stated: "if it takes a bombing of the 
 
 There’s no evidence that Kutner reported Kahane’s ranting and raving to the FBI.
 
-
 ## **"Friends of the FBI"—Covering for COINTELPRO**
 
 On March 24, 1971, an example of what one might call the 20th Century version of "hacktivism" occurred. A group called "The Citizens’ Commission to Investigate the FBI" burgled an FBI office, stole a cache of documents, and released them to the press. The documents proved that the FBI was engaging in police state tactics against dissidents in the United States. Included in the FBI documents were floor plans of Fred Hampton's apartment with a large "X" over Hampton's bed.
 
 The repression that had been considered conspiracy theorizing by the left had now hit the newsstands in black and white. A few years later, Senator Philip Hart of Michigan would state succinctly the dose of reality that such news brought:
 
-
-    As I’m sure others have, I have been told for years by, among others, some of my own family, that this is exactly what the Bureau was doing all of the time, and in my great wisdom and high office, I assured them that they were — it just wasn’t true. It couldn’t happen. They wouldn’t do it.[^94]
+> As I’m sure others have, I have been told for years by, among others, some of my own family, that this is exactly what the Bureau was doing all of the time, and in my great wisdom and high office, I assured them that they were — it just wasn’t true. It couldn’t happen. They wouldn’t do it.[^94]
 
 J. Edgar Hoover began to receive sustained criticism in the press. LIFE Magazine's April 9th, 1971 cover depicted a marble bust of FBI's director—now in his post for 47 years—with the caption "Emperor of the FBI."[^95]
 
@@ -325,10 +304,9 @@ Patrick Gorman was a fundraiser for a variety of right-wing causes: a "Draft Gol
 
 A fundraising letter[^99] soon hit tens of thousands of mailboxes. It was filled with hyperbolic pro-Hoover rhetoric and was signed with Zimbalist's famous name.
 
+> The F.B.I. and J. Edgar Hoover are being subjected to the degradation of an attack by self-serving politicians, their supporting media and certain radical elements that ultimately seek the destruction of all law and order in the United States…
 
-    The F.B.I. and J. Edgar Hoover are being subjected to the degradation of an attack by self-serving politicians, their supporting media and certain radical elements that ultimately seek the destruction of all law and order in the United States… \
- \
-We, the Friends of the F.B.I., are determined to counter the campaign against the F.B.I. and Mr. Hover, which threatens to undermine the whole structure of law and order in the United States.
+> We, the Friends of the F.B.I., are determined to counter the campaign against the F.B.I. and Mr. Hover, which threatens to undermine the whole structure of law and order in the United States.
 
 It also asked for "generous" and "tax-deductible" gifts.
 
@@ -338,10 +316,9 @@ Newspapers started to dig.[^101] Kutner had claimed several big names on the boa
 
 Liberal supporters of Kutner's Commission for International Due Process of Law were dumb-founded by his use of its good name (and theirs) to defend J. Edgar Hoover. Democratic Congressman Abner Mikva of Illinois summed up the hypocrisy to Kutner this way:
 
+> You can imagine my dismay when I read most recently that you had "lent" [The Commission] to Ephraim Zimbalist, Jr., for a promotion called Friends of the FBI. I noted with further dismay that Mr. Zimbalist proceeded to attack anyone who has ever criticized the FBI or its director, as people desiring to undermine the whole structure of law and order in the United States…
 
-    You can imagine my dismay when I read most recently that you had "lent" [The Commission] to Ephraim Zimbalist, Jr., for a promotion called Friends of the FBI. I noted with further dismay that Mr. Zimbalist proceeded to attack anyone who has ever criticized the FBI or its director, as people desiring to undermine the whole structure of law and order in the United States… \
- \
-Wholly apart from the fact that Mr. Hoover has not always shown the great enthusiasm for due process that some of us might hope (to wit, his stands on wire-tapping, his attacks on Dr. King and his former superiors, his attitude about arrest and raids, etc.) it grieves me to see such a worthy organization... being used to enhance the money-making propensities of Mr. Zimbalist... That you should have permitted such a use and the Commission for International Due Process of Law to be so prostituted is indefensible.[^102]
+> Wholly apart from the fact that Mr. Hoover has not always shown the great enthusiasm for due process that some of us might hope (to wit, his stands on wire-tapping, his attacks on Dr. King and his former superiors, his attitude about arrest and raids, etc.) it grieves me to see such a worthy organization... being used to enhance the money-making propensities of Mr. Zimbalist... That you should have permitted such a use and the Commission for International Due Process of Law to be so prostituted is indefensible.[^102]
 
 The Congressman then requested that he be disassociated with Kutner's organization "since I am so out of sympathy for what you are doing."
 
@@ -361,7 +338,6 @@ In 1977, the state of Illinois would win a lawsuit against Patrick Gorman[^107].
 
 When all was done, as author Harvey Katz noted, Kutner seemed to have created “a rather novel definition of friendship as well as of charity.”
 
-
 ## **Still at it—Kutner Invites the CIA to Beijing**
 
 A January 31st, 1973 CIA memo documents another astonishing offer.[^108]
@@ -370,13 +346,11 @@ Kutner claimed a "close" relationship with the U.S.-toppled neutralist King of C
 
 Kutner's offer, as stated by the CIA, was simple enough:
 
-
-    ...the [Beijing] office could be set up for $250,000. If we wish to furnish that sum, [Kutner] would open the office for us _and allow us to staff it completely with our own people_ (Emphasis added).
+> ...the [Beijing] office could be set up for $250,000. If we wish to furnish that sum, [Kutner] would open the office for us _and allow us to staff it completely with our own people_ (Emphasis added).
 
 The CIA officer ends his memo by requesting advice from the Chiefs of both Vietnam and China Operations as to whether they have any interest in following up on the offer. Unfortunately the response, if any, isn’t in the available record. There is no evidence that the CIA took Kutner up on his offer or that such a center was ever built in China (or anywhere else for that matter).
 
 In any case, Kutner's constant reaching and endless schemes seem to have worn out his welcome with the intelligence agencies. The document notes that the FBI "do not regard [Kutner] highly."
-
 
 ## **Amnesty International, the CIA, and Chile**
 
@@ -396,28 +370,23 @@ Though the examples above all fulfilled U.S. policy objectives, there's no direc
 
 In late-1974,[^115] with criticism of the Pinochet Regime and the CIA at "dramatic proportions," the CIA sought to exploit an offer made by General Pinochet for a Soviet-Chilean prisoner swap.
 
-
-    [The prisoner swap] is opportunity to blunt hostile propaganda. If the U.S.SR and Chile can be lumped together in popular mind as each having political prisoners, the situation can be exploited to divert some of attention from junta's supposed misdeeds...
+> [The prisoner swap] is opportunity to blunt hostile propaganda. If the U.S.SR and Chile can be lumped together in popular mind as each having political prisoners, the situation can be exploited to divert some of attention from junta's supposed misdeeds...
 
 It is worth noting here that the "supposed misdeeds"[^116] of the Pinochet regime have since been found to include, according to Chile's truth and reconciliation commission, the imprisonment, and torture of some 40,000 people (including the rape of thousands of women), and the murder of more than 3,000 more. All this stemming from a coup—a coup the CIA had helped to launch.[^117]
 
-
-    Suggest [redacted] approach DEFLOWER[^118] to see whether he can get his group interested in taking practical steps to get prisoners released from Chilean junta on exchange basis. Perhaps if he can picture himself as saving the prisoners (communist and socialist leaders in Chile and important intellectuals in the U.S.SR) from a fascist regime on one hand and from a Stalinist country on the other he can become sufficiently interested in the exchange.[^119]
+> Suggest [redacted] approach DEFLOWER[^118] to see whether he can get his group interested in taking practical steps to get prisoners released from Chilean junta on exchange basis. Perhaps if he can picture himself as saving the prisoners (communist and socialist leaders in Chile and important intellectuals in the U.S.SR) from a fascist regime on one hand and from a Stalinist country on the other he can become sufficiently interested in the exchange.[^119]
 
 As worthy as a release of prisoners might be to those with liberal sensibilities, the CIA had its own, less altruistic, for the plan. A later document,[^120] also marked "secret," makes it clear that the real goal of the effort was to shield the CIA and the Pinochet regime from criticism.
 
-
-    Given perishability ref ideas, request your comment on feasibility of approaches to DEFLOWER and Amnesty International as outlined. Welcome any other suggestions on means limit further anti-BKHERALD propaganda in relation to Chile and anti-junta propaganda connected with treatment of political prisoners.
+> Given perishability ref ideas, request your comment on feasibility of approaches to DEFLOWER and Amnesty International as outlined. Welcome any other suggestions on means limit further anti-BKHERALD propaganda in relation to Chile and anti-junta propaganda connected with treatment of political prisoners.
 
 The identity of DE/FLOWER is unknown, but from the context, it appears to be a leader of Amnesty International. The fact that a cryptonym was given at all is in itself interesting. It generally indicates a higher level of interest in a person or group by the CIA—or even an asset. According to Dr. John Newman, an author and a former military intelligence officer who studies the CIA:
 
-
-    ...it does not necessarily mean they were assets. In the majority of instances, they probably were assets. But, even then, that doesn't tell us whether the "asset" was witting or unwitting. On many occasions, crypts were assigned to persons of interest simply because they were associated with assets or otherwise peripherally involved in Agency operations.[^121]
+> ...it does not necessarily mean they were assets. In the majority of instances, they probably were assets. But, even then, that doesn't tell us whether the "asset" was witting or unwitting. On many occasions, crypts were assigned to persons of interest simply because they were associated with assets or otherwise peripherally involved in Agency operations.[^121]
 
 Another heavily redacted document[^122] shows that the CIA was keeping a close watch on the composition of the leadership of Amnesty International. The CIA felt that a recent change in leadership might make the group more inclined to put "pressure on the Soviets."
 
 Though there are no documents showing anything more than CIA discussing such an approach, at least two such Chile-U.S.SR prisoner swaps did occur[^123] in the following years. And Amnesty International negotiated the terms.
-
 
 ## **Later Years**
 
@@ -429,8 +398,7 @@ In 1989, Kutner gave his legal okay for using military force to bring Panamanian
 
 Not included in the article was any statement Kutner might have made about the human rights of the thousands of Panamanians injured and killed so that the U.S. government could "bring to justice" a former ally whose crimes they had studiously overlooked for over a decade.[^128] Maybe worth noting that another lawyer interviewed for the article did at least mention "human rights."
 
-
-## Conclusion
+## **Conclusion**
 
 Kutner's career is nothing if not contradictory. He worked with the mafia and with the FBI. He deplored groups who used violent rhetoric, but supported groups engaged in violent actions. He was deeply and publicly enmeshed in the far-right, but was regarded by many as a liberal.
 
@@ -440,8 +408,7 @@ Throwing around the name of the Central Intelligence Agency showed astonishingly
 
 Professor Kyle Burke, who studied the far-right networks which Kutner worked among in his book _Revolutionaries for the Right_, summed up his career this way:
 
-
-    He was an certainly an anti-communist, though I sense not as fervent as others in the American right with whom he worked.... He believed in human rights, but, like many on the right, he tended to think that it was only leftist governments that violated them.... I also sense that he was motivated by financial concerns as much—if not more than—political and ideological concerns. That, of course, is not uncommon for lawyers working in any field.[^130]
+> He was an certainly an anti-communist, though I sense not as fervent as others in the American right with whom he worked.... He believed in human rights, but, like many on the right, he tended to think that it was only leftist governments that violated them.... I also sense that he was motivated by financial concerns as much—if not more than—political and ideological concerns. That, of course, is not uncommon for lawyers working in any field.[^130]
 
 Though, undoubtedly, his overt work—freeing prisoners and giving liberal cover to right-wing groups—often proved effective, in his grander schemes and his covert efforts, Kutner seems mostly lonely and feckless.
 
@@ -449,7 +416,7 @@ Kutner passed away in 1993. His New York Times obituary was simply titled "Luis 
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+## **Notes**
 
 [^1]:
      James Litke. "The Springman Begs for Justice." The Honolulu Advertiser. 04 Sep 1983. Newspaper. [https://www.newspapers.com/clip/27138214/kutner_career/](https://www.newspapers.com/clip/27138214/kutner_career/)
