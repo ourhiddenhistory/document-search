@@ -1,8 +1,8 @@
 #!/bin/bash
 
 GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
-DOMAIN="ourhiddenhistory.org"
-CONFIG_FILE="_config.yml"
+DOMAIN="b.ourhiddenhistory.org"
+CONFIG_FILE="_config.stg.yml"
 
 if [ "${GIT_BRANCH}" == "master" ]
 then
