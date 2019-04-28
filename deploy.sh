@@ -20,6 +20,3 @@ ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no "mkdir -p /home2/use
 
 rsync -acrv --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
    ./_site/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search
-
- rsync -acrv --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
-    ./dist/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search/dist
