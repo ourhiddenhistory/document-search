@@ -19,7 +19,6 @@ class Listing {
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.img = this.getImgPath();
-    this.txt = this.getTxtPath();
     this.entry = hit._source.content;
   }
   /**
