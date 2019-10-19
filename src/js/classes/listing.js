@@ -25,7 +25,9 @@ class Listing {
    * @returns {String} group id
    */
   getGroupId() {
-    return this.id.slice(0, 3);
+    const regex = '([0-9a-zA-Z]+)-(.*)';
+    const group_id = this.id.match(regex)[1];
+    return group_id;
   }
   /**
    * @returns {String} document id
