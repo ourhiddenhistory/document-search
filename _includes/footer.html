@@ -29,12 +29,12 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.0/mark.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.20/jquery.zoom.js'></script>
   <script src="{{site.baseurl}}/dist/elasticsearch.jquery.js"></script>
-  <script src='{{site.baseurl}}/dist/index.js??{{randomNumber}}'></script>
   {% if page.name == 'documents-list.html' or page.name == 'index.html' %}
     <script>
       var docList = {{ site.data.DOCS_NOWRITE | jsonify }}
     </script>
   {% endif %}
+  <script src='{{site.baseurl}}/dist/index.js??{{randomNumber}}'></script>  
 
 </body>
 
