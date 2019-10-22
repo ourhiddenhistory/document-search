@@ -85,7 +85,6 @@ class Listing {
         source = true;
       }
       file = filterValue(collection.files, 'id', this.docId);
-      this.file = file;
       if (file && file.source) {
         [source] = file.source;
       }
