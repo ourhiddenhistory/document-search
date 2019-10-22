@@ -29,8 +29,6 @@ class Listing {
     try{
       const group_id = match[1];
     }catch(e) {
-      console.log(e);
-      console.log(match);
       return '000';
     }
     const group_id = match[1];
