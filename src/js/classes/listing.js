@@ -26,7 +26,15 @@ class Listing {
    */
   getGroupId() {
     const regex = '([0-9a-zA-Z]+)-(.*)';
-    const group_id = this.id.match(regex)[1];
+    const match = this.id.match(regex);
+    try{
+      const group_id = match[1];
+    }catch(e) {
+      console.log(e);
+      console.log(match);
+      return '000';
+    }
+    const group_id = match[1];
     return group_id;
   }
   /**
