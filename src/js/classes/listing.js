@@ -18,7 +18,6 @@ class Listing {
     this.docname = this.getDocName(doclist) || this.getDocId();
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
-    this.img = this.getImgPath();
     this.entry = hit._source.content;
   }
   /**
@@ -146,15 +145,6 @@ class Listing {
         source = `${source}#page=${this.page}`;
     }
     return source;
-  }
-  /**
-   * @returns {String} associated image path
-   */
-  getImgPath() {
-    const page = this.page.padStart(4, 0);
-    const host = 'https://doc-search.nyc3.digitaloceanspaces.com/docs_images/';
-    const src = `${this.groupId}/${this.groupId}-${this.docId}_${page}.png`;
-    return host + src;
   }
   /**
    * @param {Object} doclist full site document list
