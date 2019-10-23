@@ -114,3 +114,4 @@ gulp.task('watch', () => {
 gulp.task('default', ['buildDataFile', 'copy', 'copyImgs', 'copyHtaccessDev', 'css', 'js', 'jekyll', 'copySiteToWebRoot', 'watch']);
 gulp.task('build', ['buildDataFile', 'copy', 'css', 'js']);
 gulp.task('ciabase', ['buildDataFile', 'buildCIABASEindex', 'copy', 'copyImgs', 'copyHtaccessDev', 'css', 'js', 'jekyll', 'watch']);
+gulp.task('copySite', ['copySiteToWebRoot']);
