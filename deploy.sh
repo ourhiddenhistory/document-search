@@ -12,15 +12,15 @@ fi
 
 gulp build
 
-ls -lA /home/circleci/project
-ls -lA /home/circleci/project/_posts
-ls -lA /home/circleci/project/_data
+ls -lA ./
+ls -lA ./_posts
+ls -lA ./_data
 
 bundle exec jekyll build --config ${CONFIG_FILE}
 
-gulp copySiteToWebroot
+gulp copySiteToWebRoot
 
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 
 rsync -acrv --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
-   /home/circleci/project/html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search
+   ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search
