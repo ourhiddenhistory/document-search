@@ -16,7 +16,7 @@ ls ./_posts/
 
 bundle exec jekyll build --verbose --config ${CONFIG_FILE}
 
-gulp copySite
+gulp copySiteToWebroot
 
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 
