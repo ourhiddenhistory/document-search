@@ -6,7 +6,7 @@ RUN apt-get install -y git
 
 RUN apt-get install -y ruby-full
 
-RUN curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+RUN curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 RUN sudo apt-get install -y nodejs
 RUN nodejs -v
 
