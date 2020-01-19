@@ -14,6 +14,7 @@ gulp build
 
 ls ./_posts/
 
+cd html
 bundle exec jekyll build --verbose --config ${CONFIG_FILE}
 
 gulp copySiteToWebroot
