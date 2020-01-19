@@ -11,7 +11,7 @@ title: "Documents List"
     <p>Dates below are approximate and used for ordering. Included content may extend from before or after listed dates.</p>
 
     <div id="#accordion">
-      {% assign sorted_cols = site.data.DOCS_REFERENCE | sort:"date" %}
+      {% assign sorted_cols = site.data.DOCS_NOWRITE | sort:"date" %}
       {% for col in sorted_cols %}
 
         {% if col.hide != true %}
