@@ -13,13 +13,10 @@ class Listing {
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
-    this.pageNext = this.page + 1;
-    this.pagePrev = this.page - 1;
     this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
-    console.log('this', this);
   }
   /**
    * @returns {String} group id
