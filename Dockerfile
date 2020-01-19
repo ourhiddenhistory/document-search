@@ -1,4 +1,4 @@
-FROM php:7.2-apache
+FROM ubuntu-nginx-php
 
 RUN apt-get update
 
@@ -6,8 +6,8 @@ RUN apt-get install -y git
 
 RUN apt-get install -y ruby-full
 
-RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
-RUN apt-get install -y nodejs
+RUN curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+RUN sudo apt-get install -y nodejs
 RUN nodejs -v
 
 COPY package.json package-lock.json ./
