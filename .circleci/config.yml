@@ -16,6 +16,12 @@ jobs:
     steps:
       - checkout
       - run:
+          name: "Update Node"
+          command: |
+            curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+            apt-get install -y nodejs
+            nodejs -v
+      - run:
           name: Install rsync
           command: sudo apt install rsync
       # Restore local dependencies from cache
