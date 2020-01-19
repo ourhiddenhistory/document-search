@@ -13,26 +13,26 @@ class Listing {
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
-    this.pageNext = null;
-    this.pagePrev = null;
-    this.docname = this.getDocName(doclist) || this.getDocId();
+    this.pageNext = this.page + 1;
+    this.pagePrev = this.page - 1;
+    this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
+    console.log('this', this);
   }
   /**
    * @returns {String} group id
    */
   getGroupId() {
-    const regex = '([0-9a-zA-Z]+)-(.*)';
+    const regex = '([0-9a-zA-Z.]+)-(.*)';
     const match = this.id.match(regex);
-    try{
-      const group_id = match[1];
-    }catch(e) {
+    try {
+      const groupId = match[1];
+      return groupId;
+    } catch (e) {
       return '000';
     }
-    const group_id = match[1];
-    return group_id;
   }
   /**
    * @returns {String} document id
@@ -40,7 +40,6 @@ class Listing {
   getDocId() {
     const regex = new RegExp('(_[0-9]{1,4})$');
     let doc = this.id.replace(regex, '');
-    doc = doc.slice(4);
     return doc;
   }
   /**
@@ -49,7 +48,7 @@ class Listing {
   getPage() {
     const groupId = this.getGroupId();
     const docId = this.getDocId();
-    return this.id.replace(`${groupId}-${docId}_`, '');
+    return this.id.replace(`${docId}_`, '');
   }
   /**
    * @param {Object} doclist full site document list
@@ -143,24 +142,27 @@ class Listing {
     }
     return source;
   }
+
   /**
    * @param {Object} doclist full site document list
    * @returns {String} document name
    */
   getDocName(doclist) {
-    const docname = [];
+    let docname = [];
     const collection = filterValue(doclist, 'id', this.groupId);
     if (collection && collection.collection) {
       docname.push(collection.collection);
       if (collection.files) {
         const file = filterValue(collection.files, 'id', this.docId);
         if (file && file.doc_name) {
-          docname.push(file.doc_name);
+          docname.push(this.file.doc_name.replace(`${this.groupId}-`, ''));
         }
       }
+    }else{
+      docname.push(this.groupId);
     }
-    if (!this.docId.match(/^[0-9]{3}$/)) {
-      docname.push(this.docId);
+    if (docname.length == 1) {
+      docname.push(this.docId.replace(`${this.groupId}-`, ''));
     }
     return docname;
   }
