@@ -18,8 +18,8 @@ jobs:
       - run:
           name: "Update Node"
           command: |
-            curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-            apt-get install -y nodejs
+            curl -sSL "https://nodejs.org/dist/v11.10.0/node-v11.10.0-linux-x64.tar.xz" | sudo tar --strip-components=2 -xJ -C /usr/local/bin/ node-v11.10.0-linux-x64/bin/node
+            curl https://www.npmjs.com/install.sh | sudo bash
             nodejs -v
       - run:
           name: Install rsync
