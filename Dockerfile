@@ -1,4 +1,4 @@
-FROM ubuntu-nginx-php
+FROM circleci/ruby:2.6-node-browsers
 
 RUN apt-get update
 
@@ -15,4 +15,4 @@ RUN cd /var/www
 RUN mkdir html
 RUN npm install
 RUN npm install -g gulp-cli
-RUN gem install jekyll
+RUN gem install jekyll bundler
