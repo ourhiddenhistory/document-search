@@ -13,10 +13,12 @@ class Listing {
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
+    this.collection = this.getCollection(doclist);
     this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
+    console.log(this);
   }
   /**
    * @returns {String} group id
@@ -35,8 +37,10 @@ class Listing {
    * @returns {String} document id
    */
   getDocId() {
-    const regex = new RegExp('(_[0-9]{1,4})$');
-    let doc = this.id.replace(regex, '');
+    const groupRegex = new RegExp('^('+this.groupId+'-)');
+    const pageRegex = new RegExp('(_[0-9]{1,4})$');
+    let doc = this.id.replace(groupRegex, '');
+    doc = doc.replace(pageRegex, '');
     return doc;
   }
   /**
@@ -45,7 +49,7 @@ class Listing {
   getPage() {
     const groupId = this.getGroupId();
     const docId = this.getDocId();
-    return this.id.replace(`${docId}_`, '');
+    return this.id.replace(`${groupId}-${docId}_`, '');
   }
   /**
    * @param {Object} doclist full site document list
@@ -66,6 +70,16 @@ class Listing {
     }
     return type;
   }
+
+  getCollection(doclist){
+    let collection = filterValue(doclist, 'id', this.groupId);
+    console.log(collection);
+    if (collection && collection.collection) {
+      return collection.collection;
+    }
+    return this.groupId;
+  }
+
   /**
    * @param {Object} doclist full site document list
    * @returns {String} source url (if any, else FALSE)
@@ -144,23 +158,10 @@ class Listing {
    * @param {Object} doclist full site document list
    * @returns {String} document name
    */
-  getDocName(doclist) {
+  getDocName() {
     let docname = [];
-    const collection = filterValue(doclist, 'id', this.groupId);
-    if (collection && collection.collection) {
-      docname.push(collection.collection);
-      if (collection.files) {
-        const file = filterValue(collection.files, 'id', this.docId);
-        if (file && file.doc_name) {
-          docname.push(this.file.doc_name.replace(`${this.groupId}-`, ''));
-        }
-      }
-    }else{
-      docname.push(this.groupId);
-    }
-    if (docname.length == 1) {
-      docname.push(this.docId.replace(`${this.groupId}-`, ''));
-    }
+    docname.push(this.collection);
+    docname.push(this.docId);
     return docname;
   }
   /**

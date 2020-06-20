@@ -1,8 +1,10 @@
 # document-search
 
 - Clone the repository
-- `docker-compose up`
+- `cd html; ddev start`
 - `gulp`
+
+Site will be available at: [document-search.ddev.site]()
 
 `gulp default` command is used to build locally
 
