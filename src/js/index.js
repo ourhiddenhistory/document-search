@@ -52,15 +52,13 @@ let ajaxPage = null;
 
 let currentListing = null;
 function changePage(direction) {
-  console.log('currentListing', currentListing);
   let newPage = 0;
   if(direction == 'prev'){
     newPage = Number(currentListing.page) - 1;
   }else{
     newPage = Number(currentListing.page) + 1;
   }
-  newPage = currentListing.docId+'_'+newPage+'.txt';
-  console.log(newPage);
+  newPage = currentListing.groupId+'-'+currentListing.docId+'_'+newPage+'.txt';
   let lastPageContent = $('.entry-panel__content').html();
   getPage(newPage, lastPageContent);
   $('.entry-panel__content').html('LOADING...');
@@ -73,7 +71,6 @@ function changePage(direction) {
  */
 function getPage(page, lastPageContent, setToImage) {
 
-  console.log(ajaxPage)
   if (ajaxPage != null){
     ajaxPage.abort();
   }
