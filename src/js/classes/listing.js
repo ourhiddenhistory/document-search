@@ -148,6 +148,9 @@ class Listing {
       case 'militant':
         source = `https://www.marxists.org/history/etol/newspape/themilitant/${this.docId.match(/.*-([0-9]{4})-mil/)[1]}/${this.docId}.pdf#page=${this.page}`;
         break;
+      case 'adst':
+        source = `https://adst.org/wp-content/uploads/${this.docId}#page=${this.page}`;
+        break;
       default:
         source = `${source}#page=${this.page}`;
     }
