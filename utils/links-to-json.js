@@ -42,14 +42,18 @@ if (NAMES_INPUT) {
 const storeArr = [];
 lines.forEach((el, i) => {
 	const lastPart = el.split('/');
+  lastPart[lastPart.length-1];
   const obj = {
-		id: lastPart[lastPart.length-1],
-		source: `${el}`,
+		id: lastPart[lastPart.length-1].replace('.pdf', ''),
+		source: `${el.replace('https://www.adst.org/', '').replace('wp-content/uploads/', '')}`,
+    doc_name: lastPart[lastPart.length-1].replace(/%20/g, '').replace(/-/g, '').replace('.pdf', '').replace('.toc', '').replace(/\./g, '').replace(/([A-Z])/g, ' $1').trim()
   };
   if (NAMES_INPUT) {
     obj.doc_name = docNames[i]
       .trim()
-      .replace('_', ' ')
+      .replace('.pdf', '')
+      .replace('.toc', ' ')
+      .replace(/([A-Z])/g, ' $1').trim()
       .replace(/\s\s+/g, ' ');
   }
   storeArr.push(obj);
