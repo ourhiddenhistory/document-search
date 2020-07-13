@@ -150,6 +150,9 @@ class Listing {
         break;
       case 'adst':
         source = `https://adst.org/wp-content/uploads/${this.source}#page=${this.page}`;
+        if(this.source.includes("OH TOCs/")){
+          source = `https://adst.org/${this.source}#page=${this.page}`;
+        }
         break;
       default:
         source = `${source}#page=${this.page}`;
