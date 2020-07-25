@@ -1,0 +1,12 @@
+{
+  "id": "UsSenateOralHistories",
+  "shortname": "us-senate-oral-histories",
+  "collection": "United States Senate Oral Histories",
+  "alt_names": [],
+  "date": "Various",
+  "important": "",
+  "description": "Since 1976 the Senate Historical Office has <a href='https://www.senate.gov/history/OralHistoryList.htm'>interviewed</a> long-time staff and senators. These interviews cover the breadth of the 20th century and now the 21st century, and include a diverse group of personalities who witnessed events first-hand.",
+  "source": false,
+  "type": "UsSenateOralHistories",
+  "files": []
+}
