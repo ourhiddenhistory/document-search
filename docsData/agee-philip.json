@@ -6,7 +6,6 @@
   "date": "1974",
   "description": "",
   "source": "https://archive.org/details/nsia-AgeePhilip",
-  "type": "archive",
   "comments": "001 to 035 removed. Redundant w/ completion of Weisberg archive.",
   "files": [
     {
@@ -42,12 +41,12 @@
     {
       "id": "agee-whitewash",
       "doc_name": "Whitepaper / Whitewash: Interviews with Philip Agee on the CIA and El Salvador",
-      "-source": ""
+      "source": false
     },
     {
       "id": "on-the-run",
       "doc_name": "On the Run",
-      "-source": ""
+      "source": false      
     }
   ]
 }
