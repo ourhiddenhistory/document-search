@@ -60,7 +60,9 @@ gulp.task('copyHtaccessDev', () =>
     .pipe(gulp.dest(DIST_DIR)));
 
 gulp.task('jekyll', () => {
-  const jekyll = child.spawn('jekyll', [
+  const jekyll = child.spawn('bundle', [
+    'exec',
+    'jekyll',
     'build',
     '--config',
     '_config.dev.yml',
