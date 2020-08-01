@@ -14,6 +14,7 @@
     this.docId = this.getDocId();
     this.page = this.getPage();
     this.collection = this.getCollection(doclist);
+    this.sourceName = this.getSourceName(doclist);
     this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
@@ -77,6 +78,24 @@
       return collection.collection;
     }
     return this.groupId;
+  }
+
+  /**
+   * @param {Object} doclist full site document list
+   * @returns {String} source name if it exists, or else docId
+   */
+  getSourceName(doclist) {
+    let source_name = false;
+    let file = {};
+    let collection = filterValue(doclist, 'id', this.groupId);
+    if (collection && collection.files) {
+      file = filterValue(collection.files, 'id', this.docId);
+      if (file && file.doc_name) {
+        console.log(file.doc_name);
+        source_name = file.doc_name;
+      }
+    }
+     return (source_name ? source_name : this.docId);
   }
 
   /**
@@ -173,7 +192,7 @@
   getDocName() {
     let docname = [];
     docname.push(this.collection);
-    docname.push(this.docId);
+    docname.push(this.sourceName);
     return docname;
   }
   /**
