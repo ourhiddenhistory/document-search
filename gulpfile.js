@@ -115,3 +115,4 @@ exports.copy = copy;
 exports.copyImages = copyImages;
 exports.copyHtaccessDev = copyHtaccessDev;
 exports.watch = watch;
+exports.copySiteToWebRoot = copySiteToWebRoot;
