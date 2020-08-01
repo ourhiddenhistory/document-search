@@ -172,6 +172,9 @@
       case 'militant':
         source = `https://www.marxists.org/history/etol/newspape/themilitant/${this.docId.match(/.*-([0-9]{4})-mil/)[1]}/${this.docId}.pdf#page=${this.page}`;
         break;
+      case 'fbi-jones':
+        source = `https://vault.fbi.gov/jonestown/${this.docId}#page=${this.page}`;
+        break;
       case 'adst':
         source = `https://adst.org/wp-content/uploads/${this.source}#page=${this.page}`;
         if(source.includes("OH TOCs/")){
