@@ -1,7 +1,7 @@
 /**
  * Class representing a single search result.
  */
-class Listing {
+ class Listing {
   /**
    * @param {Object} hit - single elasticsearch hit
    * @param {Object} doclist - document list
@@ -18,7 +18,7 @@ class Listing {
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
-    console.log(this);
+    console.log('listing', this);
   }
   /**
    * @returns {String} group id
@@ -73,7 +73,6 @@ class Listing {
 
   getCollection(doclist){
     let collection = filterValue(doclist, 'id', this.groupId);
-    console.log(collection);
     if (collection && collection.collection) {
       return collection.collection;
     }
@@ -88,16 +87,22 @@ class Listing {
     let source = false;
     let file = {};
     let collection = filterValue(doclist, 'id', this.groupId);
+    console.log('collection', collection);
     if (collection && collection.files) {
-      if (collection.source) {
-        source = true;
-      }
+      // if (collection.source) {
+      //   source = true;
+      // }
       file = filterValue(collection.files, 'id', this.docId);
       if (file && file.source) {
         source = file.source;
       }
     }
-    this.source = source;
+
+    if(!source){
+      this.source = source;
+      return source;
+    }
+
     this.type = this.getSourceType(doclist);
     switch (this.type) {
       case 'archive':
@@ -157,6 +162,7 @@ class Listing {
       default:
         source = `${source}#page=${this.page}`;
     }
+    this.source = source;
     return source;
   }
 
