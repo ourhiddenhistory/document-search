@@ -479,7 +479,6 @@
     "date": "1974",
     "description": "",
     "source": "https://archive.org/details/nsia-AgeePhilip",
-    "type": "archive",
     "comments": "001 to 035 removed. Redundant w/ completion of Weisberg archive."
   },
   {
@@ -1012,5 +1011,49 @@
     "important": "In progress",
     "source": "https://archive.org/details/lazarfoia",
     "type": "archive-b"
+  },
+  {
+    "id": "111",
+    "shortname": "ciabase",
+    "collection": "Ralph McGehee's CIABASE",
+    "alt_names": [],
+    "date": "1996",
+    "important": "",
+    "description": "The 36,000 entries from the 1996 version of a database created by CIA whistleblower Ralph McGehee. Pulled from CD-ROM at library of Denver University. Original files can be found <a href=\"https://github.com/ourhiddenhistory/CIABASE/\">here<a/>.",
+    "source": false,
+    "type": "txt"
+  },
+  {
+    "id": "UsHouseOralHistories",
+    "shortname": "us-house-oral-histories",
+    "collection": "United States House of Representatives Oral Histories",
+    "alt_names": [],
+    "date": "Various",
+    "important": "",
+    "description": "From the US House of Representatives website: \"List of the available <a href='https://history.house.gov/Oral-History/Transcripts/Index/'>interview transcripts</a> for the Office of the Historian's oral history program.\"",
+    "source": false,
+    "type": "UsHouseOralHistories"
+  },
+  {
+    "id": "UsSenateOralHistories",
+    "shortname": "us-senate-oral-histories",
+    "collection": "United States Senate Oral Histories",
+    "alt_names": [],
+    "date": "Various",
+    "important": "",
+    "description": "From the US Senate website: \"Since 1976 the Senate Historical Office has <a href='https://www.senate.gov/history/OralHistoryList.htm'>interviewed</a> long-time staff and senators. These interviews cover the breadth of the 20th century and now the 21st century, and include a diverse group of personalities who witnessed events first-hand.\"",
+    "source": false,
+    "type": "UsSenateOralHistories"
+  },
+  {
+    "id": "adst",
+    "shortname": "adst",
+    "collection": "Association for Diplomatic Studies & Training Oral Histories",
+    "alt_names": [],
+    "date": "1960",
+    "description": "In depth oral histories by US State Department officers.",
+    "important": "",
+    "source": "https://adst.org/wp-content/uploads",
+    "type": "adst"
   }
 ]
