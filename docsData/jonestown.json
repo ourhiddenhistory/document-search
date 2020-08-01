@@ -4,10 +4,8 @@
   "collection": "People's Temple, Jim Jones, and Jonestown",
   "alt_names": [],
   "date": "1978",
-  "description": "FBI files and congressional reports",
+  "description": "FBI files, State Department files, and congressional reports. Thanks to <a href=\"https://twitter.com/LLinecook\">LeninistLinecook</a> for sharing the majority of these documents.",
   "important": "",
-  "source": "",
-  "type": "",
-  "files": [
-  ]
+  "source": "https://vault.fbi.gov/jonestown",
+  "type": "fbi-jones"
 }
