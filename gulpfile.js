@@ -21,8 +21,10 @@ const SITE_DIR = 'html/doc-search';
 const DIST_DIR = 'html/doc-search/dist';
 
 
-function buildDataFile(){
-    return run('npm run buildDataFile').exec();
+function buildDataFile(code){
+  return child.spawn('node', ['utils/buildDataFile.js'], { stdio: 'inherit' }) // Adding incremental reduces build time.
+    .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
+    .on('close', code);
 }
 
 function css(){
@@ -69,14 +71,6 @@ function copyHtaccessDev(){
 function buildJekyll() {
   return child.spawn( 'bundle' , ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
 }
-
-// function buildJekyll(cb){
-//   child.exec('bundle exec jekyll build --config _config.dev.yml --watch --incremental --drafts', function(err, stdout, stderr) {
-//     console.log(stdout);
-//     console.log(stderr);
-//     cb(err);
-//   });
-// }
 
 function copySiteToWebRoot(){
   return gulp.src(['_site/*'])
