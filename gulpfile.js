@@ -16,104 +16,102 @@ const scssFiles = 'src/sass/**/*.scss';
 const jsFiles = ['src/js/classes/*.js', 'src/js/index.js'];
 const dataFiles = '_data/**/*.json';
 
+const BASE_DIR = 'html';
 const SITE_DIR = 'html/doc-search';
 const DIST_DIR = 'html/doc-search/dist';
 
-// use gulp-run to start a pipeline
-gulp.task('buildDataFile', () => run('npm run buildDataFile').exec());
 
-gulp.task('css', () => {
-  gulp.src(scssFiles)
+function buildDataFile(){
+    return run('npm run buildDataFile').exec();
+}
+
+function css(){
+  return gulp.src(scssFiles)
     .pipe(sass().on('error', sass.logError))
     .pipe(concat('style.css'))
     .pipe(autoprefixer({
       browsers: ['last 8 versions'],
-      cascade: false,
+      cascade: false
     }))
     .pipe(cssnano())
     .pipe(gulp.dest(DIST_DIR));
-});
+}
 
-gulp.task('js', () =>
-  gulp.src(jsFiles)
+function js(){
+  return gulp.src(jsFiles)
     .pipe(concat('index.js'))
     .pipe(babel({
-      presets: ['env'],
+      presets: ['env']
     }))
     .pipe(uglify())
-    .pipe(gulp.dest(DIST_DIR)));
+    .pipe(gulp.dest(DIST_DIR));
+}
 
-gulp.task('copy', () =>
-  gulp.src([
+function copy(){
+  return gulp.src([
     'node_modules/requirejs/require.js',
     'node_modules/elasticsearch-browser/elasticsearch.jquery.js',
-    'node_modules/lunr/lunr.js',
-  ]).pipe(gulp.dest(DIST_DIR)));
+    'node_modules/lunr/lunr.js'
+  ]).pipe(gulp.dest(DIST_DIR));
+}
 
-gulp.task('copyImgs', () =>
-  gulp.src(['src/img/**/*'])
-    .pipe(gulp.dest(`${DIST_DIR}/img`)));
+function copyImages(){
+  return gulp.src(['src/img/**/*'])
+    .pipe(gulp.dest(`${DIST_DIR}/img`));
+}
 
-gulp.task('copyHtaccessDev', () =>
-  gulp.src(['.htaccess.dev'])
+function copyHtaccessDev(){
+  return gulp.src(['.htaccess.dev'])
     .pipe(rename('.htaccess'))
-    .pipe(gulp.dest(DIST_DIR)));
+    .pipe(gulp.dest(BASE_DIR));
+}
 
-gulp.task('jekyll', () => {
-  const jekyll = child.spawn('bundle', [
-    'exec',
-    'jekyll',
-    'build',
-    '--config',
-    '_config.dev.yml',
-    '--watch',
-    '--incremental',
-    '--drafts',
-  ]);
+function buildJekyll() {
+  return child.spawn( 'bundle' , ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
+}
 
-  const jekyllLogger = (buffer) => {
-    buffer.toString()
-      .split(/\n/)
-      .forEach(message => gutil.log(`Jekyll: ${message}`));
-  };
+// function buildJekyll(cb){
+//   child.exec('bundle exec jekyll build --config _config.dev.yml --watch --incremental --drafts', function(err, stdout, stderr) {
+//     console.log(stdout);
+//     console.log(stderr);
+//     cb(err);
+//   });
+// }
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
-});
+function copySiteToWebRoot(){
+  return gulp.src(['_site/*'])
+    .pipe(gulp.dest(`${SITE_DIR}/`));
+}
 
-gulp.task('buildCIABASEindex', function () {
+function watch(){
+  gulp.watch(scssFiles, gulp.series(css))
+  gulp.watch(jsFiles, gulp.series(js))
+  gulp.watch(
+    [
+    '*.html',
+    '_layouts/*.html',
+    '_pages/*',
+    '_posts/*',
+    '_data/*',
+    '_includes/*'
+  ],
+  gulp.series(buildJekyll));
+}
 
-  const raw = fs.readFileSync('CIABASE.json', 'utf8');
-  const documents = JSON.parse(raw);
+// define complex tasks
+const main = gulp.series(buildDataFile, copy, copyImages, copyHtaccessDev, css, js, buildJekyll, copySiteToWebRoot, watch);
+const build = gulp.series(buildDataFile, copy, css, js);
+const copySite = gulp.series(copySiteToWebRoot);
 
-  const idx = lunr(function () {
-    this.ref('id');
-    this.field('entry');
-    this.field('source');
-    this.metadataWhitelist = ['position']
-    documents.forEach(function (doc) {
-      this.add(doc);
-    }, this);
-  });
-  fs.writeFile('CIABASEindex.json', JSON.stringify(idx), (err) => {
-    if (err) {
-      return console.log(err);
-    }
-    return err;
-  });
-});
-
-gulp.task('copySiteToWebRoot', () =>
-  gulp.src(['_site/*'])
-    .pipe(gulp.dest(`${SITE_DIR}/`)));
-
-gulp.task('watch', () => {
-  gulp.watch(scssFiles, ['css', 'jekyll']);
-  gulp.watch(jsFiles, ['js', 'jekyll']);
-  gulp.watch(dataFiles, ['jekyll']);
-});
-
-gulp.task('default', ['buildDataFile', 'copy', 'copyImgs', 'copyHtaccessDev', 'css', 'js', 'jekyll', 'copySiteToWebRoot', 'watch']);
-gulp.task('build', ['buildDataFile', 'copy', 'css', 'js']);
-gulp.task('ciabase', ['buildDataFile', 'buildCIABASEindex', 'copy', 'copyImgs', 'copyHtaccessDev', 'css', 'js', 'jekyll', 'watch']);
-gulp.task('copySite', ['copySiteToWebRoot']);
+// export tasks
+exports.buildDataFile = buildDataFile;
+exports.css = css;
+exports.js = js;
+exports.copySite = copySite;
+exports.buildJekyll = buildJekyll;
+exports.build = build;
+exports.default = main;
+exports.copy = copy;
+exports.copyImages = copyImages;
+exports.copyHtaccessDev = copyHtaccessDev;
+exports.watch = watch;
