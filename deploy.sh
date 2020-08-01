@@ -4,22 +4,33 @@ GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 DOMAIN="b.ourhiddenhistory.org"
 CONFIG_FILE="_config.stg.yml"
 
-if [ "${GIT_BRANCH}" == "master" ]
+if [ "${GIT_BRANCH}" == "main" ]
 then
   DOMAIN="ourhiddenhistory.org"
   CONFIG_FILE="_config.yml"
 fi
 
+echo "Deploying..."
+echo "    Branch: ${GIT_BRANCH}"
+echo "    To domain: ${DOMAIN}"
+echo "    Using config: ${CONFIG_FILE}"
+
+echo "PRE-BUILD"
+ls -lA index.html _data
+
+echo "RUNNING gulp build..."
 gulp build
 
-ls -lA ./
-ls -lA ./_posts
-ls -lA ./_data
-
+echo "RUNNING bundle exec jekyll build --config ${CONFIG_FILE}..."
 bundle exec jekyll build --config ${CONFIG_FILE}
 
+echo "RUNNING gulp copySiteToWebRoot..."
 gulp copySiteToWebRoot
 
+echo "POST-BUILD"
+ls -lA index.html _data
+
+echo "RSYNCING TO ${DOMAIN}"
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no \
    "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 

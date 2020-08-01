@@ -44,7 +44,7 @@ jobs:
               - dist
       - run:
           name: Install Jekyll
-          command: gem install bundler:2.1.4 && gem install jekyll
+          command: gem install bundler:2.1.4 && gem install jekyll && bundle install
       - deploy:
           name: Deploy
           command: ./deploy.sh
