@@ -131,7 +131,7 @@ import ExtractSentences from './extractsentences.js';
         source = `${source}#page/n${this.page}`;
         break;
       case 'archive-b':
-        source = `https://archive.org/stream/${source}#page/n${this.page}`;
+        source = `https://archive.org/stream/${source}/page/n${this.page}/mode/1up`;
         break;
       case 'reagan':
         source = `https://www.reaganlibrary.gov/${source}.pdf#page=${this.page}`;
