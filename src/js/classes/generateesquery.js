@@ -1,5 +1,5 @@
 /** class to assist in building elastic search queries */
-class GenerateEsQuery {
+export default class GenerateEsQuery {
   /**
    * Create a point.
    * @param {String} stringInput - user search string.

@@ -1,7 +1,10 @@
+import * as Utils from './utils.js';
+import ExtractSentences from './extractsentences.js';
+
 /**
  * Class representing a single search result.
  */
- class Listing {
+ export default class Listing {
   /**
    * @param {Object} hit - single elasticsearch hit
    * @param {Object} doclist - document list
@@ -59,12 +62,12 @@
   getSourceType(doclist) {
     let type = false;
     let file = {};
-    const collection = filterValue(doclist, 'id', this.groupId);
+    const collection = Utils.filterValue(doclist, 'id', this.groupId);
     if (collection && collection.files) {
       if (collection.type) {
         type = collection.type;
       }
-      file = filterValue(collection.files, 'id', this.docId);
+      file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.type) {
         type = file.type;
       }
@@ -73,7 +76,7 @@
   }
 
   getCollection(doclist){
-    let collection = filterValue(doclist, 'id', this.groupId);
+    let collection = Utils.filterValue(doclist, 'id', this.groupId);
     if (collection && collection.collection) {
       return collection.collection;
     }
@@ -87,9 +90,9 @@
   getSourceName(doclist) {
     let source_name = false;
     let file = {};
-    let collection = filterValue(doclist, 'id', this.groupId);
+    let collection = Utils.filterValue(doclist, 'id', this.groupId);
     if (collection && collection.files) {
-      file = filterValue(collection.files, 'id', this.docId);
+      file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.doc_name) {
         console.log(file.doc_name);
         source_name = file.doc_name;
@@ -105,13 +108,13 @@
   getSourceUrl(doclist) {
     let source = false;
     let file = {};
-    let collection = filterValue(doclist, 'id', this.groupId);
+    let collection = Utils.filterValue(doclist, 'id', this.groupId);
     console.log('collection', collection);
     if (collection && collection.files) {
       // if (collection.source) {
       //   source = true;
       // }
-      file = filterValue(collection.files, 'id', this.docId);
+      file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.source) {
         source = file.source;
       }
