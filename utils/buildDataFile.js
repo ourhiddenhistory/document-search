@@ -6,6 +6,7 @@
 
 const fs = require('fs');
 const glob = require('glob-fs')({ gitignore: true });
+const jsonlint = require("jsonlint");
 
 const compare = (a, b) => {
   if (a.id < b.id) {
@@ -23,7 +24,6 @@ const OUTPUT_REFERENCE = '_data/DOCS_REFERENCE.json';
 const files = glob.readdirSync(`${INPUT}*.json`, { cwd: '.' });
 let data = [];
 
-
 // Write full file
 data = [];
 files.forEach((el) => {
@@ -39,6 +39,7 @@ fs.writeFileSync(OUTPUT_FULL, JSON.stringify(data, null, 2));
 data = [];
 files.forEach((el) => {
   const fileContents = fs.readFileSync(el, 'utf8');
+  jsonlint.parse(fileContents);
   const collection = JSON.parse(fileContents);
   delete collection.files;
   data.push(collection);

@@ -4,7 +4,7 @@
 	"license": "ISC",
 	"private": true,
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
+		"test": "mocha",
 		"build": "webpack"
 	},
 	"dependencies": {
@@ -12,6 +12,7 @@
 		"elasticsearch": "^15.5.0",
 		"elasticsearch-browser": "^14.2.2",
 		"glob-fs": "^0.1.7",
+		"jsonlint": "^1.6.3",
 		"lunr": "^2.3.8",
 		"natives": "^1.1.6",
 		"npm": "^6.14.7",
