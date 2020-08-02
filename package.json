@@ -8,19 +8,16 @@
 		"build": "webpack"
 	},
 	"dependencies": {
-		"autolinker": "^1.7.1",
-		"elasticsearch": "^15.1.1",
+		"autolinker": "^1.8.3",
+		"elasticsearch": "^15.5.0",
 		"elasticsearch-browser": "^14.2.2",
 		"glob-fs": "^0.1.7",
-		"gulp-es6-module-bundler": "^0.1.0",
-		"gulp-rename": "^1.4.0",
-		"gulp-run": "^1.7.1",
-		"lunr": "^2.3.5",
+		"lunr": "^2.3.8",
 		"natives": "^1.1.6",
-		"npm": "^6.14.6",
+		"npm": "^6.14.7",
 		"pump": "^3.0.0",
 		"requirejs": "^2.3.6",
-		"string.prototype.padstart": "^3.0.0",
+		"string.prototype.padstart": "^3.1.0",
 		"yaml-import": "^0.2.3"
 	},
 	"devDependencies": {
@@ -42,12 +39,11 @@
 		"gulp-rollup": "^2.17.0",
 		"gulp-sass": "^3.2.1",
 		"gulp-sourcemaps": "^2.6.5",
-		"gulp-uglify": "^3.0.1",
+		"gulp-uglify": "^3.0.2",
 		"gulp-util": "^3.0.8",
+		"gulp-rename": "^1.4.0",
+		"gulp-run": "^1.7.1",
 		"mocha": "^8.1.0",
-		"sass": "^4.0.0",
-		"sass-loader": "^7.3.1",
-		"style-loader": "^1.2.1",
 		"vinyl-buffer": "^1.0.1",
 		"vinyl-source-stream": "^2.0.0"
 	}
