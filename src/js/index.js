@@ -1,3 +1,10 @@
+import Listing from './classes/listing.js';
+import ExtractSentences from './classes/extractsentences.js';
+import GenerateEsQuery from './classes/generateesquery.js';
+import * as Utils from './classes/utils.js';
+
+String.prototype.lpad = Utils.lpad;
+
 const client = new $.es.Client({
   hosts: 'https://api.ourhiddenhistory.org',
 });

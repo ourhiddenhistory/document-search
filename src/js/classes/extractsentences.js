@@ -15,7 +15,7 @@
  * Text files:
  * http://www.textfiles.com/etext/AUTHORS/SHAKESPEARE/
  */
-class ExtractSentences {
+export default class ExtractSentences {
   /**
    * @param {String} text - block of text
    * @param {String} search - extract sentences containing this text
