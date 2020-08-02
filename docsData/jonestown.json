@@ -4,8 +4,65 @@
   "collection": "People's Temple, Jim Jones, and Jonestown",
   "alt_names": [],
   "date": "1978",
-  "description": "FBI files, State Department files, and congressional reports. Thanks to <a href=\"https://twitter.com/LLinecook\">LeninistLinecook</a> for sharing the majority of these documents.",
+  "description": "FBI files, State Department files, and congressional reports. Thanks to <a href=\"https://twitter.com/LLinecook\">LeninistLinecook</a> and <a href=\"https://jonestown.sdsu.edu/\">jonestown.sdsu.edu</a> for sharing a large part of these documents.",
   "important": "",
-  "source": "https://vault.fbi.gov/jonestown",
-  "type": "fbi-jones"
+  "source": "",
+  "type": "fbi-jones",
+  "files": [
+    {
+      "id": "The_Penal_Colony",
+      "doc_name": "The Penal Colony",
+      "source": "the-penal-colony_jonestown",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 1-1000",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 1)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 1001-2000",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 2)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 2001-3000",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 3)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 3001-4000",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 4)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 4001-5000",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 5)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "Fielding McGehee - 8002844-working 5001-6032",
+      "doc_name": "State Department documents related Jonestown, Guyana (Part 6)",
+      "source": "",
+      "type": "archive-b"
+    },
+    {
+      "id": "07-13-hearings80",
+      "doc_name": "REVIEW OF THE IMPLEMENTATION OF RECOMMENDA­ TIONS RELATING TO THE DEATH OF REPRESENTATIVE
+LEO J. RYAN",
+      "source": "jonestown-congressional-hearings/07-13-hearings80",
+      "type": "archive-b"
+    },
+    {
+      "id": "Assassination-of-Leo-Ryan-and-Jonestown-Tragedy",
+      "doc_name": "THE ASSASSINATION OF REPRESENTATIVE LEO J. RYAN AND THE JONESTOWN, GUYANA TRAGEDY",
+      "source": "jonestown-congressional-hearings/Assassination-of-Leo-Ryan-and-Jonestown-Tragedy",
+      "type": "archive-b"
+    }
+  ]
 }
