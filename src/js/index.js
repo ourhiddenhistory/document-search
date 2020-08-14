@@ -399,3 +399,15 @@ $('[data-toggle="tooltip"]').tooltip();
  * pan/zoom
  */
 $('.entry-panel__content--entry').zoom({ on: 'click' });
+
+/**
+ * Raw entry data modal
+ */
+$('.toolbar-entry__modal-entry-data').on('click', function(){
+  const cloneListing = Object.assign({}, currentListing);
+  delete cloneListing.entry;
+  delete cloneListing.searched;  
+  var prettyPrint = JSON.stringify(cloneListing, null, 2);
+  $('.modal-entry-data .modal-body').html(`<pre>${prettyPrint}</pre>`);
+  $('.modal-entry-data').modal('toggle');
+});
