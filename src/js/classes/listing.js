@@ -106,14 +106,14 @@ import ExtractSentences from './extractsentences.js';
    * @returns {String} source url (if any, else FALSE)
    */
   getSourceUrl(doclist) {
-    let source = false;
+    let source = null;
     let file = {};
     let collection = Utils.filterValue(doclist, 'id', this.groupId);
     console.log('collection', collection);
     if (collection && collection.files) {
-      // if (collection.source) {
-      //   source = true;
-      // }
+      if (collection.source) {
+        source = collection.source;
+      }
       file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.source) {
         source = file.source;
@@ -121,7 +121,7 @@ import ExtractSentences from './extractsentences.js';
     }
 
     if(!source){
-      this.source = source;
+      this.source = false;
       return source;
     }
 
