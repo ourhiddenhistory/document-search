@@ -179,9 +179,9 @@ import ExtractSentences from './extractsentences.js';
         source = `https://vault.fbi.gov/jonestown/${this.docId}#page=${this.page}`;
         break;
       case 'adst':
-        source = `https://adst.org/wp-content/uploads/${this.source}#page=${this.page}`;
+        source = `https://adst.org/wp-content/uploads/${source}#page=${this.page}`;
         if(source.includes("OH TOCs/")){
-          source = `https://adst.org/${this.source}#page=${this.page}`;
+          source = `https://adst.org/${åsource}#page=${this.page}`;
         }
         break;
       default:
