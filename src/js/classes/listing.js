@@ -94,7 +94,6 @@ import ExtractSentences from './extractsentences.js';
     if (collection && collection.files) {
       file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.doc_name) {
-        console.log(file.doc_name);
         source_name = file.doc_name;
       }
     }
@@ -109,7 +108,6 @@ import ExtractSentences from './extractsentences.js';
     let source = null;
     let file = {};
     let collection = Utils.filterValue(doclist, 'id', this.groupId);
-    console.log('collection', collection);
     if (collection && collection.files) {
       if (collection.source) {
         source = collection.source;
@@ -128,10 +126,10 @@ import ExtractSentences from './extractsentences.js';
     this.type = this.getSourceType(doclist);
     switch (this.type) {
       case 'archive':
-        source = `${source}#page/n${this.page}`;
+        source = `${source}#page/n${this.page}/mode/1up`;
         break;
       case 'archive-b':
-        source = `https://archive.org/stream/${source}#page/n${this.page}`;
+        source = `https://archive.org/stream/${source}#page/n${this.page}/mode/1up`;
         break;
       case 'reagan':
         source = `https://www.reaganlibrary.gov/${source}.pdf#page=${this.page}`;
@@ -179,9 +177,10 @@ import ExtractSentences from './extractsentences.js';
         source = `https://vault.fbi.gov/jonestown/${this.docId}#page=${this.page}`;
         break;
       case 'adst':
-        source = `https://adst.org/wp-content/uploads/${source}#page=${this.page}`;
         if(source.includes("OH TOCs/")){
-          source = `https://adst.org/${åsource}#page=${this.page}`;
+          source = `https://adst.org/${source}#page=${this.page}`;
+        }else{
+          source = `https://adst.org/wp-content/uploads/${source}#page=${this.page}`;
         }
         break;
       default:
