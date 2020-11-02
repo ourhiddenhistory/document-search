@@ -1,0 +1,163 @@
+{
+  "id": "sof",
+  "shortname": "sof",
+  "collection": "Collection of Soldier of Fortune magazines",
+  "alt_names": [],
+  "date": "1975",
+  "source": "https://archive.org/details/SoFjune1979Ocr_201807/SoF%201975-Summer%20%28Issue%201%29-ocr",
+  "description": "Small collection of Soldier of Fortune magazines from archive.org. The scans are not the best but much is legible to the ocr.",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "SoF 1975-Summer (Issue 1)-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1975-Summer (Issue 1)-ocr",
+      "doc_name": "SoF 1975 Summer (Issue 1) ocr"
+    },
+    {
+      "id": "SoF 1977-Spring-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1977-Spring-ocr",
+      "doc_name": "SoF 1977 Spring ocr"
+    },
+    {
+      "id": "SoF 1978-01-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1978-01-ocr",
+      "doc_name": "SoF 1978 01 ocr"
+    },
+    {
+      "id": "SoF 1978-03-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1978-03-ocr",
+      "doc_name": "SoF 1978 03 ocr"
+    },
+    {
+      "id": "SoF 1978-07-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1978-07-ocr",
+      "doc_name": "SoF 1978 07 ocr"
+    },
+    {
+      "id": "SoF 1979-01-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-01-ocr",
+      "doc_name": "SoF 1979 01 ocr"
+    },
+    {
+      "id": "SoF 1979-02-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-02-ocr",
+      "doc_name": "SoF 1979 02 ocr"
+    },
+    {
+      "id": "SoF 1979-08-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-08-ocr",
+      "doc_name": "SoF 1979 08 ocr"
+    },
+    {
+      "id": "SoF 1979-09-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-09-ocr",
+      "doc_name": "SoF 1979 09 ocr"
+    },
+    {
+      "id": "SoF 1979-10-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-10-ocr",
+      "doc_name": "SoF 1979 10 ocr"
+    },
+    {
+      "id": "SoF 1979-11-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-11-ocr",
+      "doc_name": "SoF 1979 11 ocr"
+    },
+    {
+      "id": "SoF 1979-12-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1979-12-ocr",
+      "doc_name": "SoF 1979 12 ocr"
+    },
+    {
+      "id": "SoF 1980-03-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-03-ocr",
+      "doc_name": "SoF 1980 03 ocr"
+    },
+    {
+      "id": "SoF 1980-04-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-04-ocr",
+      "doc_name": "SoF 1980 04 ocr"
+    },
+    {
+      "id": "SoF 1980-05-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-05-ocr",
+      "doc_name": "SoF 1980 05 ocr"
+    },
+    {
+      "id": "SoF 1980-06-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-06-ocr",
+      "doc_name": "SoF 1980 06 ocr"
+    },
+    {
+      "id": "SoF 1980-07-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-07-ocr",
+      "doc_name": "SoF 1980 07 ocr"
+    },
+    {
+      "id": "SoF 1980-08-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-08-ocr",
+      "doc_name": "SoF 1980 08 ocr"
+    },
+    {
+      "id": "SoF 1980-10-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-10-ocr",
+      "doc_name": "SoF 1980 10 ocr"
+    },
+    {
+      "id": "SoF 1980-11-ocr",
+      "source": "SoFjune1979Ocr_201807/SoF 1980-11-ocr",
+      "doc_name": "SoF 1980 11 ocr"
+    },
+    {
+      "id": "SoFSep1980-ocr-opt",
+      "source": "SoFjune1979Ocr_201807/SoFSep1980-ocr-opt",
+      "doc_name": "SoFSep1980 ocr opt"
+    },
+    {
+      "id": "Sof1980-12-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1980-12-ocr",
+      "doc_name": "Sof1980 12 ocr"
+    },
+    {
+      "id": "Sof1981-01-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-01-ocr",
+      "doc_name": "Sof1981 01 ocr"
+    },
+    {
+      "id": "Sof1981-02-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-02-ocr",
+      "doc_name": "Sof1981 02 ocr"
+    },
+    {
+      "id": "Sof1981-03-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-03-ocr",
+      "doc_name": "Sof1981 03 ocr"
+    },
+    {
+      "id": "Sof1981-04-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-04-ocr",
+      "doc_name": "Sof1981 04 ocr"
+    },
+    {
+      "id": "Sof1981-05-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-05-ocr",
+      "doc_name": "Sof1981 05 ocr"
+    },
+    {
+      "id": "Sof1981-06-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-06-ocr",
+      "doc_name": "Sof1981 06 ocr"
+    },
+    {
+      "id": "Sof1981-07-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-07-ocr",
+      "doc_name": "Sof1981 07 ocr"
+    },
+    {
+      "id": "Sof1981-08-ocr",
+      "source": "SoFjune1979Ocr_201807/Sof1981-08-ocr",
+      "doc_name": "Sof1981 08 ocr"
+    }
+  ]
+}
