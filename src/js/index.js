@@ -1,6 +1,7 @@
 import Listing from './classes/listing.js';
 import ExtractSentences from './classes/extractsentences.js';
 import GenerateEsQuery from './classes/generateesquery.js';
+import OtherSearch from './classes/othersearch.js';
 import * as Utils from './classes/utils.js';
 
 String.prototype.lpad = Utils.lpad;
@@ -305,7 +306,20 @@ function getResults(searchParam, recordCount, page, callback) {
   }).then((response) => {
     ajaxSearch = null;
     callback(response.hits.hits);
+
+    let href = '';
+    href = OtherSearch.build('othersearch-govinfo', searchParam);
+    $('.othersearch-govinfo').attr('href', href);
+    href = OtherSearch.build('othersearch-wikileaks', searchParam);
+    $('.othersearch-wikileaks').attr('href', href);
+    href = OtherSearch.build('othersearch-maryferrell', searchParam);
+    $('.othersearch-maryferrell').attr('href', href);
+
   });
+}
+
+function updateOtherSearchUrls(search_param){
+
 }
 
 /**
@@ -380,7 +394,7 @@ function displayResults(response) {
 
 $.ajaxSetup({
   error: function(xhr, status, error) {
-    console.log(xhr);
+    // console.log(xhr);
   }
 });
 
@@ -406,7 +420,7 @@ $('.entry-panel__content--entry').zoom({ on: 'click' });
 $('.toolbar-entry__modal-entry-data').on('click', function(){
   const cloneListing = Object.assign({}, currentListing);
   delete cloneListing.entry;
-  delete cloneListing.searched;  
+  delete cloneListing.searched;
   var prettyPrint = JSON.stringify(cloneListing, null, 2);
   $('.modal-entry-data .modal-body').html(`<pre>${prettyPrint}</pre>`);
   $('.modal-entry-data').modal('toggle');

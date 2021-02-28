@@ -22,7 +22,7 @@ import ExtractSentences from './extractsentences.js';
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
-    console.log('listing', this);
+    // console.log('listing', this);
   }
   /**
    * @returns {String} group id
@@ -172,6 +172,9 @@ import ExtractSentences from './extractsentences.js';
         break;
       case 'militant':
         source = `https://www.marxists.org/history/etol/newspape/themilitant/${this.docId.match(/.*-([0-9]{4})-mil/)[1]}/${this.docId}.pdf#page=${this.page}`;
+        break;
+      case 'bpp':
+        source = `https://www.marxists.org/history/usa/pubs/black-panther/${this.docId}.pdf#page=${this.page}`;
         break;
       case 'fbi-jones':
         source = `https://vault.fbi.gov/jonestown/${this.docId}#page=${this.page}`;
