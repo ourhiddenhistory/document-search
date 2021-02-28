@@ -45,8 +45,8 @@ lines.forEach((el, i) => {
   lastPart[lastPart.length-1];
   const obj = {
 		id: lastPart[lastPart.length-1].replace('.pdf', ''),
-		source: el,
-    doc_name: lastPart[lastPart.length-1].replace(/%20/g, '').replace(/-/g, ' ').replace('.pdf', '').trim()
+		// source: el,
+    // doc_name: lastPart[lastPart.length-1].replace(/%20/g, '').replace(/-/g, ' ').replace('.pdf', '').trim()
   };
   if (NAMES_INPUT) {
     obj.doc_name = docNames[i]
