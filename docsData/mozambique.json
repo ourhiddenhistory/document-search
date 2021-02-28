@@ -1,0 +1,33 @@
+{
+  "id": "mozambique",
+  "shortname": "mozambique",
+  "collection": "",
+  "alt_names": [],
+  "date": "1979",
+  "source": "https://archive.org/details/mozambique-civil-war-1975-1992/32-130-1A2C-84-APIC_Invisible_Crimes_opt",
+  "description": "Various documents on the 1975-1992 contra war in Mozambique.",
+  "important": "",
+  "type": "archive-b",
+  "files": [
+    {
+      "id": "m32-130-1A2C-84-APIC_Invisible_Crimes_opt",
+      "source": "mozambique-civil-war-1975-1992/32-130-1A2C-84-APIC_Invisible_Crimes_opt",
+      "doc_name": "Invisible Crimes: US Private Intervention in the War in Mozambique"
+    },
+    {
+      "id": "92014882-Gersony-Report-Robert-Gersony",
+      "source": "mozambique-civil-war-1975-1992/92014882-Gersony-Report-Robert-Gersony",
+      "doc_name": "The Gersony Report: Summary of Mozambican Refugee Accounts of Principally Conflict-Related Experience in Mozambique"
+    },
+    {
+      "id": "Document-03-Gina-Haspel-s-report-to-CIA-on-two",
+      "source": "mozambique-civil-war-1975-1992/David Robinson, Curse on the Land-History of the Mozambican Civil War",
+      "doc_name": "Curse on the Land: A History of the Mozambican Civil War - Doctoral thesis of David Alexander Robinson, BA, University of Western Australia"
+    },
+    {
+      "id": "INSIDEBOSS",
+      "source": "INSIDEBOSS",
+      "doc_name": "Inside BOSS: South Africa's Secret Police"
+    }
+  ]
+}
