@@ -312,9 +312,13 @@
         Our Hidden History
       </a>
     </h1>
-    <div class="tools">
+    {% if page.ohh_interview %}
+      <h2>An Our Hidden History Interview</h2>
+    {% endif %}
+
+    <!-- <div class="tools">
       <div class="toolsbutton">share &amp; search</div>
-    </div>
+    </div> -->
 
     <p class="byline">
       <strong>{{ page.author }}</strong> &mdash; <span class="nowrap">{{ page.date }}</span>
