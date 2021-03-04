@@ -13,7 +13,7 @@ title: Posts
     {% for post in site.posts %}
       <li>
         <a href="/doc-search{{ post.url }}">
-          {{ post.title }}
+          {{ post.title }} ({{ post.date }})
         </a>
       </li>
     {% endfor %}

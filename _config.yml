@@ -26,6 +26,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+include:
+  - .htaccess
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -37,7 +39,11 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - package.json
+  - package-lock.json
   - node_modules
   - gulpfile.js
   - src
   - utils
+  - docsData
+  - test
+  - html

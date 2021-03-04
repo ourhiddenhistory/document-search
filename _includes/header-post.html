@@ -317,7 +317,7 @@
     </div>
 
     <p class="byline">
-      <strong>{{ page.author }}</strong> &mdash; <span class="nowrap">{{ page.date | date: "%B %d, %Y" }}</span>
+      <strong>{{ page.author }}</strong> &mdash; <span class="nowrap">{{ page.date }}</span>
     </p>
 
     {% if page.youtube %}
@@ -342,3 +342,5 @@
       <p></p>
 
     {% endif %}
+
+    {{ page.teaser }}

@@ -87,7 +87,7 @@ function copy(){
 }
 
 function copyImages(){
-  return gulp.src(['src/img/**/*'])
+  return gulp.src(['src/img/**/**'])
     .pipe(gulp.dest(`${DIST_DIR}/img`));
 }
 
@@ -102,7 +102,7 @@ function buildJekyll() {
 }
 
 function copySiteToWebRoot(){
-  return gulp.src(['_site/*'])
+  return gulp.src(['_site/**/*', '_site/**/.htaccess*'])
     .pipe(gulp.dest(`${SITE_DIR}/`));
 }
 

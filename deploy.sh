@@ -6,7 +6,7 @@ CONFIG_FILE="_config.stg.yml"
 
 if [ "${GIT_BRANCH}" == "main" ]
 then
-  DOMAIN="ourhiddenhistory.org"
+  DOMAIN="ourhiddenhistory.com"
   CONFIG_FILE="_config.yml"
 fi
 
@@ -16,6 +16,8 @@ echo "    To domain: ${DOMAIN}"
 echo "    Using config: ${CONFIG_FILE}"
 
 echo "PRE-BUILD"
+rm -rf ./html
+mkdir html
 ls -lA index.html _data
 
 echo "RUNNING gulp build..."
@@ -34,5 +36,5 @@ echo "RSYNCING TO ${DOMAIN}"
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no \
    "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 
-rsync -acrv --stats -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
-   ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html/doc-search
+rsync -acrv --stats --delete-after -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
+   ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/public/doc-search
