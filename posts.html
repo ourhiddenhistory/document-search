@@ -51,6 +51,15 @@ title: Posts
     margin-bottom: 35px;
   }
 
+  span.img{
+    width: 20px;
+    height: 20px;
+  }
+  span.img img {
+    width: 20px;
+    height: 20px;
+  }
+
   h1 {
     font-size: 54px;
   }
@@ -255,11 +264,17 @@ title: Posts
       <li>
         {% if post.ohh_interview %}
           <p>
+            <span class="rounded-circle img">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
+            </span>
             <small>An 'Our Hidden History' Interview</small>
           </p>
         {% endif %}
         {% if post.ohh_research %}
           <p>
+            <span class="rounded-circle img">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
+            </span>
             <small>'Our Hidden History' Original Research</small>
           </p>
         {% endif %}
