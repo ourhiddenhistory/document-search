@@ -26,6 +26,9 @@ gulp build
 echo "RUNNING bundle exec jekyll build --config ${CONFIG_FILE}..."
 bundle exec jekyll build --config ${CONFIG_FILE}
 
+echo "RUNNING gulp copyImages..."
+gulp copyImages
+
 echo "RUNNING gulp copySiteToWebRoot..."
 gulp copySiteToWebRoot
 

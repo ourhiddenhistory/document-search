@@ -1,0 +1,280 @@
+---
+layout: page
+title: Posts
+---
+
+<style>
+
+  ul.plain{
+    list-style-type: none;
+  }
+
+  .posts .navbar-light .navbar-brand {
+    background: #FFF;
+    color: #420707;
+  }
+
+  .post  {
+    font-size: 22px;
+    font-family: 'Muli', sans-serif;
+  }
+
+  div.teaser p {
+    font-size: 26px;
+  }
+
+  div.teaser hr {
+    border: 2px solid #420707;
+    height: 0;
+  }
+
+  a:link,
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:link,
+  a:visited,
+  .primary {
+    color: #420707;
+  }
+
+  div.footer {
+    height: 90px;
+  }
+
+  h1,h2,h4,h5,h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    line-height: 160%;
+    margin: 0 170px;
+    margin-bottom: 35px;
+  }
+
+  h1 {
+    font-size: 54px;
+  }
+
+  h1.title {
+    position: relative;
+    line-height: 160%;
+    margin: 0;
+    margin-bottom: 35px;
+  }
+
+  h1.title > a.imprint {
+    display: block;
+    position: absolute;
+    bottom: -170px;
+    //bottom: -295px;
+    left: 0;
+    width: 140px;
+    height: 140px;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    color: #420707;
+    text-decoration: none;
+    img {
+      width: 120px;
+    }
+  }
+
+  div.tools {
+    position: relative;
+    border: 1px solid lightgray;
+    margin-bottom: 22px;
+    font-size: 18px;
+    margin-left: 170px;
+  }
+
+  div.tools__inner.tools__inner--open {
+    height: 100px;
+    transition: height 300ms;
+  }
+
+  div.tools > div.toolsbutton {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: -21px;
+    padding: 4px 8px;
+    color: gray;
+    background-color: white;
+    content: '';
+    cursor: pointer;
+    z-index: 2;
+  }
+
+  div.tools__inner {
+    display: flex;
+    justify-content: left;
+    align-content: center;
+    height: 0;
+    overflow: hidden;
+  }
+
+  div.social {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: red;
+  }
+
+  p.byline {
+    font-style: italic;
+  }
+
+  hr{
+    margin-left: 170px;
+    margin-right: 170px;
+  }
+
+  h2 small {
+    line-height: 130%;
+  }
+
+  div.embed,
+  p,
+  blockquote {
+    line-height: 160%;
+    margin: 0 170px;
+    margin-bottom: 15px;
+  }
+
+  figure.figure--left,
+  figure.figure--right {
+    max-width: 450px;
+    display: inline-block;
+  }
+  figure {
+    margin-bottom: 15px;
+    background-color: darkgray;
+    color: white;
+    padding: 40px;
+    p,h2 {
+      margin: 0;
+    }
+  }
+
+  figure.figure--right {
+    float: right;
+    margin-left: 30px;
+    border-bottom-right-radius: 35px 35px;
+  }
+
+  figure.figure--left {
+    float: left;
+    margin-right: 30px;
+    border-bottom-left-radius: 35px 35px;
+  }
+
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nowrap {
+    white-space: nowrap;
+  }
+
+  blockquote {
+    border-left: 10px solid lightgrey;
+    padding-left: 20px;
+  }
+
+  blockquote p {
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 991.98px) {
+    p,
+    blockquote {
+      margin: 0;
+      margin-bottom: 35px;
+      font-size: 18px;
+    }
+    div.teaser p {
+      font-size: 20px;
+    }
+    hr{
+      margin-left: 0;
+      margin-right: 0;
+    }
+    h1 {
+      font-size: 40px;
+      line-height: 150%;
+    }
+    h1,h2,h4,h5,h6 {
+      margin: 0;
+      margin-bottom: 35px;
+    }
+    h1.title {
+     margin-bottom: 50px;
+    }
+    h1.title > a.imprint {
+      margin: 0 auto;
+      display: block;
+      position: relative;
+      top: 0px;
+      height: auto;
+    }
+    div.tools {
+      margin-left: 0;
+    }
+    figure.figure--right {
+      margin-left: 0;
+    }
+    div.embed {
+      margin: 0;
+    }
+  }
+</style>
+
+<div class="container">
+  <div class="page-container">
+    <h1>Posts</h1>
+    <p>
+      <strong>This is a beta version of the posts.</strong> For the full posts, visit the current site at <a href="https://ourhiddenhistory.org">https://ourhiddenhistory.org</a>
+    </p>
+    <ul class="plain">
+    {% for post in site.posts %}
+      <li>
+        {% if post.ohh_interview %}
+          <p>
+            <small>An 'Our Hidden History' Interview</small>
+          </p>
+        {% endif %}
+        {% if post.ohh_research %}
+          <p>
+            <small>'Our Hidden History' Original Research</small>
+          </p>
+        {% endif %}
+        <a href="/doc-search{{ post.url }}">
+          <h2>
+            {{ post.title }}<br />
+            <small>{{ post.author }}, {{ post.displaydate }}</small>
+          </h2>
+        </a>
+        <div>
+          {{post.teaser}}
+        </div>
+        <hr />
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
