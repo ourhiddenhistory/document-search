@@ -254,13 +254,30 @@ title: Posts
 </style>
 
 <div class="container">
-  <div class="page-container">
-    <h1>Posts</h1>
-    <p>
-      <strong>This is a beta version of the posts.</strong> For the full posts, visit the current site at <a href="https://ourhiddenhistory.org">https://ourhiddenhistory.org</a>
-    </p>
+    <div><strong>This is a beta version of this page. For the full collection please visit <a href="/">the home page</a>.</strong></div>
+    <h1 class="title">
+      Selected speeches, talks, and interviews
+      <a href="/" class="imprint">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" />
+        {% if page.ohh_interview %}
+          Our Hidden History Interviews
+        {% elsif page.ohh_research %}
+          Our Hidden History Original Research
+        {% else %}
+          Our Hidden History
+        {% endif %}
+      </a>
+    </h1>
+
     <ul class="plain">
     {% for post in site.posts %}
+
+      {% if displaydate.size and displaydate.size != 4 %}
+        {% assign displayyear = post.displaydate | date: "%Y" %}
+      {% else %}
+        {% assign displayyear = post.displaydate %}
+      {% endif %}
+
       <li>
         {% if post.ohh_interview %}
           <p>
@@ -281,7 +298,7 @@ title: Posts
         <a href="/doc-search{{ post.url }}">
           <h2>
             {{ post.title }}<br />
-            <small>{{ post.author }}, {{ post.displaydate }}</small>
+            <small>{{ post.author }}, {{ displayyear }}</small>
           </h2>
         </a>
         <div>
@@ -291,5 +308,4 @@ title: Posts
       </li>
     {% endfor %}
     </ul>
-  </div>
 </div>
