@@ -40,6 +40,16 @@ img.display-img {
   color: #fff;
 }
 
+nav {
+  div.img {
+    background-color: white;
+    margin-right: 10px;
+    img {
+      height: 26px;
+    }
+  }
+}
+
 .doclist__fileslist ul {
   list-style-type: none;
 }
