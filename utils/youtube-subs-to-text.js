@@ -12,6 +12,7 @@ const fs = require('fs');
 const yaml = require('js-yaml');
 const path = require('path');
 const padStart = require('string.prototype.padstart');
+const slugify = require('slugify')
 
 const exts = {
 	info: ".info.json",
@@ -68,8 +69,16 @@ outArr.push(yaml.dump(final_info));
 outArr.push('---');
 outArr.push(finalArr.join("\n"));
 
+const slugify_conf = {
+  replacement: '-',
+  remove: '"\'',
+  lower: true,
+  strict: true,
+  locale: 'en'
+};
+
 const text = outArr.join("\n");
-fs.writeFile(OUTPUT, text, (err) => {
+fs.writeFile(`${path.dirname(INPUT)}/${slugify(final_info.fulltitle, slugify_conf)}.md`, text, (err) => {
   if (err) {
     return console.log(err);
   }
