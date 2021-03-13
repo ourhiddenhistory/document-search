@@ -9,16 +9,37 @@
  */
 
 const fs = require('fs');
+const yaml = require('js-yaml');
 const path = require('path');
 const padStart = require('string.prototype.padstart');
+
+const exts = {
+	info: ".info.json",
+	vtt: ".en.vtt"
+};
 
 padStart.shim();
 
 const INPUT = process.argv[2];
-const OUTPUT = `${path.dirname(INPUT)}/${path.basename(INPUT, '.vtt')}.txt`;
+const INPUT_VTT = process.argv[2].replace('.info.json', '.en.vtt');
+const OUTPUT = `${path.dirname(INPUT)}/${path.basename(INPUT, '.info.json')}.md`;
 
-const fileContents = fs.readFileSync(INPUT, 'utf8');
+const info_json = fs.readFileSync(INPUT, 'utf8');
+const fileContents = fs.readFileSync(INPUT_VTT, 'utf8');
 const lines = fileContents.split('\n');
+
+const info = JSON.parse(info_json);
+
+final_info = {
+	upload_date: info.upload_date,
+	fulltitle: info.fulltitle,
+	tags: info.tags,
+	id: info.id,
+	uploader: info.uploader,
+	channel_url: info.channel_url,
+	description: info.description,
+	webpage_url: info.webpage_url
+}
 
 const storeArr = [];
 lines.forEach((el, i) => {
@@ -41,7 +62,13 @@ storeArr.forEach((el, i) => {
 	last_line = el;
 });
 
-const text = finalArr.join("\n");
+outArr = [];
+outArr.push('---');
+outArr.push(yaml.dump(final_info));
+outArr.push('---');
+outArr.push(finalArr.join("\n"));
+
+const text = outArr.join("\n");
 fs.writeFile(OUTPUT, text, (err) => {
   if (err) {
     return console.log(err);

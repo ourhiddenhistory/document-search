@@ -63,13 +63,15 @@ import ExtractSentences from './extractsentences.js';
     let type = false;
     let file = {};
     const collection = Utils.filterValue(doclist, 'id', this.groupId);
-    if (collection && collection.files) {
+    if (collection) {
       if (collection.type) {
         type = collection.type;
       }
-      file = Utils.filterValue(collection.files, 'id', this.docId);
-      if (file && file.type) {
-        type = file.type;
+      if(collection.files){
+        file = Utils.filterValue(collection.files, 'id', this.docId);
+        if (file && file.type) {
+          type = file.type;
+        }
       }
     }
     return type;
@@ -108,13 +110,15 @@ import ExtractSentences from './extractsentences.js';
     let source = null;
     let file = {};
     let collection = Utils.filterValue(doclist, 'id', this.groupId);
-    if (collection && collection.files) {
+    if (collection) {
       if (collection.source) {
         source = collection.source;
       }
-      file = Utils.filterValue(collection.files, 'id', this.docId);
-      if (file && file.source) {
-        source = file.source;
+      if(collection.files){
+        file = Utils.filterValue(collection.files, 'id', this.docId);
+        if (file && file.source) {
+          source = file.source;
+        }        
       }
     }
 
@@ -123,10 +127,11 @@ import ExtractSentences from './extractsentences.js';
       return source;
     }
 
-    this.type = this.getSourceType(doclist);
-    switch (this.type) {
+    console.log(this.sourceType);
+    switch (this.sourceType) {
       case 'ohh':
-        source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.collection}/${source}.pdf#page=${this.page}`;
+        source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.groupId}/${this.id}.pdf#page=${this.page}`;
+        console.log(source);
         break;
       case 'archive':
         source = `${source}#page/n${this.page}/mode/1up`;
