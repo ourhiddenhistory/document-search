@@ -125,6 +125,9 @@ import ExtractSentences from './extractsentences.js';
 
     this.type = this.getSourceType(doclist);
     switch (this.type) {
+      case 'ohh':
+        source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.collection}/${source}.pdf#page=${this.page}`;
+        break;
       case 'archive':
         source = `${source}#page/n${this.page}/mode/1up`;
         break;
