@@ -4,6 +4,8 @@ import GenerateEsQuery from './classes/generateesquery.js';
 import OtherSearch from './classes/othersearch.js';
 import * as Utils from './classes/utils.js';
 
+const INDEX = 'docsearch-a';
+
 String.prototype.lpad = Utils.lpad;
 
 const client = new $.es.Client({
@@ -66,7 +68,7 @@ function changePage(direction) {
   }else{
     newPage = Number(currentListing.page) + 1;
   }
-  newPage = currentListing.groupId+'-'+currentListing.docId+'_'+newPage+'.txt';
+  newPage = currentListing.path.replace(`_${currentListing.page}.txt`, `_${newPage}.txt`);
   let lastPageContent = $('.entry-panel__content').html();
   getPage(newPage, lastPageContent);
   $('.entry-panel__content').html('LOADING...');
@@ -399,9 +401,9 @@ $.ajaxSetup({
 });
 
 $.get(
-  'https://api.ourhiddenhistory.org/_cat/count?format=json&pretty',
+  `https://api.ourhiddenhistory.org/_cat/count/${INDEX}?format=json&pretty`,
   function (response) {
-    let msg = `${Number(response[0].count).toLocaleString()} pages indexed`;
+    let msg = `${Number(response[0].count).toLocaleString()} pages in ${INDEX}`;
     $('.docsearch__indexed-cnt').html(msg);
 });
 

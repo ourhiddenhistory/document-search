@@ -61,7 +61,7 @@ export default class GenerateEsQuery {
         },
       },
     };
-    fieldQuery.query.constant_score.filter.term['file.filename'] = stringInput;
+    fieldQuery.query.constant_score.filter.term['path.virtual'] = stringInput;
     return fieldQuery;
   }
 }

@@ -10,12 +10,15 @@ import ExtractSentences from './extractsentences.js';
    * @param {Object} doclist - document list
    */
   constructor(hit, doclist) {
+    this.path = hit._source.path.virtual;
     this.file = hit._source.file.filename;
     this.id = this.file.replace('.txt', '');
     this.searched = [];
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
+    let regexp = new RegExp('_'+this.page+'$');
+    this.filenopage = this.id.replace(regexp, '');
     this.collection = this.getCollection(doclist);
     this.sourceName = this.getSourceName(doclist);
     this.docname = this.getDocName(doclist);
@@ -28,21 +31,17 @@ import ExtractSentences from './extractsentences.js';
    * @returns {String} group id
    */
   getGroupId() {
-    const regex = '([0-9a-zA-Z.]+)-(.*)';
-    const match = this.id.match(regex);
-    try {
-      const groupId = match[1];
-      return groupId;
-    } catch (e) {
-      return '000';
-    }
+    let path = this.path.split('/');
+    path.splice(0,1);
+    path.splice(-1,1);
+    return path.join('/');
   }
   /**
    * @returns {String} document id
    */
   getDocId() {
     const groupRegex = new RegExp('^('+this.groupId+'-)');
-    const pageRegex = new RegExp('(_[0-9]{1,4})$');
+    const pageRegex = new RegExp('(_[0-9]{1,5})$');
     let doc = this.id.replace(groupRegex, '');
     doc = doc.replace(pageRegex, '');
     return doc;
@@ -51,9 +50,8 @@ import ExtractSentences from './extractsentences.js';
    * @returns {String} document page
    */
   getPage() {
-    const groupId = this.getGroupId();
-    const docId = this.getDocId();
-    return this.id.replace(`${groupId}-${docId}_`, '');
+    let page = this.id.match(/([0-9]{1,5})$/g);
+    return page
   }
   /**
    * @param {Object} doclist full site document list
@@ -118,7 +116,7 @@ import ExtractSentences from './extractsentences.js';
         file = Utils.filterValue(collection.files, 'id', this.docId);
         if (file && file.source) {
           source = file.source;
-        }        
+        }
       }
     }
 
@@ -127,10 +125,9 @@ import ExtractSentences from './extractsentences.js';
       return source;
     }
 
-    console.log(this.sourceType);
     switch (this.sourceType) {
       case 'ohh':
-        source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.groupId}/${this.id}.pdf#page=${this.page}`;
+        source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.groupId}/${this.filenopage}.pdf#page=${this.page}`;
         console.log(source);
         break;
       case 'archive':
