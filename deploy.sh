@@ -39,5 +39,8 @@ echo "RSYNCING TO ${DOMAIN}"
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no \
    "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
 
-rsync -acrv --stats --delete-after -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
+rsync -acrv \
+  --stats \
+  --delete-after \
+  -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
    ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/public/doc-search
