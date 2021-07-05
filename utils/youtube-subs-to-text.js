@@ -26,10 +26,19 @@ const INPUT_VTT = process.argv[2].replace('.info.json', '.en.vtt');
 const OUTPUT = `${path.dirname(INPUT)}/${path.basename(INPUT, '.info.json')}.md`;
 
 const info_json = fs.readFileSync(INPUT, 'utf8');
-const fileContents = fs.readFileSync(INPUT_VTT, 'utf8');
+let fileContents;
+if(fs.existsSync(INPUT_VTT)){
+	fileContents = fs.readFileSync(INPUT_VTT, 'utf8');
+}else{
+	fileContents = '';
+}
 const lines = fileContents.split('\n');
 
 const info = JSON.parse(info_json);
+
+// get date for file
+let d = info.upload_date.split('');
+let date_for_file = d[0]+d[1]+d[2]+d[3]+'-'+d[4]+d[5]+'-'+d[6]+d[7];
 
 final_info = {
 	upload_date: info.upload_date,
@@ -38,8 +47,9 @@ final_info = {
 	id: info.id,
 	uploader: info.uploader,
 	channel_url: info.channel_url,
-	description: info.description,
-	webpage_url: info.webpage_url
+	description: info.description.replace(/\n\n/g, "\n"),
+	webpage_url: info.webpage_url,
+	date: date_for_file
 }
 
 const storeArr = [];
@@ -51,7 +61,7 @@ lines.forEach((el, i) => {
 
 	let line = el.replace(/(<([^>]+)>)/gi, "");
 
-	storeArr.push(line);
+	storeArr.push(line.trim());
 });
 
 const finalArr = [];
@@ -67,7 +77,7 @@ outArr = [];
 outArr.push('---');
 outArr.push(yaml.dump(final_info));
 outArr.push('---');
-outArr.push(finalArr.join("\n"));
+outArr.push(finalArr.join(" "));
 
 const slugify_conf = {
   replacement: '-',
@@ -78,7 +88,7 @@ const slugify_conf = {
 };
 
 const text = outArr.join("\n");
-fs.writeFile(`${path.dirname(INPUT)}/${slugify(final_info.fulltitle, slugify_conf)}.md`, text, (err) => {
+fs.writeFile(`_videos/${date_for_file}-${slugify(final_info.fulltitle, slugify_conf)}.md`, text, (err) => {
   if (err) {
     return console.log(err);
   }
