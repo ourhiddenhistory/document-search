@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jack Terrell, Disposable Patriot"
+title: "<i>Disposable Patriot</i>: Contra War Mercenary Turned Whistleblower"
 teaser: >
-  <p></p>
+  <p>Dennis Bernstein interviews Jack Terrell, a former Contra military trainer and mercenary who worked with Enrique Bermudez in Honduras. Terrell, who went to Honduras for what he calls patriotic reasons, discovered upon arrival a criminal enterprise engaged in drug dealing, slave trading, and mass rape. Disgusted by these revelations, Terrell subsequently turned whistle-blower.</p>
 teaser-ext: >
-  <p></p>
-author: "Jack Terrell"
-youtube:
+  <p>Original recording <a href="https://www.pacificaradioarchives.org/recording/az0992">PRA Archive #: AZ0992</a>. Broadcast on KPFA, 1992.</p>
+author: Whistleblower Jack Terrell
+youtube: ym6HvBUnejU
 displaydate: "1992"
 ---
 
