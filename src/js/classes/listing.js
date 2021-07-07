@@ -14,6 +14,7 @@ import ExtractSentences from './extractsentences.js';
     this.file = hit._source.file.filename;
     this.id = this.file.replace('.txt', '');
     this.searched = [];
+    this.parentGroupId = this.getParentGroupId();
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
@@ -27,6 +28,16 @@ import ExtractSentences from './extractsentences.js';
     this.entry = hit._source.content;
     // console.log('listing', this);
   }
+
+  /**
+   * @returns {String} group id
+   */
+  getParentGroupId() {
+    let path = this.path.split('/');
+    path.splice(0,1);
+    return path[0];
+  }
+
   /**
    * @returns {String} group id
    */

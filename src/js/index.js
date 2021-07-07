@@ -38,8 +38,7 @@ var changeUrlWithNewSearch = function(url, searchterm) {
  */
 var changeUrlWithNewDocument = function(url, document) {
   let currentParams = url.split('?')[1] || '';
-  document.push((isImg ? 'img' : 'txt'));
-  let newUrl = baseurl + '/' + document.join('/') + '?' + currentParams;
+  let newUrl = baseurl + document[0] + '?' + currentParams;
   return newUrl;
 }
 
@@ -86,6 +85,7 @@ function getPage(page, lastPageContent, setToImage) {
   }
 
   setToImage = setToImage || false;
+  page = decodeURIComponent(page);
 
   ajaxPage = client.search({
     size: 1,
@@ -103,7 +103,7 @@ function getPage(page, lastPageContent, setToImage) {
     const listing = new Listing(response.hits.hits[0], docList);
     // set search param in url
     const curPath = window.location.pathname + window.location.search;
-    const newUrl = changeUrlWithNewDocument(curPath, [listing.id]);
+    const newUrl = changeUrlWithNewDocument(curPath, [listing.path]);
     history.pushState({}, null, newUrl);
 
     displayListingInEntryPanel(listing, setToImage);
@@ -114,11 +114,12 @@ function getPage(page, lastPageContent, setToImage) {
 
 const path = window.location.pathname;
 if (![`${baseurl}`, `${baseurl}/`, `${baseurl}/index.html`].includes(path)) {
+  let findpath = path.replace('/doc-search', '');
   const pathParts = path.split('/');
   let pathPartIndex = (baseurl == '' ? 1 : 2);
   let setToImage = (pathParts[pathPartIndex+1] === 'img');
   const page = `${pathParts[pathPartIndex]}.txt`;
-  getPage(page, null, setToImage);
+  getPage(findpath, null, setToImage);
 }
 
 /**
@@ -150,7 +151,7 @@ $('.toolbar-entry__disp-img').on('click', function(){
     .css('display', 'block')
     .parent()
     .zoom({ on: 'click' });
-  let newUrl = changeUrlWithNewDocument(window.location.pathname + window.location.search, [currentListing.id]);
+  let newUrl = changeUrlWithNewDocument(window.location.pathname + window.location.search, [currentListing.path]);
   history.pushState({}, null, newUrl);
 });
 
@@ -225,7 +226,7 @@ function displayListingInEntryPanel(listing, setToImage) {
   currentListing = listing;
   // updateSocialMediaDisplay(listing.img, listing.docname); // won't work dynamically
   // set search param in url
-  let newUrl = changeUrlWithNewDocument(window.location.pathname + window.location.search, [listing.id]);
+  let newUrl = changeUrlWithNewDocument(window.location.pathname + window.location.search, [listing.path]);
   history.pushState({}, null, newUrl);
 }
 
