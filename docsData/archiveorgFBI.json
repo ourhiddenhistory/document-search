@@ -4,9 +4,7 @@
   "collection": "FBI Collection from archive.org",
   "alt_names": [],
   "date": "1950",
-  "description": "",
+  "description": "All of the FBI files under the collection <a href=\"https://archive.org/details/nsia-fbi-files\">nsia-fbi-files</a> on the Internet Archive.",
   "important": "",
-  "source": "",
-  "type": "pdf",
-  "files": []
+  "type": "archiveorg"
 }

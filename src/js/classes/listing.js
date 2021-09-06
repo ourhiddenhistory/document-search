@@ -10,6 +10,7 @@ import ExtractSentences from './extractsentences.js';
    * @param {Object} doclist - document list
    */
   constructor(hit, doclist) {
+    this.indexId = hit._id;
     this.path = hit._source.path.virtual;
     this.file = hit._source.file.filename;
     this.id = this.file.replace('.txt', '');
@@ -18,15 +19,17 @@ import ExtractSentences from './extractsentences.js';
     this.groupId = this.getGroupId();
     this.docId = this.getDocId();
     this.page = this.getPage();
+    this.nextPage = this.path.replace(`_${this.page}.txt`, `_${parseFloat(this.page) + 1}.txt`);
+    this.prevPage = this.path.replace(`_${this.page}.txt`, `_${this.page - 1}.txt`);
     let regexp = new RegExp('_'+this.page+'$');
     this.filenopage = this.id.replace(regexp, '');
-    this.collection = this.getCollection(doclist);
+    this.collection = this.getParentGroupId();
+    this.collectionName = this.getCollectionName(doclist);
     this.sourceName = this.getSourceName(doclist);
     this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
     this.sourceHref = this.getSourceUrl(doclist);
     this.entry = hit._source.content;
-    // console.log('listing', this);
   }
 
   /**
@@ -71,7 +74,7 @@ import ExtractSentences from './extractsentences.js';
   getSourceType(doclist) {
     let type = false;
     let file = {};
-    const collection = Utils.filterValue(doclist, 'id', this.groupId);
+    const collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
     if (collection) {
       if (collection.type) {
         type = collection.type;
@@ -86,12 +89,20 @@ import ExtractSentences from './extractsentences.js';
     return type;
   }
 
-  getCollection(doclist){
-    let collection = Utils.filterValue(doclist, 'id', this.groupId);
+  getCollectionName(doclist){
+    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
     if (collection && collection.collection) {
       return collection.collection;
     }
-    return this.groupId;
+    return this.parentGroupId;
+  }
+
+  getCollection(doclist){
+    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
+    if (collection && collection.collection) {
+      return collection.collection;
+    }
+    return this.parentGroupId;
   }
 
   /**
@@ -101,7 +112,7 @@ import ExtractSentences from './extractsentences.js';
   getSourceName(doclist) {
     let source_name = false;
     let file = {};
-    let collection = Utils.filterValue(doclist, 'id', this.groupId);
+    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
     if (collection && collection.files) {
       file = Utils.filterValue(collection.files, 'id', this.docId);
       if (file && file.doc_name) {
@@ -118,7 +129,7 @@ import ExtractSentences from './extractsentences.js';
   getSourceUrl(doclist) {
     let source = null;
     let file = {};
-    let collection = Utils.filterValue(doclist, 'id', this.groupId);
+    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
     if (collection) {
       if (collection.source) {
         source = collection.source;
@@ -131,21 +142,20 @@ import ExtractSentences from './extractsentences.js';
       }
     }
 
-    if(!source){
-      this.source = false;
-      return source;
-    }
-
     switch (this.sourceType) {
       case 'ohh':
         source = `https://doc-search.nyc3.digitaloceanspaces.com/documents/${this.groupId}/${this.filenopage}.pdf#page=${this.page}`;
-        console.log(source);
         break;
       case 'archive':
-        source = `${source}#page/n${this.page}/mode/1up`;
+        source = `${source}#page/n${this.page - 1}/mode/1up`;
         break;
       case 'archive-b':
-        source = `https://archive.org/stream/${source}#page/n${this.page}/mode/1up`;
+        source = `https://archive.org/stream/${source}#page/n${this.page - 1}/mode/1up`;
+        break;
+      case 'archiveorg':
+        source = this.groupId.replace(`${this.parentGroupId}/`, '');
+        source = `${source}/${this.docId}`;
+        source = `https://archive.org/stream/${source}#page/n${this.page - 1}/mode/1up`;
         break;
       case 'reagan':
         source = `https://www.reaganlibrary.gov/${source}.pdf#page=${this.page}`;
@@ -172,10 +182,10 @@ import ExtractSentences from './extractsentences.js';
         source = `${source}.pdf#page=${this.page}`;
         break;
       case 'custom-rcfp':
-        source = `https://archive.org/stream/RockCreekFreePress/Rock%20Creek%20Free%20Press%20-%20${this.docId}#page/n${this.page}`;
+        source = `https://archive.org/stream/RockCreekFreePress/Rock%20Creek%20Free%20Press%20-%20${this.docId}#page/n${this.page - 1}`;
         break;
       case 'custom-jfkdpd':
-        source = `https://archive.org/stream/${this.docId}_dpd-jfk/${this.docId}#page/n${this.page}`;
+        source = `https://archive.org/stream/${this.docId}_dpd-jfk/${this.docId}#page/n${this.page - 1}`;
         break;
       case 'nara-jfk':
         source = `https://www.archives.gov/files/research/jfk/releases/${this.docId}.pdf#page=${this.page}`;
@@ -203,7 +213,7 @@ import ExtractSentences from './extractsentences.js';
         }
         break;
       default:
-        source = `${source}#page=${this.page}`;
+        source = false;
     }
     this.source = source;
     return source;

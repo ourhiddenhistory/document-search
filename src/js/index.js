@@ -4,7 +4,7 @@ import GenerateEsQuery from './classes/generateesquery.js';
 import OtherSearch from './classes/othersearch.js';
 import * as Utils from './classes/utils.js';
 
-const INDEX = 'docsearch-a';
+const INDEX = 'docsearch';
 
 String.prototype.lpad = Utils.lpad;
 
@@ -61,13 +61,12 @@ let ajaxPage = null;
 
 let currentListing = null;
 function changePage(direction) {
-  let newPage = 0;
+  let newPage;
   if(direction == 'prev'){
-    newPage = Number(currentListing.page) - 1;
+    newPage = currentListing.prevPage;
   }else{
-    newPage = Number(currentListing.page) + 1;
+    newPage = currentListing.nextPage;
   }
-  newPage = currentListing.path.replace(`_${currentListing.page}.txt`, `_${newPage}.txt`);
   let lastPageContent = $('.entry-panel__content').html();
   getPage(newPage, lastPageContent);
   $('.entry-panel__content').html('LOADING...');
@@ -380,8 +379,10 @@ function displayResults(response) {
     const mainDiv = `
     <div class="listing">
       <div class="entry-link open-entry-js" data-entry="${i}">
-        <div class="entry-link__collection">${el.docname[0]}</div>
-        <div class="entry-link__document">${el.docname[1]}, page: ${el.page}</div>
+        <div class="entry-link__collection">${el.collectionName}</div>
+        <div class="entry-link__document">
+          ${el.docname[1]}, page: ${el.page}
+        </div>
       </div>
       <ul class="entry-link__text-found">
         ${lis.join('\n')}

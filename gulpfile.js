@@ -18,7 +18,7 @@ const buffer = require('vinyl-buffer');
 const del = require('del');
 
 const scssFiles = 'src/scss/**/*.scss';
-const jsFiles = ['src/js/index.js'];
+const jsFiles = ['src/js/index.js', 'src/js/classes/*'];
 const dataFiles = '_data/**/*.json';
 
 const BASE_DIR = 'html';
@@ -109,8 +109,7 @@ function copySiteToWebRoot(){
 function watch(){
   gulp.watch(scssFiles, gulp.series(css))
   gulp.watch(jsFiles, gulp.series(copy, js))
-  gulp.watch(
-    [
+  gulp.watch([
     '*.html',
     '_layouts/*.html',
     '_pages/*',

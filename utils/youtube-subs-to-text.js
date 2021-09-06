@@ -53,10 +53,22 @@ final_info = {
 }
 
 const storeArr = [];
+let last_minutes = false;
 lines.forEach((el, i) => {
 	// remove first 3 lines
 	if(i <= 2) return;
-	if(el.includes('-->')) return;
+	if(el.includes('-->')){
+			let matches = el.match(/([0-9]{2}\:[0-9]{2}\:[0-9]{2}\.[0-9]{3}) --> ([0-9]{2}\:[0-9]{2}\:[0-9]{2}\.[0-9]{3})/);
+			let minutes = matches[1].match(/([0-9]{2})\:([0-9]{2})\:([0-9]{2})\.[0-9]{3}/);
+
+			if(minutes[2] % 2 == 0 && minutes[2] != last_minutes){
+				let timestamp = minutes[1]+':'+minutes[2]+':'+minutes[3];
+				let seconds = (parseInt(minutes[1]) * 3600) + (parseInt(minutes[2]) * 60) + parseInt(minutes[3]);
+			  storeArr.push(`\n\n<a href="${final_info.webpage_url}&t=${seconds}s">${timestamp}</a>\n\n`);
+				last_minutes = minutes[2];
+			}
+			return;
+	}
 	if(el.trim() == '') return;
 
 	let line = el.replace(/(<([^>]+)>)/gi, "");
