@@ -36,6 +36,8 @@ export default class GenerateEsQuery {
       }
       esQuery.query.bool.must.push(searchObj);
     });
+    console.log(JSON.stringify(esQuery, null, 4));
+    console.log(esQuery);
     return esQuery;
   }
   /**
