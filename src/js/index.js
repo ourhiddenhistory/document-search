@@ -405,8 +405,15 @@ $.ajaxSetup({
 $.get(
   `https://api.ourhiddenhistory.org/_cat/count/${INDEX}?format=json&pretty`,
   function (response) {
-    let msg = `${Number(response[0].count).toLocaleString()} pages in ${INDEX}`;
+    let indexed_cnt = Number(response[0].count);
+    let msg = `${indexed_cnt.toLocaleString()} pages in ${INDEX}`;
     $('.docsearch__indexed-cnt').html(msg);
+    let index_progress = $('.index-progress-js');
+    if(index_progress.length){
+      let index_size = index_progress.data('index-size');
+      let indexed_pct = (indexed_cnt / index_size) * 100;
+      index_progress.attr('style', `width:${indexed_pct}%`);
+    }
 });
 
 var $pagination = $('.search-panel__pagination');
