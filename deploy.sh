@@ -43,4 +43,5 @@ rsync -acrv \
   --stats \
   --delete-after \
   -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
+  --exclude server-configuration \
    ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/public/doc-search
