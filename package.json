@@ -19,7 +19,7 @@
 		"linkify-it": "^3.0.3",
 		"lunr": "^2.3.9",
 		"markdown-pdf": "^10.0.0",
-		"md-to-pdf": "^4.1.0",
+		"md-to-pdf": "^5.0.0",
 		"natives": "^1.1.6",
 		"npm": "^6.14.15",
 		"pdf-page-counter": "^1.0.3",
