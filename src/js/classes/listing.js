@@ -25,6 +25,7 @@ import ExtractSentences from './extractsentences.js';
     this.filenopage = this.id.replace(regexp, '');
     this.collection = this.getParentGroupId();
     this.collectionName = this.getCollectionName(doclist);
+    this.collectionPath = this.getCollectionPath();
     this.sourceName = this.getSourceName(doclist);
     this.docname = this.getDocName(doclist);
     this.sourceType = this.getSourceType(doclist);
@@ -89,6 +90,14 @@ import ExtractSentences from './extractsentences.js';
     return type;
   }
 
+  getCollection(doclist){
+    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
+    if (collection && collection.collection) {
+      return collection.collection;
+    }
+    return this.parentGroupId;
+  }
+
   getCollectionName(doclist){
     let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
     if (collection && collection.collection) {
@@ -97,12 +106,8 @@ import ExtractSentences from './extractsentences.js';
     return this.parentGroupId;
   }
 
-  getCollection(doclist){
-    let collection = Utils.filterValue(doclist, 'id', this.parentGroupId);
-    if (collection && collection.collection) {
-      return collection.collection;
-    }
-    return this.parentGroupId;
+  getCollectionPath(){
+    return '/'+this.path.split('/')[1];
   }
 
   /**

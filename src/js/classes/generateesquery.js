@@ -5,11 +5,12 @@ export default class GenerateEsQuery {
    * @param {String} stringInput - user search string.
    * @returns {Object} json representation of search
    */
-  static generate(stringInput) {
+  static generate(stringInput, collection) {
+
     const esQuery = {
       query: {
         bool: {
-          must: [],
+          must: []
         },
       },
     };
@@ -34,10 +35,18 @@ export default class GenerateEsQuery {
           content: cleanStr,
         };
       }
+
       esQuery.query.bool.must.push(searchObj);
+      
+      // add collection limit
+      if(collection){
+        const pathObj = { "prefix": { "path.virtual": collection }}
+        esQuery.query.bool.must.push(pathObj);
+      }
+
     });
-    console.log(JSON.stringify(esQuery, null, 4));
-    console.log(esQuery);
+
+    // console.log(JSON.stringify(esQuery, null, 4));
     return esQuery;
   }
   /**

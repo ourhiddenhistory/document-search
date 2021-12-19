@@ -42,6 +42,44 @@ var changeUrlWithNewDocument = function(url, document) {
   return newUrl;
 }
 
+/**
+ * changeUrlAddCollectionLimit
+ * @param string full url to adjust
+ * @param array path parts
+ */
+var changeUrlAddCollectionLimit = function(url, collection_path) {
+  let currentParams = url.split('?')[1] || '';
+  let newUrl = url.split('?')[0] + '?' + currentParams + '&' + 'collection=' + collection_path;
+  return newUrl;
+}
+
+/**
+ * changeUrlRemoveCollectionLimit
+ * @param string full url to adjust
+ * @param array path parts
+ */
+ var changeUrlRemoveCollectionLimit = function(url) {
+  let currentParams = url.split('?')[1] || '';
+  currentParams = new URLSearchParams(currentParams);
+  currentParams.delete('collection')
+  let newUrl = url.split('?')[0] + '?' + currentParams.toString();
+  return newUrl;
+}
+
+var getCurrentSearchParams = function(){
+  let currentUrl = window.location.pathname + window.location.search;
+  let currentParams = currentUrl.split('?')[1] || '';
+  currentParams = new URLSearchParams(currentParams);
+  return currentParams.get('search');
+}
+
+var getCurrentCollectionLimit = function(){
+  let currentUrl = window.location.pathname + window.location.search;
+  let currentParams = currentUrl.split('?')[1] || '';
+  currentParams = new URLSearchParams(currentParams);
+  return currentParams.get('collection');
+}
+
 function getParameterByName(name, url) {
   if (!url) url = window.location.href;
   name = name.replace(/[\[\]]/g, "\\$&");
@@ -51,6 +89,11 @@ function getParameterByName(name, url) {
   if (!results[2]) return '';
   return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
+
+// detect back/forward page press
+window.addEventListener('popstate', function (event) {
+  getResults(getCurrentSearchParams(), getCurrentCollectionLimit(), 100, 1, displayResults);
+});
 
 /**
  * UI Components
@@ -237,12 +280,11 @@ const size = 100;
 
 $("#search_btn").on('click', function(e){
 
-  $(".results-container").html('Loading...');
+  displayLoadingMessage();
 
   search = $("#search").val();
-  if(search.length <= 2){
-    alert('search must be at least 2 characters long');
-    $(".result").html('');
+  if(search.length < 3){
+    displayNoResultsMessage('Search must be at least three characters long.');
     return;
   }
 
@@ -253,16 +295,19 @@ $("#search_btn").on('click', function(e){
     size: size,
     from: 0,
     pretty: null,
-    body: GenerateEsQuery.generate(search),
+    body: GenerateEsQuery.generate(search, getCurrentCollectionLimit()),
   }).then((response) => {
     ajaxSearch = null;
 
     // set search param in url
     let newUrl = changeUrlWithNewSearch(window.location.pathname, search);
+    if(getCurrentCollectionLimit()){
+      newUrl = changeUrlAddCollectionLimit(newUrl, getCurrentCollectionLimit());
+    }
     history.pushState({}, null, newUrl);
 
     if(response.hits.total == 0){
-      $(".results-container").html(`<strong>No results found for: '${search}'.</strong>`);
+      displayNoResultsMessage();
       return;
     }
     totalPages = Math.ceil(response.hits.total / 100);
@@ -271,7 +316,7 @@ $("#search_btn").on('click', function(e){
       startPage: currentPage,
       totalPages: totalPages,
       onPageClick: function (event, page) {
-        getResults(search, size, page, displayResults);
+        getResults(search, getCurrentCollectionLimit(), size, page, displayResults);
         $('.search-panel').closest('.scrolling-pane').scrollTop(0);
       }
     }));
@@ -289,12 +334,13 @@ if(search){
 
 /**
  * @param {String} searchParam - search parameter
+ * @param {String} collection - collection to limit to (based on directory path)
  * @param {Int} recordCount - record count to return
  * @param {Int} page - page of records to retrieve
  * @param {Func} callback - function to run on completion
  * @returns {void}
  */
-function getResults(searchParam, recordCount, page, callback) {
+function getResults(searchParam, collection, recordCount, page, callback) {
   currentPage = page;
   const from = (recordCount * (page - 1));
 
@@ -304,7 +350,7 @@ function getResults(searchParam, recordCount, page, callback) {
     size: recordCount,
     from,
     pretty: null,
-    body: GenerateEsQuery.generate(searchParam),
+    body: GenerateEsQuery.generate(searchParam, collection),
   }).then((response) => {
     ajaxSearch = null;
     callback(response.hits.hits);
@@ -318,6 +364,10 @@ function getResults(searchParam, recordCount, page, callback) {
     $('.othersearch-maryferrell').attr('href', href);
 
   });
+}
+
+function getResultsWithNewCollectionLimit(collection){
+  getResults(getCurrentSearchParams(), collection, size, 1, displayResults);
 }
 
 function updateOtherSearchUrls(search_param){
@@ -349,13 +399,41 @@ function updateSocialMediaDisplay(imgSrc, desc){
    return html;
  }
 
+function displayNoResultsMessage(override_msg){
+
+  $('.search-panel__pagination').hide();
+  $(".result").html('');
+
+  let no_results_msg = '';
+  no_results_msg = `No results for ${decodeURI(getCurrentSearchParams())}.`;
+  const collection_limit = getCurrentCollectionLimit();
+  if(collection_limit){
+    no_results_msg = no_results_msg + ` Your search is currently limited to ${collection_limit}. <button type="button" class="btn btn-info btn-sm remove-collection-limit-js">Remove limit.</a>`
+  }
+
+  if(override_msg){
+    no_results_msg = override_msg;
+  }
+
+  $(".results-container").html(no_results_msg);
+  return;
+}
+
+function displayLoadingMessage(){
+  $('.search-panel__pagination').hide();
+  $(".result").html('');
+  $(".results-container").html('LOADING...');
+  return;
+}
 
 /**
  * @return {void}
  */
 function displayResults(response) {
+
   listings = [];
   const container = [];
+  
   response.forEach((el) => {
     const listing = new Listing(el, docList);
     listing.extractSearch(search);
@@ -364,13 +442,17 @@ function displayResults(response) {
   listings = container;
 
   if(!listings.length){
-    $(".results-container").html('No Results');
+    displayNoResultsMessage();
     return;
   }
 
   $(".results-container").empty();
+  $('.search-panel__pagination').show();
   let resultsDiv = $('<div></div>');
   resultsDiv.addClass('results');
+
+  let collection_button_state = getCurrentCollectionLimit() ? 'btn-info' : 'btn-default';
+
   listings.forEach((el, i) => {
     const lis = [];
     el.searched.forEach((e) => {
@@ -378,9 +460,19 @@ function displayResults(response) {
     });
     const mainDiv = `
     <div class="listing">
-      <div class="entry-link open-entry-js" data-entry="${i}">
-        <div class="entry-link__collection">${el.collectionName}</div>
-        <div class="entry-link__document">
+      <div class="entry-link">
+        <div class="entry-link__collection">
+          <span class="entry-link__collection-name">${el.collectionName}</span> 
+          <button 
+            type="button" 
+            class="btn ${collection_button_state} btn-xs entry-link__collection-limiter" 
+            data-collection-path="${el.collectionPath}" 
+            data-toggle="tooltip" 
+            data-placement="top"
+            data-delay="750"
+            title="Limit results to this collection">limit to</button>
+        </div>
+        <div class="entry-link__document open-entry-js" data-entry="${i}">
           ${el.docname[1]}, page: ${el.page}
         </div>
       </div>
@@ -394,6 +486,7 @@ function displayResults(response) {
   let searchTrimmed = search.replace(/['"]+/g, '');
   instance.mark(searchTrimmed);
   $(".results-container").append(resultsDiv[0].outerHTML);
+  setLimiters();
 }
 
 $.ajaxSetup({
@@ -436,3 +529,40 @@ $('.toolbar-entry__modal-entry-data').on('click', function(){
   $('.modal-entry-data .modal-body').html(`<pre>${prettyPrint}</pre>`);
   $('.modal-entry-data').modal('toggle');
 });
+
+/**
+ * Limit to single collection
+ */
+const setLimiters = function(){
+
+  const limiter_buttons = $('button.entry-link__collection-limiter');
+
+  limiter_buttons.on('click', function(){
+
+    if(limiter_buttons.hasClass('btn-default')){ // add limit
+
+      $(".results-container").html('Loading...');
+      limiter_buttons.removeClass('btn-default').addClass('btn-info');
+      let collection_path = $(this).data('collection-path');
+      let newUrl = changeUrlAddCollectionLimit(window.location.pathname + window.location.search, [collection_path]);
+      history.pushState({}, null, newUrl);
+      getResultsWithNewCollectionLimit(getCurrentCollectionLimit());
+
+    }else{ // remove limit
+      limiter_buttons.removeClass('btn-info').addClass('btn-default');
+      removeCollectionLimit();
+    }
+  });
+  $('[data-toggle="tooltip"]').tooltip();
+}
+
+$('.results-container').on('click', '.remove-collection-limit-js', function(e){
+  removeCollectionLimit();
+});
+
+const removeCollectionLimit = function(){
+  $(".results-container").html('Loading...');
+  let newUrl = changeUrlRemoveCollectionLimit(window.location.pathname + window.location.search);
+  history.pushState({}, null, newUrl);
+  getResultsWithNewCollectionLimit(null);
+}
