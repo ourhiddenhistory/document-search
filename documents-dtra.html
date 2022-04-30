@@ -1,0 +1,71 @@
+---
+layout: page
+title: "Documents List"
+---
+<div class="container">
+
+  <div class="page-container">
+
+    <div id="#accordion">
+
+          <div class="card">
+            <div class="card-header" id="heading">
+              <h5 class="mb-0">
+                <a href="{{col.source}}" target="_blank">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                </a>
+                <a class="doclist__reveal">
+                   <em>{{site.data.dtra.alt_names}}</em> <strong>{{site.data.dtra.collection}}</strong> <em>{{site.data.dtra.date}}</em>
+                </a>
+              </h5>
+
+              <br />
+              <h5><a href="https://ourhiddenhistory.org/doc-search/?search=ukraine%20ducks&collection=/dtra">Search these Documents</a></h5>
+              
+              <small>Note: only the pdfs can be searched, but all of the files are listed below.</small>
+              
+              <div class="doclist__important">{{site.data.dtra.important}}</div>
+              <div class="doclist__description">{{site.data.dtra.description}}</div>
+
+            </div>
+            <div id="collapse{{forloop.index}}" aria-labelledby="heading{{forloop.index}}" data-parent="#accordion">
+              <div class="card-body--plain">
+
+                <br />
+
+                <div class="doclist__fileslist">
+
+
+
+                  {% if site.data.dtra.hide_files != true and site.data.dtra.files.size > 0 %}
+                    <ul>
+
+                    {% assign sorted_files = site.data.dtra.files | sort:"source" %}
+
+                    {% for file in sorted_files %}
+                      <li>
+                        {% if file.source %}
+                        <a href="{{file.source}}" target="_blank">
+                          <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                        </a>
+                        {% endif %}
+                        <a href="{{file.source}}" target="_blank">{{ file.doc_name | default: file.id }}</a>
+                        <br />
+                        <small>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ file.source }}
+                        </small>
+
+                      </li>
+                    {% endfor %}
+                    </ul>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </div>
+
+  </div>
+
+</div>

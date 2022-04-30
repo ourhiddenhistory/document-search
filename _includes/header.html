@@ -21,10 +21,10 @@
   <meta property="og:image" content="{{site.url}}{{site.baseurl}}/dist/img/ourhiddenhistory-twitter.png" />
   <meta property="og:description"
         content="A Database of Cold War and Post-Cold War History. Searchable historical government documents, books, and more." />
-  <link rel="apple-touch-icon" sizes="180x180" href="/doc-search/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/doc-search/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/doc-search/favicon-16x16.png">
-  <link rel="manifest" href="/doc-search/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
 </head>
 <body translate="no">
   <div class="{{ page.app }}">
@@ -32,9 +32,9 @@
       <div class="rounded-circle img">
         <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
       </div>
-      <a class="navbar-brand" href="/doc-search">
-        Our Hidden History Doc Search
-      </a>
+      <!-- <a class="navbar-brand" href="/">
+        Our Hidden History
+      </a> -->
       <button class="navbar-toggler"
               type="button"
               data-toggle="collapse"
@@ -47,9 +47,15 @@
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/index.php">
+            <a class="nav-link" href="{{ site.baseurl }}">
+              <i class="fa fa-home" aria-hidden="true"></i>
+              Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/docsearch.html">
               <i class="fa fa-search" aria-hidden="true"></i>
-              Search
+              Doc Search
             </a>
           </li>
           <li class="nav-item">
@@ -59,15 +65,15 @@
             </a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="https://www.youtube.com/channel/UCbfzszfxZr4qmeZjZ_3R_Pw">
+              <i class="fa fa-podcast" aria-hidden="true"></i>
+              Audio/Video
+            </a>
+          </li>          
+          <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}/about.html">
               <i class="fa fa-question-circle" aria-hidden="true"></i>
               About
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/">
-              <i class="fa fa-home" aria-hidden="true"></i>
-              OurHiddenHistory.org
             </a>
           </li>
         </ul>
@@ -75,11 +81,17 @@
       </div>
     </nav>
 
-    <!--
-    <div class="alert alert-warning" role="alert">
-      The index is rebuilding. It should be close to 6,000,000 pages when complete. <strong>Thank you for your patience.</strong>
+<!--
+    <div class="alert alert-warning mb-0" role="alert">
+      The index is rebuilding. It should be close to 7,000,000 pages when complete. <strong>Thank you for your patience.</strong>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
       <div class="docsearch__index-progress progress">
-        <div class="index-progress-js progress-bar bg-warning" data-index-size="5996765" role="progressbar" style="width: 25%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+        <div class="index-progress-js progress-bar bg-warning" data-index-size="6986291" role="progressbar" style="width: 0%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
       </div>
     </div>
-    -->
+  -->
+    <div id="alert-limit" class="alert alert-info mb-0" style="display: none" role="alert">
+      Your search is currently limited to documents from the <strong class="limited-to"></strong> collection. <a href="#" class="remove-collection-limit-js">Click here to search the entire index</a>.
+    </div>    

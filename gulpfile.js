@@ -22,14 +22,15 @@ const jsFiles = ['src/js/index.js', 'src/js/classes/*'];
 const dataFiles = '_data/**/*.json';
 
 const BASE_DIR = 'html';
-const SITE_DIR = 'html/doc-search';
-const DIST_DIR = 'html/doc-search/dist';
-const CLASSES_DIST_DIR = 'html/doc-search/dist/classes';
+const SITE_DIR = 'html';
+const DIST_DIR = 'html/dist';
+const CLASSES_DIST_DIR = 'html/dist/classes';
 
 function clean(){
   return del([
     '_data/DOCS_NOWRITE.json',
     '_data/DOCS_REFERENCE.json',
+    '_data/dtra.json',
     'html/**/*',
     '!html/.ddev'
   ]);
@@ -42,6 +43,15 @@ function buildDataFile(code){
   return child.spawn('node', ['utils/buildDataFile.js'], { stdio: 'inherit' }) // Adding incremental reduces build time.
     .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
     .on('close', code);
+}
+
+/**
+ * Copy dtra
+ */
+ function copyDtra(){
+  return gulp.src([
+    'docsData/dtra.json',
+  ]).pipe(gulp.dest('_data'));
 }
 
 /**
@@ -73,7 +83,7 @@ function js(){
   .bundle()
   .pipe(source("bundle.js"))
   .pipe(buffer())
-  .pipe(uglify())
+//  .pipe(uglify())
   .pipe(gulp.dest(DIST_DIR));
 }
 
@@ -121,9 +131,9 @@ function watch(){
 }
 
 // define complex tasks
-const main = gulp.series(clean, buildDataFile, copy, copyImages, copyHtaccessDev, css, js, buildJekyll, copySiteToWebRoot, watch);
+const main = gulp.series(clean, buildDataFile, copy, copyDtra, copyImages, copyHtaccessDev, css, js, buildJekyll, copySiteToWebRoot, watch);
 const build_simple = gulp.series(copy, css, js, watch);
-const build = gulp.series(buildDataFile, copy, css, js);
+const build = gulp.series(buildDataFile, copy, copyDtra, css, js);
 const copySite = gulp.series(copySiteToWebRoot);
 
 // export tasks

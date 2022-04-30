@@ -43,7 +43,7 @@ title: "Documents List"
                           <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                         </a>
                         {% endif %}
-                        {{ file.doc_name }}
+                        {{ file.doc_name | default: file.id }}
                       </li>
                     {% endfor %}
                     </ul>

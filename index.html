@@ -1,107 +1,85 @@
 ---
 layout: page
-permalink: index.html
-app: search-doc-app
+title: Posts
 ---
 
-  <!-- <div class="alert alert-warning" role="alert">
-    The index is currently rebuilding. It should show about 3,500,000 pages indexed when complete.
-  </div> -->
+<style>
 
-  <main class="content">
-    <div class="scrolling-pane">
-      <div class="search-panel">
-        <div class="input-group mb-3">
-          <input
-            id="search"
-            type="text"
-            class="form-control"
-            placeholder="Search term..."
-            aria-label="Search term"
-            aria-describedby="basic-addon2">
-          <div class="input-group-append">
-            <button id="search_btn" class="btn btn-info" type="button">SEARCH</button>
-          </div>
-        </div>
-        <p>
-          <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Search other sites
-          </a>
-        </p>
-        <div class="collapse" id="collapseExample">
-          <div class="card card-body">
-            <ul class="list-unstyled card-columns">
-              <li>
-                <a class="othersearch-govinfo" target="_blank" data-toggle="tooltip" data-placement="top" title="US Government Information">
-                  www.govinfo.gov
-                </a>
-              </li>
-              <li>
-                <a class="othersearch-wikileaks" target="_blank" data-toggle="tooltip" data-placement="top" title="Wikileaks">
-                  wikileaks.org
-                </a>
-              </li>
-              <li>
-                <a class="othersearch-maryferrell" target="_blank" data-toggle="tooltip" data-placement="top" title="The Mary Ferrell Foundation">
-                  maryferrell.org
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <br />
+  .container-jumbotron {
+    background-color: black;
+  }
 
-        <ul class="search-panel__pagination pagination-sm"></ul>
+  .jumbotron {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-image: url('/dist/img/ourhiddenhistory-twitter.png');
+    background-position: center center;
+    background-color: black;
+}
+</style>
 
-        <div class="results-container"></div>
 
-        <ul class="search-panel__pagination pagination-sm"></ul>
-
-      </div>
-    </div>
-    <div class="scrolling-pane">
-      <div class="entry-panel">
-        <div class="toolbar-doc"></div>
-        <div class="entry-panel__meta"></div>
-        <div class="entry-panel__content entry-panel__content--entry">
-
-        </div>
-        <div class="toolbar-entry">
-          <div>
-            <button type="button" class="toolbar-entry__page-prev btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Visit previous page">
-              <i class="fa fa-chevron-left" aria-hidden="true"></i>
-            </button>
-            <button type="button" class="toolbar-entry__page-next btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Visit next page" >
-              <i class="fa fa-chevron-right" aria-hidden="true"></i>
-            </button>
-          </div>
-          <div>
-            <a class="toolbar-entry__open-pdf btn btn-sm btn-secondary disabled" data-toggle="tooltip" data-placement="top" title="Open pdf (if available)" target="_blank">
-              pdf <i class="fa fa-chevron-right" aria-hidden="true"></i>
-            </a>
-          </div>
-          <div>
-            <a class="toolbar-entry__modal-entry-data btn btn-sm btn-secondary" data-toggle="tooltip" data-placement="top" title="Raw entry data" target="_blank">
-              <i class="fa fa-info" aria-hidden="true"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </main>
-
-  <div class="modal fade modal-entry-data" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Entry data</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        No data
-      </div>
+<div class="container-fluid container-jumbotron">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <img src="">
     </div>
   </div>
+</div>
+
+<div class="container homepage">
+
+    <!-- <h1 class="title">
+      <a href="/" class="imprint">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" />
+        {% if page.ohh_interview %}
+          Our Hidden History Interviews
+        {% elsif page.ohh_research %}
+          Our Hidden History Original Research
+        {% else %}
+          Our Hidden History
+        {% endif %}
+      </a>
+    </h1> -->
+
+    <ul class="plain">
+    {% for post in site.posts %}
+
+      {% if displaydate.size and displaydate.size != 4 %}
+        {% assign displayyear = post.displaydate | date: "%Y" %}
+      {% else %}
+        {% assign displayyear = post.displaydate %}
+      {% endif %}
+
+      <li>
+        {% if post.ohh_interview %}
+          <p>
+            <span class="rounded-circle img">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
+            </span>
+            <small>An 'Our Hidden History' Interview</small>
+          </p>
+        {% endif %}
+        {% if post.ohh_research %}
+          <p>
+            <span class="rounded-circle img">
+              <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
+            </span>
+            <small>'Our Hidden History' Original Research</small>
+          </p>
+        {% endif %}
+        <a href="{{ post.url }}">
+          <h2>
+            {{ post.title }}<br />
+            <small>{{ post.author }}, {{ displayyear }}</small>
+          </h2>
+        </a>
+        <div class="teaser">
+          {{post.teaser}}
+        </div>
+        <hr />
+      </li>
+    {% endfor %}
+    </ul>
 </div>

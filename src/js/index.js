@@ -547,6 +547,7 @@ const setLimiters = function(){
       let newUrl = changeUrlAddCollectionLimit(window.location.pathname + window.location.search, [collection_path]);
       history.pushState({}, null, newUrl);
       getResultsWithNewCollectionLimit(getCurrentCollectionLimit());
+      checkForLimit();
 
     }else{ // remove limit
       limiter_buttons.removeClass('btn-info').addClass('btn-default');
@@ -556,13 +557,40 @@ const setLimiters = function(){
   $('[data-toggle="tooltip"]').tooltip();
 }
 
+$('#alert-limit').on('click', '.remove-collection-limit-js', function(e){
+  removeCollectionLimit();
+});
+
 $('.results-container').on('click', '.remove-collection-limit-js', function(e){
   removeCollectionLimit();
 });
+
+function findGetParameter(parameterName) {
+  var result = null,
+      tmp = [];
+  var items = location.search.substr(1).split("&");
+  for (var index = 0; index < items.length; index++) {
+      tmp = items[index].split("=");
+      if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+  }
+  return result;
+}
+
+const checkForLimit = function(){
+  if(findGetParameter('collection')){
+    $('#alert-limit').show();
+    $('#alert-limit .limited-to').html(findGetParameter('collection'));
+  }else{
+    $('#alert-limit').hide();
+  }
+}
+
+checkForLimit();
 
 const removeCollectionLimit = function(){
   $(".results-container").html('Loading...');
   let newUrl = changeUrlRemoveCollectionLimit(window.location.pathname + window.location.search);
   history.pushState({}, null, newUrl);
   getResultsWithNewCollectionLimit(null);
+  checkForLimit();
 }

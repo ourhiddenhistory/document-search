@@ -6,7 +6,7 @@ CONFIG_FILE="_config.stg.yml"
 
 if [ "${GIT_BRANCH}" == "main" ]
 then
-  DOMAIN="ourhiddenhistory.com"
+  DOMAIN="ourhiddenhistory.org"
   CONFIG_FILE="_config.yml"
 fi
 
@@ -37,11 +37,11 @@ ls -lA index.html _data
 
 echo "RSYNCING TO ${DOMAIN}"
 ssh useful@50.87.146.99 -p 2222 -o StrictHostKeyChecking=no \
-   "mkdir -p /home2/useful/${DOMAIN}/html/doc-search"
+   "mkdir -p /home2/useful/${DOMAIN}/html"
 
-rsync -acrv \
+rsync -pacrv \
   --stats \
   --delete-after \
   -e "ssh -p 2222 -o StrictHostKeyChecking=no" \
   --exclude server-configuration \
-   ./html/doc-search/ useful@50.87.146.99:/home2/useful/${DOMAIN}/public/doc-search
+   ./html/ useful@50.87.146.99:/home2/useful/${DOMAIN}/html

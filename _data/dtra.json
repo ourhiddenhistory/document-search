@@ -1,0 +1,600 @@
+{
+  "id": "dtra",
+  "shortname": "dtra",
+  "collection": "Defense Threat Reduction Agency: Biological Threat Reduction Program Documents",
+  "alt_names": [],
+  "date": "2022",
+  "description": "DTRA Documents, courtesy <a href=\"https://twitter.com/FluorescentGrey\">Robbie Martin</a> of <a href=\"https://soundcloud.com/media-roots\">Media Roots Radio</a>",
+  "source": "https://soundcloud.com/media-roots",
+  "type": "ohh",
+  "files": [
+    {
+      "id": "2016-013 Soviet Threat Reduction Act 25th v5.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/2016-013 Soviet Threat Reduction Act 25th v5.pdf"
+    },
+    {
+      "id": "DTRA Acquisition Forecast 20200730 - FOR PUBLIC RELEASE.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA Acquisition Forecast 20200730 - FOR PUBLIC RELEASE.pdf"
+    },
+    {
+      "id": "Weitz_DTRA Countering Emerging Russian and Chinese Hypersonic Threats.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Weitz_DTRA Countering Emerging Russian and Chinese Hypersonic Threats.pdf"
+    },
+    {
+      "id": "15670486.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/15670486.pdf"
+    },
+    {
+      "id": "pga_057620.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/pga_057620.pdf"
+    },
+    {
+      "id": "CTR_OP-5.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/CTR_OP-5.pdf"
+    },
+    {
+      "id": "49. 1999-06-00 Former Soviet Biological Weapons Facilities in Kazakhstan.Past Present and Future (from Web).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/49. 1999-06-00 Former Soviet Biological Weapons Facilities in Kazakhstan.Past Present and Future (from Web).pdf"
+    },
+    {
+      "id": "ReshapingThreatReduction.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/ReshapingThreatReduction.pdf"
+    },
+    {
+      "id": "RAND_RR660.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/RAND_RR660.pdf"
+    },
+    {
+      "id": "20120401_ctr-scorecard_slides_apr12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120401_ctr-scorecard_slides_apr12.pdf"
+    },
+    {
+      "id": "DTRA Acquisition Forecast 20210810 - FOR PUBLIC RELEASE.xlsx.mht",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA Acquisition Forecast 20210810 - FOR PUBLIC RELEASE.xlsx.mht"
+    },
+    {
+      "id": "38296.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/38296.pdf"
+    },
+    {
+      "id": "20130301_fy13_ctr-scorecard_slides_mar13.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20130301_fy13_ctr-scorecard_slides_mar13.pdf"
+    },
+    {
+      "id": "SORMA_DTRA_brochure.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/SORMA_DTRA_brochure.pdf"
+    },
+    {
+      "id": "k0698k302.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/k0698k302.pdf"
+    },
+    {
+      "id": "DTRA_COVID_Final 05112020.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA_COVID_Final 05112020.pdf"
+    },
+    {
+      "id": "444468.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/444468.pdf"
+    },
+    {
+      "id": "btrp-overview.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/btrp-overview.pdf"
+    },
+    {
+      "id": "dtro-vinnitsa-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-vinnitsa-eng.pdf"
+    },
+    {
+      "id": "dtro-zakarpatska-fact-sheet-eng (1).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-zakarpatska-fact-sheet-eng (1).pdf"
+    },
+    {
+      "id": "57450934584389578359734324.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/57450934584389578359734324.pdf"
+    },
+    {
+      "id": "05-829-Ukraine-Weapons.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/05-829-Ukraine-Weapons.pdf"
+    },
+    {
+      "id": "IN11886.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/IN11886.pdf"
+    },
+    {
+      "id": "93248238748237468294023.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/93248238748237468294023.pdf"
+    },
+    {
+      "id": "dtro-luhansk-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-luhansk-eng.pdf"
+    },
+    {
+      "id": "ukraine_missile_dismantlement.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/ukraine_missile_dismantlement.pdf"
+    },
+    {
+      "id": "dtro-lviv-rdvl-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-lviv-rdvl-eng.pdf"
+    },
+    {
+      "id": "dtro-pathogen-asset-control.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-pathogen-asset-control.pdf"
+    },
+    {
+      "id": "Ukraine.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Ukraine.pdf"
+    },
+    {
+      "id": "032847293843431434763498 (1).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/032847293843431434763498 (1).pdf"
+    },
+    {
+      "id": "c3529bc00ad6b05bd34108ab8b4916947298.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/c3529bc00ad6b05bd34108ab8b4916947298.pdf"
+    },
+    {
+      "id": "HHRG-114-AS26-Wstate-MyersK-20160210.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/HHRG-114-AS26-Wstate-MyersK-20160210.pdf"
+    },
+    {
+      "id": "dtro-kherson-fact-sheet-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-kherson-fact-sheet-eng.pdf"
+    },
+    {
+      "id": "S1935789321000884a.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/S1935789321000884a.pdf"
+    },
+    {
+      "id": "4892309847278342389.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/4892309847278342389.pdf"
+    },
+    {
+      "id": "dtro-dnipropetrovsk-rdvl_eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-dnipropetrovsk-rdvl_eng.pdf"
+    },
+    {
+      "id": "562997773-Russian-Ministry-of-Defense-Accuses-Ukraine-of-Covering-Up-Biolabs-Research.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/562997773-Russian-Ministry-of-Defense-Accuses-Ukraine-of-Covering-Up-Biolabs-Research.pdf"
+    },
+    {
+      "id": "2014C30_mro.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/2014C30_mro.pdf"
+    },
+    {
+      "id": "dtro-eidss.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-eidss.pdf"
+    },
+    {
+      "id": "dtro-ternopil-fact-sheet-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-ternopil-fact-sheet-eng.pdf"
+    },
+    {
+      "id": "dtro-dnipropetrovsk-eng (1).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-dnipropetrovsk-eng (1).pdf"
+    },
+    {
+      "id": "dtro-lviv-dl-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-lviv-dl-eng.pdf"
+    },
+    {
+      "id": "Bookshelf_NBK196146.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Bookshelf_NBK196146.pdf"
+    },
+    {
+      "id": "dtro-zakarpatska-fact-sheet-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-zakarpatska-fact-sheet-eng.pdf"
+    },
+    {
+      "id": "dtro-kharkiv-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-kharkiv-eng.pdf"
+    },
+    {
+      "id": "kiev-ivm-fact-sheet-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/kiev-ivm-fact-sheet-eng.pdf"
+    },
+    {
+      "id": "Russian Gov Released",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released"
+    },
+    {
+      "id": "3. Bat Research Project",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/3. Bat Research Project"
+    },
+    {
+      "id": "Оригинал.png",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/3. Bat Research Project/Оригинал.png"
+    },
+    {
+      "id": "Перевод.docx",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/3. Bat Research Project/Перевод.docx"
+    },
+    {
+      "id": "5. Act of destruction of Yavoriv",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/5. Act of destruction of Yavoriv"
+    },
+    {
+      "id": "Оригинал.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/5. Act of destruction of Yavoriv/Оригинал.rtf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/5. Act of destruction of Yavoriv/Перевод.rtf"
+    },
+    {
+      "id": "2. Transfer of biomaterials",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials"
+    },
+    {
+      "id": "Германия",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Германия"
+    },
+    {
+      "id": "Оригинал.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Германия/Оригинал.rtf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Германия/Перевод.rtf"
+    },
+    {
+      "id": "Австралия",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Австралия"
+    },
+    {
+      "id": "Оригинал.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Австралия/Оригинал.pdf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/2. Transfer of biomaterials/Австралия/Перевод.rtf"
+    },
+    {
+      "id": "4. Migratory Bird Project UP-4",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4"
+    },
+    {
+      "id": "Презентация",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4/Презентация"
+    },
+    {
+      "id": "Оригинал.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4/Презентация/Оригинал.pdf"
+    },
+    {
+      "id": "Перевод.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4/Презентация/Перевод.pdf"
+    },
+    {
+      "id": "Протокол отлова в России птиц с Украины",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4/Протокол отлова в России птиц с Украины"
+    },
+    {
+      "id": "Протокол отлова птиц в России.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/4. Migratory Bird Project UP-4/Протокол отлова в России птиц с Украины/Протокол отлова птиц в России.rtf"
+    },
+    {
+      "id": "1.  Cooperation with other countries",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries"
+    },
+    {
+      "id": "Сотрудничество с США UP-8",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8"
+    },
+    {
+      "id": "Зарплаты участников проекта UP-8",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Зарплаты участников проекта UP-8"
+    },
+    {
+      "id": "Оригинал.png",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Зарплаты участников проекта UP-8/Оригинал.png"
+    },
+    {
+      "id": "Письмо дальнейшие планы",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Письмо дальнейшие планы"
+    },
+    {
+      "id": "Оригинал.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Письмо дальнейшие планы/Оригинал.rtf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Письмо дальнейшие планы/Перевод.rtf"
+    },
+    {
+      "id": "Визит специалистов из США",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Визит специалистов из США"
+    },
+    {
+      "id": "Оригинал.png",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Визит специалистов из США/Оригинал.png"
+    },
+    {
+      "id": "Протокол исследования UP-8",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Протокол исследования UP-8"
+    },
+    {
+      "id": "Оригинал.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Протокол исследования UP-8/Оригинал.pdf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с США UP-8/Протокол исследования UP-8/Перевод.rtf"
+    },
+    {
+      "id": "Сотрудничество с Германией",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией"
+    },
+    {
+      "id": "Визит специалистов",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Визит специалистов"
+    },
+    {
+      "id": "Оригинал.png",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Визит специалистов/Оригинал.png"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Визит специалистов/Перевод.rtf"
+    },
+    {
+      "id": "Меморандум Институт Нохта",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Меморандум Институт Нохта"
+    },
+    {
+      "id": "Оригинал.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Меморандум Институт Нохта/Оригинал.rtf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/1.  Cooperation with other countries/Сотрудничество с Германией/Меморандум Институт Нохта/Перевод.rtf"
+    },
+    {
+      "id": "6. Act of destruction of Lviv",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/6. Act of destruction of Lviv"
+    },
+    {
+      "id": "Оригинал.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/6. Act of destruction of Lviv/Оригинал.rtf"
+    },
+    {
+      "id": "Перевод.rtf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/Russian Gov Released/6. Act of destruction of Lviv/Перевод.rtf"
+    },
+    {
+      "id": "dtro-dnipropetrovsk-eng.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/dtro-dnipropetrovsk-eng.pdf"
+    },
+    {
+      "id": "FACT-SHEET-THE-DEPARTMENT-OF-DEFENSE_S-COOPERATIVE-THREAT-REDUCTION-PROGRAM-BIOLOGICAL-THREAT-REDUCTION-PROGRAM-ACTIVITIES-IN-UKRAINE.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/FACT-SHEET-THE-DEPARTMENT-OF-DEFENSE_S-COOPERATIVE-THREAT-REDUCTION-PROGRAM-BIOLOGICAL-THREAT-REDUCTION-PROGRAM-ACTIVITIES-IN-UKRAINE.pdf"
+    },
+    {
+      "id": "SWMP_announcement_program-info.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/SWMP_announcement_program-info.pdf"
+    },
+    {
+      "id": "95251.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Ukraine/95251.pdf"
+    },
+    {
+      "id": "C06759397.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Azerbaijan /C06759397.pdf"
+    },
+    {
+      "id": "fpubh-04-00144.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Azerbaijan /fpubh-04-00144.pdf"
+    },
+    {
+      "id": "Science Engagement in Azerbaijan_Request for Information (RFI).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Azerbaijan /Science Engagement in Azerbaijan_Request for Information (RFI).pdf"
+    },
+    {
+      "id": "080103_part2_ch02.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Azerbaijan /080103_part2_ch02.pdf"
+    },
+    {
+      "id": "20120601_ctr-scorecard_slides_jun12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120601_ctr-scorecard_slides_jun12.pdf"
+    },
+    {
+      "id": "southerncaucasusworkshop.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Georgia/southerncaucasusworkshop.pdf"
+    },
+    {
+      "id": "2AA7486D41719A3AC125835C004921CCMSP_2018_side_event_NCDC.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Georgia/2AA7486D41719A3AC125835C004921CCMSP_2018_side_event_NCDC.pdf"
+    },
+    {
+      "id": "scheme1.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Georgia/scheme1.pdf"
+    },
+    {
+      "id": "testMyers05102011.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/testMyers05102011.pdf"
+    },
+    {
+      "id": "DTRA_OP-5_FY_2012.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA_OP-5_FY_2012.pdf"
+    },
+    {
+      "id": "RL31957.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/RL31957.pdf"
+    },
+    {
+      "id": "DTRA Overview history budget breakdown.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA Overview history budget breakdown.pdf"
+    },
+    {
+      "id": "RAND_RR399.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/RAND_RR399.pdf"
+    },
+    {
+      "id": "DTRA fact sheet.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA fact sheet.pdf"
+    },
+    {
+      "id": "list.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/list.pdf"
+    },
+    {
+      "id": "DTRA_FY11.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA_FY11.pdf"
+    },
+    {
+      "id": "DTRA History 1998-2008-final.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/DTRA History 1998-2008-final.pdf"
+    },
+    {
+      "id": "2021116589.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/2021116589.pdf"
+    },
+    {
+      "id": "20120301_ctr-scorecard_slides_mar12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120301_ctr-scorecard_slides_mar12.pdf"
+    },
+    {
+      "id": "20120919_RL33458_c1cb182bafa4e4648367243d2aef3280e674c1e7.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120919_RL33458_c1cb182bafa4e4648367243d2aef3280e674c1e7.pdf"
+    },
+    {
+      "id": "CPC OUTREACH 818.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/CPC OUTREACH 818.pdf"
+    },
+    {
+      "id": "global-partnership-working-group-annual-project-report--2018-data.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/global-partnership-working-group-annual-project-report--2018-data.pdf"
+    },
+    {
+      "id": "bio_Emmons.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/bio_Emmons.pdf"
+    },
+    {
+      "id": "FOIR2493.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/FOIR2493.pdf"
+    },
+    {
+      "id": "20130501_fy13_ctr-scorecard_slides_may13.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20130501_fy13_ctr-scorecard_slides_may13.pdf"
+    },
+    {
+      "id": "FOIR1561.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/FOIR1561.pdf"
+    },
+    {
+      "id": "20121001_fy13_ctr-scorecard_slides_oct12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20121001_fy13_ctr-scorecard_slides_oct12.pdf"
+    },
+    {
+      "id": "20120901_ctr-scorecard_slides_sep12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120901_ctr-scorecard_slides_sep12.pdf"
+    },
+    {
+      "id": "12005.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/12005.pdf"
+    },
+    {
+      "id": "20120701_ctr-scorecard_slides_jul12.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20120701_ctr-scorecard_slides_jul12.pdf"
+    },
+    {
+      "id": "decon_presentation_021.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/decon_presentation_021.pdf"
+    },
+    {
+      "id": "2017+CBEP+SPR+Program+Book_Final.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/2017+CBEP+SPR+Program+Book_Final.pdf"
+    },
+    {
+      "id": "nppconf2009-program.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/nppconf2009-program.pdf"
+    },
+    {
+      "id": "PACS_One_Pager-2022_EN.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/PACS_One_Pager-2022_EN.pdf"
+    },
+    {
+      "id": "0096340211413752.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/0096340211413752.pdf"
+    },
+    {
+      "id": "TRAC_28_Executive_Summary_signed.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/TRAC_28_Executive_Summary_signed.pdf"
+    },
+    {
+      "id": "HDTRA1-12-17-FRCWMD-CALL 15Aug12 FINAL.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/HDTRA1-12-17-FRCWMD-CALL 15Aug12 FINAL.pdf"
+    },
+    {
+      "id": "Myers_04-23-131.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Myers_04-23-131.pdf"
+    },
+    {
+      "id": "OpenSkies_book (1).pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/OpenSkies_book (1).pdf"
+    },
+    {
+      "id": "WMDInsights_2006_09.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/WMDInsights_2006_09.pdf"
+    },
+    {
+      "id": "History of CTR.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/History of CTR.pdf"
+    },
+    {
+      "id": "A Case History in Cooperative Biological Research_ Compendium of Studies and Program Analyses in Kazakhstan.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Kazakhstan/A Case History in Cooperative Biological Research_ Compendium of Studies and Program Analyses in Kazakhstan.pdf"
+    },
+    {
+      "id": "2014-004 KZ lab opening-508 compliant.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Kazakhstan/2014-004 KZ lab opening-508 compliant.pdf"
+    },
+    {
+      "id": "61. 2009-10-02 (WL) Current Kazakh-US nonproliferation programs.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Kazakhstan/61. 2009-10-02 (WL) Current Kazakh-US nonproliferation programs.pdf"
+    },
+    {
+      "id": "R43143.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/R43143.pdf"
+    },
+    {
+      "id": "TRAC 32nd-plenary-executive-summary---2-3-apr-14.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/TRAC 32nd-plenary-executive-summary---2-3-apr-14.pdf"
+    },
+    {
+      "id": "nat_MILLER_051001.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/nat_MILLER_051001.pdf"
+    },
+    {
+      "id": "2014-004 KZ lab opening-508 compliant.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/2014-004 KZ lab opening-508 compliant.pdf"
+    },
+    {
+      "id": "88506_stern.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/88506_stern.pdf"
+    },
+    {
+      "id": "Bookshelf_NBK557955.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Bookshelf_NBK557955.pdf"
+    },
+    {
+      "id": "CTR_FY11.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/CTR_FY11.pdf"
+    },
+    {
+      "id": "Martha Stokes Bio.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Martha Stokes Bio.pdf"
+    },
+    {
+      "id": "Nunn - Lugar Report Aug 2005 .pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/Nunn - Lugar Report Aug 2005 .pdf"
+    },
+    {
+      "id": "20130101_fy13_ctr-scorecard_slides_jan13.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/20130101_fy13_ctr-scorecard_slides_jan13.pdf"
+    },
+    {
+      "id": "False allegations of biological weapons use from Putin s Russia.pdf",
+      "source": "https://doc-search.nyc3.digitaloceanspaces.com/documents/dtra/False allegations of biological weapons use from Putin s Russia.pdf"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "archiveorgCIA",
+  "shortname": "archiveorgCIA",
+  "collection": "CIA Collection from archive.org",
+  "alt_names": [],
+  "date": "1947",
+  "description": "All of the CIA files under the collection <a href=\"https://archive.org/details/cia-collection\">cia-collection</a> on the Internet Archive.",
+  "important": "In progress.",
+  "type": "archiveorg"
+}

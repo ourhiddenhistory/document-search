@@ -16,8 +16,8 @@
 title: Our Hidden History
 email: info@ourhiddenhistory.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Document Search
-baseurl: "/doc-search" # the subpath of your site, e.g. /blog
+  Our Hidden History
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ourhiddenhistory.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ourhiddenhistry
 
