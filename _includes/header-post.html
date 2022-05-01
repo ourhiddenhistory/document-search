@@ -39,15 +39,17 @@
 <div class="posts {{ page.app }}">
 
   <nav class="navbar navbar-expand-md navbar-light">
-    <a class="navbar-brand" href="/">
-      <i class="fa fa-chevron-left" aria-hidden="true"></i> Home
-    </a>
+    <div>
+      <a class="navbar-brand" href="/">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i> Home
+      </a>
+    </div>
   </nav>
 
   <div class="container post">
 
     <h1 class="title">
-      {{ page.title }}
+      {{ page.title }} 
       <a href="/" class="imprint">
         <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" />
         {% if page.ohh_interview %}
@@ -65,8 +67,24 @@
     </div> -->
 
     <p class="byline">
-      <strong>{{ page.author }}</strong> &mdash; <span class="nowrap">{{ page.displaydate }}</span>
+      <strong>
+      {% if page.author_site %}
+        <a href="{{ page.author_site }}" target="_blank">
+          {{ page.author }}
+        </a>
+      {% else %}
+        {{ page.author }}
+      {% endif %} 
+      </strong> 
+      &mdash; 
+      <span class="nowrap">{{ page.displaydate }}</span>
     </p>
+
+    <div class="teaser">
+      {{ page.teaser }}
+      <em>{{ page.teaser_ext }}</em>
+      <hr />
+    </div>
 
     {% if page.youtube %}
 
@@ -81,7 +99,6 @@
 
     {% if page.archiveMp3 %}
 
-
       <p class="small">mp3 embed from archive.org</p>
 
       <div class="embed">
@@ -90,9 +107,3 @@
       <p></p>
 
     {% endif %}
-
-
-    <div class="teaser">
-      {{ page.teaser }}
-      <hr />
-    </div>

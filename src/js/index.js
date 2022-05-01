@@ -156,7 +156,7 @@ function getPage(page, lastPageContent, setToImage) {
 
 const path = window.location.pathname;
 if (![`${baseurl}`, `${baseurl}/`, `${baseurl}/index.html`].includes(path)) {
-  let findpath = path.replace('/doc-search', '');
+  let findpath = path.replace('/docsearch', '');
   const pathParts = path.split('/');
   let pathPartIndex = (baseurl == '' ? 1 : 2);
   let setToImage = (pathParts[pathPartIndex+1] === 'img');
