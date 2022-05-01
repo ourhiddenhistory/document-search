@@ -3,6 +3,7 @@
     RewriteBase /
 
     RedirectMatch 302 /doc-search /docsearch
+    RedirectMatch 301 /entry/luis-kutner-the-declassified-life-of-a-human-rights-icon /2019/04/28/luis-kutner-the-declassified-life-of-a-human-rights-icon.html
 
     RewriteRule ^index\.php$ - [L]
     RewriteCond %{REQUEST_FILENAME} !-f
