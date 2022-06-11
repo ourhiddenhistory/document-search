@@ -26,77 +26,77 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 </head>
-<body translate="no">
-  <div class="{{ page.app }}">
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <div class="rounded-circle img">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
-      </div>
-      <!-- <a class="navbar-brand" href="/">
-        Our Hidden History
-      </a> -->
-      <button class="navbar-toggler"
-              type="button"
-              data-toggle="collapse"
-              data-target="#navbarTogglerDemo02"
-              aria-controls="navbarTogglerDemo02"
-              aria-expanded="false"
-              aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/">
-              <i class="fa fa-home" aria-hidden="true"></i>
-              Home
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/docsearch.html">
-              <i class="fa fa-search" aria-hidden="true"></i>
-              Doc Search
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/documents-list.html">
-              <i class="fa fa-list" aria-hidden="true"></i>
-              Documents List
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://www.youtube.com/channel/UCbfzszfxZr4qmeZjZ_3R_Pw">
-              <i class="fa fa-podcast" aria-hidden="true"></i>
-              Audio/Video
-            </a>
-          </li>          
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/about.html">
-              <i class="fa fa-question-circle" aria-hidden="true"></i>
-              About
-            </a>
-          </li>
-        </ul>
-        <div class="btn btn-sm disabled docsearch__indexed-cnt"></div>
-      </div>
-    </nav>
+<body class="page" translate="no">
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="rounded-circle img">
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/761874/ohh.png" class="round" alt="our hidden history logo">
+    </div>
+    <!-- <a class="navbar-brand" href="/">
+      Our Hidden History
+    </a> -->
+    <button class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/">
+            <i class="fa fa-home" aria-hidden="true"></i>
+            Home
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/docsearch.html">
+            <i class="fa fa-search" aria-hidden="true"></i>
+            Doc Search
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/documents-list.html">
+            <i class="fa fa-list" aria-hidden="true"></i>
+            Documents List
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.youtube.com/channel/UCbfzszfxZr4qmeZjZ_3R_Pw">
+            <i class="fa fa-podcast" aria-hidden="true"></i>
+            Audio/Video
+          </a>
+        </li>          
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/about.html">
+            <i class="fa fa-question-circle" aria-hidden="true"></i>
+            About
+          </a>
+        </li>
+      </ul>
+      <div class="btn btn-sm disabled docsearch__indexed-cnt"></div>
+    </div>
+  </nav>
 
 <!--    
-    <div class="alert alert-warning mb-0" role="alert">
-      We're working on some things. Currently having problems with the document search links working, but it still returns results for new searches.
-    </div>
+  <div class="alert alert-warning mb-0" role="alert">
+    We're working on some things. Currently having problems with the document search links working, but it still returns results for new searches.
+  </div>
 -->
 <!--
-    <div class="alert alert-warning mb-0" role="alert">
-      The index is rebuilding. It should be close to 7,000,000 pages when complete. <strong>Thank you for your patience.</strong>
-      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-      <div class="docsearch__index-progress progress">
-        <div class="index-progress-js progress-bar bg-warning" data-index-size="6986291" role="progressbar" style="width: 0%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-      </div>
+  <div class="alert alert-warning mb-0" role="alert">
+    The index is rebuilding. It should be close to 7,000,000 pages when complete. <strong>Thank you for your patience.</strong>
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="docsearch__index-progress progress">
+      <div class="index-progress-js progress-bar bg-warning" data-index-size="6986291" role="progressbar" style="width: 0%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
     </div>
-  -->
-    <div id="alert-limit" class="alert alert-info mb-0" style="display: none" role="alert">
-      Your search is currently limited to documents from the <strong class="limited-to"></strong> collection. <a href="#" class="remove-collection-limit-js">Click here to search the entire index</a>.
-    </div>    
+  </div>
+-->
+  <div id="alert-limit" class="alert alert-info mb-0" style="display: none" role="alert">
+    Your search is currently limited to documents from the <strong class="limited-to"></strong> collection. <a href="#" class="remove-collection-limit-js">Click here to search the entire index</a>.
+  </div>    

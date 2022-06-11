@@ -2,11 +2,24 @@
     RewriteEngine On
     RewriteBase /
 
-    RedirectMatch 302 /doc-search /docsearch
-    RedirectMatch 301 /entry/luis-kutner-the-declassified-life-of-a-human-rights-icon /2019/04/28/luis-kutner-the-declassified-life-of-a-human-rights-icon.html
+    # FORCE TO HTTPS
+    RewriteEngine On 
+    RewriteCond %{HTTPS} off 
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-    RewriteRule ^index\.php$ - [L]
+    # REDIRECTS FOR OLD WEBSITE
+    RedirectMatch 301 /entry/sullivan-cromwell-capitalism-intelligence-fascism-hugo-turner-our-hidden-history-interview /2018/11/24/sullivan-cromwell-capitalism-intelligence-fascism-hugo-turner-our-hidden-history-interview.html
+    RedirectMatch 301 /entry/luis-kutner-the-declassified-life-of-a-human-rights-icon /2019/04/28/luis-kutner-the-declassified-life-of-a-human-rights-icon.html
+    RedirectMatch 301 /doc-search/documents-dtra.html /documents-dtra.html
+    RedirectMatch 301 /doc-search /docsearch.html
+
+    # TRY TO REDIRECT OLD CONTENT TO WEB ARCHIVE
+    RewriteRule ^entry(.*)$ https://web.archive.org/https://ourhiddenhistory.org/entry$1 [L,R=302,NC]
+
+    RewriteRule ^docsearch$ - [L]
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /docsearch.html [L]
+
+    # redirect any request that starts with /docsearch to /docsearch.html, where the app will handle them
+    RewriteRule ^docsearch/(.*) docsearch.html [QSA,L]
 </IfModule>
