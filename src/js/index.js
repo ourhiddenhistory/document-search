@@ -1,5 +1,4 @@
 import Listing from './classes/listing.js';
-import ExtractSentences from './classes/extractsentences.js';
 import GenerateEsQuery from './classes/generateesquery.js';
 import OtherSearch from './classes/othersearch.js';
 import * as Utils from './classes/utils.js';
@@ -13,9 +12,10 @@ const client = new $.es.Client({
 });
 
 client.ping({
-  requestTimeout: 30000,
+  requestTimeout: 15000,
 }, (error) => {
   if (error) {
+    console.log(error);
     alert('elasticsearch cluster is down!');
   }
 });
@@ -137,9 +137,11 @@ function getPage(page, lastPageContent, setToImage) {
 
     ajaxPage = null;
 
+  
     if(response.hits.hits.length == 0) {
       $('.entry-panel__content').html(lastPageContent);
-      alert(`no more pages in this document. This is page ${currentListing.page}.`);
+      if(currentListing)
+        alert(`no more pages in this document. This is page ${currentListing.page}.`);
       return;
     }
     const listing = new Listing(response.hits.hits[0], docList);
@@ -310,6 +312,9 @@ $("#search_btn").on('click', function(e){
       displayNoResultsMessage();
       return;
     }
+
+    displayResults(response.hits.hits);
+
     totalPages = Math.ceil(response.hits.total / 100);
     $pagination.twbsPagination('destroy');
     $pagination.twbsPagination($.extend({}, {}, {

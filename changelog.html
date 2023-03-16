@@ -1,0 +1,24 @@
+---
+layout: page
+title: "Change Log"
+---
+<div class="container">
+
+  <div class="page-container">
+
+    <h2>Changelog</h2>
+    <p>A list of moves of sets of data as I go through the process of trying to fix duplicates.</p>
+
+    {% for entry in site.data.changelog %}
+
+      <p>Date: {{ entry.date }}</p>
+
+      <ul>
+        {% for change in entry.changes %}
+          <li>{{ change }}</li>
+        {% endfor %}
+      </ul>
+
+    {% endfor %}
+
+</div>

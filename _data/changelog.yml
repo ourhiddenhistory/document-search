@@ -1,0 +1,5 @@
+---
+- date: '2022-06-12'
+  changes:
+  - Copy all contents of OSS directory into archiveCIA directory because of the number of duplicate files.
+  - Added documents to 106 (Jonestown). Some of the old ones got re-ocr'd but not many.
