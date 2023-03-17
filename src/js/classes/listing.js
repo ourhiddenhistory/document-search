@@ -155,12 +155,12 @@ import ExtractSentences from './extractsentences.js';
         source = `${source}#page/n${this.page - 1}/mode/1up`;
         break;
       case 'archive-b':
-        source = `https://archive.org/stream/${source}#page/n${this.page - 1}/mode/1up`;
+        source = `https://archive.org/stream/${source}/n${this.page - 1}/mode/1up`;
         break;
       case 'archiveorg':
         source = this.groupId.replace(`${this.parentGroupId}/`, '');
         source = `${source}/${this.docId}`;
-        source = `https://archive.org/stream/${source}#page/n${this.page - 1}/mode/1up`;
+        source = `https://archive.org/stream/${source}/n${this.page - 1}/mode/1up`;
         break;
       case 'reagan':
         source = `https://www.reaganlibrary.gov/${source}.pdf#page=${this.page}`;
@@ -190,7 +190,7 @@ import ExtractSentences from './extractsentences.js';
         source = `https://archive.org/stream/RockCreekFreePress/Rock%20Creek%20Free%20Press%20-%20${this.docId}#page/n${this.page - 1}`;
         break;
       case 'custom-jfkdpd':
-        source = `https://archive.org/stream/${this.docId}_dpd-jfk/${this.docId}#page/n${this.page - 1}`;
+        source = `https://archive.org/stream/${this.docId}_dpd-jfk/${this.docId}/n${this.page - 1}`;
         break;
       case 'nara-jfk':
         source = `https://www.archives.gov/files/research/jfk/releases/${this.docId}.pdf#page=${this.page}`;
